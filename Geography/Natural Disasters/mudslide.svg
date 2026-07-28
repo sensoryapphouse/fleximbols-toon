@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="0" y="0" width="512" height="180" fill="#6a7888" />
+  <g stroke="#1a1a1a" stroke-width="3" fill="#5a6878">
+    <ellipse cx="80" cy="60" rx="60" ry="14" />
+    <ellipse cx="260" cy="80" rx="80" ry="16" />
+    <ellipse cx="440" cy="50" rx="55" ry="14" />
+    
+  </g>
+  <polygon points="0,150 80,90 170,130 260,70 350,110 440,60 512,100 512,260 0,260" fill="#4a3a28" stroke="#1a1a1a" stroke-width="5.0000" />
+  <g>
+    <path d="M0 200 Q60 210 120 250 Q180 290 240 340 Q300 380 360 420 Q420 460 480 490 L512 500 L512 512 L0 512 Z" fill="#5a3a1a" stroke="#1a1a1a" stroke-width="5.0000" />
+    <path d="M40 240 Q90 260 140 300 Q200 340 260 370 Q320 400 380 430 Q440 460 500 480" stroke="#1a1a1a" stroke-width="20" fill="none" stroke-linecap="round" />
+    <path d="M60 280 Q110 300 170 330 Q230 360 290 390 Q350 420 410 450" stroke="#1a1a1a" stroke-width="14" fill="none" stroke-linecap="round" opacity="0.8" />
+    <path d="M20 300 Q60 320 110 340 Q170 370 220 390" stroke="#1a1a1a" stroke-width="10" fill="none" stroke-linecap="round" opacity="0.7" />
+    <ellipse cx="80" cy="320" rx="20" ry="6" fill="#9a7a58" />
+    <ellipse cx="180" cy="380" rx="22" ry="6" fill="#9a7a58" />
+    <ellipse cx="280" cy="420" rx="20" ry="5" fill="#9a7a58" />
+    <ellipse cx="380" cy="450" rx="22" ry="6" fill="#9a7a58" />
+    <path d="M0 380 Q40 360 80 380" stroke="#1a1a1a" stroke-width="3" fill="none" />
+    <path d="M100 410 Q140 390 180 410" stroke="#1a1a1a" stroke-width="3" fill="none" />
+    <path d="M260 450 Q300 430 340 450" stroke="#1a1a1a" stroke-width="3" fill="none" />
+    <path d="M380 480 Q420 460 460 480" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  </g>
+  <g transform="translate(60,260)" opacity="0.9">
+    <rect x="0" y="0" width="90" height="90" fill="#d8b890" stroke="#1a1a1a" stroke-width="5.0000" transform="rotate(-12 45 45)" />
+    <polygon points="-5,-2 95,-2 45,-55" fill="#a05a4a" stroke="#1a1a1a" stroke-width="5.0000" transform="rotate(-12 45 45)" />
+    <rect x="20" y="30" width="20" height="30" fill="#88c0e8" stroke="#1a1a1a" stroke-width="4" transform="rotate(-12 45 45)" />
+  </g>
+  <g transform="translate(350,310)" opacity="0.85">
+    <rect x="0" y="0" width="80" height="80" fill="#e0c8a0" stroke="#1a1a1a" stroke-width="5.0000" transform="rotate(20 40 40)" />
+    <polygon points="-5,-2 85,-2 40,-50" fill="#8a4a3a" stroke="#1a1a1a" stroke-width="5.0000" transform="rotate(20 40 40)" />
+  </g>
+  <g>
+    <path d="M40 460 Q50 470 60 460" stroke="#1a1a1a" stroke-width="3" fill="none" />
+    <path d="M160 480 Q170 490 180 480" stroke="#1a1a1a" stroke-width="3" fill="none" />
+    <path d="M280 470 Q290 480 300 470" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  </g>
+</svg>

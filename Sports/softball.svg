@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <circle cx="256" cy="256" r="200" fill="#f5cc00" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M140,160 Q90,256 140,352" fill="none" stroke="#1a1a1a" stroke-width="6" />
+  
+  <line x1="140" y1="176" x2="120" y2="180" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="130" y1="198" x2="110" y2="200" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="122" y1="220" x2="102" y2="220" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="120" y1="244" x2="100" y2="244" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="122" y1="268" x2="102" y2="268" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="128" y1="292" x2="108" y2="294" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="138" y1="316" x2="118" y2="322" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M372,160 Q422,256 372,352" fill="none" stroke="#1a1a1a" stroke-width="6" />
+  
+  <line x1="372" y1="176" x2="392" y2="180" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="382" y1="198" x2="402" y2="200" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="390" y1="220" x2="410" y2="220" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="392" y1="244" x2="412" y2="244" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="390" y1="268" x2="410" y2="268" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="384" y1="292" x2="404" y2="294" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="374" y1="316" x2="394" y2="322" stroke="#1a1a1a" stroke-width="4" />
+  
+  
+</svg>

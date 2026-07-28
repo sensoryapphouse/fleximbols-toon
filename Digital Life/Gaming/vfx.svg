@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="g" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#4a4a4a" /><stop offset="100%" stop-color="#2b2622" /></linearGradient>
+<linearGradient id="gt" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#ffffff" /><stop offset="100%" stop-color="#e0e0e0" /></linearGradient>
+</defs>
+<rect x="68" y="160" width="316" height="236" rx="18" ry="18" fill="url(#g)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="68" y="160" width="316" height="56" rx="18" ry="18" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+<rect x="68" y="188" width="316" height="28" fill="#1a1a1a" />
+<rect x="84" y="172" width="40" height="32" rx="4" fill="url(#gt)" stroke="#1a1a1a" stroke-width="4" />
+<rect x="136" y="172" width="40" height="32" rx="4" fill="url(#gt)" stroke="#1a1a1a" stroke-width="4" />
+<rect x="188" y="172" width="40" height="32" rx="4" fill="url(#gt)" stroke="#1a1a1a" stroke-width="4" />
+<rect x="84" y="172" width="20" height="32" rx="4" fill="#2b2622" />
+<rect x="136" y="172" width="20" height="32" rx="4" fill="#ffffff" />
+<rect x="188" y="172" width="20" height="32" rx="4" fill="#2b2622" />
+<rect x="84" y="228" width="284" height="148" rx="8" ry="8" fill="#1a2a3a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<polygon points="200,248 200,356 310,302" fill="#f8c531" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<polygon points="210,265 210,345 295,305" fill="#f6892a" />
+<path d="M340 100 L356 128 L328 118 L348 140 L316 126 L336 152" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="356" cy="128" r="8" fill="#f8c531" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="348" cy="140" r="6" fill="#f6892a" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="336" cy="152" r="5" fill="#e23b34" stroke="#1a1a1a" stroke-width="3" />
+<path d="M390 130 L406 90 L420 118 L440 80 L448 112 L470 88" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="406" cy="90" r="7" fill="#8a5fd0" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="440" cy="80" r="9" fill="#f8c531" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="470" cy="88" r="6" fill="#e23b34" stroke="#1a1a1a" stroke-width="3" />
+<path d="M360 180 L380 150 L400 170 L426 135 L444 160" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+<circle cx="380" cy="150" r="6" fill="#3f8fd6" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="426" cy="135" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+</svg>

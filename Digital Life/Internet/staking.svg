@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(4.630 6.103) scale(0.9819)">
+  <g transform="translate(-139.731 -130.169) scale(1.2338)">
+<g transform="translate(67.00 40.00) scale(1.000)">
+  <g stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    
+    <ellipse cx="196" cy="402" rx="92" ry="30" fill="#e0a92e" />
+    <rect x="104" y="338" width="184" height="64" fill="#f4c64a" />
+    <ellipse cx="196" cy="338" rx="92" ry="30" fill="#f4c64a" />
+    <ellipse cx="196" cy="338" rx="92" ry="30" fill="none" stroke-width="7" />
+    <rect x="118" y="286" width="156" height="52" fill="#f4c64a" />
+    <ellipse cx="196" cy="286" rx="78" ry="26" fill="#f4c64a" />
+    <ellipse cx="196" cy="286" rx="78" ry="26" fill="none" stroke-width="7" />
+    <ellipse cx="196" cy="246" rx="64" ry="22" fill="#f6d873" />
+    <ellipse cx="196" cy="246" rx="64" ry="22" fill="none" stroke-width="7" />
+    
+    <path d="M318 240 v-26 a34 34 0 0 1 68 0 v26" fill="none" stroke-width="14" />
+    <rect x="300" y="238" width="104" height="86" rx="14" fill="#5fb0e8" />
+    <rect x="300" y="238" width="104" height="32" rx="13" fill="#3f8fcc" />
+    <circle cx="352" cy="278" r="11" fill="#2b2622" stroke="none" />
+    <path d="M352 278 v22" stroke-width="4.0525" />
+    
+    <path d="M392 196 V120" fill="none" stroke="#1a1a1a" stroke-width="11" />
+    <path d="M392 104 l-20 28 h40 z" fill="#7ed957" stroke-width="5" />
+  </g>
+</g>
+</g>
+  </g>
+  </svg>

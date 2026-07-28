@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>iceberg</title>
+  
+  
+  <rect x="0" y="280" width="512" height="200" fill="#3a6fa8" stroke="none" />
+  
+  <path d="M 0 280 L 512 280" fill="none" stroke="#1a1a1a" stroke-width="5" />
+  
+  <path d="M 180 280 L 200 180 L 240 100 L 290 60 L 330 130 L 360 200 L 350 280 Z" fill="#c5ebf7" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M 240 100 L 290 60 L 320 110 L 280 150 Z" fill="#a8e1f7" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M 320 110 L 360 200 L 350 280 L 280 280 L 280 150 Z" fill="#7ec8e3" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M 100 280 L 140 380 L 240 440 L 380 420 L 420 320 L 380 280 Z" fill="#5a9cd1" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M 240 440 L 380 420 L 420 320 L 360 360 L 300 400 Z" fill="#3a78b8" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M 20 290 Q 50 285 80 290 T 140 290" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M 380 290 Q 410 285 440 290 T 500 290" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M 60 320 Q 80 315 100 320" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M 420 350 Q 440 345 460 350" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <path d="M 260 80 L 270 110" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-42.571 -51.327) scale(1.1674)">
+  <g transform="translate(32 32) scale(0.8750)">
+  <defs>
+    <linearGradient id="e0_cookieG" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f5b76b" /><stop offset="100%" stop-color="#c98438" /></linearGradient>
+    <linearGradient id="e0_milkG" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#ffffff" /><stop offset="100%" stop-color="#e2e8f0" /></linearGradient>
+    <linearGradient id="e0_glassG" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#bfe9ff" /><stop offset="100%" stop-color="#86c2e6" /></linearGradient>
+  </defs>
+  <rect x="76" y="324" width="360" height="22" rx="10" fill="#a87a3c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <path d="M132 326 L132 222 Q132 196 158 196 L226 196 Q252 196 252 222 L252 326 Z" fill="url(#e0_glassG)" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" />
+  <path d="M140 230 L140 318 Q140 326 152 326 L172 326" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.7" />
+  <path d="M132 222 Q160 210 192 218 Q220 224 252 218 L252 244 Q220 252 192 244 Q160 240 132 248 Z" fill="url(#e0_milkG)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  <ellipse cx="192" cy="221" rx="10" ry="4" fill="#ffffff" />
+  <circle cx="362" cy="246" r="76" fill="url(#e0_cookieG)" stroke="#1a1a1a" stroke-width="8" />
+  <circle cx="340" cy="220" r="9" fill="#3a2516" />
+  <circle cx="386" cy="232" r="8" fill="#3a2516" />
+  <circle cx="356" cy="268" r="10" fill="#3a2516" />
+  <circle cx="394" cy="278" r="7" fill="#3a2516" />
+  <circle cx="324" cy="262" r="7" fill="#3a2516" />
+  <circle cx="372" cy="206" r="6" fill="#3a2516" />
+  <path d="M310 218 Q314 232 308 244" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.5" />
+  <rect x="120" y="380" width="272" height="76" rx="20" fill="#f8c531" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <text x="256" y="436" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="52" font-weight="900" text-anchor="middle" fill="#2b2622">WITH</text>
+  <circle cx="256" cy="100" r="22" fill="#ef6f7a" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M246 100 L252 108 L268 92" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M210 105 L160 130" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M302 105 L352 130" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" /></g>
+  <g transform="translate(64 64) scale(0.7500)">
+
+  <circle cx="256" cy="256" r="200" fill="none" stroke="#1a1a1a" stroke-width="5.7107" />
+  <line x1="120" y1="120" x2="392" y2="392" stroke="#1a1a1a" stroke-width="5.7107" stroke-linecap="round" /></g>
+</g>
+  </svg>

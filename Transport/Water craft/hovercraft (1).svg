@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<title>hovercraft</title>
+
+<path d="M20 430 Q60 420 100 430 Q140 440 180 430 Q220 420 260 430 Q300 440 340 430 Q380 420 420 430 Q460 440 492 430 L492 470 L20 470 Z" fill="#7ec4ec" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+
+<path d="M60 340 Q60 300 110 300 L402 300 Q452 300 452 340 L452 400 Q452 420 432 420 L80 420 Q60 420 60 400 Z" fill="#2b1a0a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+
+<rect x="80" y="380" width="352" height="14" fill="#5a3a1a" />
+
+<path d="M90 230 Q90 200 130 200 L382 200 Q422 200 422 230 L422 300 L90 300 Z" fill="#e25b48" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+
+<rect x="130" y="220" width="252" height="48" rx="10" fill="#7ec4ec" stroke="#1a1a1a" stroke-width="5" />
+<line x1="200" y1="220" x2="200" y2="268" stroke="#1a1a1a" stroke-width="4" />
+<line x1="256" y1="220" x2="256" y2="268" stroke="#1a1a1a" stroke-width="4" />
+<line x1="312" y1="220" x2="312" y2="268" stroke="#1a1a1a" stroke-width="4" />
+
+<circle cx="430" cy="170" r="50" fill="#fcefd7" stroke="#1a1a1a" stroke-width="5.0000" />
+<circle cx="430" cy="170" r="32" fill="#cfe7d8" stroke="#1a1a1a" stroke-width="5" />
+
+<path d="M430 138 L430 202 M398 170 L462 170 M408 148 L452 192 M452 148 L408 192" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<circle cx="430" cy="170" r="6" fill="#2b1a0a" />
+
+<path d="M430 120 L450 70 L470 120 Z" fill="#e25b48" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+
+<path d="M120 432 q-10 -14 -24 -10 m180 10 q-10 -14 -24 -10 m180 10 q-10 -14 -24 -10" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+</svg>

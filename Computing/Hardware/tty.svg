@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="76" y="120" width="360" height="280" rx="20" fill="#3a6ea5" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="106" y="146" width="300" height="120" rx="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="120" y="160" width="272" height="92" rx="4" fill="#1e3a1e" stroke="#1a1a1a" stroke-width="3" />
+  
+  <text x="256" y="220" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="60" font-weight="bold" fill="#7dff7d" text-anchor="middle">TTY</text>
+  
+  <rect x="106" y="284" width="300" height="100" rx="8" fill="#5a8ec5" stroke="#1a1a1a" stroke-width="4" />
+  
+  <g fill="#e0e0e0" stroke="#1a1a1a" stroke-width="3">
+    <rect x="118" y="296" width="30" height="22" rx="3" />
+    <rect x="154" y="296" width="30" height="22" rx="3" />
+    <rect x="190" y="296" width="30" height="22" rx="3" />
+    <rect x="226" y="296" width="30" height="22" rx="3" />
+    <rect x="262" y="296" width="30" height="22" rx="3" />
+    <rect x="298" y="296" width="30" height="22" rx="3" />
+    <rect x="334" y="296" width="30" height="22" rx="3" />
+    <rect x="370" y="296" width="24" height="22" rx="3" />
+    <rect x="124" y="324" width="30" height="22" rx="3" />
+    <rect x="160" y="324" width="30" height="22" rx="3" />
+    <rect x="196" y="324" width="30" height="22" rx="3" />
+    <rect x="232" y="324" width="30" height="22" rx="3" />
+    <rect x="268" y="324" width="30" height="22" rx="3" />
+    <rect x="304" y="324" width="30" height="22" rx="3" />
+    <rect x="340" y="324" width="30" height="22" rx="3" />
+    <rect x="130" y="352" width="100" height="22" rx="3" />
+    <rect x="236" y="352" width="100" height="22" rx="3" />
+    <rect x="342" y="352" width="50" height="22" rx="3" />
+  </g>
+  
+  <rect x="180" y="80" width="152" height="40" rx="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4" />
+  
+  <ellipse cx="200" cy="100" rx="20" ry="14" fill="#444444" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="312" cy="100" rx="20" ry="14" fill="#444444" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="130" cy="392" r="6" fill="#ff3333" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="160" cy="392" r="6" fill="#33ff33" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="60" y="400" width="392" height="20" rx="6" fill="#2a4a75" stroke="#1a1a1a" stroke-width="5.0000" />
+</svg>

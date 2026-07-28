@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-70.776 -58.883) scale(1.1894)">
+  
+  
+  <rect x="190" y="105" width="180" height="320" fill="#f5e8c8" stroke="#1a1a1a" stroke-width="4" />
+  
+  
+  <path d="M175 100 L370 100 L375 105 L375 425 L370 430 L175 430 Z" fill="#7a1a25" stroke="#1a1a1a" stroke-width="4.2038" />
+  
+  <rect x="175" y="100" width="60" height="330" fill="#a02835" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="235" y="100" width="140" height="330" fill="#c63a48" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="245" y="110" width="14" height="310" fill="#e07080" opacity="0.7" />
+  
+  <line x1="180" y1="155" x2="230" y2="155" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="180" y1="380" x2="230" y2="380" stroke="#1a1a1a" stroke-width="3" />
+  
+  <text x="205" y="280" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="24" font-weight="900" text-anchor="middle" fill="#ffe9a0" transform="rotate(-90 205 280)">NOVEL</text>
+  
+  <rect x="260" y="160" width="90" height="100" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <text x="305" y="200" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="900" text-anchor="middle" fill="#ffd84d">A</text>
+  <text x="305" y="226" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" text-anchor="middle" fill="#ffe9a0">FINE</text>
+  <text x="305" y="246" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" text-anchor="middle" fill="#ffe9a0">STORY</text>
+  
+  <line x1="260" y1="370" x2="350" y2="370" stroke="#1a1a1a" stroke-width="2" />
+  <text x="305" y="395" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" text-anchor="middle" fill="#ffe9a0">A. AUTHOR</text>
+  
+  <path d="M235 100 L375 100 L375 108 L235 108 Z" fill="#e8d8a8" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="275" cy="445" rx="0" ry="0" fill="#000000" />
+</g>
+  </svg>

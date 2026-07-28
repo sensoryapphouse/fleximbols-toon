@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<radialGradient id="gum" cx="50%" cy="40%" r="60%">
+<stop offset="0%" stop-color="#ffd9b0" />
+<stop offset="100%" stop-color="#c98654" />
+</radialGradient>
+<radialGradient id="hnd" cx="50%" cy="40%" r="60%">
+<stop offset="0%" stop-color="#ffe6c2" />
+<stop offset="100%" stop-color="#d49264" />
+</radialGradient>
+</defs>
+<g stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<ellipse cx="110" cy="280" rx="50" ry="38" fill="url(#hnd)" />
+<ellipse cx="402" cy="280" rx="50" ry="38" fill="url(#hnd)" />
+<path d="M150 268 Q220 240 256 250 Q292 240 362 268 L362 292 Q292 320 256 308 Q220 320 150 292 Z" fill="url(#gum)" />
+<path d="M150 270 Q220 250 256 252 Q292 250 362 270" stroke-width="6" />
+<path d="M150 290 Q220 308 256 306 Q292 308 362 290" stroke-width="6" />
+<path d="M180 268 Q190 280 180 292" stroke-width="5" />
+<path d="M210 264 Q220 280 210 296" stroke-width="5" />
+<path d="M300 264 Q310 280 300 296" stroke-width="5" />
+<path d="M330 268 Q340 280 330 292" stroke-width="5" />
+<path d="M256 252 Q258 280 256 308" stroke-width="5" />
+<circle cx="98" cy="270" r="3" fill="#2b2622" />
+<circle cx="120" cy="270" r="3" fill="#2b2622" />
+<path d="M95 295 q12 8 24 0" stroke-width="5" />
+<circle cx="392" cy="270" r="3" fill="#2b2622" />
+<circle cx="414" cy="270" r="3" fill="#2b2622" />
+<path d="M389 295 q12 8 24 0" stroke-width="5" />
+<path d="M60 220 q12 -10 24 0" stroke-width="5" />
+<path d="M40 260 q12 -10 24 0" stroke-width="5" />
+<path d="M428 220 q12 -10 24 0" stroke-width="5" />
+<path d="M448 260 q12 -10 24 0" stroke-width="5" />
+</g>
+</svg>

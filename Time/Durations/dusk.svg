@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="duskSky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1a1838" />
+      <stop offset="30%" stop-color="#3a2868" />
+      <stop offset="65%" stop-color="#7848a0" />
+      <stop offset="100%" stop-color="#c84878" />
+    </linearGradient>
+    <radialGradient id="duskHorizon" cx="50%" cy="80%" r="60%">
+      <stop offset="0%" stop-color="#ff8a60" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#ff8a60" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect x="0" y="0" width="512" height="512" fill="url(#duskSky)" />
+  <ellipse cx="256" cy="390" rx="280" ry="60" fill="url(#duskHorizon)" />
+  <path d="M 0 395 L 512 395 L 512 405 L 0 405 Z" fill="#cc4868" opacity="0.6" />
+  <g fill="#ffffff">
+    <circle cx="50" cy="40" r="2" />
+    <circle cx="100" cy="80" r="1.5" />
+    <circle cx="160" cy="50" r="2" />
+    <circle cx="220" cy="70" r="1.5" />
+    <circle cx="280" cy="40" r="2.5" />
+    <circle cx="340" cy="60" r="1.5" />
+    <circle cx="400" cy="80" r="2" />
+    <circle cx="450" cy="50" r="1.5" />
+    <circle cx="490" cy="90" r="2" />
+    <circle cx="80" cy="130" r="1.5" />
+    <circle cx="180" cy="150" r="2" />
+    <circle cx="380" cy="140" r="2" />
+    <circle cx="450" cy="170" r="1.5" />
+  </g>
+  <g fill="#ffe080" opacity="0.85">
+    <path d="M 100 60 L 102 67 L 109 69 L 102 71 L 100 78 L 98 71 L 91 69 L 98 67 Z" />
+    <path d="M 240 90 L 242 97 L 249 99 L 242 101 L 240 108 L 238 101 L 231 99 L 238 97 Z" />
+    <path d="M 400 80 L 402 87 L 409 89 L 402 91 L 400 98 L 398 91 L 391 89 L 398 87 Z" />
+  </g>
+  <g fill="#ffd080" opacity="0.7">
+    <circle cx="100" cy="70" r="6" />
+    <circle cx="240" cy="100" r="6" />
+    <circle cx="400" cy="90" r="6" />
+  </g>
+  <g fill="#5a3878" opacity="0.5">
+    <ellipse cx="80" cy="200" rx="60" ry="14" />
+    <ellipse cx="220" cy="220" rx="70" ry="16" />
+    <ellipse cx="380" cy="210" rx="65" ry="15" />
+    <ellipse cx="460" cy="230" rx="50" ry="13" />
+  </g>
+  <g fill="#3a285a" opacity="0.6">
+    <ellipse cx="120" cy="280" rx="80" ry="16" />
+    <ellipse cx="300" cy="295" rx="90" ry="18" />
+    <ellipse cx="450" cy="305" rx="60" ry="15" />
+  </g>
+  <path d="M 0 405 L 512 405 L 512 420 L 0 420 Z" fill="#2a1838" />
+  <g fill="#100818" stroke="#1a1a1a" stroke-width="5.0000">
+    <path d="M 0 420 L 100 360 L 160 380 L 220 350 L 280 372 L 340 348 L 400 370 L 460 354 L 512 368 L 512 510 L 0 510 Z" />
+  </g>
+  <g fill="#040208">
+    <path d="M 110 405 L 100 370 L 90 405 Z" />
+    <path d="M 130 408 L 120 380 L 110 408 Z" />
+    <path d="M 250 395 L 240 360 L 232 395 Z" />
+    <path d="M 270 398 L 260 365 L 250 398 Z" />
+    <path d="M 360 402 L 350 365 L 342 402 Z" />
+    <path d="M 380 405 L 370 372 L 360 405 Z" />
+  </g>
+  <g fill="#ffe080" opacity="0.7">
+    <rect x="180" y="455" width="3" height="4" />
+    <rect x="220" y="460" width="3" height="4" />
+    <rect x="280" y="450" width="3" height="4" />
+    <rect x="320" y="465" width="3" height="4" />
+    <rect x="380" y="458" width="3" height="4" />
+    <rect x="420" y="462" width="3" height="4" />
+  </g>
+  <g fill="#7848a0" opacity="0.5">
+    <ellipse cx="60" cy="345" rx="30" ry="10" />
+    <ellipse cx="180" cy="360" rx="40" ry="12" />
+    <ellipse cx="350" cy="355" rx="50" ry="14" />
+    <ellipse cx="450" cy="365" rx="35" ry="11" />
+  </g>
+</svg>

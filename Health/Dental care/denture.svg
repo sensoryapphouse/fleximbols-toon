@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <path d="M 96 176 C 96 144 140 124 256 124 C 372 124 416 144 416 176 L 416 232 C 416 256 400 268 376 268 L 136 268 C 112 268 96 256 96 232 Z" fill="#FF6B9D" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <g stroke="#1a1a1a" stroke-width="5" fill="#FFFFFF" stroke-linejoin="round">
+    <path d="M 120 188 L 156 188 L 152 248 L 124 248 Z" />
+    <path d="M 160 184 L 200 184 L 196 252 L 164 252 Z" />
+    <path d="M 204 180 L 248 180 L 246 256 L 206 256 Z" />
+    <path d="M 252 180 L 296 180 L 294 256 L 254 256 Z" />
+    <path d="M 300 184 L 340 184 L 336 252 L 304 252 Z" />
+    <path d="M 344 188 L 384 188 L 376 248 L 348 248 Z" />
+  </g>
+  
+  <path d="M 96 312 C 96 288 112 276 136 276 L 376 276 C 400 276 416 288 416 312 L 416 360 C 416 392 372 412 256 412 C 140 412 96 392 96 360 Z" fill="#FF6B9D" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <g stroke="#1a1a1a" stroke-width="5" fill="#FFFFFF" stroke-linejoin="round">
+    <path d="M 120 296 L 152 296 L 156 356 L 124 356 Z" />
+    <path d="M 164 296 L 196 296 L 200 360 L 160 360 Z" />
+    <path d="M 206 296 L 246 296 L 248 364 L 204 364 Z" />
+    <path d="M 254 296 L 294 296 L 296 364 L 252 364 Z" />
+    <path d="M 304 296 L 336 296 L 340 360 L 300 360 Z" />
+    <path d="M 348 296 L 380 296 L 384 356 L 352 356 Z" />
+  </g>
+  
+  <path d="M 432 140 L 440 156 L 456 164 L 440 172 L 432 188 L 424 172 L 408 164 L 424 156 Z" fill="#FFD93D" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+</svg>

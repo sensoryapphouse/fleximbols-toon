@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -45.500)">
+  
+  
+  <rect x="60" y="140" width="392" height="20" fill="#F8F4E6" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <rect x="60" y="140" width="20" height="244" fill="#F8F4E6" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <rect x="432" y="140" width="20" height="244" fill="#F8F4E6" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <g stroke="#1a1a1a" stroke-width="4" fill="none">
+    <line x1="96" y1="168" x2="416" y2="168" />
+    <line x1="96" y1="208" x2="416" y2="208" />
+    <line x1="96" y1="248" x2="416" y2="248" />
+    <line x1="96" y1="288" x2="416" y2="288" />
+    <line x1="96" y1="328" x2="416" y2="328" />
+    <line x1="96" y1="368" x2="416" y2="368" />
+    <line x1="128" y1="160" x2="128" y2="376" />
+    <line x1="176" y1="160" x2="176" y2="376" />
+    <line x1="224" y1="160" x2="224" y2="376" />
+    <line x1="272" y1="160" x2="272" y2="376" />
+    <line x1="320" y1="160" x2="320" y2="376" />
+    <line x1="368" y1="160" x2="368" y2="376" />
+  </g>
+  
+  <line x1="40" y1="384" x2="472" y2="384" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <circle cx="256" cy="408" r="56" fill="#F8F4E6" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <polygon points="256,372 280,388 272,416 240,416 232,388" fill="#1A1A1A" />
+  <polygon points="212,402 230,396 234,418 218,428 208,418" fill="#1A1A1A" />
+  <polygon points="300,402 304,418 294,428 278,418 282,396" fill="#1A1A1A" />
+</g>
+  </svg>

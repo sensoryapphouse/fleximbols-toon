@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <rect x="40" y="40" width="432" height="432" rx="20" fill="#FFF8E1" stroke="#1a1a1a" stroke-width="5.0000" />
+  <g fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" stroke-linecap="round">
+    <circle cx="200" cy="170" r="55" />
+    <circle cx="290" cy="170" r="55" />
+    <circle cx="155" cy="250" r="55" />
+    <circle cx="335" cy="250" r="55" />
+    <circle cx="200" cy="330" r="55" />
+    <circle cx="290" cy="330" r="55" />
+    <circle cx="245" cy="250" r="50" />
+  </g>
+  <g fill="none" stroke="#1a1a1a" stroke-width="5" stroke-dasharray="10 8" stroke-linecap="round">
+    <path d="M 130 100 Q 90 200 105 280" />
+    <path d="M 110 290 L 102 282 M 110 290 L 118 282" />
+  </g>
+  <g transform="translate(355 95) rotate(35)">
+    <rect x="-12" y="-90" width="24" height="110" fill="#F4A261" stroke="#1a1a1a" stroke-width="6" />
+    <rect x="-12" y="-100" width="24" height="14" fill="#E76F51" stroke="#1a1a1a" stroke-width="6" />
+    <polygon points="-12,20 12,20 0,55" fill="#3D3D3D" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+    <polygon points="-6,38 6,38 0,52" fill="#1D3557" />
+  </g>
+  <g fill="none" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="8 6" stroke-linecap="round">
+    <path d="M 90 380 Q 256 420 422 380" />
+  </g>
+  <polygon points="410,378 422,380 412,388" fill="#2A9D8F" />
+</svg>

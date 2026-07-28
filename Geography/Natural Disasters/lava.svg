@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="lavaHeat" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffe040" stop-opacity="0.7" />
+      <stop offset="50%" stop-color="#ff6020" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#ff6020" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  <rect x="0" y="0" width="512" height="200" fill="#4a2818" />
+  <g fill="#5a4838" opacity="0.6">
+    <ellipse cx="100" cy="60" rx="80" ry="35" />
+    <ellipse cx="280" cy="40" rx="100" ry="40" />
+    <ellipse cx="440" cy="70" rx="80" ry="38" />
+  </g>
+  <path d="M 0 80 Q 60 100 120 90 Q 200 110 280 95 Q 360 115 440 100 Q 480 110 512 105 L 512 200 Q 480 210 440 200 Q 360 220 280 205 Q 200 225 120 210 Q 60 220 0 215 Z" fill="#1a0e08" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M 0 200 L 512 200 L 512 250 Q 470 245 430 252 Q 380 240 340 254 Q 290 244 250 256 Q 200 246 160 258 Q 110 248 70 256 Q 30 248 0 252 Z" fill="#1a0e08" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="256" cy="290" rx="320" ry="120" fill="url(#lavaHeat)" />
+  <path d="M 0 240 Q 40 235 80 245 Q 140 230 200 248 Q 260 232 320 250 Q 380 235 440 248 Q 480 240 512 245 L 512 360 Q 480 355 440 362 Q 380 348 320 358 Q 260 345 200 360 Q 140 348 80 358 Q 40 348 0 355 Z" fill="#ff4818" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M 0 250 Q 40 245 80 255 Q 140 240 200 258 Q 260 242 320 260 Q 380 245 440 258 Q 480 250 512 255 L 512 340 Q 480 335 440 342 Q 380 328 320 338 Q 260 325 200 340 Q 140 328 80 338 Q 40 328 0 335 Z" fill="#ff8020" />
+  <path d="M 0 260 Q 60 255 120 270 Q 180 254 240 268 Q 300 252 360 268 Q 420 256 480 264 Q 500 260 512 262 L 512 320 Q 480 315 440 320 Q 380 308 320 318 Q 260 305 200 318 Q 140 308 80 318 Q 40 310 0 315 Z" fill="#ffd040" />
+  <g fill="#ffe080" opacity="0.7">
+    <ellipse cx="120" cy="290" rx="30" ry="6" />
+    <ellipse cx="280" cy="285" rx="40" ry="6" />
+    <ellipse cx="420" cy="290" rx="35" ry="6" />
+    <ellipse cx="200" cy="300" rx="25" ry="5" />
+    <ellipse cx="360" cy="305" rx="30" ry="5" />
+  </g>
+  <g fill="#1a0e08" stroke="#1a1a1a" stroke-width="3">
+    <path d="M 0 350 L 40 355 L 80 348 L 120 358 L 160 350 L 200 360 L 240 348 L 280 360 L 320 350 L 360 362 L 400 350 L 440 360 L 480 348 L 512 355 L 512 380 L 0 380 Z" />
+  </g>
+  <path d="M 0 380 L 512 380 L 512 512 L 0 512 Z" fill="#1a0e08" />
+  <g fill="#3a2418" stroke="#1a1a1a" stroke-width="3">
+    <path d="M 50 395 L 90 388 L 130 398 L 170 390 L 200 400 L 220 410 L 200 425 L 160 420 L 120 428 L 80 418 L 40 425 L 30 410 Z" />
+    <path d="M 290 410 L 340 405 L 380 415 L 420 408 L 460 420 L 480 432 L 450 442 L 400 438 L 360 446 L 320 438 L 290 440 L 280 425 Z" />
+  </g>
+  <g fill="#ff6020">
+    <path d="M 40 405 Q 60 400 80 405 L 70 410 L 60 412 L 50 410 Z" />
+    <path d="M 180 415 Q 200 410 215 418 L 200 420 L 185 418 Z" />
+    <path d="M 340 420 Q 360 415 380 420 L 365 425 L 350 423 Z" />
+    <path d="M 430 430 Q 450 425 470 432 L 455 435 L 440 432 Z" />
+  </g>
+  <g fill="#6a5848" opacity="0.7">
+    <circle cx="100" cy="450" r="12" />
+    <circle cx="220" cy="460" r="15" />
+    <circle cx="350" cy="455" r="13" />
+    <circle cx="450" cy="465" r="10" />
+  </g>
+  <g fill="#4a3a30" opacity="0.5">
+    <ellipse cx="100" cy="160" rx="40" ry="20" />
+    <ellipse cx="200" cy="140" rx="50" ry="22" />
+    <ellipse cx="320" cy="150" rx="55" ry="25" />
+    <ellipse cx="430" cy="160" rx="45" ry="22" />
+  </g>
+  <g fill="#ff4020">
+    <circle cx="220" cy="395" r="4" />
+    <circle cx="350" cy="385" r="5" />
+    <circle cx="120" cy="382" r="3" />
+    <circle cx="400" cy="395" r="4" />
+  </g>
+</svg>

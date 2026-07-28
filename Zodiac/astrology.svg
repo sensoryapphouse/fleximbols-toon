@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <circle cx="256" cy="256" r="200" fill="#1a1a4a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="256" cy="256" r="170" fill="#2a2a6a" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="256" cy="256" r="80" fill="#f7c531" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M 256 86 L 256 426 M 86 256 L 426 256 M 136 136 L 376 376 M 376 136 L 136 376 M 191 96 L 321 416 M 321 96 L 191 416 M 96 191 L 416 321 M 96 321 L 416 191" stroke="#1a1a1a" stroke-width="2" opacity="0.5" />
+  <polygon points="256,160 264,184 288,184 268,200 276,224 256,210 236,224 244,200 224,184 248,184" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <polygon points="356,256 362,272 378,272 366,282 372,298 356,288 340,298 346,282 334,272 350,272" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <polygon points="256,352 262,368 278,368 266,378 272,394 256,384 240,394 246,378 234,368 250,368" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <polygon points="156,256 162,272 178,272 166,282 172,298 156,288 140,298 146,282 134,272 150,272" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <polygon points="180,180 186,194 200,194 190,202 196,216 180,206 164,216 170,202 160,194 174,194" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <polygon points="332,180 338,194 352,194 342,202 348,216 332,206 316,216 322,202 312,194 326,194" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <polygon points="332,332 338,346 352,346 342,354 348,368 332,358 316,368 322,354 312,346 326,346" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <polygon points="180,332 186,346 200,346 190,354 196,368 180,358 164,368 170,354 160,346 174,346" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <text x="256" y="278" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="60" font-weight="900" fill="#1a1a4a" text-anchor="middle">󳦧</text>
+  <circle cx="60" cy="60" r="4" fill="#ffffff" />
+  <circle cx="452" cy="80" r="3" fill="#ffffff" />
+  <circle cx="80" cy="450" r="3" fill="#ffffff" />
+  <circle cx="460" cy="440" r="4" fill="#ffffff" />
+</svg>

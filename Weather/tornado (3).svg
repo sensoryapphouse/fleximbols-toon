@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>tornado cartoon</title>
+  
+  <path d="M 96 80 Q 256 60 416 80 Q 380 120 256 120 Q 132 120 96 80 Z" fill="#5C6B82" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <path d="M 120 140 Q 256 125 392 140 Q 360 175 256 178 Q 152 175 120 140 Z" fill="#7A8AA0" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <path d="M 150 195 Q 256 180 362 195 Q 332 225 256 228 Q 180 225 150 195 Z" fill="#92A1B6" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <path d="M 180 250 Q 256 240 332 250 Q 308 275 256 278 Q 204 275 180 250 Z" fill="#5C6B82" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <path d="M 200 300 Q 256 292 312 300 Q 292 320 256 322 Q 220 320 200 300 Z" fill="#7A8AA0" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <path d="M 220 340 Q 256 334 292 340 Q 276 355 256 357 Q 236 355 220 340 Z" fill="#92A1B6" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <path d="M 236 372 Q 256 368 276 372 Q 268 384 256 385 Q 244 384 236 372 Z" fill="#5C6B82" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <path d="M 248 398 Q 256 396 264 398 Q 262 408 256 410 Q 250 408 248 398 Z" fill="#1F2A3A" />
+  
+  <path d="M 60 432 L 452 432" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <circle cx="100" cy="420" r="6" fill="#6B4A2E" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="420" cy="418" r="5" fill="#6B4A2E" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M 350 380 L 372 372 L 376 386 Z" fill="#C44A2E" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <path d="M 130 360 L 152 350 L 156 366 Z" fill="#E0B040" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+</svg>

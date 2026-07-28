@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <g stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" fill="none">
+    <line x1="256" y1="40" x2="256" y2="80" />
+    <line x1="150" y1="70" x2="172" y2="104" />
+    <line x1="362" y1="70" x2="340" y2="104" />
+    <line x1="80" y1="160" x2="118" y2="170" />
+    <line x1="432" y1="160" x2="394" y2="170" />
+  </g>
+  
+  <circle cx="256" cy="140" r="44" fill="#fde79a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="226" y="120" width="60" height="320" rx="6" fill="#a86b32" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="146" y="210" width="220" height="60" rx="6" fill="#a86b32" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <line x1="236" y1="140" x2="236" y2="430" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="276" y1="140" x2="276" y2="200" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="276" y1="280" x2="276" y2="430" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="160" y1="240" x2="220" y2="240" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="296" y1="240" x2="356" y2="240" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <path d="M40 460 q90 -40 216 -40 q126 0 216 40 L472 480 L40 480 Z" fill="#5fb14a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M100 450 l-4 -16 l8 8 l4 -14 l4 14 l8 -8 l-4 16 z" fill="#3f8a30" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <path d="M380 450 l-4 -16 l8 8 l4 -14 l4 14 l8 -8 l-4 16 z" fill="#3f8a30" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+</svg>

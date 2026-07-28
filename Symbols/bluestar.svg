@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(256,256) scale(1.4055) translate(-255,-341)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(18.783 57.275) scale(0.9275)">
+  
+  
+  <path d="M256 470 L256 240" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+  
+  <path d="M256 320 Q200 280 160 250" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+  <path d="M256 320 Q310 280 354 252" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+  <path d="M256 280 Q240 220 220 180" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+  <path d="M256 280 Q272 220 290 180" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+  
+  <ellipse cx="220" cy="400" rx="6" ry="22" fill="#3a8a3d" stroke="#1a1a1a" stroke-width="5.3908" transform="rotate(-30 220 400)" />
+  <ellipse cx="290" cy="400" rx="6" ry="22" fill="#3a8a3d" stroke="#1a1a1a" stroke-width="5.3908" transform="rotate(30 290 400)" />
+  <ellipse cx="240" cy="360" rx="5" ry="18" fill="#3a8a3d" stroke="#1a1a1a" stroke-width="5.3908" transform="rotate(-30 240 360)" />
+  <ellipse cx="272" cy="360" rx="5" ry="18" fill="#3a8a3d" stroke="#1a1a1a" stroke-width="5.3908" transform="rotate(30 272 360)" />
+  
+  <g stroke="#1a1a1a" stroke-width="5.3908">
+    
+    <g transform="translate(256 200)">
+      
+      <g transform="translate(0 0)">
+        <path d="M0 -28 L7 -8 L26 -10 L11 4 L17 24 L0 12 L-17 24 L-11 4 L-26 -10 L-7 -8 Z" fill="#7ab8ff" />
+        <circle cx="0" cy="0" r="4" fill="#f0d048" />
+      </g>
+      <g transform="translate(-22 18)">
+        <path d="M0 -20 L5 -6 L19 -7 L8 3 L12 17 L0 9 L-12 17 L-8 3 L-19 -7 L-5 -6 Z" fill="#9bc8ff" />
+        <circle cx="0" cy="0" r="3" fill="#f0d048" />
+      </g>
+      <g transform="translate(22 18)">
+        <path d="M0 -20 L5 -6 L19 -7 L8 3 L12 17 L0 9 L-12 17 L-8 3 L-19 -7 L-5 -6 Z" fill="#9bc8ff" />
+        <circle cx="0" cy="0" r="3" fill="#f0d048" />
+      </g>
+    </g>
+    
+    <g transform="translate(150 240)">
+      <g transform="translate(0 0)">
+        <path d="M0 -24 L6 -7 L22 -8 L9 3 L14 20 L0 10 L-14 20 L-9 3 L-22 -8 L-6 -7 Z" fill="#7ab8ff" />
+        <circle cx="0" cy="0" r="3" fill="#f0d048" />
+      </g>
+      <g transform="translate(-18 14)">
+        <path d="M0 -18 L4 -5 L17 -6 L7 2 L11 15 L0 8 L-11 15 L-7 2 L-17 -6 L-4 -5 Z" fill="#9bc8ff" />
+        <circle cx="0" cy="0" r="2.5" fill="#f0d048" />
+      </g>
+      <g transform="translate(18 14)">
+        <path d="M0 -18 L4 -5 L17 -6 L7 2 L11 15 L0 8 L-11 15 L-7 2 L-17 -6 L-4 -5 Z" fill="#9bc8ff" />
+        <circle cx="0" cy="0" r="2.5" fill="#f0d048" />
+      </g>
+    </g>
+    
+    <g transform="translate(362 244)">
+      <g transform="translate(0 0)">
+        <path d="M0 -24 L6 -7 L22 -8 L9 3 L14 20 L0 10 L-14 20 L-9 3 L-22 -8 L-6 -7 Z" fill="#7ab8ff" />
+        <circle cx="0" cy="0" r="3" fill="#f0d048" />
+      </g>
+      <g transform="translate(-18 14)">
+        <path d="M0 -18 L4 -5 L17 -6 L7 2 L11 15 L0 8 L-11 15 L-7 2 L-17 -6 L-4 -5 Z" fill="#9bc8ff" />
+        <circle cx="0" cy="0" r="2.5" fill="#f0d048" />
+      </g>
+      <g transform="translate(18 14)">
+        <path d="M0 -18 L4 -5 L17 -6 L7 2 L11 15 L0 8 L-11 15 L-7 2 L-17 -6 L-4 -5 Z" fill="#9bc8ff" />
+        <circle cx="0" cy="0" r="2.5" fill="#f0d048" />
+      </g>
+    </g>
+    
+    <g transform="translate(214 168)">
+      <g transform="translate(0 0)">
+        <path d="M0 -18 L4 -5 L17 -6 L7 2 L11 15 L0 8 L-11 15 L-7 2 L-17 -6 L-4 -5 Z" fill="#9bc8ff" />
+        <circle cx="0" cy="0" r="2.5" fill="#f0d048" />
+      </g>
+    </g>
+    <g transform="translate(298 168)">
+      <g transform="translate(0 0)">
+        <path d="M0 -18 L4 -5 L17 -6 L7 2 L11 15 L0 8 L-11 15 L-7 2 L-17 -6 L-4 -5 Z" fill="#9bc8ff" />
+        <circle cx="0" cy="0" r="2.5" fill="#f0d048" />
+      </g>
+    </g>
+  </g>
+</g>
+  </g></svg>

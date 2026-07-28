@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,13.619) scale(0.9734)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-92.959 -120.930) scale(1.3645)">
+  <defs>
+    <linearGradient id="wrap" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f5d97a" /><stop offset="100%" stop-color="#d4a832" /></linearGradient>
+    <linearGradient id="meat" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#c8681a" /><stop offset="100%" stop-color="#8a3e0a" /></linearGradient>
+  </defs>
+  <path d="M180 420 Q160 300 170 180 Q200 140 256 135 Q312 140 342 180 Q352 300 332 420 Z" fill="url(#wrap)" stroke="#1a1a1a" stroke-width="3.6643" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M190 415 Q172 305 182 188 Q205 155 256 151 Q307 155 330 188 Q340 305 322 415 Z" fill="#e8c458" opacity="0.3" />
+  <path d="M185 380 Q200 370 220 375 Q240 380 256 372 Q272 380 292 375 Q312 370 327 380" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M183 340 Q198 330 218 335 Q238 340 256 332 Q274 340 294 335 Q314 330 329 340" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M184 300 Q200 290 220 295 Q240 300 256 292 Q272 300 292 295 Q312 290 328 300" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <ellipse cx="256" cy="175" rx="86" ry="42" fill="url(#wrap)" stroke="#1a1a1a" stroke-width="3.6643" />
+  
+  <path d="M200 200 Q220 215 256 210 Q292 215 312 200" fill="url(#meat)" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <path d="M205 230 Q224 244 256 240 Q288 244 307 230" fill="url(#meat)" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  
+  
+  
+  <path d="M200 250 Q220 262 256 258 Q292 262 312 250" fill="#f5f0e0" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+</g>
+  </g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1462" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1462)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

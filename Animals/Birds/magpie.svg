@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(14.500 55.000)">
+  <g transform="translate(0 0) scale(0.6250)">
+  
+  
+  <ellipse cx="256" cy="290" rx="140" ry="110" fill="#2da6f4" stroke="#1a1a1a" stroke-width="8.0000" />
+  
+  <circle cx="350" cy="200" r="70" fill="#2da6f4" stroke="#1a1a1a" stroke-width="8.0000" />
+  
+  <path d="M210 220 Q170 260 200 340 Q260 360 290 290 Q280 230 210 220 Z" fill="#1a78c2" stroke="#1a1a1a" stroke-width="8.0000" stroke-linejoin="round" />
+  
+  <path d="M410 195 L460 210 L410 230 Z" fill="#ff8c1a" stroke="#1a1a1a" stroke-width="8.0000" stroke-linejoin="round" />
+  
+  <circle cx="370" cy="185" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="8.0000" />
+  <circle cx="374" cy="187" r="6" fill="#1a1a1a" />
+  
+  <path d="M130 270 L70 240 L100 290 L60 320 L120 320 Z" fill="#1a78c2" stroke="#1a1a1a" stroke-width="8.0000" stroke-linejoin="round" />
+  
+  <line x1="230" y1="395" x2="220" y2="450" stroke="#1a1a1a" stroke-width="8.0000" stroke-linecap="round" />
+  <line x1="280" y1="395" x2="290" y2="450" stroke="#1a1a1a" stroke-width="8.0000" stroke-linecap="round" />
+  
+  <path d="M200 450 L220 450 L240 450" stroke="#1a1a1a" stroke-width="8.0000" stroke-linecap="round" />
+  <path d="M270 450 L290 450 L310 450" stroke="#1a1a1a" stroke-width="8.0000" stroke-linecap="round" /></g>
+  <g transform="translate(192 192) scale(0.4375)">
+  <circle cx="256" cy="256" r="180" fill="#000000" stroke="#1a1a1a" stroke-width="4" /></g>
+  <g transform="translate(320 0) scale(0.2500)">
+  <circle cx="256" cy="256" r="180" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4" /></g>
+</g>
+  </svg>

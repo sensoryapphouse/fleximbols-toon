@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="serr" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#f0f0f4" />
+<stop offset="1" stop-color="#8a8a90" />
+</linearGradient>
+<linearGradient id="hg" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#7a2020" />
+<stop offset="1" stop-color="#3a0a0a" />
+</linearGradient>
+</defs>
+<path d="M70 270 L455 270 L445 240 L430 270 L415 240 L400 270 L385 240 L370 270 L355 240 L340 270 L325 240 L310 270 L295 240 L280 270 L265 240 L250 270 L235 240 L220 270 L205 240 L190 270 L175 240 L160 270 L145 240 L130 270 Z" fill="url(#serr)" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" />
+<path d="M70 270 L455 270 L455 295 Q455 305 445 305 L80 305 Q70 305 70 295 Z" fill="url(#serr)" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" />
+<line x1="90" y1="285" x2="440" y2="285" stroke="#1a1a1a" stroke-width="3" />
+<rect x="50" y="250" width="90" height="76" rx="12" fill="url(#hg)" stroke="#1a1a1a" stroke-width="5.0000" />
+<circle cx="75" cy="288" r="4" fill="#d8a23a" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="115" cy="288" r="4" fill="#d8a23a" stroke="#1a1a1a" stroke-width="3" />
+<path d="M140 250 L145 260 M140 326 L145 316" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+<g stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round">
+<path d="M160 200 Q175 210 190 200" />
+<path d="M220 195 Q235 205 250 195" />
+<path d="M280 200 Q295 210 310 200" />
+<path d="M340 195 Q355 205 370 195" />
+</g>
+</svg>

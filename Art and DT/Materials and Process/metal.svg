@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<rect x="56" y="56" width="400" height="400" rx="36" fill="#161616" stroke="#1a1a1a" stroke-width="5.0000" />
+<g fill="none" stroke="#1a1a1a" stroke-width="4">
+<circle cx="110" cy="110" r="14" />
+<circle cx="402" cy="402" r="14" />
+</g>
+<g transform="translate(256 245)">
+<path d="M-72 -65 q-12 -28 10 -42 q26 -10 32 18 l8 56 l8 -90 q4 -24 24 -24 q22 0 24 24 l4 95 l8 -82 q4 -24 24 -24 q22 0 22 24 l-2 115 q-4 38 -42 52 q-32 12 -62 6 q-32 -8 -44 -32 z" fill="#efd2b0" stroke="#1a1a1a" stroke-width="5.0000" />
+<path d="M-32 -36 q-6 22 -16 28 q-10 6 -18 -2 q-8 -10 0 -24 q6 -12 18 -10 q14 2 16 8 z" fill="#efd2b0" stroke="#1a1a1a" stroke-width="6" />
+<rect x="-28" y="-12" width="16" height="64" rx="3" fill="#efd2b0" stroke="#1a1a1a" stroke-width="6" />
+<rect x="16" y="-12" width="16" height="54" rx="3" fill="#efd2b0" stroke="#1a1a1a" stroke-width="6" />
+<path d="M-94 64 q18 16 32 16 l60 0 l60 0 q14 0 32 -16 l-10 26 q-18 16 -32 16 l-50 0 l-50 0 q-14 0 -32 -16 z" fill="#8a1818" stroke="#1a1a1a" stroke-width="5.0000" />
+</g>
+<g transform="translate(410 130)">
+<circle r="32" fill="#e0e0e0" stroke="#1a1a1a" stroke-width="7" />
+<circle cx="-10" cy="-4" r="5" fill="#2b2622" />
+<circle cx="10" cy="-4" r="5" fill="#2b2622" />
+<path d="M-14 14 L-9 9 L-4 14 L1 9 L6 14 L11 9 L14 14" fill="none" stroke="#1a1a1a" stroke-width="3" />
+</g>
+<g transform="translate(256 430)" text-anchor="middle" font-family="Impact, sans-serif" font-weight="900">
+</g>
+</svg>

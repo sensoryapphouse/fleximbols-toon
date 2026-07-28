@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+<path d="M76 110 Q76 70 116 70 L396 70 Q436 70 436 110 L436 340 Q436 380 396 380 L320 380 L256 442 L192 380 L116 380 Q76 380 76 340 Z" fill="#22d3ee" stroke="#1a1a1a" stroke-width="5.0000" />
+
+<rect x="96" y="92" width="320" height="18" rx="9" fill="#67e8f9" />
+
+<text x="256" y="290" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="180" font-weight="900" text-anchor="middle" fill="#1f2937" stroke="#1a1a1a" stroke-width="4">IT</text>
+
+<path d="M90 220 L130 240 L130 230 L150 240 L150 250 L130 260 L130 250 Z" fill="#dc2626" stroke="#1a1a1a" stroke-width="3" />
+<path d="M422 220 L382 240 L382 230 L362 240 L362 250 L382 260 L382 250 Z" fill="#dc2626" stroke="#1a1a1a" stroke-width="3" />
+</svg>

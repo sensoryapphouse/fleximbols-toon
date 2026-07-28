@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<svg viewBox="0 0 128 128" version="1.1" xml:space="preserve" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" width="512" height="512" preserveAspectRatio="xMidYMid meet"><defs><filter id="ob" x="-45%" y="-45%" width="190%" height="190%"><feMorphology in="SourceAlpha" operator="dilate" radius="1.0000" result="d"/><feFlood flood-color="#1a1a1a" result="ink"/><feComposite in="ink" in2="d" operator="in"/></filter><g id="art">
+    <path d="M94.28,9.42C94.28,5.998 91.502,3.22 88.08,3.22L39.92,3.22C36.498,3.22 33.72,5.998 33.72,9.42L33.72,118.57C33.72,121.992 36.498,124.77 39.92,124.77L88.08,124.77C91.502,124.77 94.28,121.992 94.28,118.57L94.28,9.42Z" fill="rgb(24,24,24)" />
+    <rect x="35.309" y="9.57" width="57.383" height="107.014" fill="rgb(12,94,159)" fill-rule="nonzero" />
+    <path d="M54.121,120.309L73.879,120.309M54.121,6.48L73.879,6.48" fill="none" />
+    <g transform="matrix(0.931817,0,0,0.931817,45.0395,36.036)">
+        <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="0px" y="0px" fill="white">04:20</text>
+    </g>
+    <g transform="matrix(0.931817,0,0,0.931817,45.0395,48.7395)">
+        <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="0px" y="0px" fill="white">17.07.</text>
+    </g>
+</g></defs><use href="#art" filter="url(#ob)"/><use href="#art"/></svg>
+</svg>

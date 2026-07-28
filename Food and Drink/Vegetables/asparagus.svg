@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <path d="M 140 480 L 175 110 Q 178 80 195 70 Q 210 80 215 110 L 230 480 Z" fill="#5da83a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M 200 480 L 225 100 Q 230 70 250 60 Q 268 70 275 100 L 290 480 Z" fill="#6fbf45" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M 260 480 L 280 95 Q 285 65 305 55 Q 322 65 328 95 L 340 480 Z" fill="#5da83a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M 320 480 L 335 110 Q 340 80 360 70 Q 375 80 380 110 L 390 480 Z" fill="#6fbf45" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M 175 100 Q 180 60 200 50 Q 215 60 215 100 Z" fill="#6d3aa8" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M 225 90 Q 232 50 250 40 Q 268 50 275 90 Z" fill="#7d4dd0" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M 280 85 Q 287 45 305 35 Q 322 45 328 85 Z" fill="#6d3aa8" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M 335 100 Q 342 60 360 50 Q 376 60 380 100 Z" fill="#7d4dd0" stroke="#1a1a1a" stroke-width="5.0000" />
+  <ellipse cx="265" cy="160" rx="8" ry="4" fill="#3a6d20" />
+  <ellipse cx="315" cy="200" rx="8" ry="4" fill="#3a6d20" />
+  <ellipse cx="210" cy="220" rx="8" ry="4" fill="#3a6d20" />
+  <ellipse cx="350" cy="240" rx="8" ry="4" fill="#3a6d20" />
+  <rect x="130" y="290" width="280" height="60" rx="8" fill="#c47a3a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M 130 305 L 410 305" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M 130 335 L 410 335" stroke="#1a1a1a" stroke-width="3" />
+</svg>

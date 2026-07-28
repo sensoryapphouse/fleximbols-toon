@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="film" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#1e3a52" />
+<stop offset="1" stop-color="#0d2236" />
+</linearGradient>
+</defs>
+<g stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<rect x="96" y="70" width="320" height="372" rx="16" fill="url(#film)" />
+<rect x="96" y="70" width="320" height="34" rx="8" fill="#3a5a78" />
+<g stroke="#1a1a1a" stroke-width="5.0000" fill="none">
+<line x1="256" y1="150" x2="256" y2="370" />
+<path d="M256 178 q-46 14 -70 44" />
+<path d="M256 178 q46 14 70 44" />
+<path d="M256 214 q-52 16 -78 48" />
+<path d="M256 214 q52 16 78 48" />
+<path d="M256 252 q-54 18 -78 52" />
+<path d="M256 252 q54 18 78 52" />
+<circle cx="256" cy="140" r="8" fill="#dceefc" />
+</g>
+</g>
+</svg>

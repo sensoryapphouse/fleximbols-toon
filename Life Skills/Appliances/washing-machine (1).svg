@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="body" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#dde4ee" /><stop offset="100%" stop-color="#aeb4bd" /></linearGradient>
+    <linearGradient id="drum" x1="20%" y1="20%" x2="80%" y2="80%"><stop offset="0%" stop-color="#8aaad0" /><stop offset="100%" stop-color="#3f5f8a" /></linearGradient>
+    <radialGradient id="porthole" cx="42%" cy="38%" r="52%"><stop offset="0%" stop-color="#c8dff5" /><stop offset="100%" stop-color="#3f5f8a" /></radialGradient>
+    <radialGradient id="gloss" cx="35%" cy="30%" r="50%"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.7" /><stop offset="100%" stop-color="#ffffff" stop-opacity="0" /></radialGradient>
+  </defs>
+<g transform="translate(-34.27 -62.05) scale(1.134)">
+  
+  <rect x="88" y="90" width="336" height="370" rx="22" fill="url(#body)" stroke="#1a1a1a" stroke-width="4.4092" stroke-linejoin="round" />
+  
+  <rect x="330" y="90" width="94" height="370" rx="22" fill="#6f757e" opacity="0.25" />
+  
+  <rect x="88" y="90" width="336" height="72" rx="22" fill="#c8cdd6" stroke="#1a1a1a" stroke-width="4.4092" stroke-linejoin="round" />
+  <rect x="88" y="138" width="336" height="24" fill="#c8cdd6" />
+  
+  
+  <circle cx="148" cy="126" r="18" fill="#e23b34" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M148 114 L148 124" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M139 118 Q132 126 136 136 Q140 144 148 144 Q156 144 160 136 Q164 126 157 118" fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  
+  <circle cx="210" cy="126" r="16" fill="#f8c531" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="210" y1="114" x2="210" y2="122" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  
+  <circle cx="264" cy="126" r="16" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="272" y1="118" x2="266" y2="124" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  
+  
+  <circle cx="256" cy="310" r="118" fill="#b0b8c4" stroke="#1a1a1a" stroke-width="4.4092" />
+  
+  <circle cx="256" cy="310" r="100" fill="#8aaad0" stroke="#1a1a1a" stroke-width="6" />
+  
+  <circle cx="256" cy="310" r="88" fill="url(#porthole)" stroke="#1a1a1a" stroke-width="5" />
+  
+  <circle cx="256" cy="232" r="10" fill="#2a5fa8" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="323" cy="273" r="10" fill="#2a5fa8" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="300" cy="374" r="10" fill="#2a5fa8" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="212" cy="374" r="10" fill="#2a5fa8" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="189" cy="273" r="10" fill="#2a5fa8" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M210 300 Q228 285 248 298 Q262 308 278 295 Q294 282 310 298" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.8" />
+  <path d="M215 318 Q232 305 250 316 Q266 326 282 313 Q296 302 308 316" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.6" />
+  
+  <circle cx="234" cy="340" r="8" fill="none" stroke="#1a1a1a" stroke-width="3" opacity="0.7" />
+  <circle cx="256" cy="350" r="6" fill="none" stroke="#1a1a1a" stroke-width="3" opacity="0.6" />
+  <circle cx="278" cy="338" r="9" fill="none" stroke="#1a1a1a" stroke-width="3" opacity="0.7" />
+  
+  <circle cx="256" cy="310" r="88" fill="url(#gloss)" />
+  
+  <path d="M320 340 Q345 330 345 310 Q345 290 320 280" fill="none" stroke="#1a1a1a" stroke-width="4.4092" stroke-linecap="round" />
+  
+  <rect x="108" y="170" width="80" height="22" rx="6" fill="#dde4ee" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <rect x="108" y="170" width="80" height="8" rx="4" fill="#aeb4bd" opacity="0.5" />
+  
+  <rect x="96" y="98" width="60" height="180" rx="14" fill="#ffffff" opacity="0.18" />
+  
+  <rect x="88" y="430" width="336" height="30" rx="14" fill="#b8bdc6" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <rect x="116" y="455" width="30" height="16" rx="6" fill="#6f757e" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <rect x="366" y="455" width="30" height="16" rx="6" fill="#6f757e" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+</g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(256,256) scale(1.2013) translate(-255,-309)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Bowl outer body -->
+  <path d="M80 240 Q72 390 256 400 Q440 390 432 240 Z" fill="#e2d5c0" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Bowl inner shadow -->
+  <path d="M80 240 Q80 280 256 292 Q432 280 432 240 Z" fill="#c8b89a" stroke="none" opacity="0.4"/>
+  <!-- Bowl rim -->
+  <ellipse cx="256" cy="240" rx="176" ry="34" fill="#d4c4a8" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Saag (green curry) surface filling the bowl opening -->
+  <ellipse cx="256" cy="240" rx="176" ry="34" fill="#2d6e26" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Saag texture - darker swirls and blobs -->
+  <path d="M138 244 Q162 228 196 238 Q220 246 244 234 Q266 224 288 236 Q312 248 334 235 Q358 222 382 238 L388 250 Q362 263 336 250 Q310 263 286 250 Q262 263 238 250 Q214 263 188 250 Q162 263 136 250 Z" fill="#163510" opacity="0.5"/>
+  <!-- Saag detail strokes showing leafy texture -->
+  <path d="M150 236 Q172 220 196 230 Q214 238 230 228 Q248 218 266 227 Q284 236 302 226 Q322 216 342 226 Q360 236 378 226 Q392 219 402 230" fill="none" stroke="#1a1a1a" stroke-width="4.5" stroke-linecap="round"/>
+  <path d="M146 248 Q168 234 193 242 Q212 250 230 240 Q248 230 267 239 Q286 248 304 238 Q322 228 342 238 Q360 247 378 237 Q392 230 402 242" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <!-- Leaf highlight blobs -->
+  <path d="M162 230 Q170 220 182 218 Q195 216 200 222 Q206 230 200 240 Q192 248 180 248 Q168 246 162 238 Z" fill="#3a8030" opacity="0.6"/>
+  <path d="M232 218 Q240 208 252 206 Q265 204 270 210 Q276 218 270 228 Q262 236 250 236 Q238 234 232 226 Z" fill="#3a8030" opacity="0.55"/>
+  <path d="M304 220 Q312 210 324 208 Q337 206 342 212 Q348 220 342 230 Q334 238 322 238 Q310 236 304 228 Z" fill="#2d6e26" opacity="0.6"/>
+  <path d="M358 228 Q366 218 376 216 Q388 214 393 220 Q398 228 393 237 Q386 244 374 244 Q362 242 358 234 Z" fill="#3a8030" opacity="0.55"/>
+  <!-- Leaf vein lines -->
+  <path d="M164 232 Q172 222 180 220" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M234 210 Q242 202 252 201" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M306 212 Q314 204 324 203" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M360 220 Q368 212 376 211" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round"/>
+  <!-- Cream/ghee swirl on top -->
+  <path d="M210 238 Q228 228 256 233 Q278 238 290 230" fill="none" stroke="#f5f0e0" stroke-width="5" stroke-linecap="round" opacity="0.85"/>
+  <!-- Bowl foot/base -->
+  <ellipse cx="256" cy="396" rx="100" ry="18" fill="#c8b89a" stroke="#1a1a1a" stroke-width="5"/>
+  <rect x="220" y="394" width="72" height="24" rx="8" fill="#d4c4a8" stroke="#1a1a1a" stroke-width="5"/>
+</g></svg>

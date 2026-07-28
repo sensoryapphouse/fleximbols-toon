@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>treble-clef</title>
+
+  <!-- Staff lines -->
+  <g stroke="#1a1a1a" stroke-width="2.750">
+    <line x1="40" y1="200" x2="472" y2="200" />
+    <line x1="40" y1="240" x2="472" y2="240" />
+    <line x1="40" y1="280" x2="472" y2="280" />
+    <line x1="40" y1="320" x2="472" y2="320" />
+    <line x1="40" y1="360" x2="472" y2="360" />
+  </g>
+
+  <!-- Treble clef — traced from PiCom_Classic (Material Design Icons, Apache 2.0).
+       Original viewBox 290x240, clef centred near x=150. We scale and translate
+       so the clef's central vertical sits at canvas x=256, and the spiral hugs the
+       G line at y=320. Source y=140 (G line) maps to canvas y=320 — scale 2.0,
+       translate y = 320 - 140*2 = 40, translate x = 256 - 150*2 = -44. -->
+  <g transform="translate(-44 40) scale(2.0)" fill="#1a1a1a" stroke="none">
+    <path d="M 149.9 108.0 V 76.5 L 169.7 56.6 C 176.9 49.5 178.2 38.2 173.2 29.3 C 169.1 22.2 161.8 18.0 153.9 18.0 C 152.0 18.0 149.9 18.3 148.2 18.8 C 138.4 21.4 131.9 30.4 131.9 40.5 V 69.7 L 103.6 98.2 C 88.7 113.4 84.2 136.2 92.4 156.1 C 99.3 173.2 114.4 185.0 131.9 188.0 V 193.5 C 131.9 195.8 129.8 198.0 127.4 198.0 H 113.9 V 216.0 H 127.4 C 139.5 216.0 149.9 206.0 149.9 193.5 V 189.0 C 168.1 189.0 187.3 171.7 187.3 146.2 C 187.3 125.5 170.0 108.0 149.9 108.0 M 149.9 40.5 C 149.9 38.4 150.9 36.8 152.8 36.3 C 154.7 35.7 156.8 36.5 157.8 38.3 C 158.9 40.1 158.5 42.4 157.1 43.8 L 149.9 51.6 V 40.5 M 131.9 112.5 C 123.1 118.3 116.6 128.2 114.2 137.3 L 131.9 142.0 V 169.5 C 121.7 166.8 113.0 159.4 108.8 149.1 C 103.4 136.0 106.3 121.0 116.2 111.0 L 131.9 94.5 V 112.5 M 149.9 171.0 V 125.5 C 160.4 125.5 169.5 135.4 169.5 146.2 C 169.5 162.0 158.1 171.0 149.9 171.0 Z" />
+  </g>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-6.250 -41.500)">
+  <defs>
+    <linearGradient id="shrimpFlesh" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffb098" />
+      <stop offset="100%" stop-color="#ee6a48" />
+    </linearGradient>
+    <linearGradient id="shellG" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff8060" />
+      <stop offset="100%" stop-color="#c33010" />
+    </linearGradient>
+    <linearGradient id="tailG" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff9070" />
+      <stop offset="100%" stop-color="#b82408" />
+    </linearGradient>
+  </defs>
+  
+  <path d="M140,300 C120,240 160,170 230,150 C320,128 410,180 420,260 C422,294 408,320 380,328 C356,334 340,320 340,300 C340,288 348,278 360,278 C376,278 388,290 384,310" fill="url(#shrimpFlesh)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round" />
+  
+  <path d="M180,250 Q176,272 188,288" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M212,212 Q208,238 220,256" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M250,180 Q250,210 264,228" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M298,168 Q304,200 320,218" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M346,180 Q358,212 376,232" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <path d="M384,310 L432,290 L444,316 L432,344 L388,332 Z" fill="url(#tailG)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <path d="M404,300 L432,290" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M404,320 L444,316" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M404,336 L432,344" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <circle cx="158" cy="276" r="9" fill="#2b2622" />
+  <circle cx="156" cy="274" r="3" fill="#ffffff" />
+  
+  <path d="M140,272 Q100,250 80,220" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M148,300 Q108,300 80,280" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <path d="M80,420 Q110,400 140,420 Q120,440 100,438 Q80,432 80,420 Z" fill="url(#shellG)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <path d="M100,422 Q116,418 130,425" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M180,438 Q210,418 248,430 Q236,452 212,452 Q188,448 180,438 Z" fill="url(#shellG)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <path d="M200,438 Q220,432 238,438" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M290,420 Q320,402 360,418 Q344,440 320,440 Q298,436 290,420 Z" fill="url(#shellG)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <path d="M310,422 Q330,418 348,425" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M380,432 Q406,414 436,430 Q424,450 404,450 Q386,446 380,432 Z" fill="url(#shellG)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <path d="M400,432 Q418,428 432,434" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <path d="M260,340 Q240,390 220,420" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-dasharray="6 6" />
+  <polygon points="220,420 230,406 234,422" fill="#2b2622" />
+</g>
+  </svg>

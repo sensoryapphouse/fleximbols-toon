@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+
+<rect x="0" y="380" width="512" height="90" fill="#9E9E9E" stroke="#1a1a1a" stroke-width="0" />
+<line x1="0" y1="380" x2="512" y2="380" stroke="#1a1a1a" stroke-width="5" />
+
+<line x1="40" y1="450" x2="90" y2="450" stroke="#1a1a1a" stroke-width="5" />
+<line x1="140" y1="450" x2="190" y2="450" stroke="#1a1a1a" stroke-width="5" />
+<line x1="340" y1="450" x2="390" y2="450" stroke="#1a1a1a" stroke-width="5" />
+<line x1="440" y1="450" x2="490" y2="450" stroke="#1a1a1a" stroke-width="5" />
+
+<path d="M30 420 Q160 420 250 380 Q310 350 380 310" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" />
+<path d="M30 440 Q160 440 250 400 Q310 370 380 330" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" />
+
+<g transform="rotate(-15 320 260)">
+
+<path d="M180 260 L200 200 Q210 180 240 180 L400 180 Q430 180 440 200 L460 260 Z" fill="#FF1744" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="180" y="260" width="280" height="50" rx="8" fill="#FF1744" stroke="#1a1a1a" stroke-width="5.0000" />
+
+<path d="M225 200 L240 195 L320 195 L320 245 L220 245 Z" fill="#80D8FF" stroke="#1a1a1a" stroke-width="5" />
+<path d="M335 195 L400 195 Q425 195 430 215 L435 245 L335 245 Z" fill="#80D8FF" stroke="#1a1a1a" stroke-width="5" />
+
+<line x1="328" y1="195" x2="328" y2="245" stroke="#1a1a1a" stroke-width="5" />
+
+<line x1="320" y1="245" x2="320" y2="305" stroke="#1a1a1a" stroke-width="4" />
+
+<circle cx="450" cy="270" r="10" fill="#FFD400" stroke="#1a1a1a" stroke-width="4" />
+
+<rect x="183" y="265" width="14" height="18" fill="#B71C1C" stroke="#1a1a1a" stroke-width="3" />
+
+<circle cx="240" cy="310" r="30" fill="#1A1A1A" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="240" cy="310" r="14" fill="#9E9E9E" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="400" cy="310" r="30" fill="#1A1A1A" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="400" cy="310" r="14" fill="#9E9E9E" stroke="#1a1a1a" stroke-width="3" />
+</g>
+
+<circle cx="80" cy="380" r="18" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4" />
+<circle cx="110" cy="360" r="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4" />
+<circle cx="130" cy="385" r="12" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4" />
+
+<line x1="60" y1="200" x2="120" y2="200" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<line x1="40" y1="230" x2="110" y2="230" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<line x1="70" y1="260" x2="130" y2="260" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Meta Oculus VR headset — front view -->
+  <!-- Main headset body -->
+  <path d="M 56 200 Q 56 160 96 152 L 416 152 Q 456 160 456 200 L 456 330 Q 456 370 416 378 L 96 378 Q 56 370 56 330 Z" fill="#1e1e2e" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Face foam / gasket band -->
+  <path d="M 80 370 Q 80 392 100 398 L 412 398 Q 432 392 432 370" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Nose bridge cutout / indent -->
+  <path d="M 220 370 Q 220 390 256 392 Q 292 390 292 370" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- Left lens housing -->
+  <ellipse cx="170" cy="262" rx="88" ry="76" fill="#0f172a" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Right lens housing -->
+  <ellipse cx="342" cy="262" rx="88" ry="76" fill="#0f172a" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Left lens inner ring (fresnel-lens look) -->
+  <ellipse cx="170" cy="262" rx="64" ry="54" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+  <ellipse cx="170" cy="262" rx="40" ry="34" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+  <ellipse cx="170" cy="262" rx="18" ry="15" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- Right lens inner rings -->
+  <ellipse cx="342" cy="262" rx="64" ry="54" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+  <ellipse cx="342" cy="262" rx="40" ry="34" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+  <ellipse cx="342" cy="262" rx="18" ry="15" fill="none" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- Lens separator bar in centre -->
+  <rect x="232" y="230" width="48" height="64" rx="6" fill="#1e1e2e" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- Top LED / sensor bar -->
+  <rect x="178" y="154" width="156" height="12" rx="6" fill="#333" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- Head strap attachment tabs -->
+  <rect x="44" y="236" width="24" height="52" rx="6" fill="#333" stroke="#1a1a1a" stroke-width="5"/>
+  <rect x="444" y="236" width="24" height="52" rx="6" fill="#333" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Volume / power button on right side -->
+  <rect x="448" y="204" width="10" height="22" rx="4" fill="#555" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- Top strap -->
+  <path d="M 120 154 Q 120 100 256 92 Q 392 100 392 154" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+</svg>

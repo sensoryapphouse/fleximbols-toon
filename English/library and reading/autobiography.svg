@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <path d="M120 90 L380 90 Q400 90 400 110 L400 430 Q400 450 380 450 L120 450 Q100 450 100 430 L100 110 Q100 90 120 90 Z" fill="#0a8e5a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="100" y="90" width="22" height="360" fill="#04603a" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="140" y="120" width="240" height="300" fill="#26c485" stroke="#1a1a1a" stroke-width="5" />
+  
+  <text x="260" y="155" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="900" fill="#fffae0" text-anchor="middle">MY</text>
+  <text x="260" y="180" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="900" fill="#fffae0" text-anchor="middle">AUTOBIOGRAPHY</text>
+  
+  <rect x="180" y="200" width="160" height="170" rx="18" fill="#2c2c2c" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="190" y="218" width="140" height="138" fill="#a8d0f0" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M218 356 Q218 320 240 312 Q260 308 280 312 Q302 320 302 356 Z" fill="#f0a05f" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="260" cy="280" rx="34" ry="38" fill="#e8b896" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M226 276 Q224 248 248 240 Q260 237 274 240 Q298 248 294 276 Q286 260 270 258 Q255 260 240 263 Q228 266 226 276 Z" fill="#4d2818" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="290" cy="246" r="10" fill="#4d2818" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M243 280 Q248 276 253 280" fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <circle cx="272" cy="280" r="3.5" fill="#053a23" />
+  <path d="M246 298 Q260 308 274 298" fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  
+  <path d="M298 332 Q316 320 318 300 L322 290 Q326 294 326 304 L324 314 Q330 308 332 314 Q330 326 322 332 Z" fill="#e8b896" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="155" cy="155" r="22" fill="#ffd23a" stroke="#1a1a1a" stroke-width="5" />
+  <text x="155" y="166" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="900" fill="#053a23" text-anchor="middle">I</text>
+  
+  <text x="260" y="402" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" font-weight="700" fill="#fffae0" text-anchor="middle">written by ME</text>
+</svg>

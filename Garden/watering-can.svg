@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(-64.98 2.70) scale(2.0560)" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Watering can: body + long spout + rose head + top handle -->
+  <!-- Main body -->
+  <path d="M 55 90 L 45 195 L 185 195 L 175 90 Z" fill="#1846d9" stroke="#000000" stroke-width="6.50" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Body top -->
+  <ellipse cx="115" cy="90" rx="60" ry="12" fill="#1846d9" stroke="#000000" stroke-width="6.50"/>
+  <!-- Fill opening circle on top -->
+  <ellipse cx="115" cy="90" rx="20" ry="8" fill="#130094" stroke="#000000" stroke-width="5.20"/>
+  <!-- Top carry handle -->
+  <path d="M 80 80 Q 80 45 115 45 Q 150 45 150 80" fill="none" stroke="#000000" stroke-width="6.50" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Handle bar fill -->
+  <path d="M 80 80 Q 80 48 115 48 Q 150 48 150 80" fill="none" stroke="#1d0e82" stroke-width="3.90" stroke-linecap="round"/>
+  <!-- Long spout base -->
+  <path d="M 175 140 Q 220 130 245 110" fill="none" stroke="#000000" stroke-width="18.20" stroke-linecap="round"/>
+  <path d="M 175 140 Q 220 130 245 110" fill="none" stroke="#2a4ec0" stroke-width="10.40" stroke-linecap="round"/>
+  <!-- Rose head (circle with dots) -->
+  <circle cx="250" cy="107" r="18" fill="#bebebe" stroke="#000000" stroke-width="6.50"/>
+  <!-- Rose holes -->
+  <circle cx="244" cy="101" r="2.5" fill="#000000" stroke="#000000" stroke-width="1.30"/>
+  <circle cx="252" cy="100" r="2.5" fill="#000000" stroke="#000000" stroke-width="1.30"/>
+  <circle cx="260" cy="103" r="2.5" fill="#000000" stroke="#000000" stroke-width="1.30"/>
+  <circle cx="243" cy="109" r="2.5" fill="#000000" stroke="#000000" stroke-width="1.30"/>
+  <circle cx="251" cy="108" r="2.5" fill="#000000" stroke="#000000" stroke-width="1.30"/>
+  <circle cx="259" cy="110" r="2.5" fill="#000000" stroke="#000000" stroke-width="1.30"/>
+  <circle cx="247" cy="116" r="2.5" fill="#000000" stroke="#000000" stroke-width="1.30"/>
+  <circle cx="255" cy="115" r="2.5" fill="#000000" stroke="#000000" stroke-width="1.30"/>
+  <!-- Bottom base -->
+  <rect x="50" y="192" width="140" height="10" rx="5" ry="5" fill="#130094" stroke="#000000" stroke-width="5.20"/>
+</g></svg>

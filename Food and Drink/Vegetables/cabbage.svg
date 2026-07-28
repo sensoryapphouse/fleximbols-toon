@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>cabbage</title>
+  
+  <path d="M64 280 Q60 180 140 140 Q150 90 230 100 Q260 60 320 90 Q400 80 420 160 Q470 200 440 280 Q470 360 400 410 Q360 460 280 450 Q220 470 160 430 Q90 410 70 340 Q40 320 64 280Z" fill="#4ea64a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M120 260 Q200 240 230 300 Q280 250 320 290 Q380 260 400 320" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <path d="M150 360 Q210 340 250 390 Q300 360 360 380" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <ellipse cx="256" cy="280" rx="140" ry="120" fill="#7bcc52" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M256 170 Q220 240 256 320 Q290 240 256 170Z" fill="#a3e070" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M150 280 Q220 260 256 280 Q290 260 360 280" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <path d="M170 340 Q220 320 256 340 Q290 320 350 340" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <path d="M180 220 Q220 240 256 220" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  
+</svg>

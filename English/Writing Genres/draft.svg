@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="doc" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f5f7ff" /><stop offset="100%" stop-color="#dde3f0" /></linearGradient>
+    <linearGradient id="pen" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f8c531" /><stop offset="100%" stop-color="#e0a417" /></linearGradient>
+  </defs>
+  <path d="M110 60 L340 60 L400 120 L400 460 L110 460 Z" fill="url(#doc)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M340 60 L340 120 L400 120 Z" fill="#c8d0e0" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M130 170 L320 170" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M130 210 L290 210" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M130 250 L300 250" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M130 290 L200 290" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-dasharray="12,8" />
+  <path d="M130 330 L240 330" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-dasharray="12,8" />
+  <rect x="275" y="330" width="160" height="50" rx="12" fill="url(#pen)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" transform="rotate(-35,355,355)" />
+  <rect x="380" y="370" width="28" height="36" rx="4" fill="#f3c19a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" transform="rotate(-35,394,388)" />
+  <polygon points="388,408 400,432 376,420" fill="#2b2622" transform="rotate(-35,388,420)" />
+  <rect x="278" y="332" width="100" height="48" rx="0" fill="#d98a12" opacity="0.3" transform="rotate(-35,328,356)" />
+  <rect x="278" y="332" width="160" height="18" rx="8" fill="#ffffff" opacity="0.35" transform="rotate(-35,358,341)" />
+  <path d="M120 68 Q170 62 220 70" fill="none" stroke="#1a1a1a" stroke-width="3" opacity="0.5" stroke-linecap="round" />
+</svg>

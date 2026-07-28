@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  
+  
+  <circle cx="256" cy="256" r="238" fill="#ffaa00" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <clipPath id="sunclip">
+    <circle cx="256" cy="256" r="238" />
+  </clipPath>
+  <g clip-path="url(#sunclip)">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <ellipse cx="230" cy="230" rx="60" ry="52" fill="#8a5010" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="230" cy="230" rx="44" ry="38" fill="#3a1808" />
+    <ellipse cx="230" cy="230" rx="28" ry="24" fill="#1a0800" />
+    
+    <ellipse cx="310" cy="260" rx="44" ry="38" fill="#8a5010" stroke="#1a1a1a" stroke-width="2" />
+    <ellipse cx="310" cy="260" rx="30" ry="26" fill="#3a1808" />
+    <ellipse cx="310" cy="260" rx="18" ry="15" fill="#1a0800" />
+    
+    <ellipse cx="268" cy="310" rx="30" ry="24" fill="#8a5010" stroke="#1a1a1a" stroke-width="1.5" />
+    <ellipse cx="268" cy="310" rx="18" ry="14" fill="#3a1808" />
+    <ellipse cx="268" cy="310" rx="10" ry="8" fill="#1a0800" />
+    
+    <line x1="165" y1="220" x2="190" y2="225" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.6" />
+    <line x1="172" y1="238" x2="196" y2="236" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.6" />
+    <line x1="295" y1="340" x2="285" y2="310" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.6" />
+    <line x1="362" y1="268" x2="338" y2="264" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.6" />
+  </g>
+  
+  <circle cx="256" cy="256" r="238" fill="none" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M256,18 L248,0 L256,10 L264,0 Z" fill="#ffaa00" />
+  <path d="M256,494 L248,512 L256,502 L264,512 Z" fill="#ffaa00" />
+  <path d="M18,256 L0,248 L10,256 L0,264 Z" fill="#ffaa00" />
+  <path d="M494,256 L512,248 L502,256 L512,264 Z" fill="#ffaa00" />
+</svg>

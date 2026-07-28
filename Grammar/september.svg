@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <rect x="56" y="84" width="400" height="360" rx="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="56" y="84" width="400" height="80" rx="20" fill="#e67e22" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="56" y="148" width="400" height="16" fill="#e67e22" />
+  <line x1="56" y1="164" x2="456" y2="164" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="120" y="60" width="24" height="60" rx="6" fill="#7f5a36" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="368" y="60" width="24" height="60" rx="6" fill="#7f5a36" stroke="#1a1a1a" stroke-width="5" />
+  <text x="256" y="142" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="50" font-weight="900" text-anchor="middle" fill="#ffffff">SEP</text>
+  <text x="256" y="324" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="180" font-weight="900" text-anchor="middle" fill="#1a1a1a">9</text>
+  <path d="M88 192 L424 192 M88 232 L424 232 M88 272 L424 272 M88 312 L424 312 M88 352 L424 352 M88 392 L424 392" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M120 192 L120 410 M180 192 L180 410 M240 192 L240 410 M300 192 L300 410 M360 192 L360 410 M420 192 L420 410" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="56" y="84" width="400" height="360" rx="20" fill="none" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M380 410 Q396 396 412 410 Q428 396 444 410" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M68 410 Q84 396 100 410 Q116 396 132 410" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+</svg>

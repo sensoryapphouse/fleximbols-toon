@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <line x1="0" y1="468" x2="512" y2="468" stroke="#1a1a1a" stroke-width="6" />
+  <rect x="0" y="468" width="512" height="44" fill="#e8d6b8" />
+  
+  
+  <rect x="36" y="180" width="72" height="220" fill="#a47a52" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <rect x="36" y="300" width="430" height="160" fill="#8a6442" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="36" y="280" width="430" height="40" fill="#fff8ee" stroke="#1a1a1a" stroke-width="6" />
+  
+  <path d="M36 320 L66 308 L466 308 L436 320 Z" fill="#f4ead4" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M36 320 L466 320 L466 440 L36 440 Z" fill="#5cc4d4" stroke="#1a1a1a" stroke-width="6" />
+  
+  <line x1="60" y1="320" x2="60" y2="440" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="440" y1="320" x2="440" y2="440" stroke="#1a1a1a" stroke-width="4" />
+  
+  <g fill="none" stroke="#1a1a1a" stroke-width="3">
+    <rect x="100" y="340" width="60" height="40" rx="4" />
+    <rect x="180" y="340" width="60" height="40" rx="4" />
+    <rect x="260" y="340" width="60" height="40" rx="4" />
+    <rect x="340" y="340" width="60" height="40" rx="4" />
+    <rect x="100" y="390" width="60" height="40" rx="4" />
+    <rect x="180" y="390" width="60" height="40" rx="4" />
+    <rect x="260" y="390" width="60" height="40" rx="4" />
+    <rect x="340" y="390" width="60" height="40" rx="4" />
+  </g>
+  
+  <ellipse cx="138" cy="270" rx="60" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <ellipse cx="138" cy="262" rx="60" ry="22" fill="#ffe8d4" stroke="#1a1a1a" stroke-width="5" />
+  <ellipse cx="252" cy="270" rx="60" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <ellipse cx="252" cy="262" rx="60" ry="22" fill="#ffe8d4" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="50" y="460" width="18" height="32" fill="#a47a52" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="434" y="460" width="18" height="32" fill="#a47a52" stroke="#1a1a1a" stroke-width="5" />
+  
+  
+  <ellipse cx="380" cy="240" rx="60" ry="34" fill="#ff7a5c" stroke="#1a1a1a" stroke-width="6" />
+  
+  <path d="M340 256 Q330 300 320 340" fill="none" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M420 256 Q430 300 420 340" fill="none" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <ellipse cx="320" cy="346" rx="20" ry="11" fill="#f6caa4" stroke="#1a1a1a" stroke-width="5" />
+  <ellipse cx="420" cy="346" rx="20" ry="11" fill="#f6caa4" stroke="#1a1a1a" stroke-width="5" />
+  
+  <g stroke="#1a1a1a" stroke-width="4" fill="none" stroke-linecap="round">
+    <path d="M310 360 L292 360" />
+    <polyline points="298,354 290,360 298,366" />
+    <path d="M430 360 L448 360" />
+    <polyline points="442,354 450,360 442,366" />
+  </g>
+  
+  <ellipse cx="380" cy="180" rx="40" ry="44" fill="#f6caa4" stroke="#1a1a1a" stroke-width="6" />
+  
+  <path d="M340 174 Q344 134 380 130 Q418 134 422 174 Q412 152 396 154 Q380 164 364 156 Q348 162 340 174 Z" fill="#5a3a28" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <path d="M362 188 L372 188" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M390 188 L400 188" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <path d="M370 208 Q380 214 390 208" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <circle cx="466" cy="110" r="32" fill="#6cd0a6" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M450 110 L462 124 L484 96" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <g fill="#ffec56" stroke="#1a1a1a" stroke-width="3">
+    <path d="M150 130 L160 128 L162 116 L170 128 L182 128 L172 138 L176 150 L164 144 L154 150 L160 138 Z" />
+    <path d="M256 158 L264 156 L266 146 L272 156 L282 156 L274 164 L278 174 L268 168 L260 174 L264 164 Z" />
+  </g>
+</svg>

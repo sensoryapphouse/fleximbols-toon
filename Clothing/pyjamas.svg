@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-27.750 -6.000)">
+<title>pyjamas</title>
+
+<path d="M120 90 L180 60 L220 100 L292 100 L332 60 L392 90 L380 200 L340 200 L340 290 L172 290 L172 200 L132 200 Z" fill="#5DADE2" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+
+<path d="M220 100 L256 140 L292 100 L292 130 L256 165 L220 130 Z" fill="#3498DB" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+
+<line x1="256" y1="160" x2="256" y2="285" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="256" cy="185" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="256" cy="215" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="256" cy="245" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="256" cy="275" r="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="3" />
+
+<polygon points="200,170 206,184 220,184 209,193 213,207 200,199 187,207 191,193 180,184 194,184" fill="#F1C40F" stroke="#1a1a1a" stroke-width="2" />
+<polygon points="312,170 318,184 332,184 321,193 325,207 312,199 299,207 303,193 292,184 306,184" fill="#F1C40F" stroke="#1a1a1a" stroke-width="2" />
+<polygon points="200,235 206,249 220,249 209,258 213,272 200,264 187,272 191,258 180,249 194,249" fill="#F1C40F" stroke="#1a1a1a" stroke-width="2" />
+<polygon points="312,235 318,249 332,249 321,258 325,272 312,264 299,272 303,258 292,249 306,249" fill="#F1C40F" stroke="#1a1a1a" stroke-width="2" />
+
+<path d="M156 310 L356 310 L370 460 L290 460 L268 350 L244 350 L222 460 L142 460 Z" fill="#5DADE2" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+
+<rect x="156" y="300" width="200" height="22" rx="4" fill="#2874A6" stroke="#1a1a1a" stroke-width="4" />
+
+<polygon points="200,400 206,414 220,414 209,423 213,437 200,429 187,437 191,423 180,414 194,414" fill="#F1C40F" stroke="#1a1a1a" stroke-width="2" />
+<polygon points="312,400 318,414 332,414 321,423 325,437 312,429 299,437 303,423 292,414 306,414" fill="#F1C40F" stroke="#1a1a1a" stroke-width="2" />
+
+<path d="M430 100 Q 460 130 440 160 Q 420 130 430 100 Z" fill="#F1C40F" stroke="#1a1a1a" stroke-width="3" />
+
+</g>
+  </svg>

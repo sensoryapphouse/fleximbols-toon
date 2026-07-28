@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-100.919 -95.232) scale(1.3380)">
+<title>ear</title>
+<path d="M180 130 Q310 80 360 200 Q380 290 320 360 Q280 410 240 410 Q200 410 195 370 Q205 335 230 320 Q260 305 260 270 Q255 245 230 245 Q200 245 190 270 Q170 240 175 200 Q160 160 180 130 Z" fill="#fcd5b5" stroke="#1a1a1a" stroke-width="3.7369" stroke-linejoin="round" />
+<path d="M230 200 Q280 180 320 220 Q330 260 305 295 Q285 320 275 300 Q280 270 265 250 Q245 240 235 250" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<path d="M240 320 Q260 340 280 330" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+</g>
+  </svg>

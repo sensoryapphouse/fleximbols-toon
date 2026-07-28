@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  
+  <path d="M256 180 Q200 100 170 60 Q220 80 256 180" fill="#3a8a3a" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M256 180 Q256 80 240 40 Q280 90 270 180" fill="#52b552" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M256 180 Q312 100 342 60 Q292 80 256 180" fill="#3a8a3a" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M210 110 Q230 140 250 175" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M252 70 Q254 130 256 180" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M302 110 Q282 140 262 175" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  
+  <path d="M150 280 Q120 380 256 430 Q392 380 362 280 Q330 200 256 200 Q182 200 150 280 Z" fill="#8b1a4a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M242 425 Q256 470 270 425" fill="#8b1a4a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M256 430 L240 460" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M256 430 L266 465" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <path d="M190 250 Q175 290 195 330" stroke="#1a1a1a" stroke-width="14" fill="none" stroke-linecap="round" opacity="0.6" />
+  
+  <circle cx="220" cy="310" r="12" fill="#ffffff" />
+  <circle cx="292" cy="310" r="12" fill="#ffffff" />
+  <circle cx="222" cy="312" r="6" fill="#000000" />
+  <circle cx="294" cy="312" r="6" fill="#000000" />
+  <circle cx="224" cy="309" r="2.5" fill="#ffffff" />
+  <circle cx="296" cy="309" r="2.5" fill="#ffffff" />
+  <path d="M232 350 Q256 370 280 350" stroke="#1a1a1a" stroke-width="4" fill="none" stroke-linecap="round" />
+  
+  
+</svg>

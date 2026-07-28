@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <path d="M 130 360 Q 86 360 86 316 Q 86 274 130 270 Q 142 220 196 220 Q 226 220 244 244 Q 268 224 296 240 Q 312 198 360 198 Q 416 198 426 248 Q 462 254 462 296 Q 462 360 418 360 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M 130 360 Q 86 360 86 316 Q 86 304 96 294" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  
+  <circle cx="396" cy="320" r="14" fill="#e5e7eb" opacity="0.7" />
+  <path d="M 200 380 L 196 410" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" opacity="0" />
+</svg>

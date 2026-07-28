@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-3.750 -36.500)">
+  <ellipse cx="220" cy="436" rx="200" ry="14" fill="#d8c898" />
+  <path d="M60 360 L196 130 L332 360 L196 380 Z" fill="#c8a838" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M60 360 L196 130 L332 360 Z" fill="#e8c858" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <circle cx="140" cy="240" r="2.5" fill="#a08030" />
+  <circle cx="180" cy="220" r="2" fill="#a08030" />
+  <circle cx="220" cy="260" r="2.5" fill="#a08030" />
+  <circle cx="160" cy="280" r="2" fill="#a08030" />
+  <circle cx="200" cy="300" r="2.5" fill="#a08030" />
+  <circle cx="240" cy="280" r="2" fill="#a08030" />
+  <circle cx="120" cy="320" r="2" fill="#a08030" />
+  <circle cx="260" cy="320" r="2.5" fill="#a08030" />
+  <circle cx="180" cy="340" r="2" fill="#a08030" />
+  <circle cx="220" cy="340" r="2" fill="#a08030" />
+  <circle cx="150" cy="350" r="2" fill="#a08030" />
+  <circle cx="240" cy="200" r="2" fill="#a08030" />
+  <circle cx="190" cy="180" r="2" fill="#a08030" />
+  <circle cx="100" cy="350" r="2" fill="#a08030" />
+  <path d="M60 360 L70 376 L322 376 L332 360" fill="#a88820" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  <path d="M360 200 L460 240 L460 280 L360 320 Q340 310 340 290 L340 230 Q340 210 360 200 Z" fill="#888888" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <circle cx="370" cy="240" r="6" fill="#2b2622" />
+  <circle cx="390" cy="248" r="6" fill="#2b2622" />
+  <circle cx="410" cy="256" r="6" fill="#2b2622" />
+  <circle cx="430" cy="264" r="6" fill="#2b2622" />
+  <circle cx="380" cy="270" r="6" fill="#2b2622" />
+  <circle cx="400" cy="278" r="6" fill="#2b2622" />
+  <circle cx="420" cy="286" r="6" fill="#2b2622" />
+  <circle cx="370" cy="296" r="5" fill="#2b2622" />
+  <circle cx="390" cy="304" r="5" fill="#2b2622" />
+  <circle cx="345" cy="240" r="2" fill="#e8c858" />
+  <circle cx="350" cy="280" r="2" fill="#e8c858" />
+  <circle cx="335" cy="300" r="2" fill="#e8c858" />
+</g>
+  </svg>

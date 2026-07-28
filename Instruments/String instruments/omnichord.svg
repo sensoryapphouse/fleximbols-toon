@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+<rect x="60" y="120" width="392" height="280" rx="18" ry="18" fill="#d8d8d8" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="60" y="120" width="392" height="40" rx="18" ry="18" fill="#3a3a3a" stroke="#1a1a1a" stroke-width="5.0000" />
+<text x="256" y="148" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="900" fill="#f4d040">OMNICHORD</text>
+<rect x="84" y="184" width="160" height="120" rx="8" ry="8" fill="#f0f0f0" stroke="#1a1a1a" stroke-width="4" />
+<g fill="#e84040" stroke="#1a1a1a" stroke-width="3">
+<circle cx="108" cy="208" r="10" /><circle cx="140" cy="208" r="10" /><circle cx="172" cy="208" r="10" /><circle cx="204" cy="208" r="10" />
+</g>
+<g fill="#3a7adc" stroke="#1a1a1a" stroke-width="3">
+<circle cx="108" cy="244" r="10" /><circle cx="140" cy="244" r="10" /><circle cx="172" cy="244" r="10" /><circle cx="204" cy="244" r="10" />
+</g>
+<g fill="#3aac4a" stroke="#1a1a1a" stroke-width="3">
+<circle cx="108" cy="280" r="10" /><circle cx="140" cy="280" r="10" /><circle cx="172" cy="280" r="10" /><circle cx="204" cy="280" r="10" />
+</g>
+<path d="M280 184 L 432 184 L 412 360 L 260 360 Z" fill="#7ad0f0" stroke="#1a1a1a" stroke-width="5.0000" />
+<g stroke="#1a1a1a" stroke-width="2" opacity="0.6">
+<line x1="288" y1="200" x2="420" y2="200" />
+<line x1="286" y1="220" x2="418" y2="220" />
+<line x1="284" y1="240" x2="416" y2="240" />
+<line x1="282" y1="260" x2="414" y2="260" />
+<line x1="280" y1="280" x2="412" y2="280" />
+<line x1="278" y1="300" x2="410" y2="300" />
+<line x1="276" y1="320" x2="408" y2="320" />
+<line x1="274" y1="340" x2="406" y2="340" />
+</g>
+<rect x="84" y="332" width="160" height="50" rx="6" ry="6" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" />
+<rect x="92" y="340" width="60" height="34" rx="4" ry="4" fill="#4a8a4a" />
+<text x="122" y="364" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" fill="#ffffff">C</text>
+<circle cx="190" cy="357" r="14" fill="#f4d040" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="220" cy="357" r="14" fill="#e84040" stroke="#1a1a1a" stroke-width="3" />
+</svg>

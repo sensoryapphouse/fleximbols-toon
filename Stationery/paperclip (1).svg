@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-37.167 -50.923) scale(1.1463)">
+<!-- Paperclip cartoon -->
+<path d="M 200 100 L 200 380 Q 200 432 256 432 Q 312 432 312 380 L 312 160 Q 312 124 280 124 Q 248 124 248 160 L 248 360 Q 248 384 270 384 Q 290 384 290 360 L 290 200" fill="none" stroke="#1a1a1a" stroke-width="4.798" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 200 100 L 200 380 Q 200 432 256 432 Q 312 432 312 380 L 312 160 Q 312 124 280 124 Q 248 124 248 160 L 248 360 Q 248 384 270 384 Q 290 384 290 360 L 290 200" fill="none" stroke="#1a1a1a" stroke-width="2.879" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 196 116 Q 196 100 200 96" fill="none" stroke="#1a1a1a" stroke-width="0.720" stroke-linecap="round"/>
+</g>
+  </svg>

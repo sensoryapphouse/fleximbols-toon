@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="60" y="120" width="392" height="240" rx="20" ry="20" fill="#1565c0" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="60" y="155" width="392" height="45" fill="#1976d2" stroke="none" />
+  
+  <rect x="80" y="130" width="120" height="50" rx="6" ry="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <text x="140" y="164" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="28" font-weight="bold" fill="#1565c0" text-anchor="middle">PPO</text>
+  
+  <rect x="80" y="210" width="200" height="10" rx="5" ry="5" fill="#90caf9" />
+  <rect x="80" y="232" width="150" height="10" rx="5" ry="5" fill="#90caf9" />
+  <rect x="80" y="254" width="170" height="10" rx="5" ry="5" fill="#90caf9" />
+  
+  <rect x="310" y="210" width="50" height="38" rx="5" ry="5" fill="#ffd700" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="310" y1="222" x2="360" y2="222" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="310" y1="234" x2="360" y2="234" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="335" y1="210" x2="335" y2="248" stroke="#1a1a1a" stroke-width="2" />
+  
+  
+  <circle cx="120" cy="390" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" />
+  <circle cx="120" cy="383" r="12" fill="#ffcc80" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="100" y="390" width="40" height="30" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  
+  <circle cx="256" cy="385" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" />
+  <circle cx="256" cy="378" r="12" fill="#ffcc80" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="236" y="385" width="40" height="30" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  
+  <circle cx="392" cy="390" r="28" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" />
+  <circle cx="392" cy="383" r="12" fill="#ffcc80" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="372" y="390" width="40" height="30" rx="8" ry="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  
+  <line x1="155" y1="392" x2="220" y2="392" stroke="#1a1a1a" stroke-width="5" />
+  <polygon points="220,386 234,392 220,398" fill="#ff6600" />
+  <polygon points="155,386 141,392 155,398" fill="#ff6600" />
+  <line x1="292" y1="392" x2="357" y2="392" stroke="#1a1a1a" stroke-width="5" />
+  <polygon points="357,386 371,392 357,398" fill="#ff6600" />
+  <polygon points="292,386 278,392 292,398" fill="#ff6600" />
+</svg>

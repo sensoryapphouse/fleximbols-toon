@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-56.995 -141.134) scale(1.2238)">
+  <g transform="translate(64 64) scale(0.7500)">
+  
+  <g stroke="#1a1a1a" stroke-width="5.4475" stroke-linejoin="round" stroke-linecap="round">
+    
+    <path d="M30 410 L482 410" stroke="#1a1a1a" stroke-width="5.4475" />
+    
+    <path d="M40 330              L80 330              L100 280              Q256 240 412 280              L432 330              L472 330              L472 380              Q472 400 452 400              L60 400              Q40 400 40 380 Z" fill="#e83c3c" />
+    
+    <path d="M130 280              Q160 200 256 200              Q360 200 392 280 Z" fill="#e83c3c" />
+    
+    <path d="M150 274              Q176 220 246 220              L246 274 Z" fill="#a8e0ff" />
+    <path d="M266 220              Q346 220 376 274              L266 274 Z" fill="#a8e0ff" />
+    <path d="M256 222 L256 274" stroke="#1a1a1a" stroke-width="5.4475" />
+    
+    <rect x="200" y="320" width="40" height="8" rx="4" fill="#1f1f1f" />
+    
+    <circle cx="430" cy="320" r="14" fill="#ffd23f" />
+    
+    <circle cx="150" cy="400" r="44" fill="#1f1f1f" />
+    <circle cx="150" cy="400" r="22" fill="#9aa0a8" />
+    <circle cx="362" cy="400" r="44" fill="#1f1f1f" />
+    <circle cx="362" cy="400" r="22" fill="#9aa0a8" />
+    
+    <path d="M170 240 Q200 210 250 208" fill="none" stroke="#1a1a1a" stroke-width="5.4475" />
+  </g></g>
+  <g transform="translate(256 256) scale(0.3750)">
+  
+  
+  
+  <path d="M256 40 Q280 80 310 100 Q340 120 350 160 Q360 200 340 240 Q380 210 370 160 Q400 200 395 255 Q390 320 340 360 Q310 385 256 400 Q202 385 172 360 Q122 320 117 255 Q112 200 142 160 Q137 210 177 240 Q157 200 168 160 Q178 120 206 100 Q236 80 256 40 Z" fill="#ff6600" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M256 120 Q272 148 290 165 Q308 182 310 210 Q316 240 300 265 Q328 248 322 210 Q338 240 330 278 Q318 320 280 342 Q268 350 256 355 Q244 350 232 342 Q194 320 182 278 Q174 240 190 210 Q182 248 210 265 Q194 240 200 210 Q202 182 222 165 Q240 148 256 120 Z" fill="#ffcc00" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M256 200 Q266 220 272 240 Q276 262 264 280 Q280 270 276 248 Q284 266 278 290 Q270 318 256 330 Q242 318 234 290 Q228 266 236 248 Q232 270 248 280 Q236 262 240 240 Q246 220 256 200 Z" fill="#ffffff" fill-opacity="0.85" />
+  
+  
+  <rect x="156" y="410" width="200" height="70" rx="12" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="174" y="422" width="8" height="46" fill="#ffcc00" />
+  <rect x="174" y="422" width="28" height="8" fill="#ffcc00" />
+  <rect x="174" y="442" width="22" height="7" fill="#ffcc00" />
+  
+  <rect x="212" y="422" width="8" height="46" fill="#ffcc00" />
+  
+  <rect x="232" y="422" width="8" height="46" fill="#ffcc00" />
+  <path d="M240 422 Q260 422 260 435 Q260 448 240 448" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="244" y1="447" x2="260" y2="468" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <rect x="272" y="422" width="8" height="46" fill="#ffcc00" />
+  <rect x="272" y="422" width="28" height="8" fill="#ffcc00" />
+  <rect x="272" y="442" width="22" height="7" fill="#ffcc00" />
+  <rect x="272" y="460" width="28" height="8" fill="#ffcc00" />
+  
+  <polygon points="256,30 259,20 262,30 272,27 264,34 268,44 258,38 248,44 252,34 244,27" fill="#ffcc00" stroke="#1a1a1a" stroke-width="4" />
+  <polygon points="150,160 153,150 156,160 166,157 158,164 162,174 152,168 142,174 146,164 138,157" fill="#ff6600" stroke="#1a1a1a" stroke-width="4" />
+  <polygon points="362,160 365,150 368,160 378,157 370,164 374,174 364,168 354,174 358,164 350,157" fill="#ff6600" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M90 340 Q100 320 110 330 Q115 310 120 320 Q125 300 130 315 Q140 300 140 325 Q150 310 145 340 Q140 360 118 372 Q96 360 90 340 Z" fill="#ff6600" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M382 340 Q392 320 402 330 Q407 310 412 320 Q417 300 422 315 Q432 300 432 325 Q442 310 437 340 Q432 360 410 372 Q388 360 382 340 Z" fill="#ff6600" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M100 345 Q110 332 118 342 Q122 328 128 338 Q132 322 135 342 Q130 358 118 365 Q106 358 100 345 Z" fill="#ffcc00" />
+  <path d="M392 345 Q402 332 410 342 Q414 328 420 338 Q424 322 427 342 Q422 358 410 365 Q398 358 392 345 Z" fill="#ffcc00" /></g>
+</g>
+  </svg>

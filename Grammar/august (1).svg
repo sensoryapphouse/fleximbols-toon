@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="60" y="80" width="392" height="372" rx="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="60" y="80" width="392" height="100" rx="14" fill="#e94d2b" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="60" y="160" width="392" height="20" fill="#e94d2b" />
+  <rect x="100" y="50" width="30" height="60" rx="6" fill="#3a3a3a" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="382" y="50" width="30" height="60" rx="6" fill="#3a3a3a" stroke="#1a1a1a" stroke-width="4" />
+  <text x="256" y="150" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="68" font-weight="900" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" text-anchor="middle">AUGUST</text>
+  <text x="256" y="370" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="200" font-weight="900" fill="#3a3a3a" text-anchor="middle">15</text>
+  <circle cx="380" cy="240" r="38" fill="#f7c531" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M 380 195 L 380 175 M 380 305 L 380 285 M 335 240 L 315 240 M 445 240 L 425 240 M 348 208 L 333 193 M 412 208 L 427 193 M 348 272 L 333 287 M 412 272 L 427 287" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+</svg>

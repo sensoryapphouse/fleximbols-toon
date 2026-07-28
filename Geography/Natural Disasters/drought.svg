@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="sunhot" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#fff176" /><stop offset="100%" stop-color="#f8c531" /></radialGradient>
+    <linearGradient id="earthgrad" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#c49a4a" /><stop offset="100%" stop-color="#8a6020" /></linearGradient>
+  </defs>
+  <circle cx="256" cy="112" r="72" fill="url(#sunhot)" stroke="#1a1a1a" stroke-width="8" />
+  <circle cx="256" cy="112" r="55" fill="#f8c531" />
+  <line x1="256" y1="20" x2="256" y2="6" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="307" y1="36" x2="317" y2="25" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="338" y1="80" x2="352" y2="74" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="205" y1="36" x2="195" y2="25" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="174" y1="80" x2="160" y2="74" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="174" y1="144" x2="160" y2="150" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="338" y1="144" x2="352" y2="150" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <path d="M246,68 Q234,85 238,112" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.35" />
+  <path d="M60,310 Q80,290 100,310 Q120,290 140,310 Q160,290 180,310 Q200,290 220,310 Q240,290 260,310 Q280,290 300,310 Q320,290 340,310 Q360,290 380,310 Q400,290 420,310 Q440,290 452,300 L452,460 L60,460 Z" fill="url(#earthgrad)" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" />
+  <path d="M60,310 Q80,290 100,310 Q120,290 140,310 Q160,290 180,310 Q200,290 220,310 Q240,290 260,310 Q280,290 300,310 Q320,290 340,310 Q360,290 380,310 Q400,290 420,310 Q440,290 452,300" fill="none" stroke="#1a1a1a" stroke-width="5" opacity="0.5" />
+  <line x1="105" y1="340" x2="145" y2="340" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <line x1="88" y1="360" x2="115" y2="360" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="120" y1="375" x2="155" y2="375" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M125,345 L118,372" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M140,345 L148,370" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <line x1="200" y1="330" x2="248" y2="330" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <line x1="185" y1="350" x2="220" y2="350" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="220" y1="365" x2="260" y2="365" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M218,335 L210,362" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M238,335 L244,360" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <line x1="310" y1="345" x2="355" y2="345" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <line x1="295" y1="365" x2="330" y2="365" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="330" y1="380" x2="368" y2="380" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M328,350 L320,377" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M345,350 L352,375" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <line x1="390" y1="360" x2="435" y2="360" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M408,365 L400,390" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M425,365 L430,388" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M100,410 Q130,395 160,410 Q190,395 220,410" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.5" />
+  <path d="M280,420 Q310,405 340,420 Q370,405 400,420" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.5" />
+</svg>

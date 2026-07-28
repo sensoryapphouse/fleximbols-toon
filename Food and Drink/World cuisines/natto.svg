@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(256,256) scale(1.2575) translate(-255,-175)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.175 -88.207) scale(1.0799)">
+  <defs>
+    <linearGradient id="bowl" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#e8d5b0" /><stop offset="100%" stop-color="#c4a870" /></linearGradient>
+    <linearGradient id="bean" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#d4b86a" /><stop offset="100%" stop-color="#a88030" /></linearGradient>
+  </defs>
+  
+  <path d="M100 280 Q90 380 256 390 Q422 380 412 280 Z" fill="url(#bowl)" stroke="#1a1a1a" stroke-width="4.6301" stroke-linejoin="round" />
+  <path d="M100 280 Q90 380 256 390 Q422 380 412 280 Z" fill="#c4a870" opacity="0.3" clip-path="none" />
+  <ellipse cx="256" cy="280" rx="156" ry="30" fill="url(#bowl)" stroke="#1a1a1a" stroke-width="4.6301" />
+  
+  
+  <ellipse cx="170" cy="295" rx="18" ry="12" fill="url(#bean)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <ellipse cx="205" cy="290" rx="18" ry="12" fill="url(#bean)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <ellipse cx="240" cy="287" rx="18" ry="12" fill="url(#bean)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <ellipse cx="275" cy="291" rx="18" ry="12" fill="url(#bean)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <ellipse cx="310" cy="288" rx="18" ry="12" fill="url(#bean)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <ellipse cx="345" cy="295" rx="18" ry="12" fill="url(#bean)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <ellipse cx="185" cy="310" rx="18" ry="12" fill="url(#bean)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <ellipse cx="222" cy="305" rx="18" ry="12" fill="url(#bean)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <ellipse cx="258" cy="308" rx="18" ry="12" fill="url(#bean)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <ellipse cx="293" cy="305" rx="18" ry="12" fill="url(#bean)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <ellipse cx="328" cy="310" rx="18" ry="12" fill="url(#bean)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  
+  
+  
+  
+  <path d="M258 282 Q262 260 270 245 Q278 230 285 215 Q288 205 280 200 Q275 198 272 205 Q268 218 262 235 Q255 252 250 268 Q246 255 240 240 Q232 222 228 208 Q224 198 216 200 Q208 204 212 215 Q218 230 225 248 Q232 262 236 278" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.85" />
+  <path d="M290 278 Q296 255 305 240 Q312 228 316 215 Q319 205 312 200 Q306 198 303 207 Q298 220 293 238 Q288 254 285 270" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.85" />
+  <path d="M225 278 Q220 258 214 243 Q208 228 205 215 Q202 204 210 200 Q216 198 219 207 Q224 220 229 238 Q233 255 235 272" fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" opacity="0.75" />
+  <rect x="240" y="100" width="10" height="170" rx="5" fill="#2b2622" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="268" y="115" width="10" height="165" rx="5" fill="#2b2622" stroke="#1a1a1a" stroke-width="2" transform="rotate(-6 273 197)" />
+  <path d="M240 100 Q242 95 250 98 Q248 103 240 100 Z" fill="#c0392b" />
+  <path d="M272 112 Q275 107 282 111 Q280 116 272 112 Z" fill="#c0392b" transform="rotate(-6 277 112)" />
+  <rect x="237" y="98" width="16" height="6" rx="3" fill="#c0392b" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="266" y="110" width="16" height="6" rx="3" fill="#c0392b" stroke="#1a1a1a" stroke-width="2" transform="rotate(-6 274 113)" />
+</g>
+  </g></svg>

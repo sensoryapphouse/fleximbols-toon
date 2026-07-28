@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(256,256) scale(1.483) translate(-148,-249)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-74.886 -90.883) scale(1.1226)">
+
+  <path d="M120 420 L120 280 Q120 260 140 260 Q160 260 160 280 L160 220 Q160 200 180 200 Q200 200 200 220 L200 280 Q200 220 220 220 Q240 220 240 240 L240 290 Q240 240 260 240 Q280 240 280 260 L280 320 Q280 380 240 410 Q210 430 180 430 Q140 430 120 420 Z" fill="#FFD9B3" stroke="#1a1a1a" stroke-width="4.4539" stroke-linejoin="round" />
+
+  <circle cx="200" cy="200" r="14" fill="#FF6B6B" stroke="#1a1a1a" stroke-width="1" />
+  <circle cx="195" cy="195" r="4" fill="#FFFFFF" />
+
+  <!-- Right arrow: line from outer to inner, arrowhead at inner (pointing inward) -->
+  <path d="M230 175 L207 193" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" />
+  <path d="M207 193 L212 187" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" fill="none" />
+  <path d="M207 193 L213 196" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" fill="none" />
+
+  <!-- Left arrow: line from outer to inner, arrowhead at inner (pointing inward) -->
+  <path d="M170 175 L193 193" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" />
+  <path d="M193 193 L188 187" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" fill="none" />
+  <path d="M193 193 L187 196" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" fill="none" />
+
+  </g>
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256,44 L 300,178 L 441,178 L 327,262 L 370,396 L 256,313 L 142,396 L 185,262 L 71,178 L 212,178 Z" fill="#f0b400" stroke="#1a1a1a" stroke-width="26" stroke-linejoin="round"/><rect x="86" y="412" width="340" height="72" rx="16" fill="#3fae5a" stroke="#1a1a1a" stroke-width="26"/></g></svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -61.000)">
+  <title>weigh</title>
+  
+  
+  <rect x="180" y="430" width="152" height="30" rx="8" fill="#A0743A" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="240" y="200" width="32" height="240" fill="#C99757" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="80" y="180" width="352" height="22" rx="8" fill="#C99757" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <circle cx="256" cy="191" r="18" fill="#FFC83D" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <line x1="120" y1="202" x2="120" y2="280" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="105" y1="280" x2="135" y2="280" stroke="#1a1a1a" stroke-width="5" />
+  
+  <path d="M60,290 Q120,360 180,290 Z" fill="#E63946" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <line x1="120" y1="280" x2="120" y2="295" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="100" y="245" width="40" height="50" rx="6" fill="#3A3A3A" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="108" y="232" width="24" height="20" rx="4" fill="#3A3A3A" stroke="#1a1a1a" stroke-width="5" />
+  <text x="120" y="278" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" font-weight="900" fill="#FFFFFF" text-anchor="middle">5kg</text>
+  
+  <line x1="392" y1="202" x2="392" y2="240" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="377" y1="240" x2="407" y2="240" stroke="#1a1a1a" stroke-width="5" />
+  
+  <path d="M332,250 Q392,320 452,250 Z" fill="#3D9970" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <line x1="392" y1="240" x2="392" y2="255" stroke="#1a1a1a" stroke-width="5" />
+  
+  <ellipse cx="392" cy="220" rx="10" ry="22" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="392" y1="200" x2="392" y2="240" stroke="#1a1a1a" stroke-width="4" />
+</g>
+  </svg>

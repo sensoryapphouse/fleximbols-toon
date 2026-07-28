@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-55.990 -73.069) scale(1.2199)">
+<defs>
+<linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#cdebff" />
+<stop offset="1" stop-color="#7ec8ff" />
+</linearGradient>
+<linearGradient id="cglass" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#eaf7ff" stop-opacity="0.4" />
+<stop offset="1" stop-color="#b9deff" stop-opacity="0.45" />
+</linearGradient>
+</defs>
+<path d="M155 110 L357 110 L335 410 Q333 430 313 430 L199 430 Q179 430 177 410 Z" fill="url(#cglass)" stroke="#1a1a1a" stroke-width="4.0987" stroke-linejoin="round" />
+<path d="M170 240 L342 240 L333 410 Q331 425 315 425 L197 425 Q181 425 179 410 Z" fill="url(#water)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+<path d="M170 240 Q200 225 230 242 Q260 258 290 242 Q320 226 342 240" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+<path d="M192 280 L200 400" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" opacity="0.85" />
+<path d="M325 270 Q330 330 322 390" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.7" />
+<g stroke="#1a1a1a" stroke-width="5" stroke-linecap="round">
+<path d="M120 160 L120 195 M102 178 L138 178 M111 167 L129 189 M129 167 L111 189" fill="none" />
+<path d="M400 200 L400 230 M385 215 L415 215 M390 205 L410 225 M410 205 L390 225" fill="none" />
+<path d="M395 380 L395 410 M380 395 L410 395 M385 385 L405 405 M405 385 L385 405" fill="none" />
+</g>
+<ellipse cx="105" cy="380" rx="9" ry="13" fill="#7ec8ff" stroke="#1a1a1a" stroke-width="5" />
+<ellipse cx="408" cy="120" rx="8" ry="12" fill="#7ec8ff" stroke="#1a1a1a" stroke-width="5" />
+</g>
+  </svg>

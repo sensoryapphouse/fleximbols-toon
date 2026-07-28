@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="pot" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#bdc4cc" />
+      <stop offset="1" stop-color="#5b6470" />
+    </linearGradient>
+    <linearGradient id="hotwater" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7ec0ee" />
+      <stop offset="1" stop-color="#2a6db0" />
+    </linearGradient>
+    <linearGradient id="icewater" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d9f1ff" />
+      <stop offset="1" stop-color="#7ec5e8" />
+    </linearGradient>
+    <linearGradient id="bowl" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f0f4f7" />
+      <stop offset="1" stop-color="#a8b2bd" />
+    </linearGradient>
+    <linearGradient id="spoonmetal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e0e6ec" />
+      <stop offset="1" stop-color="#888f97" />
+    </linearGradient>
+  </defs>
+  
+  <path d="M70 90 Q60 120 80 145 Q95 165 80 195" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.85" />
+  <path d="M120 70 Q140 95 120 125 Q105 145 120 175" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.85" />
+  <path d="M170 90 Q160 120 180 145" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.8" />
+  
+  <path d="M28 220 L228 220 L218 388 Q216 408 196 408 L60 408 Q40 408 38 388 Z" fill="url(#pot)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <rect x="232" y="240" width="36" height="18" rx="9" ry="9" fill="#3b424c" stroke="#1a1a1a" stroke-width="6" />
+  <ellipse cx="128" cy="220" rx="100" ry="12" fill="#7d8590" stroke="#1a1a1a" stroke-width="6" />
+  
+  <path d="M40 235 L216 235 L210 388 Q208 398 198 398 L60 398 Q50 398 48 388 Z" fill="url(#hotwater)" />
+  
+  <path d="M40 235 Q70 220 100 235 Q130 250 160 235 Q190 220 216 235" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <circle cx="80" cy="280" r="14" fill="#dff1ff" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="140" cy="300" r="16" fill="#dff1ff" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="190" cy="280" r="12" fill="#dff1ff" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="100" cy="330" r="11" fill="#dff1ff" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="170" cy="340" r="13" fill="#dff1ff" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="60" cy="350" r="9" fill="#dff1ff" stroke="#1a1a1a" stroke-width="4" />
+  
+  <line x1="180" y1="100" x2="120" y2="200" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <ellipse cx="110" cy="215" rx="40" ry="14" fill="url(#spoonmetal)" stroke="#1a1a1a" stroke-width="6" transform="rotate(-15 110 215)" />
+  <circle cx="95" cy="212" r="3" fill="#1f2933" />
+  <circle cx="110" cy="218" r="3" fill="#1f2933" />
+  <circle cx="125" cy="216" r="3" fill="#1f2933" />
+  
+  <circle cx="100" cy="200" r="14" fill="#7bb24a" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="92" cy="190" r="8" fill="#7bb24a" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="108" cy="190" r="8" fill="#7bb24a" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="100" cy="184" r="7" fill="#7bb24a" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="100" y1="200" x2="100" y2="214" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M288 260 L484 260 L470 410 Q468 425 453 425 L319 425 Q304 425 302 410 Z" fill="url(#bowl)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <ellipse cx="386" cy="260" rx="98" ry="12" fill="#cfd6dd" stroke="#1a1a1a" stroke-width="6" />
+  
+  <path d="M300 275 L472 275 L462 410 Q460 415 452 415 L320 415 Q312 415 310 410 Z" fill="url(#icewater)" />
+  
+  <rect x="320" y="280" width="32" height="28" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="328" y1="288" x2="344" y2="288" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="370" y="290" width="30" height="26" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="378" y1="298" x2="392" y2="298" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="420" y="282" width="34" height="30" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="428" y1="290" x2="446" y2="290" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="340" y="320" width="28" height="26" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="395" y="325" width="30" height="26" rx="3" ry="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  
+  <path d="M380 230 Q370 250 386 245 Q400 250 390 230" fill="#dff1ff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <line x1="430" y1="230" x2="430" y2="248" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="421" y1="239" x2="439" y2="239" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="424" y1="233" x2="436" y2="245" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="424" y1="245" x2="436" y2="233" stroke="#1a1a1a" stroke-width="3" />
+</svg>

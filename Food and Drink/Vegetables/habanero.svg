@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -31.750)">
+  
+  
+  
+  <path d="M256 148 C210 148 168 170 158 210 C148 250 155 278 165 292 C175 306 195 310 200 306 C205 302 210 295 210 290" fill="#ff7700" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M256 148 C302 148 344 170 354 210 C364 250 357 278 347 292 C337 306 317 310 312 306 C307 302 302 295 302 290" fill="#ff7700" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M210 290 Q225 310 230 320 Q240 330 256 330 Q272 330 282 320 Q287 310 302 290" fill="#ff7700" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M230 320 C218 340 205 365 202 390 C199 415 210 440 230 452 C245 461 268 464 256 464 C244 464 267 461 282 452 C302 440 313 415 310 390 C307 365 294 340 282 320 Q272 330 256 330 Q240 330 230 320 Z" fill="#ff8800" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M256 148 Q242 220 238 290 Q240 320 240 330" stroke="#1a1a1a" stroke-width="4" fill="none" />
+  <path d="M256 148 Q270 220 274 290 Q272 320 272 330" stroke="#1a1a1a" stroke-width="4" fill="none" />
+  
+  
+  
+  
+  <path d="M248 460 Q252 478 256 486 Q260 478 264 460" fill="#cc5500" stroke="#1a1a1a" stroke-width="4" />
+  
+  <g fill="#2a8a1a" stroke="#1a1a1a" stroke-width="5">
+    <path d="M256 151 C244 122 222 116 230 137 C210 116 203 128 223 141 C203 135 197 151 222 147 C209 163 219 174 231 157 C231 178 246 179 253 160 L256 151" />
+    <path d="M256 151 C268 122 290 116 282 137 C302 116 309 128 289 141 C309 135 315 151 290 147 C303 163 293 174 281 157 C281 178 266 179 259 160 L256 151" />
+  </g>
+  
+  <rect x="250" y="106" width="12" height="46" rx="4" fill="#2a8a1a" stroke="#1a1a1a" stroke-width="5" />
+</g>
+  </svg>

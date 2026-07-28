@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-40.748 -40.748) scale(1.1603)">
+  <defs>
+    <linearGradient id="gPlate" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#aeb4bd" /><stop offset="100%" stop-color="#6f757e" /></linearGradient>
+    <linearGradient id="gHandle" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#c8cdd4" /><stop offset="100%" stop-color="#8a9099" /></linearGradient>
+  </defs>
+  
+  <polygon points="88,200 132,175 176,200 176,312 132,337 88,312" fill="url(#gPlate)" stroke="#1a1a1a" stroke-width="4.3092" stroke-linejoin="round" />
+  
+  <polygon points="88,270 132,295 176,270 176,312 132,337 88,312" fill="#4a5058" opacity="0.45" />
+  
+  
+  
+  <rect x="176" y="226" width="28" height="60" rx="5" fill="#6f757e" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  
+  <rect x="204" y="236" width="104" height="40" rx="8" fill="url(#gHandle)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  
+  <line x1="220" y1="236" x2="220" y2="276" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.5" />
+  <line x1="238" y1="236" x2="238" y2="276" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.5" />
+  <line x1="256" y1="236" x2="256" y2="276" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.5" />
+  <line x1="274" y1="236" x2="274" y2="276" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.5" />
+  <line x1="292" y1="236" x2="292" y2="276" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.5" />
+  
+  <rect x="210" y="240" width="100" height="12" rx="5" fill="#ffffff" opacity="0.3" />
+  
+  <rect x="308" y="226" width="28" height="60" rx="5" fill="#6f757e" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  
+  <polygon points="336,200 380,175 424,200 424,312 380,337 336,312" fill="url(#gPlate)" stroke="#1a1a1a" stroke-width="4.3092" stroke-linejoin="round" />
+  
+  <polygon points="336,270 380,295 424,270 424,312 380,337 336,312" fill="#4a5058" opacity="0.45" />
+  
+  
+</g>
+  </svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  
+  <rect x="250" y="230" width="12" height="180" rx="4" fill="#8B4513" stroke="#1a1a1a" stroke-width="6" />
+  <ellipse cx="256" cy="418" rx="65" ry="16" fill="#8B4513" stroke="#1a1a1a" stroke-width="6" />
+  
+  <rect x="140" y="226" width="232" height="12" rx="5" fill="#6b3a2a" stroke="#1a1a1a" stroke-width="6" />
+  
+  <line x1="160" y1="238" x2="148" y2="295" stroke="#1a1a1a" stroke-width="5" />
+  <ellipse cx="130" cy="305" rx="46" ry="13" fill="#ee8844" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M110 282 Q110 269 122 269 Q130 269 130 278 Q130 269 138 269 Q150 269 150 282 Q150 293 130 305 Q110 293 110 282 Z" fill="#ee3333" stroke="#1a1a1a" stroke-width="5" />
+  
+  <line x1="352" y1="238" x2="364" y2="287" stroke="#1a1a1a" stroke-width="5" />
+  <ellipse cx="382" cy="297" rx="46" ry="13" fill="#4499ee" stroke="#1a1a1a" stroke-width="6" />
+  <polygon points="388,268 375,286 384,286 371,308 398,284 387,284 400,268" fill="#ffdd00" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="256" cy="225" r="11" fill="#ccaa55" stroke="#1a1a1a" stroke-width="6" />
+  
+  <path d="M256 60 L310 80 L320 150 L256 185 L192 150 L202 80 Z" fill="#3355cc" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M256 74 L302 91 L311 152 L256 183 L201 152 L210 91 Z" fill="#4466dd" stroke="none" />
+  
+  <text x="256" y="148" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="48" font-weight="bold" fill="#ffffff" text-anchor="middle" dominant-baseline="middle">DBT</text>
+</svg>

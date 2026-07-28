@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="0" y="420" width="512" height="55" fill="#8b7355" />
+  
+  
+  
+  <circle cx="80" cy="320" r="20" fill="#f5c590" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="62" y="337" width="36" height="65" rx="4" fill="#224488" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="80" y1="320" x2="80" y2="280" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <circle cx="80" cy="272" r="12" fill="#f5c590" stroke="#1a1a1a" stroke-width="4" />
+
+  <circle cx="140" cy="316" r="20" fill="#c8a070" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="122" y="333" width="36" height="65" rx="4" fill="#cc3322" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="140" y1="316" x2="140" y2="276" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <circle cx="140" cy="268" r="12" fill="#c8a070" stroke="#1a1a1a" stroke-width="4" />
+
+  <circle cx="200" cy="318" r="20" fill="#f5c590" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="182" y="335" width="36" height="65" rx="4" fill="#226633" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="200" y1="318" x2="200" y2="278" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <circle cx="200" cy="270" r="12" fill="#f5c590" stroke="#1a1a1a" stroke-width="4" />
+
+  
+  <circle cx="312" cy="320" r="20" fill="#f5c590" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="294" y="337" width="36" height="65" rx="4" fill="#224488" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="312" y1="320" x2="312" y2="280" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <circle cx="312" cy="272" r="12" fill="#f5c590" stroke="#1a1a1a" stroke-width="4" />
+
+  <circle cx="372" cy="316" r="20" fill="#d4a060" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="354" y="333" width="36" height="65" rx="4" fill="#cc3322" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="372" y1="316" x2="372" y2="276" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <circle cx="372" cy="268" r="12" fill="#d4a060" stroke="#1a1a1a" stroke-width="4" />
+
+  <circle cx="432" cy="318" r="20" fill="#f5c590" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="414" y="335" width="36" height="65" rx="4" fill="#226633" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="432" y1="318" x2="432" y2="278" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <circle cx="432" cy="270" r="12" fill="#f5c590" stroke="#1a1a1a" stroke-width="4" />
+
+  
+  
+  <rect x="155" y="50" width="202" height="170" rx="6" fill="#f5f5f5" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="175" y="88" width="56" height="116" rx="4" fill="#22aa44" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="263" y="148" width="56" height="56" rx="4" fill="#cc2222" stroke="#1a1a1a" stroke-width="4" />
+  
+  <line x1="163" y1="148" x2="349" y2="148" stroke="#1a1a1a" stroke-width="4" stroke-dasharray="8,4" />
+  
+  <polyline points="186,70 198,82 220,58" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <rect x="178" y="228" width="156" height="44" rx="5" fill="#ffeebb" stroke="#1a1a1a" stroke-width="5" />
+  
+  <line x1="192" y1="235" x2="320" y2="265" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.5" />
+  <line x1="320" y1="235" x2="192" y2="265" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.5" />
+  
+  <polygon points="256,210 240,225 248,225 248,248 264,248 264,225 272,225" fill="#22aa44" stroke="#1a1a1a" stroke-width="4" />
+</svg>

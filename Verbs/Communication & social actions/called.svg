@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>called</title>
+  
+  
+  <rect x="80" y="320" width="352" height="120" rx="20" fill="#3262c0" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <ellipse cx="160" cy="320" rx="40" ry="14" fill="#1a47a0" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="352" cy="320" rx="40" ry="14" fill="#1a47a0" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M120 300 Q256 240 392 300" fill="#5b8be4" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <ellipse cx="130" cy="306" rx="42" ry="30" fill="#5b8be4" stroke="#1a1a1a" stroke-width="5.0000" />
+  <ellipse cx="382" cy="306" rx="42" ry="30" fill="#5b8be4" stroke="#1a1a1a" stroke-width="5.0000" />
+  <ellipse cx="130" cy="306" rx="22" ry="14" fill="#1a47a0" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="382" cy="306" rx="22" ry="14" fill="#1a47a0" stroke="#1a1a1a" stroke-width="3" />
+  
+  <g fill="#1a1a1a">
+    <circle cx="120" cy="306" r="2.5" /><circle cx="130" cy="306" r="2.5" /><circle cx="140" cy="306" r="2.5" />
+    <circle cx="372" cy="306" r="2.5" /><circle cx="382" cy="306" r="2.5" /><circle cx="392" cy="306" r="2.5" />
+  </g>
+  
+  <rect x="170" y="350" width="172" height="68" rx="8" fill="#bfe89a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <text x="184" y="378" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" font-weight="bold" fill="#1a1a1a">RECENT</text>
+  <text x="184" y="406" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="bold" fill="#1a1a1a">02:14</text>
+  
+  <circle cx="120" cy="120" r="62" fill="#22aa55" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M88 124 L112 148 L156 100" fill="none" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <g stroke="#1a1a1a" stroke-width="5.0000" fill="none" stroke-linecap="round">
+    <path d="M380 90 L440 120" />
+    <path d="M440 120 L420 100" />
+    <path d="M440 120 L416 132" />
+  </g>
+  <text x="406" y="180" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="bold" fill="#1a1a1a" text-anchor="middle">ENDED</text>
+</svg>

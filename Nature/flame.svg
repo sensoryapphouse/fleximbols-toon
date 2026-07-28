@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>flame</title>
+  <g stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M256 60 Q200 140 200 200 Q200 220 220 220 Q200 240 180 290 Q150 380 220 440 Q260 460 290 440 Q360 380 332 300 Q322 270 308 248 Q322 252 332 240 Q344 220 320 188 Q300 160 290 130 Q280 100 256 60 Z" fill="#d62828" />
+    <path d="M256 140 Q220 200 226 250 Q230 280 250 280 Q240 300 230 330 Q220 380 252 414 Q280 426 304 410 Q340 380 322 320 Q310 290 296 274 Q310 274 320 264 Q330 248 312 222 Q296 200 286 178 Q276 160 256 140 Z" fill="#f77f00" />
+    <path d="M256 220 Q230 268 240 320 Q244 356 264 366 Q288 366 296 340 Q304 314 290 286 Q278 260 270 244 Q262 230 256 220 Z" fill="#ffd166" />
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="rock" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#9c8870" /><stop offset="100%" stop-color="#6e5c48" /></linearGradient>
+    <linearGradient id="pad" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#e23b34" /><stop offset="100%" stop-color="#b81f1f" /></linearGradient>
+    <linearGradient id="skin" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f3c19a" /><stop offset="100%" stop-color="#d99a6a" /></linearGradient>
+  </defs>
+  <path d="M55 310 Q80 200 160 150 Q220 110 300 120 Q390 132 420 200 Q450 268 420 330 Q400 375 340 390 L55 390 Z" fill="url(#rock)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M55 310 Q80 200 160 150 Q220 110 300 120 Q350 128 385 165" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.5" />
+  <path d="M130 220 Q160 195 200 205 Q230 213 225 238" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.5" />
+  <path d="M280 155 Q320 148 355 168" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.5" />
+  <ellipse cx="175" cy="182" rx="20" ry="14" fill="#5bb24a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <ellipse cx="310" cy="165" rx="18" ry="12" fill="#f6892a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <ellipse cx="370" cy="230" rx="16" ry="22" fill="#8a5fd0" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <ellipse cx="240" cy="230" rx="18" ry="13" fill="#e23b34" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <rect x="55" y="390" width="310" height="52" rx="12" fill="url(#pad)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <rect x="55" y="390" width="310" height="20" rx="8" fill="#e23b34" opacity="0.4" />
+  <line x1="210" y1="390" x2="210" y2="442" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <circle cx="340" cy="175" r="24" fill="url(#skin)" stroke="#1a1a1a" stroke-width="7" />
+  <ellipse cx="333" cy="172" rx="4" ry="5" fill="#2b2622" />
+  <ellipse cx="347" cy="172" rx="4" ry="5" fill="#2b2622" />
+  <ellipse cx="334" cy="171" rx="1.5" ry="2" fill="#ffffff" />
+  <ellipse cx="348" cy="171" rx="1.5" ry="2" fill="#ffffff" />
+  <path d="M334 181 Q340 186 346 181" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M340 199 L340 270 Q340 285 328 292" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M340 199 L340 270 Q340 285 328 292" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.35" />
+  <path d="M340 218 L370 205 Q382 200 385 212" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M340 218 L370 205 Q382 200 385 212" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.35" />
+  <path d="M340 232 L312 222 Q300 218 298 230" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M340 232 L312 222 Q300 218 298 230" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.35" />
+  <path d="M328 292 L312 340 L300 385" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M328 292 L312 340 L300 385" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.35" />
+  <path d="M340 278 L358 325 L368 385" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M340 278 L358 325 L368 385" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.35" />
+  <path d="M385 212 Q392 208 398 210" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+  <path d="M298 230 Q292 226 288 228" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+</svg>

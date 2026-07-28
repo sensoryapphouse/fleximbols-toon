@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="cdishG" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#fff4e0" />
+<stop offset="100%" stop-color="#d6b88c" />
+</linearGradient>
+</defs>
+<ellipse cx="256" cy="438" rx="200" ry="22" fill="#a8d27e" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="208" y="420" width="120" height="22" rx="5" fill="#6b89a8" stroke="#1a1a1a" stroke-width="7" />
+<rect x="236" y="310" width="40" height="118" rx="6" fill="#8fa8c4" stroke="#1a1a1a" stroke-width="7" />
+<line x1="256" y1="325" x2="256" y2="415" stroke="#1a1a1a" stroke-width="4" />
+<line x1="256" y1="240" x2="256" y2="320" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+<g transform="rotate(-22 256 220)">
+<ellipse cx="256" cy="220" rx="180" ry="124" fill="url(#cdishG)" stroke="#1a1a1a" stroke-width="5.0000" />
+<ellipse cx="256" cy="216" rx="148" ry="98" fill="#c69a6a" stroke="#1a1a1a" stroke-width="6" />
+<ellipse cx="256" cy="214" rx="100" ry="64" fill="none" stroke="#1a1a1a" stroke-width="4" />
+<ellipse cx="256" cy="212" rx="50" ry="30" fill="none" stroke="#1a1a1a" stroke-width="4" />
+</g>
+<line x1="256" y1="200" x2="304" y2="116" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+<line x1="222" y1="180" x2="304" y2="116" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+<rect x="284" y="92" width="44" height="36" rx="6" fill="#e8c894" stroke="#1a1a1a" stroke-width="7" />
+<circle cx="306" cy="110" r="7" fill="#fff04a" stroke="#1a1a1a" stroke-width="4" />
+<g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" fill="none">
+<path d="M 340 76 Q 372 86 392 110" />
+<path d="M 364 52 Q 410 66 438 102" />
+<path d="M 388 28 Q 444 44 478 92" />
+</g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -24.000)">
+  
+  
+  <path d="M150 180 Q150 160 170 160 L342 160 Q362 160 362 180 L362 440 Q362 462 340 462 L172 462 Q150 462 150 440 Z" fill="#a878d6" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M340 160 Q362 160 362 180 L362 440 Q362 462 340 462 Z" fill="#7d4eb0" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M198 110 L314 110 L314 162 L198 162 Z" fill="#5b2f8a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M218 96 L294 96 L294 110 L218 110 Z" fill="#3b1e5e" />
+  
+  <path d="M170 240 L342 240 L342 400 L170 400 Z" fill="#fff0fa" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M180 252 L332 252 L332 286 L180 286 Z" fill="#e84ba5" stroke="#1a1a1a" stroke-width="4" />
+  <text x="256" y="280" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="24" font-weight="900" text-anchor="middle" fill="#fff0fa">SOFTENER</text>
+  
+  <g transform="translate(256 340)">
+    <circle cx="0" cy="-22" r="14" fill="#ffb3d9" stroke="#1a1a1a" stroke-width="3" />
+    <circle cx="22" cy="-7" r="14" fill="#ffb3d9" stroke="#1a1a1a" stroke-width="3" />
+    <circle cx="14" cy="20" r="14" fill="#ffb3d9" stroke="#1a1a1a" stroke-width="3" />
+    <circle cx="-14" cy="20" r="14" fill="#ffb3d9" stroke="#1a1a1a" stroke-width="3" />
+    <circle cx="-22" cy="-7" r="14" fill="#ffb3d9" stroke="#1a1a1a" stroke-width="3" />
+    <circle cx="0" cy="0" r="10" fill="#ffd23f" stroke="#1a1a1a" stroke-width="3" />
+  </g>
+  
+  <path d="M166 186 L166 430 L182 430 L182 186 Z" fill="#c39be8" opacity="0.6" />
+</g>
+  </svg>

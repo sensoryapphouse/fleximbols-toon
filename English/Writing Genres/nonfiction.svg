@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <path d="M120 90 L380 90 Q400 90 400 110 L400 430 Q400 450 380 450 L120 450 Q100 450 100 430 L100 110 Q100 90 120 90 Z" fill="#2c5f78" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="100" y="90" width="22" height="360" fill="#143d52" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="140" y="120" width="240" height="300" fill="#4a8aa5" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="156" y="138" width="208" height="50" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <text x="260" y="172" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="900" fill="#0a1f2b" text-anchor="middle">NON-FICTION</text>
+  
+  <g transform="rotate(-12 260 240)">
+    <rect x="190" y="208" width="140" height="48" fill="none" stroke="#1a1a1a" stroke-width="5.0000" />
+    <text x="260" y="242" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="900" fill="#ffd23a" text-anchor="middle">FACTS</text>
+  </g>
+  
+  <rect x="160" y="338" width="28" height="55" fill="#ffd23a" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="196" y="320" width="28" height="73" fill="#ff7a4a" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="232" y="350" width="28" height="43" fill="#7ed957" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="268" y="305" width="28" height="88" fill="#e8588c" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="304" y="335" width="28" height="58" fill="#7a78d2" stroke="#1a1a1a" stroke-width="4" />
+  
+  <line x1="152" y1="395" x2="356" y2="395" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="345" cy="240" r="18" fill="none" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="356" y1="253" x2="368" y2="265" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <circle cx="345" cy="240" r="9" fill="#ffd23a" opacity="0.6" />
+</svg>

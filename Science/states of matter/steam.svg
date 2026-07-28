@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="pot" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#bdc4cc" />
+      <stop offset="1" stop-color="#5b6470" />
+    </linearGradient>
+    <linearGradient id="lid" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d4dbe2" />
+      <stop offset="1" stop-color="#7d8590" />
+    </linearGradient>
+    <linearGradient id="water" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a8d6f4" />
+      <stop offset="1" stop-color="#4a8fc4" />
+    </linearGradient>
+    <linearGradient id="basket" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d6b58a" />
+      <stop offset="1" stop-color="#8a5a2a" />
+    </linearGradient>
+  </defs>
+  
+  <path d="M120 100 Q110 130 130 160 Q150 180 130 210" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" opacity="0.85" />
+  <path d="M390 100 Q400 130 380 160 Q360 180 380 210" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" opacity="0.85" />
+  <path d="M180 70 Q160 100 180 130 Q200 150 180 180" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" opacity="0.8" />
+  <path d="M332 70 Q352 100 332 130 Q312 150 332 180" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" opacity="0.8" />
+  <path d="M256 60 Q246 90 256 120 Q266 90 256 60" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" opacity="0.7" />
+  
+  <ellipse cx="256" cy="220" rx="180" ry="22" fill="url(#lid)" stroke="#1a1a1a" stroke-width="7" />
+  <path d="M76 220 Q256 160 436 220" fill="url(#lid)" stroke="#1a1a1a" stroke-width="7" />
+  
+  <rect x="240" y="160" width="32" height="14" rx="6" ry="6" fill="#3b424c" stroke="#1a1a1a" stroke-width="6" />
+  <circle cx="256" cy="158" r="10" fill="#7d8590" stroke="#1a1a1a" stroke-width="6" />
+  
+  
+  <path d="M88 250 L424 250 L408 418 Q406 438 386 438 L126 438 Q106 438 104 418 Z" fill="url(#pot)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <rect x="36" y="270" width="60" height="22" rx="11" ry="11" fill="#3b424c" stroke="#1a1a1a" stroke-width="7" />
+  <rect x="416" y="270" width="60" height="22" rx="11" ry="11" fill="#3b424c" stroke="#1a1a1a" stroke-width="7" />
+  
+  <ellipse cx="256" cy="250" rx="172" ry="14" fill="#7d8590" stroke="#1a1a1a" stroke-width="7" />
+  
+  <path d="M112 370 L400 370 L398 418 Q396 428 386 428 L126 428 Q116 428 114 418 Z" fill="url(#water)" />
+  <path d="M112 370 Q200 365 256 370 Q312 375 400 370" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <path d="M130 290 L382 290 L370 360 L142 360 Z" fill="url(#basket)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  
+  <line x1="160" y1="300" x2="155" y2="350" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="190" y1="295" x2="187" y2="355" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="220" y1="293" x2="219" y2="358" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="250" y1="292" x2="250" y2="360" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="280" y1="293" x2="281" y2="358" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="310" y1="295" x2="313" y2="355" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="340" y1="300" x2="345" y2="350" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="135" y1="320" x2="377" y2="320" stroke="#1a1a1a" stroke-width="3" opacity="0.6" />
+  
+  <circle cx="200" cy="290" r="20" fill="#7bb24a" stroke="#1a1a1a" stroke-width="6" />
+  <circle cx="190" cy="280" r="8" fill="#7bb24a" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="210" cy="280" r="9" fill="#7bb24a" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="200" cy="275" r="8" fill="#7bb24a" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="310" cy="290" r="20" fill="#f5deb3" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M300 285 Q310 280 320 285" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+</svg>

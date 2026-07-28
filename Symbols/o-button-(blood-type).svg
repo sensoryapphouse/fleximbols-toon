@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<svg version="1.1" id="svg305" ns1:docname="emoji_u1f17e.svg" ns2:version="1.2.2 (b0a8486541, 2022-12-01)" viewBox="0 0 128 128" width="512" height="512" preserveAspectRatio="xMidYMid meet"><defs><filter id="ob" x="-45%" y="-45%" width="190%" height="190%"><feMorphology in="SourceAlpha" operator="dilate" radius="1.0000" result="d"/><feFlood flood-color="#1a1a1a" result="ink"/><feComposite in="ink" in2="d" operator="in"/></filter><g id="art">
+  <defs id="defs309" />
+  <ns1:namedview id="namedview307" pagecolor="#ffffff" bordercolor="#000000" borderopacity="0.25" ns2:showpageshadow="2" ns2:pageopacity="0.0" ns2:pagecheckerboard="0" ns2:deskcolor="#d1d1d1" showgrid="false" ns2:zoom="1.84375" ns2:cx="-187.38983" ns2:cy="151.59322" ns2:current-layer="g884" />
+  <g id="g884" transform="translate(-1.2000013,0.47999939)" fill="#db4437">
+    <g transform="matrix(5.71429,0,0,7.05882,-17.657204,-24.715249)" id="g4" fill="#db4437" fill-rule="evenodd">
+      <path d="M 25,6.267 C 25,5.016 23.745,4 22.2,4 H 6.8 C 5.255,4 4,5.016 4,6.267 V 18.733 C 4,19.984 5.255,21 6.8,21 h 15.4 c 1.545,0 2.8,-1.016 2.8,-2.267 z" fill="#db4437" id="path2" />
+    </g>
+    <g transform="translate(-1.0735134,0.56715021)" id="g12" fill="#ef9a9a" fill-rule="evenodd">
+      <path d="M 30.915,7.958 C 25.554,8.085 15,8 12.066,18.857 c -0.581,2.15 -1.578,5.57 0.285,7.423 1.433,1.425 3.932,0.985 5.373,-0.162 1.534,-1.221 2.286,-3.205 3.245,-4.857 1.114,-1.917 2.599,-3.655 4.34,-5.034 1.627,-1.289 3.482,-2.052 5.444,-2.683 1.362,-0.438 3.297,-0.632 3.969,-1.979 C 36,9 32.576,7.869 30.915,7.958 Z" fill="#ef9a9a" id="path10" />
+    </g>
+  </g>
+  <text x="32.176" y="96.64" font-weight="400" font-size="40" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" letter-spacing="0" word-spacing="0" id="text303"><tspan x="32.176" y="96.64" font-weight="700" font-size="96" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#fff" id="tspan301">O</tspan></text>
+</g></defs><use href="#art" filter="url(#ob)"/><use href="#art"/></svg>
+</svg>

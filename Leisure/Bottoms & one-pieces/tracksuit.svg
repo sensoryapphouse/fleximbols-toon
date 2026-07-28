@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <path d="M188 80 Q256 56 324 80 L324 130 L188 130 Z" fill="#3aa6ff" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M148 140 L188 110 Q256 120 324 110 L364 140 L380 250 L132 250 Z" fill="#3aa6ff" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M232 110 L256 150 L280 110" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  
+  <line x1="256" y1="150" x2="256" y2="250" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M148 140 L132 250" stroke="#1a1a1a" stroke-width="0" fill="none" />
+  <rect x="138" y="140" width="10" height="106" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" transform="rotate(8 143 193)" />
+  <rect x="364" y="140" width="10" height="106" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" transform="rotate(-8 369 193)" />
+  
+  <rect x="132" y="240" width="248" height="20" fill="#1f5a8a" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M156 270 L356 270 L350 470 L290 470 L256 320 L222 470 L162 470 Z" fill="#3aa6ff" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="156" y="260" width="200" height="20" fill="#1f5a8a" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M236 280 L236 296 M276 280 L276 296" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <path d="M180 280 L186 466" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <path d="M180 280 L186 466" stroke="#1a1a1a" stroke-width="3" fill="none" stroke-dasharray="0,0" />
+  <path d="M332 280 L326 466" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <rect x="162" y="456" width="60" height="20" fill="#1f5a8a" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="290" y="456" width="60" height="20" fill="#1f5a8a" stroke="#1a1a1a" stroke-width="4" />
+</svg>

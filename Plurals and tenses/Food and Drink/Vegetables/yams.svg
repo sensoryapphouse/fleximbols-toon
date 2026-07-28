@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-46.021 -39.911) scale(1.1639)">
+<defs />
+<path d="M120 290 Q110 200 180 160 Q260 120 340 170 Q420 210 400 310 Q380 410 290 420 Q190 430 140 380 Q105 350 120 290 Z" fill="#a3623a" stroke="#1a1a1a" stroke-width="4.2959" stroke-linejoin="round" />
+<ellipse cx="200" cy="240" rx="10" ry="14" fill="#5a3826" />
+<ellipse cx="280" cy="210" rx="9" ry="12" fill="#5a3826" />
+<ellipse cx="330" cy="300" rx="11" ry="13" fill="#5a3826" />
+<ellipse cx="220" cy="350" rx="9" ry="11" fill="#5a3826" />
+<ellipse cx="170" cy="320" rx="8" ry="10" fill="#5a3826" />
+<path d="M250 160 Q230 110 270 80" fill="none" stroke="#1a1a1a" stroke-width="4.2959" stroke-linecap="round" />
+<path d="M260 130 Q230 110 215 130 Q210 90 250 100 Q280 70 300 110 Q330 100 320 140 Q295 145 260 130 Z" fill="#5fa84a" stroke="#1a1a1a" stroke-width="4.2959" stroke-linejoin="round" />
+<path d="M250 110 L290 130" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<path d="M180 280 Q190 260 220 270" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<path d="M300 230 Q320 220 340 240" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+</g>
+  <g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1582" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1582)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

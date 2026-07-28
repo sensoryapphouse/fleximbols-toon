@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-30.259 -83.985) scale(1.1193)">
+  <defs>
+    <linearGradient id="gBall" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#aeb4bd" /><stop offset="100%" stop-color="#6f757e" /></linearGradient>
+    <radialGradient id="gGloss" cx="38%" cy="32%" r="38%"><stop offset="0%" stop-color="#ffffff" stop-opacity="0.45" /><stop offset="100%" stop-color="#ffffff" stop-opacity="0" /></radialGradient>
+  </defs>
+  
+  <path d="M188,272 Q188,148 256,148 Q324,148 324,272" fill="none" stroke="#1a1a1a" stroke-width="44" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M188,272 Q188,148 256,148 Q324,148 324,272" fill="none" stroke="#1a1a1a" stroke-width="4.4671" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <path d="M210,272 Q210,175 256,175 Q302,175 302,272" fill="none" stroke="#1a1a1a" stroke-width="4.4671" stroke-linecap="round" opacity="0.5" />
+  
+  <path d="M200,240 Q200,168 256,168 Q300,192 310,240" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" opacity="0.3" />
+  
+  <circle cx="256" cy="340" r="138" fill="url(#gBall)" stroke="#1a1a1a" stroke-width="4.4671" />
+  
+  <path d="M145,370 Q180,460 340,440 Q390,420 380,370 Q340,480 145,370Z" fill="#4a5058" opacity="0.4" />
+  
+  <ellipse cx="210" cy="285" rx="52" ry="38" fill="url(#gGloss)" />
+  
+  <rect x="218" y="262" width="76" height="36" rx="10" fill="#6f757e" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  
+  <rect x="218" y="282" width="76" height="16" rx="6" fill="#4a5058" opacity="0.45" />
+</g>
+  </svg>

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="0" y="0" width="512" height="280" fill="#1a2a4a" />
+  
+  <circle cx="50" cy="40" r="2" fill="#ffffff" />
+  <circle cx="120" cy="25" r="2" fill="#ffffff" />
+  <circle cx="200" cy="50" r="2" fill="#ffffff" />
+  <circle cx="300" cy="30" r="2" fill="#ffffff" />
+  <circle cx="390" cy="45" r="2" fill="#ffffff" />
+  <circle cx="460" cy="20" r="2" fill="#ffffff" />
+  <circle cx="80" cy="90" r="1.5" fill="#ffffff" />
+  <circle cx="170" cy="70" r="1.5" fill="#ffffff" />
+  <circle cx="350" cy="80" r="1.5" fill="#ffffff" />
+  <circle cx="440" cy="65" r="1.5" fill="#ffffff" />
+  
+  <circle cx="430" cy="50" r="25" fill="#c8a000" />
+  <circle cx="442" cy="42" r="20" fill="#1a2a4a" />
+  
+  <rect x="30" y="180" width="20" height="110" fill="#c8a050" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="40" cy="178" rx="14" ry="7" fill="#c8a050" stroke="#1a1a1a" stroke-width="3" />
+  <polygon points="33,178 40,162 47,178" fill="#ffcc00" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="462" y="180" width="20" height="110" fill="#c8a050" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="472" cy="178" rx="14" ry="7" fill="#c8a050" stroke="#1a1a1a" stroke-width="3" />
+  <polygon points="465,178 472,162 479,178" fill="#ffcc00" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="55" y="230" width="402" height="60" fill="#d4b870" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="196" y="185" width="120" height="120" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="196" y="225" width="120" height="18" fill="#c8a000" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="240" y="250" width="32" height="55" fill="#c8a000" stroke="#1a1a1a" stroke-width="3" rx="2" />
+  <rect x="244" y="254" width="10" height="46" fill="#a07000" stroke="#1a1a1a" stroke-width="1.5" rx="1" />
+  <rect x="258" y="254" width="10" height="46" fill="#a07000" stroke="#1a1a1a" stroke-width="1.5" rx="1" />
+  
+  
+  <ellipse cx="256" cy="380" rx="220" ry="35" fill="#e8d8a8" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="36" y="370" width="440" height="95" fill="#dfd0a0" />
+  
+  
+  <circle cx="360" cy="320" r="14" fill="#f5e8c8" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="348" y="332" width="24" height="36" fill="#ffffff" rx="4" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="348" y1="342" x2="334" y2="358" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="372" y1="342" x2="386" y2="358" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="354" y1="368" x2="348" y2="390" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="366" y1="368" x2="372" y2="390" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <circle cx="256" cy="338" r="14" fill="#f5e8c8" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="244" y="350" width="24" height="36" fill="#ffffff" rx="4" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="244" y1="360" x2="230" y2="376" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="268" y1="360" x2="282" y2="376" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="250" y1="386" x2="244" y2="408" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="262" y1="386" x2="268" y2="408" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <circle cx="150" cy="322" r="14" fill="#d4a878" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="138" y="334" width="24" height="36" fill="#ffffff" rx="4" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="138" y1="344" x2="124" y2="360" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="162" y1="344" x2="176" y2="360" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="144" y1="370" x2="138" y2="392" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="156" y1="370" x2="162" y2="392" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <circle cx="400" cy="380" r="12" fill="#f5e8c8" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="390" y="390" width="20" height="30" fill="#ffffff" rx="4" stroke="#1a1a1a" stroke-width="2.5" />
+  <line x1="390" y1="398" x2="378" y2="410" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <line x1="410" y1="398" x2="422" y2="410" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <line x1="394" y1="420" x2="390" y2="438" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <line x1="406" y1="420" x2="410" y2="438" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  
+  <circle cx="112" cy="382" r="12" fill="#d4a878" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="102" y="392" width="20" height="30" fill="#ffffff" rx="4" stroke="#1a1a1a" stroke-width="2.5" />
+  <line x1="102" y1="400" x2="90" y2="412" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <line x1="122" y1="400" x2="134" y2="412" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <line x1="106" y1="422" x2="102" y2="440" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <line x1="118" y1="422" x2="122" y2="440" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  
+  <path d="M190,180 A90,90 0 0,1 322,180" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="8,4" />
+  <path d="M322,305 A90,90 0 0,1 190,305" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="8,4" />
+</svg>

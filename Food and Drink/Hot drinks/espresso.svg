@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(256,256) scale(1.1142) translate(-255,-191)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-92.255 -235.234) scale(1.3617)">
+  <defs>
+    <linearGradient id="gsaucer" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f0ede8" /><stop offset="100%" stop-color="#c8c0b0" /></linearGradient>
+    <linearGradient id="gcup" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f5f0ea" /><stop offset="100%" stop-color="#ddd5c5" /></linearGradient>
+    <linearGradient id="gcoffee" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#6e4423" /><stop offset="100%" stop-color="#3d2010" /></linearGradient>
+    <linearGradient id="gcrema" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#c8882a" /><stop offset="100%" stop-color="#9c6018" /></linearGradient>
+  </defs>
+  <ellipse cx="256" cy="420" rx="140" ry="20" fill="url(#gsaucer)" stroke="#1a1a1a" stroke-width="3.6719" stroke-linejoin="round" />
+  <ellipse cx="256" cy="414" rx="112" ry="13" fill="#e0d8c8" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M192 300 Q186 345 188 375 Q190 400 256 406 Q322 400 324 375 Q326 345 320 300 Z" fill="url(#gcup)" stroke="#1a1a1a" stroke-width="3.6719" stroke-linejoin="round" />
+  <ellipse cx="256" cy="300" rx="64" ry="18" fill="url(#gcup)" stroke="#1a1a1a" stroke-width="3.6719" stroke-linejoin="round" />
+  <ellipse cx="256" cy="298" rx="52" ry="13" fill="url(#gcoffee)" stroke="#1a1a1a" stroke-width="5" />
+  <ellipse cx="256" cy="295" rx="44" ry="9" fill="url(#gcrema)" stroke="none" />
+  
+  <path d="M192 318 Q188 335 188 358" fill="none" stroke="#1a1a1a" opacity="0.22" stroke-width="12" stroke-linecap="round" />
+  <path d="M320 300 Q324 320 324 350 Q324 378 322 392" fill="none" stroke="#1a1a1a" stroke-width="4" opacity="0.15" stroke-linecap="round" />
+  <path d="M320 315 Q338 314 346 326 Q354 338 348 352 Q342 365 320 363" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M320 315 Q334 317 340 327 Q346 337 342 350 Q338 361 320 363" fill="url(#gcup)" stroke="none" />
+  <path d="M244 220 Q240 205 244 194 Q248 183 256 190 Q264 183 268 194 Q272 205 268 220" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M256 220 Q252 235 254 248 Q256 258 256 268" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.5" />
+</g>
+  </g></svg>

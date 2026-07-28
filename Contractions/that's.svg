@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-5.000 -23.000)">
+  <title>that</title>
+  
+  <path d="M60 80 H360 a30 30 0 0 1 30 30 V210 a30 30 0 0 1 -30 30 H160 L110 290 L130 240 H60 a30 30 0 0 1 -30 -30 V110 a30 30 0 0 1 30 -30 Z" fill="#fff7d6" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <text x="210" y="180" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="900" font-size="80" fill="#2a1414">THAT</text>
+  
+  <path d="M120 460 Q140 420 200 410 L320 380 Q360 370 380 360 L380 430 Q360 450 320 460 L150 480 Z" fill="#3f7ad6" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M310 388 L390 360 L395 388 L320 416 Z" fill="#1f4f9a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <path d="M340 360 Q400 340 430 330 Q470 322 480 350 Q482 380 460 392 Q420 410 380 412 Q350 412 340 400 Z" fill="#f7c89c" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M430 330 Q460 300 488 290 Q500 300 488 320 Q470 340 450 348 Z" fill="#f7c89c" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M395 388 Q415 410 410 430 Q400 442 385 432 Q380 415 380 400 Z" fill="#f7c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <path d="M360 400 Q380 410 395 408" stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round" />
+  <path d="M355 388 Q375 396 392 392" stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round" />
+  
+  <line x1="430" y1="270" x2="460" y2="250" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="450" y1="280" x2="480" y2="270" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+</g>
+  <rect x="350" y="372" width="122" height="22" rx="9" fill="#3fae5a" stroke="#1a1a1a" stroke-width="5"/><rect x="350" y="410" width="122" height="22" rx="9" fill="#3fae5a" stroke="#1a1a1a" stroke-width="5"/><path d="M 50 40 C 76 46 76 84 52 108 C 66 84 62 64 46 58 Z" fill="#1a1a1a"/></svg>

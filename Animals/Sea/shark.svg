@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(15.750 3.500)">
+  
+  
+  <path d="M60 260 Q120 180 280 200 Q400 215 450 260 Q400 305 280 320 Q120 340 60 260 Z" fill="#6a8aa8" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M120 280 Q200 320 320 305 Q400 295 430 275 Q400 305 280 320 Q170 330 120 280 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M60 260 L20 200 L40 260 L20 320 Z" fill="#6a8aa8" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M220 200 L240 120 L290 200 Z" fill="#6a8aa8" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M200 310 L240 380 L290 320 Z" fill="#5a7a98" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M340 240 Q335 260 340 285" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M360 240 Q355 260 360 285" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M380 240 Q375 260 380 285" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <circle cx="410" cy="240" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="412" cy="240" r="6" fill="#1a1a1a" />
+  
+  <path d="M380 280 Q420 295 450 280" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3" />
+  <polygon points="395,282 400,295 405,282" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <polygon points="412,283 417,296 422,283" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <polygon points="430,282 435,295 440,282" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M120 130 L130 110 L140 130 L150 105 L160 130" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <path d="M340 430 L350 410 L360 430 L370 405 L380 430" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+</g>
+  </svg>

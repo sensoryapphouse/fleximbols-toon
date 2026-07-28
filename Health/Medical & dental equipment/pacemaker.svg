@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-149.200 -156.800) scale(1.6000)">
+  <defs>
+    <linearGradient id="gp" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#c8cdd4" />
+      <stop offset="100%" stop-color="#8a9099" />
+    </linearGradient>
+  </defs>
+  <rect x="145" y="140" width="160" height="130" rx="30" ry="30" fill="url(#gp)" stroke="#1a1a1a" stroke-width="3.1250" stroke-linejoin="round" />
+  <rect x="160" y="155" width="120" height="90" rx="18" fill="#6f757e" opacity="0.4" />
+  <rect x="155" y="148" width="55" height="30" rx="6" fill="#ffffff" opacity="0.35" />
+  <rect x="175" y="175" width="80" height="14" rx="5" fill="#3f8fd6" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="175" y="197" width="55" height="10" rx="4" fill="#3f8fd6" opacity="0.6" />
+  <circle cx="210" cy="230" r="8" fill="#f8c531" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M 270 200 Q 310 210 320 240 Q 325 260 310 265" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M 270 215 Q 330 230 340 270 Q 350 300 330 310" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M 260 330 Q 270 300 290 285 Q 320 265 340 280 Q 370 300 360 330 Q 350 360 310 380 Q 270 360 260 330 Z" fill="#e23b34" stroke="#1a1a1a" stroke-width="3.1250" stroke-linejoin="round" />
+  <path d="M 280 320 Q 285 300 300 295 Q 315 290 325 305" fill="#b81f1f" opacity="0.5" />
+  
+</g>
+  </svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <path d="M152 124 Q116 90 96 96 Q96 130 132 158 Z" fill="#5aa336" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <path d="M188 132 Q172 110 156 96 L184 92 Q200 110 212 144 Z" fill="#6dbd44" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <path d="M168 142 L228 178 L282 154 L256 198 L300 220 L240 218 L208 232 L188 192 L156 184 Z" fill="#7dc856" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <path d="M212 188 Q260 200 320 252 Q380 308 408 388 Q412 432 380 444 Q344 444 296 412 Q236 366 200 296 Q176 240 188 208 Q198 192 212 188 Z" fill="#8ed24c" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M232 220 Q280 256 332 304 Q372 348 388 392" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <path d="M214 244 Q260 286 308 332 Q352 376 376 416" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M204 280 Q244 320 288 360 Q330 396 354 432" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <path d="M348 132 Q380 144 408 192 Q424 232 412 256 Q392 264 372 244 Q344 208 332 168 Q336 140 348 132 Z" fill="#a4dc66" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  <path d="M356 144 Q380 168 400 208" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <path d="M396 408 L408 396" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+</svg>

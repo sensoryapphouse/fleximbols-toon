@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -24.750)">
+  <defs>
+    <radialGradient id="bb" cx="36%" cy="32%" r="78%"><stop offset="0%" stop-color="#ffba62" /><stop offset="60%" stop-color="#f6892a" /><stop offset="100%" stop-color="#b35317" /></radialGradient>
+    <linearGradient id="bk" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#b81f1f" /><stop offset="100%" stop-color="#7a1414" /></linearGradient>
+  </defs>
+  <rect x="100" y="84" width="312" height="44" rx="10" fill="url(#bk)" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="180" y="128" width="152" height="106" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="226" y="156" width="60" height="54" fill="none" stroke="#1a1a1a" stroke-width="6" />
+  <rect x="208" y="234" width="96" height="20" rx="6" fill="#e23b34" stroke="#1a1a1a" stroke-width="7" />
+  <ellipse cx="256" cy="252" rx="48" ry="12" fill="none" stroke="#1a1a1a" stroke-width="7" />
+  <g stroke="#1a1a1a" stroke-width="4" fill="none" stroke-linecap="round">
+    <path d="M218,256 L222,288" />
+    <path d="M234,256 L236,292" />
+    <path d="M250,256 L250,294" />
+    <path d="M266,256 L266,294" />
+    <path d="M282,256 L280,292" />
+    <path d="M298,256 L294,288" />
+    <path d="M222,288 L236,292 L250,294 L266,294 L280,292 L294,288" />
+  </g>
+  <circle cx="256" cy="380" r="98" fill="url(#bb)" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M256,282 L256,478" fill="none" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M158,380 L354,380" fill="none" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M186,310 C232,358 232,402 186,450" fill="none" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M326,310 C280,358 280,402 326,450" fill="none" stroke="#1a1a1a" stroke-width="6" />
+  
+</g>
+  </svg>

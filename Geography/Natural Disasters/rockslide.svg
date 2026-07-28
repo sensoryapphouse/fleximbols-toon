@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="0" y="0" width="512" height="180" fill="#98a8b8" />
+  <polygon points="0,140 70,60 160,120 240,40 340,110 430,50 512,90 512,300 0,300" fill="#6a6a6a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <polygon points="70,60 100,100 50,140 30,90" fill="#888888" />
+  <polygon points="240,40 280,90 220,130 200,80" fill="#888888" />
+  <polygon points="430,50 460,90 410,120 390,80" fill="#888888" />
+  <g>
+    <ellipse cx="120" cy="320" rx="50" ry="40" fill="#888888" stroke="#1a1a1a" stroke-width="5.0000" />
+    <polygon points="80,310 100,290 130,295 155,310 145,340 110,345 85,330" fill="#a8a8a8" />
+    <polygon points="90,300 110,295 115,310 100,315" fill="#c8c8c8" />
+    <path d="M80 310 L155 340" stroke="#1a1a1a" stroke-width="3" />
+    <path d="M100 290 L145 340" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  <g>
+    <ellipse cx="240" cy="270" rx="40" ry="32" fill="#a8a8a8" stroke="#1a1a1a" stroke-width="5.0000" transform="rotate(15 240 270)" />
+    <polygon points="210,260 230,250 260,255 270,275 250,290 220,285" fill="#c8c8c8" transform="rotate(15 240 270)" />
+    <polygon points="225,260 240,258 245,272" fill="#e0e0e0" transform="rotate(15 240 270)" />
+    <path d="M210 260 L270 275 M220 285 L260 255" stroke="#1a1a1a" stroke-width="2" transform="rotate(15 240 270)" />
+  </g>
+  <g>
+    <ellipse cx="350" cy="380" rx="55" ry="42" fill="#6a6a6a" stroke="#1a1a1a" stroke-width="5.0000" transform="rotate(-20 350 380)" />
+    <polygon points="305,370 330,355 380,360 395,385 380,410 335,415 310,400" fill="#888888" transform="rotate(-20 350 380)" />
+    <polygon points="320,365 340,360 350,378 335,385" fill="#a8a8a8" transform="rotate(-20 350 380)" />
+    <path d="M305 370 L395 385 M310 400 L380 360" stroke="#1a1a1a" stroke-width="3" transform="rotate(-20 350 380)" />
+  </g>
+  <g>
+    <ellipse cx="450" cy="440" rx="45" ry="35" fill="#888888" stroke="#1a1a1a" stroke-width="5.0000" />
+    <polygon points="415,430 440,415 480,425 490,450 475,470 430,460" fill="#a8a8a8" />
+    <path d="M415 430 L490 450" stroke="#1a1a1a" stroke-width="2" />
+  </g>
+  <g>
+    <ellipse cx="60" cy="430" rx="38" ry="30" fill="#a8a8a8" stroke="#1a1a1a" stroke-width="5" />
+    <polygon points="32,420 50,408 80,415 90,438 70,455 35,448" fill="#c8c8c8" />
+  </g>
+  <g>
+    <ellipse cx="180" cy="450" rx="32" ry="26" fill="#888888" stroke="#1a1a1a" stroke-width="5" />
+    <polygon points="155,442 170,432 200,440 205,460 180,470 158,462" fill="#a8a8a8" />
+  </g>
+  <rect x="0" y="470" width="512" height="42" fill="#3a3a3a" />
+  <line x1="0" y1="490" x2="50" y2="490" stroke="#1a1a1a" stroke-width="4" stroke-dasharray="20 10" />
+  <line x1="120" y1="490" x2="200" y2="490" stroke="#1a1a1a" stroke-width="4" stroke-dasharray="20 10" />
+  <line x1="300" y1="490" x2="380" y2="490" stroke="#1a1a1a" stroke-width="4" stroke-dasharray="20 10" />
+  <line x1="450" y1="490" x2="512" y2="490" stroke="#1a1a1a" stroke-width="4" stroke-dasharray="20 10" />
+  <g transform="translate(420,180)">
+    <polygon points="-40,30 40,30 0,-40" fill="#e8b820" stroke="#1a1a1a" stroke-width="5.0000" />
+    <ellipse cx="-10" cy="0" rx="8" ry="6" fill="#2b2622" />
+    <ellipse cx="-5" cy="10" rx="10" ry="7" fill="#2b2622" />
+    <ellipse cx="8" cy="-5" rx="9" ry="6" fill="#2b2622" />
+    <polygon points="-12,8 -3,0 5,8 0,15" fill="#5a5a5a" />
+  </g>
+  <g opacity="0.5">
+    <ellipse cx="200" cy="350" rx="50" ry="15" fill="#b8a890" />
+    <ellipse cx="320" cy="430" rx="60" ry="18" fill="#b8a890" />
+    <ellipse cx="80" cy="390" rx="40" ry="12" fill="#b8a890" />
+  </g>
+</svg>

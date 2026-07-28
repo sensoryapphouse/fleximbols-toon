@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -78.000)">
+
+
+<path d="M70 300 Q70 420 256 440 Q442 420 442 300 Z" fill="#3aa6e8" stroke="#1a1a1a" stroke-width="5.0000" />
+<ellipse cx="256" cy="300" rx="186" ry="36" fill="#5fb3e8" stroke="#1a1a1a" stroke-width="5.0000" />
+<ellipse cx="256" cy="300" rx="170" ry="28" fill="#f5d77a" stroke="#1a1a1a" stroke-width="3" />
+
+<g stroke="#1a1a1a" stroke-width="5.0000" fill="#f7c545">
+
+<path d="M120 280 Q120 240 160 240 Q200 240 200 280 L185 280 Q185 255 160 255 Q135 255 135 280 Z" />
+
+<path d="M225 270 Q225 230 265 230 Q305 230 305 270 L290 270 Q290 245 265 245 Q240 245 240 270 Z" transform="rotate(15 265 250)" />
+
+<path d="M330 285 Q330 245 370 245 Q410 245 410 285 L395 285 Q395 260 370 260 Q345 260 345 285 Z" transform="rotate(-20 370 265)" />
+
+<path d="M150 320 Q150 285 190 285 Q230 285 230 320 L215 320 Q215 300 190 300 Q165 300 165 320 Z" transform="rotate(45 190 305)" />
+
+<path d="M280 320 Q280 285 320 285 Q360 285 360 320 L345 320 Q345 300 320 300 Q295 300 295 320 Z" transform="rotate(-45 320 305)" />
+
+<path d="M210 360 Q210 325 250 325 Q290 325 290 360 L275 360 Q275 340 250 340 Q225 340 225 360 Z" transform="rotate(160 250 345)" />
+</g>
+
+<path d="M180 200 Q170 175 190 155" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+<path d="M256 195 Q246 170 266 150" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+<path d="M330 200 Q320 175 340 155" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+</g>
+  </svg>

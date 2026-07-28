@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 13.000)">
+  <title>tower cartoon - castle tower</title>
+  
+  <path d="M 60 460 L 452 460" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <rect x="172" y="160" width="168" height="300" fill="#C8B89C" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M 172 210 L 340 210 M 172 260 L 340 260 M 172 310 L 340 310 M 172 360 L 340 360 M 172 410 L 340 410" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M 214 160 L 214 210 M 256 210 L 256 260 M 298 260 L 298 310 M 214 310 L 214 360 M 298 360 L 298 410 M 256 410 L 256 460" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M 230 380 L 230 460 L 282 460 L 282 380 Q 282 360 256 360 Q 230 360 230 380 Z" fill="#6B4A2E" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <circle cx="272" cy="420" r="4" fill="#FFE066" />
+  
+  <path d="M 234 250 L 234 290 L 278 290 L 278 250 Q 278 234 256 234 Q 234 234 234 250 Z" fill="#3A4A7A" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <path d="M 256 234 L 256 290 M 234 264 L 278 264" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M 162 160 L 162 130 L 192 130 L 192 160 M 202 160 L 202 130 L 232 130 L 232 160 M 242 160 L 242 130 L 272 130 L 272 160 M 282 160 L 282 130 L 312 130 L 312 160 M 322 160 L 322 130 L 350 130 L 350 160" fill="#C8B89C" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <rect x="158" y="155" width="196" height="14" fill="#C8B89C" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M 162 130 L 256 50 L 350 130 Z" fill="#C44A4A" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <path d="M 256 50 L 256 20" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M 256 22 L 300 32 L 256 42 Z" fill="#FFE066" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+</g>
+  </svg>

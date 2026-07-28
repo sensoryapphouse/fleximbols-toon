@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>vine</title>
+  
+  <g stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round" fill="none">
+    
+    <path d="M 80 480 Q 100 380 180 340 Q 280 290 240 200 Q 200 110 320 80 Q 420 60 450 30" stroke="#1a1a1a" stroke-width="10" />
+    
+    <path d="M 180 340 Q 130 320 140 280 Q 150 250 180 270" stroke="#1a1a1a" stroke-width="5" />
+    <path d="M 240 200 Q 290 190 290 230 Q 290 260 260 250" stroke="#1a1a1a" stroke-width="5" />
+    <path d="M 320 80 Q 340 130 380 130 Q 410 130 400 100" stroke="#1a1a1a" stroke-width="5" />
+  </g>
+  
+  <g stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round">
+    
+    <path d="M 90 420 Q 50 400 40 440 Q 50 470 100 460 Z" fill="#5fb030" />
+    <path d="M 90 420 L 70 450" stroke-width="2" fill="none" />
+    
+    <path d="M 180 340 Q 230 320 240 360 Q 230 400 180 380 Z" fill="#7ac040" />
+    <path d="M 180 340 L 215 370" stroke-width="2" fill="none" />
+    
+    <path d="M 270 240 Q 320 210 340 250 Q 350 290 310 300 Q 280 295 270 240 Z" fill="#5fb030" />
+    <path d="M 270 240 L 310 275" stroke-width="2" fill="none" />
+    
+    <path d="M 240 170 Q 200 140 180 180 Q 180 220 230 215 Z" fill="#7ac040" />
+    <path d="M 240 170 L 210 195" stroke-width="2" fill="none" />
+    
+    <path d="M 380 80 Q 430 60 440 100 Q 430 140 380 130 Z" fill="#5fb030" />
+    <path d="M 380 80 L 415 115" stroke-width="2" fill="none" />
+    
+    <path d="M 320 80 Q 280 50 260 90 Q 270 130 320 120 Z" fill="#7ac040" />
+    <path d="M 320 80 L 290 110" stroke-width="2" fill="none" />
+  </g>
+  
+  <g fill="#7030b0" stroke="#1a1a1a" stroke-width="3">
+    <circle cx="380" cy="200" r="14" />
+    <circle cx="406" cy="210" r="14" />
+    <circle cx="365" cy="225" r="14" />
+    <circle cx="392" cy="232" r="14" />
+    <circle cx="378" cy="255" r="14" />
+  </g>
+</svg>

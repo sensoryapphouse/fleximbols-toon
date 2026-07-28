@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<svg viewBox="0 0 128 128" version="1.1" xml:space="preserve" fill-rule="evenodd" stroke-linejoin="round" width="512" height="512" preserveAspectRatio="xMidYMid meet"><defs><filter id="ob" x="-45%" y="-45%" width="190%" height="190%"><feMorphology in="SourceAlpha" operator="dilate" radius="1.0000" result="d"/><feFlood flood-color="#1a1a1a" result="ink"/><feComposite in="ink" in2="d" operator="in"/></filter><g id="art">
+    <g transform="translate(16 16) scale(0.75)">
+    <path d="M6.26,37.74C0.17,51.3 -1.49,69.09 2.02,83.44C6.01,99.72 18.89,113.21 34.16,119.63C47.07,125.07 60.95,127.21 74.9,125.56C80.02,124.96 85.2,123.72 90.04,121.93C105.2,116.32 117.96,103.74 123.8,88.64C125.69,83.75 126.89,78.21 127.41,72.99C131.11,35.9 107.73,7.34 75.47,2.63C47.76,-1.41 18.06,11.43 6.26,37.74Z" fill="rgb(25,108,162)" fill-rule="nonzero" />
+    <path d="M15.028,43.494C7.265,60.18 7.87,83.088 19.76,97.591C25.225,104.242 32.47,109.341 40.333,112.787C60.969,121.811 87.651,117.735 103.277,100.91C118.044,85.007 122.462,58.413 110.774,39.506C107.354,33.965 102.053,27.591 96.664,23.855C90.365,19.513 81.454,15.727 73.856,14.666C50.304,11.347 25.061,21.886 15.026,43.494L15.028,43.494Z" fill="rgb(225,245,254)" fill-rule="nonzero" />
+    <g transform="matrix(0.757483,0,0,0.757483,16.0846,14.2116)">
+        <path d="M27.14,48.798C18.192,67.674 25.727,94.34 46.88,101.973C70.995,110.685 97.778,99.304 102.546,73.03C105.431,57.117 96.209,38.123 82.238,30.647C67.109,22.563 46.821,27.331 34.832,38.3C31.535,41.322 28.984,44.893 27.14,48.798Z" fill="rgb(25,108,162)" fill-rule="nonzero" />
+    </g>
+    </g>
+</g></defs><use href="#art" filter="url(#ob)"/><use href="#art"/></svg>
+</svg>

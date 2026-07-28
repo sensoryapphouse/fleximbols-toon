@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="80" y="80" width="352" height="352" rx="18" fill="#8B4513" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="100" y="100" width="312" height="312" rx="10" fill="#D2691E" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="120" y="120" width="272" height="50" fill="#FFE4B5" stroke="#1a1a1a" stroke-width="5.0000" />
+  <text x="256" y="158" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="900" fill="#000000">PHOTOS</text>
+  
+  <rect x="130" y="195" width="100" height="80" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="180" cy="225" r="14" fill="#FFD700" stroke="#1a1a1a" stroke-width="3" />
+  <polygon points="150,265 175,235 200,260 220,245 220,265" fill="#32CD32" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="282" y="195" width="100" height="80" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="332" cy="235" r="22" fill="#FFC0CB" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="324" cy="231" r="3" fill="#000000" />
+  <circle cx="340" cy="231" r="3" fill="#000000" />
+  <path d="M324 244 Q332 250 340 244" stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round" />
+  <rect x="130" y="295" width="100" height="80" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M140 365 L170 320 L195 345 L220 305 L220 365 Z" fill="#1E90FF" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="200" cy="318" r="10" fill="#FFD700" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="282" y="295" width="100" height="80" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M292 365 Q332 310 372 365 Z" fill="#FF6347" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="80" cy="180" r="14" fill="#C0C0C0" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="80" cy="256" r="14" fill="#C0C0C0" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="80" cy="332" r="14" fill="#C0C0C0" stroke="#1a1a1a" stroke-width="5.0000" />
+</svg>

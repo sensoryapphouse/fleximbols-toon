@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="vg" cx="40%" cy="35%" r="60%">
+      <stop offset="0%" stop-color="#e87070" />
+      <stop offset="100%" stop-color="#c0292a" />
+    </radialGradient>
+    <radialGradient id="gloss" cx="38%" cy="30%" r="35%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <circle cx="256" cy="256" r="145" fill="url(#vg)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M256,111 C256,111 256,78 256,62" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="256" cy="54" r="14" fill="#e87070" stroke="#1a1a1a" stroke-width="7" />
+  <path d="M256,401 C256,401 256,434 256,450" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="256" cy="458" r="14" fill="#e87070" stroke="#1a1a1a" stroke-width="7" />
+  <path d="M111,256 C111,256 78,256 62,256" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="54" cy="256" r="14" fill="#e87070" stroke="#1a1a1a" stroke-width="7" />
+  <path d="M401,256 C401,256 434,256 450,256" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="458" cy="256" r="14" fill="#e87070" stroke="#1a1a1a" stroke-width="7" />
+  <path d="M153,153 C153,153 130,130 118,118" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="110" cy="110" r="14" fill="#e87070" stroke="#1a1a1a" stroke-width="7" />
+  <path d="M359,153 C359,153 382,130 394,118" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="402" cy="110" r="14" fill="#e87070" stroke="#1a1a1a" stroke-width="7" />
+  <path d="M153,359 C153,359 130,382 118,394" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="110" cy="402" r="14" fill="#e87070" stroke="#1a1a1a" stroke-width="7" />
+  <path d="M359,359 C359,359 382,382 394,394" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="402" cy="402" r="14" fill="#e87070" stroke="#1a1a1a" stroke-width="7" />
+  <path d="M174,175 C174,175 164,164 157,157" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="150" cy="150" r="11" fill="#e87070" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M338,175 C338,175 348,164 355,157" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="362" cy="150" r="11" fill="#e87070" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M174,337 C174,337 164,348 157,355" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="150" cy="362" r="11" fill="#e87070" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M338,337 C338,337 348,348 355,355" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="362" cy="362" r="11" fill="#e87070" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M185,212 C185,212 178,195 175,186" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="172" cy="178" r="11" fill="#e87070" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M327,212 C327,212 334,195 337,186" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="340" cy="178" r="11" fill="#e87070" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M212,175 C212,175 195,168 186,165" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="178" cy="162" r="11" fill="#e87070" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M300,175 C300,175 317,168 326,165" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="334" cy="162" r="11" fill="#e87070" stroke="#1a1a1a" stroke-width="6" />
+  
+  <circle cx="256" cy="256" r="145" fill="url(#gloss)" />
+</svg>

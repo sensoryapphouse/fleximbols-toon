@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="222" y="68" width="60" height="40" rx="6" fill="#3a4150" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M252 80 L252 100 L312 100 L312 140 L292 140 L292 120 L252 120" fill="#3a4150" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <rect x="216" y="108" width="72" height="40" fill="#5a6275" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M120 180 Q120 148 152 148 L352 148 Q384 148 384 180 L384 432 Q384 460 356 460 L148 460 Q120 460 120 432 Z" fill="#6cd1c4" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <rect x="148" y="240" width="208" height="180" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  
+  <path d="M200 296 Q220 270 252 280 Q284 290 280 318 Q276 340 252 340 Q232 340 232 322" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" />
+  <path d="M218 290 Q240 286 256 304" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <text x="252" y="380" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="900" text-anchor="middle" fill="#1a1d24">CONDITIONER</text>
+  <text x="252" y="406" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" text-anchor="middle" fill="#3a4150">smooth + shine</text>
+</svg>

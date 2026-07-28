@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="0" y="80" width="512" height="160" fill="#87ceeb" />
+  
+  <rect x="0" y="380" width="512" height="132" fill="#deb887" />
+  
+  
+  <polygon points="175,380 337,380 320,330 192,330" fill="#aa4411" />
+  
+  <polygon points="192,330 320,330 310,285 202,285" fill="#bb5522" />
+  
+  <polygon points="202,285 310,285 302,240 210,240" fill="#cc6633" />
+  
+  <polygon points="210,240 302,240 296,200 216,200" fill="#dd7744" />
+  
+  <polygon points="216,200 296,200 292,165 220,165" fill="#cc8833" />
+  
+  <polygon points="220,165 292,165 288,140 224,140" fill="#cc6633" />
+  
+  <rect x="224" y="115" width="64" height="28" fill="#dd8855" />
+  
+  <rect x="224" y="112" width="64" height="8" fill="#ee9966" />
+  
+  <circle cx="80" cy="405" r="5" fill="#c8a876" />
+  <circle cx="160" cy="420" r="4" fill="#c8a876" />
+  <circle cx="380" cy="408" r="5" fill="#c8a876" />
+  <circle cx="440" cy="425" r="4" fill="#c8a876" />
+  
+  <ellipse cx="90" cy="378" rx="20" ry="10" fill="#88aa44" />
+  
+  <ellipse cx="420" cy="378" rx="20" ry="10" fill="#88aa44" />
+  
+  <polygon points="224,115 288,115 292,165 220,165" fill="none" stroke="#1a1a1a" stroke-width="6" />
+  <line x1="224" y1="115" x2="288" y2="115" stroke="#1a1a1a" stroke-width="5.0000" />
+  <polyline points="175,380 192,330 202,285 210,240 216,200 220,165 224,140 224,115" fill="none" stroke="#1a1a1a" stroke-width="6" />
+  <polyline points="337,380 320,330 310,285 302,240 296,200 292,165 288,140 288,115" fill="none" stroke="#1a1a1a" stroke-width="6" />
+</svg>

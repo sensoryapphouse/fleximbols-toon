@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-71.774 -74.017) scale(1.2816)">
+  
+  <rect x="236" y="160" width="40" height="12" rx="4" fill="#888888" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="249" y="172" width="14" height="100" rx="5" fill="#888888" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="130" y="190" width="252" height="14" rx="5" fill="#888888" stroke="#1a1a1a" stroke-width="3.9014" />
+  
+  <line x1="160" y1="204" x2="160" y2="270" stroke="#1a1a1a" stroke-width="5" stroke-dasharray="8,4" />
+  
+  <line x1="352" y1="204" x2="352" y2="270" stroke="#1a1a1a" stroke-width="5" stroke-dasharray="8,4" />
+  
+  <path d="M110,270 Q160,295 210,270" fill="#ddbb44" stroke="#1a1a1a" stroke-width="3.9014" />
+  
+  <path d="M302,270 Q352,295 402,270" fill="#ddbb44" stroke="#1a1a1a" stroke-width="3.9014" />
+  
+  <polygon points="88,360 128,342 128,378" fill="#bb3333" stroke="#1a1a1a" stroke-width="5" />
+  
+  <polygon points="424,360 384,342 384,378" fill="#334dbb" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="128" y="353" width="256" height="14" rx="4" fill="#888888" stroke="#1a1a1a" stroke-width="5" />
+  
+  <circle cx="256" cy="155" r="14" fill="#aaaaaa" stroke="#1a1a1a" stroke-width="5" />
+  
+  <circle cx="160" cy="284" r="10" fill="#cc3333" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="352" cy="284" r="10" fill="#3355cc" stroke="#1a1a1a" stroke-width="3" />
+</g>
+  </svg>

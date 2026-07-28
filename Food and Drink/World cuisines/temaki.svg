@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(-133.84 -50.50) scale(2.6886)" stroke-linejoin="round" stroke-linecap="round">
+  <!-- temaki hand-roll: nori cone with rice + fillings at the top opening -->
+  <g transform="translate(25,18) scale(2.4)" stroke-linejoin="round">
+    <!-- nori cone -->
+    <path d="M18,75 Q20,30 50,15 Q70,28 82,75 Z" fill="#243a1e" stroke="#000000" stroke-width="3.38"/>
+    <!-- rice at the wide opening -->
+    <ellipse cx="50" cy="15" rx="21" ry="8.5" fill="#ffffff" stroke="#000000" stroke-width="2.60"/>
+    <!-- fillings poking out the top -->
+    <ellipse cx="41" cy="11" rx="8.5" ry="5" fill="#ff9166" stroke="#000000" stroke-width="2.34" transform="rotate(-15,41,11)"/>
+    <ellipse cx="59" cy="13" rx="7.5" ry="4.5" fill="#68bb2e" stroke="#000000" stroke-width="2.34" transform="rotate(10,59,13)"/>
+    <ellipse cx="50" cy="9" rx="6.5" ry="4.5" fill="#eb0014" stroke="#000000" stroke-width="2.34"/>
+    <!-- sesame on the nori -->
+    <circle cx="34" cy="50" r="1.8" fill="#fceeca"/>
+    <circle cx="66" cy="45" r="1.8" fill="#fceeca"/>
+    <circle cx="40" cy="65" r="1.8" fill="#fceeca"/>
+    <circle cx="58" cy="62" r="1.8" fill="#fceeca"/>
+  </g>
+</g></svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,79.309) scale(0.8451)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(12.39 53.72) scale(0.8373)" stroke-linejoin="round" stroke-linecap="round">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="387,349 387,349 404,395 418,431 424,444 430,452 402,454 402,454 398,442 394,431 392,429 387,427 381,389 387,349 387,349" fill="#c1c4c6" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="119,157 119,157 115,157 101,153 81,153 69,153 59,155 49,161 39,167 30,175 22,187 18,202 14,220 14,244 18,270 18,270 22,286 26,300 35,319 41,333 41,341 39,351 53,327 53,327 53,341 53,353 51,363 51,363 51,363 53,359 57,353 59,341 61,325 61,302 59,278 49,250 49,250 49,238 49,222 51,208 59,191 63,183 69,177 77,171 87,167 97,165 111,165 119,157 119,157" fill="#c1c4c6" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="103,238 103,238 105,246 105,256 103,268 101,282 93,296 81,314 61,331 61,331 67,353 71,377 75,403 75,403 75,419 71,433 67,444 63,452 63,452 75,462 85,468 89,470 91,468 91,468 93,462 95,452 97,423 97,407 95,389 91,369 85,351 85,351 93,345 111,333 119,323 129,314 135,304 139,294 139,294 139,284 137,276 131,266 123,258 109,244 103,238 103,238 103,238" fill="#c1c4c6" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="200,145 200,145 180,141 158,139 133,139 121,141 111,145 101,151 93,159 87,169 83,183 83,198 87,218 87,218 97,248 109,276 119,302 123,317 123,329 123,329 121,333 119,345 117,353 119,361 121,371 125,383 125,383 131,448 131,448 135,450 145,454 158,460 162,464 164,470 164,470 178,470 188,470 192,470 194,468 194,468 178,454 156,436 156,436 147,399 143,371 143,359 143,351 143,351 164,310 178,276 182,262 186,250 186,250 202,260 220,270 244,278 270,284 283,286 297,284 311,282 323,278 337,272 349,262 355,270 355,270 355,276 357,292 363,317 367,331 375,345 375,345 377,351 379,363 379,373 375,383 371,397 361,411 361,411 363,421 361,431 359,442 357,460 379,458 379,458 381,440 381,423 383,415 383,415 389,403 394,389 398,373 400,353 400,331 398,310 394,298 389,288 389,288 396,282 408,266 414,252 420,238 426,222 428,202 428,202 440,171 452,149 458,141 464,135 464,135 468,139 480,147 490,149 498,153 508,153 519,153 519,153 521,159 523,165 529,167 535,169 543,169 549,167 555,165 561,161 561,161 563,155 565,151 567,145 567,139 565,131 559,125 547,119 547,119 541,105 535,93 525,76 511,64 504,58 496,54 486,52 478,52 468,54 458,58 458,58 410,95 375,127 361,141 353,153 353,153 333,153 283,153 256,153 230,151 212,149 204,147 200,145 200,145 200,145" fill="#c1c4c6" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="186,216 186,216 188,230 186,242 186,250" fill="#c1c4c6" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
+    <polyline points="186,216 186,216 188,230 186,242 186,250" fill="none" stroke="#010101" stroke-width="10.40"/>
+    <polygon points="389,240 389,240 392,262 392,278 389,288" fill="#c1c4c6" stroke="none" stroke-width="0.00" fill-rule="evenodd"/>
+    <polyline points="389,240 389,240 392,262 392,278 389,288" fill="none" stroke="#010101" stroke-width="10.40"/>
+    <polygon points="218,151 218,151 222,163 226,177 234,193 244,208 252,216 258,222 266,226 277,230 287,232 299,230 299,230 315,230 331,228 349,222 357,218 363,212 367,204 369,195 369,183 367,169 361,155 351,135 351,135 343,139 317,147 299,151 275,153 248,153 218,151 218,151 218,151" fill="#c1c4c6" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="553,121 553,121 537,137 525,151 521,155 521,159 511,157 511,157 525,135 537,121 541,117 545,115 553,121 553,121" fill="#c1c4c6" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="515,62 492,83 496,91 519,70 515,62 515,62" fill="#c1c4c6" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="478,52 478,52 484,64 500,95 515,131 519,147 523,159 513,157 513,157 500,123 486,91 468,54 478,52 478,52" fill="#c1c4c6" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="492,81 484,151 492,151 496,89 492,81 492,81" fill="#c1c4c6" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="347,119 347,119 347,123 349,131 355,143 359,149 365,155 365,155 385,135 402,117 418,103 434,91 446,81 458,74 470,68 480,66 480,66 494,64 504,64 513,66 513,66 515,68 511,50 511,50 508,48 500,42 490,36 482,36 474,34 462,36 452,38 438,44 422,52 406,62 387,76 367,97 347,119 347,119 347,119" fill="#c1c4c6" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="460,16 460,16 456,22 448,36 446,46 446,54 448,64 456,74 462,72 460,16 460,16" fill="#c1c4c6" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="506,91 506,91 506,95 508,97 515,97 515,97 515,93 511,89 506,91 506,91 506,91" fill="#c1c4c6" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="402,454 396,437 418,431 430,452 402,454" fill="#b98b76" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="353,463 380,462 379,458 384,444 359,442 353,463" fill="#b98b76" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="158,460 171,444 194,468 168,474 158,460" fill="#b98b76" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="71,433 94,438 89,470 63,457 71,433" fill="#b98b76" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+    <polygon points="462,383 450,432 492,446 483,422 532,398 521,374 474,402 462,383" fill="#ff121b" stroke="#010101" stroke-width="10.40" fill-rule="evenodd"/>
+  </g>
+</g></g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl11" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl11)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

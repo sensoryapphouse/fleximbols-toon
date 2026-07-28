@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs />
+<path d="M140 200 L372 200 L350 460 Q348 480 328 480 L184 480 Q164 480 162 460 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+<rect x="120" y="170" width="272" height="50" rx="10" ry="10" fill="#5acca8" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="130" y="180" width="252" height="14" fill="#ffffff" />
+<rect x="160" y="260" width="192" height="120" rx="8" ry="8" fill="#ffe4f0" stroke="#1a1a1a" stroke-width="6" />
+<text x="256" y="305" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="34" font-weight="900" text-anchor="middle" fill="#d04a8a">YOGHURT</text>
+<circle cx="195" cy="350" r="9" fill="#ff5a8a" />
+<circle cx="230" cy="356" r="7" fill="#ff5a8a" />
+<circle cx="280" cy="352" r="8" fill="#ff5a8a" />
+<circle cx="315" cy="358" r="7" fill="#ff5a8a" />
+<path d="M256 200 Q256 160 256 130 Q256 90 296 80" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+<ellipse cx="310" cy="60" rx="30" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" />
+<path d="M310 60 L320 70" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+<ellipse cx="220" cy="240" rx="40" ry="10" fill="#fff4d0" />
+<ellipse cx="300" cy="240" rx="30" ry="8" fill="#fff4d0" />
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-14.250 -27.000)">
+  
+  
+  <line x1="256" y1="50" x2="256" y2="140" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <polygon points="232,128 280,128 256,170" fill="#E63946" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <path d="M 80 220 Q 80 200 100 200 L 412 200 Q 432 200 432 220" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  
+  
+  <circle cx="130" cy="320" r="64" fill="#2A9D8F" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M 70 320 Q 130 290 190 320" fill="none" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M 130 256 Q 110 320 130 384" fill="none" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="208" y="256" width="120" height="128" rx="8" fill="#E63946" stroke="#1a1a1a" stroke-width="6" />
+  <rect x="258" y="256" width="20" height="128" fill="#FFD93D" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M 240 256 Q 230 226 260 230 Q 275 240 268 256" fill="#FFD93D" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <path d="M 296 256 Q 306 226 276 230 Q 261 240 268 256" fill="#FFD93D" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <polygon points="412,256 432,310 488,314 444,348 458,402 412,372 366,402 380,348 336,314 392,310" fill="#FFD93D" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <rect x="80" y="408" width="352" height="74" rx="14" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" />
+  <text x="256" y="462" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="54" font-weight="900" fill="#1A1A1A">THESE</text>
+</g>
+  </svg>

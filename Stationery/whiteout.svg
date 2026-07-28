@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="0" y="0" width="512" height="512" fill="#f8f8f8" />
+  
+  <rect x="0" y="0" width="512" height="200" fill="#f0f0f0" />
+  
+  <ellipse cx="100" cy="450" rx="100" ry="20" fill="#e8e8e8" />
+  <ellipse cx="380" cy="460" rx="120" ry="22" fill="#e8e8e8" />
+  <ellipse cx="200" cy="490" rx="200" ry="18" fill="#ececec" />
+  
+  
+  <ellipse cx="256" cy="290" rx="32" ry="28" fill="#c8c8c8" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M 225 310 Q 230 360 235 405 L 280 405 Q 285 360 290 310 Q 290 300 256 295 Q 220 300 225 310 Z" fill="#b8b8b8" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M 225 320 Q 210 340 205 365 L 220 370 Q 225 345 235 330 Z" fill="#b0b0b0" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M 290 320 Q 305 340 310 365 L 295 370 Q 290 345 280 330 Z" fill="#b0b0b0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="237" y="403" width="14" height="35" fill="#a0a0a0" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="261" y="403" width="14" height="35" fill="#a0a0a0" stroke="#1a1a1a" stroke-width="2" />
+  
+  <circle cx="248" cy="287" r="1.5" fill="#888888" />
+  <circle cx="264" cy="287" r="1.5" fill="#888888" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <circle cx="50" cy="50" r="2" fill="#d0d0d0" />
+  <circle cx="150" cy="80" r="2" fill="#d0d0d0" />
+  <circle cx="250" cy="60" r="2" fill="#d0d0d0" />
+  <circle cx="350" cy="40" r="2" fill="#d0d0d0" />
+  <circle cx="450" cy="80" r="2" fill="#d0d0d0" />
+  <circle cx="100" cy="160" r="2" fill="#d0d0d0" />
+  <circle cx="200" cy="180" r="2" fill="#d0d0d0" />
+  <circle cx="300" cy="170" r="2" fill="#d0d0d0" />
+  <circle cx="400" cy="220" r="2" fill="#d0d0d0" />
+  <circle cx="40" cy="280" r="2" fill="#d0d0d0" />
+  <circle cx="180" cy="270" r="2" fill="#d0d0d0" />
+  <circle cx="350" cy="280" r="2" fill="#d0d0d0" />
+  <circle cx="470" cy="320" r="2" fill="#d0d0d0" />
+  <circle cx="60" cy="350" r="2" fill="#d0d0d0" />
+  <circle cx="180" cy="370" r="2" fill="#d0d0d0" />
+  <circle cx="330" cy="350" r="2" fill="#d0d0d0" />
+  <circle cx="450" cy="380" r="2" fill="#d0d0d0" />
+  
+  <path d="M 60 240 Q 130 230 200 240" stroke="#1a1a1a" stroke-width="5.0000" fill="none" />
+  <path d="M 320 230 Q 390 220 460 230" stroke="#1a1a1a" stroke-width="5.0000" fill="none" />
+  <path d="M 40 400 Q 110 390 180 400" stroke="#1a1a1a" stroke-width="5.0000" fill="none" />
+  <path d="M 340 410 Q 410 400 480 410" stroke="#1a1a1a" stroke-width="5.0000" fill="none" />
+  <path d="M 20 130 Q 80 120 130 130" stroke="#1a1a1a" stroke-width="5.0000" fill="none" />
+  <path d="M 380 110 Q 440 100 490 110" stroke="#1a1a1a" stroke-width="5.0000" fill="none" />
+  
+  
+</svg>

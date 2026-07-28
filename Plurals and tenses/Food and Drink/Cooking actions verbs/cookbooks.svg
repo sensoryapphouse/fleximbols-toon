@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,67.942) scale(0.8673)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<g stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+  
+  <rect x="92" y="64" width="328" height="388" rx="8" fill="#c8362e" />
+  
+  <rect x="92" y="64" width="36" height="388" rx="6" fill="#8a1a1a" />
+  
+  <rect x="146" y="82" width="258" height="352" rx="6" fill="#e8504a" />
+  
+  <rect x="160" y="96" width="230" height="324" fill="none" stroke="#1a1a1a" stroke-width="4" rx="4" />
+  
+  <rect x="170" y="108" width="212" height="50" rx="4" fill="#fff4e0" />
+  <text x="276" y="142" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="28" font-weight="900" fill="#c8362e" stroke="none">COOKBOOK</text>
+  
+  
+  <rect x="232" y="280" width="88" height="22" rx="3" fill="#fff4e0" />
+  
+  <path d="M232 280 Q220 260 232 244 Q230 224 252 222 Q256 206 276 210 Q298 206 302 224 Q322 226 320 246 Q330 260 320 280 Z" fill="#fff4e0" />
+  
+  <path d="M236 246 q-4 -10 8 -16" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M286 220 q4 -8 16 -2" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <line x1="200" y1="206" x2="244" y2="262" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <ellipse cx="194" cy="200" rx="16" ry="12" fill="#a86c44" transform="rotate(-30 194 200)" />
+  
+  <line x1="356" y1="206" x2="332" y2="262" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <path d="M358 198 Q374 218 364 240 Q352 236 354 218" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M362 200 Q380 220 372 246" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M354 198 Q366 222 352 250" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  
+  <circle cx="198" cy="370" r="22" fill="#e94560" />
+  <path d="M186 350 q12 -10 24 0" fill="#3f9f5a" />
+  <path d="M196 348 q-2 -10 4 -8 q4 -2 4 8" fill="#3f9f5a" />
+  
+  <path d="M256 350 L272 350 L268 400 L258 400 Z" fill="#ff8a3d" />
+  <path d="M256 350 q-4 -12 4 -16 q6 4 2 14" fill="#3f9f5a" />
+  <path d="M268 348 q4 -10 12 -10 q0 8 -8 14" fill="#3f9f5a" />
+  
+  <ellipse cx="332" cy="374" rx="20" ry="24" fill="#fff4e0" />
+  <circle cx="332" cy="376" r="8" fill="#ffd23f" />
+  
+  <text x="276" y="180" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" font-style="italic" fill="#fff4e0" stroke="none">recipes for everyone</text>
+</g>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1083" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1083)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-39.845 -39.845) scale(1.1568)">
+  <defs>
+    <linearGradient id="envGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ee4e44" />
+      <stop offset="100%" stop-color="#c01e1e" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f8d750" />
+      <stop offset="100%" stop-color="#c8930a" />
+    </linearGradient>
+  </defs>
+  
+  <rect x="88" y="130" width="336" height="252" rx="18" ry="18" fill="url(#envGrad)" stroke="#1a1a1a" stroke-width="4.3223" stroke-linejoin="round" />
+  
+  <path d="M88 310 Q88 382 106 382 L400 382 Q424 382 424 360 L424 310 Z" fill="#9a0e0e" opacity="0.45" />
+  
+  <rect x="100" y="142" width="312" height="28" rx="6" fill="url(#goldGrad)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <rect x="100" y="342" width="312" height="28" rx="6" fill="url(#goldGrad)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <path d="M88 130 L256 250 L424 130 Z" fill="#d41818" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" />
+  
+  <path d="M88 130 L256 250 L424 130" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" opacity="0.7" />
+  
+  <circle cx="256" cy="290" r="52" fill="url(#goldGrad)" stroke="#1a1a1a" stroke-width="7" />
+  
+  <circle cx="256" cy="290" r="37" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="240" y="274" width="32" height="32" rx="4" fill="#9a6200" stroke="#1a1a1a" stroke-width="4" />
+  
+  <polygon points="256,162 265,175 256,188 247,175" fill="#f8d750" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M110 145 Q200 148 220 175 Q200 155 110 158 Z" fill="#ffffff" opacity="0.3" />
+</g>
+  </svg>

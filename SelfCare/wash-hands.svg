@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-52.591 6.705) scale(1.2752)">
+  <g transform="translate(0 0) scale(0.6250)">
+  <path d="M 140 280 Q 140 220 180 220 L 180 130 Q 180 100 215 100 Q 250 100 250 130 L 250 220 L 280 220 L 280 110 Q 280 80 315 80 Q 350 80 350 110 L 350 230 L 380 230 L 380 140 Q 380 110 415 110 Q 445 110 445 145 L 445 270 Q 445 320 430 360 Q 410 420 350 440 Q 280 460 230 440 Q 170 415 150 360 Q 140 320 140 280 Z" fill="#F4C896" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M 200 130 L 200 220" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M 300 110 L 300 230" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M 400 145 L 400 270" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M 200 350 Q 230 365 270 365 Q 320 365 360 350" fill="none" stroke="#1a1a1a" stroke-width="3" /></g>
+  <g transform="translate(192 192) scale(0.4375)">
+<path d="M90 230 Q90 200 130 195 L380 180 Q430 180 435 215 L435 320 Q435 360 390 365 L130 350 Q90 345 90 315 Z" fill="#f72585" stroke="#1a1a1a" stroke-width="8.9622" stroke-linejoin="round" />
+<path d="M105 230 Q105 215 130 213 L370 200 Q400 200 400 220" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.8" />
+<path d="M150 270 Q170 260 180 270 Q190 260 200 270" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<path d="M150 295 Q170 285 180 295 Q190 285 200 295" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<text x="280" y="305" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="58" font-weight="900" fill="#ffffff" stroke="#1a1a1a" stroke-width="4">SOAP</text>
+<circle cx="430" cy="160" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" opacity="0.95" />
+<circle cx="395" cy="135" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" opacity="0.95" />
+<circle cx="455" cy="140" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" opacity="0.95" /></g>
+  <g transform="translate(320 0) scale(0.2500)">
+  
+  <path d="M 256 80 Q 200 200 200 290 Q 200 372 256 372 Q 312 372 312 290 Q 312 200 256 80 Z" fill="#0a84ff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <path d="M 232 200 Q 218 240 220 280" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" />
+  <path d="M 240 320 Q 238 332 246 340" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  
+  <path d="M 116 232 Q 84 296 84 340 Q 84 380 116 380 Q 148 380 148 340 Q 148 296 116 232 Z" fill="#5ac8fa" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <path d="M 102 296 Q 96 320 98 340" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <path d="M 396 232 Q 364 296 364 340 Q 364 380 396 380 Q 428 380 428 340 Q 428 296 396 232 Z" fill="#5ac8fa" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <path d="M 382 296 Q 376 320 378 340" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <path d="M 96 420 Q 128 396 176 408 Q 220 392 256 416 Q 296 392 336 408 Q 384 396 416 420 Q 384 444 336 436 Q 296 452 256 432 Q 220 452 176 436 Q 128 444 96 420 Z" fill="#5ac8fa" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <circle cx="160" cy="382" r="9" fill="#5ac8fa" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="352" cy="382" r="9" fill="#5ac8fa" stroke="#1a1a1a" stroke-width="3" /></g>
+</g>
+  </svg>

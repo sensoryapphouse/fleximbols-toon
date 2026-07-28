@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="hr" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#e8dfd0" /><stop offset="100%" stop-color="#b8a890" /></linearGradient>
+<linearGradient id="hr2" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f5ede0" /><stop offset="100%" stop-color="#d8c8b0" /></linearGradient>
+</defs>
+<g stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" fill="none">
+<line x1="20" y1="180" x2="120" y2="180" />
+<line x1="10" y1="220" x2="140" y2="220" />
+<line x1="30" y1="260" x2="130" y2="260" />
+<line x1="20" y1="310" x2="110" y2="310" />
+</g>
+<g transform="translate(280 240)">
+
+<path d="M-100 30 Q-110 0 -90 -20 Q-70 -30 -50 -20 L40 -10 Q90 -20 110 10 Q120 40 100 60 L80 80 L60 80 L50 100 L30 100 L40 80 L-20 80 L-30 100 L-50 100 L-40 80 L-70 80 Q-100 70 -100 30 Z" fill="url(#hr)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+<path d="M90 -10 Q120 -50 140 -90 Q150 -110 130 -100 Q100 -90 100 -50 Q100 -20 105 0" fill="url(#hr2)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+<path d="M100 -10 Q120 -60 130 -90" fill="none" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="95" cy="20" r="5" fill="#2b2622" />
+<path d="M105 30 L115 28 L113 33 Z" fill="#ffb5c5" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="-70" cy="20" r="10" fill="#ffb5c5" stroke="#1a1a1a" stroke-width="4" opacity="0.7" />
+</g>
+<g stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" fill="none" opacity="0.7">
+<line x1="160" y1="200" x2="100" y2="200" />
+<line x1="150" y1="240" x2="80" y2="240" />
+<line x1="160" y1="280" x2="90" y2="280" />
+</g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<radialGradient id="tomato" cx="0.35" cy="0.3" r="0.8">
+<stop offset="0" stop-color="#ff7766" />
+<stop offset="0.5" stop-color="#e63b2e" />
+<stop offset="1" stop-color="#a01a18" />
+</radialGradient>
+<radialGradient id="leaf" cx="0.5" cy="0.3" r="0.7">
+<stop offset="0" stop-color="#7cc25a" />
+<stop offset="1" stop-color="#3e7a2a" />
+</radialGradient>
+<radialGradient id="star" cx="0.4" cy="0.3" r="0.7">
+<stop offset="0" stop-color="#ffe96b" />
+<stop offset="1" stop-color="#d99a1a" />
+</radialGradient>
+</defs>
+<g stroke="#1a1a1a" stroke-width="4" stroke-dasharray="8 8" fill="none">
+<circle cx="256" cy="265" r="180" />
+<circle cx="256" cy="265" r="210" opacity="0.5" />
+</g>
+<ellipse cx="256" cy="290" rx="155" ry="140" fill="url(#tomato)" stroke="#1a1a1a" stroke-width="5.0000" />
+<path d="M180 220 Q200 195 230 205 Q245 180 268 200 Q290 178 312 205 Q335 195 345 220 Q325 245 295 230 Q280 250 256 235 Q232 250 217 230 Q190 245 180 220 Z" fill="url(#leaf)" stroke="#1a1a1a" stroke-width="7" />
+<rect x="248" y="170" width="16" height="38" rx="6" fill="#5a8a3a" stroke="#1a1a1a" stroke-width="6" />
+
+<g fill="url(#star)" stroke="#1a1a1a" stroke-width="4">
+<path d="M120 130 L130 153 L155 156 L137 173 L142 198 L120 186 L98 198 L103 173 L85 156 L110 153 Z" />
+<path d="M180 95 L188 113 L208 116 L194 130 L198 150 L180 140 L162 150 L166 130 L152 116 L172 113 Z" />
+<path d="M256 80 L266 103 L291 106 L273 123 L278 148 L256 136 L234 148 L239 123 L221 106 L246 103 Z" />
+<path d="M332 95 L340 113 L360 116 L346 130 L350 150 L332 140 L314 150 L318 130 L304 116 L324 113 Z" />
+<path d="M392 130 L402 153 L427 156 L409 173 L414 198 L392 186 L370 198 L375 173 L357 156 L382 153 Z" />
+</g>
+</svg>

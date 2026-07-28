@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+
+  
+  <rect x="0" y="400" width="512" height="112" fill="#4a8c3f" />
+  <path d="M0 398 Q30 386 60 398 Q90 386 120 398 Q150 386 180 398 Q210 386 240 398 Q270 386 300 398 Q330 386 360 398 Q390 386 420 398 Q450 386 480 398 Q500 392 512 398" fill="#5aaa4f" stroke="none" />
+
+  
+  
+  <path d="M40 400 Q35 378 48 362" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <path d="M58 400 Q54 374 68 356" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <path d="M75 400 Q72 380 82 365" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  
+  <line x1="430" y1="400" x2="430" y2="330" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <path d="M430 370 Q460 350 468 368 Q455 382 430 375" fill="#44cc44" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M430 350 Q400 332 394 350 Q405 364 430 358" fill="#44cc44" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M430 330 Q448 312 450 328 Q442 340 430 336" fill="#66dd66" stroke="#1a1a1a" stroke-width="4" />
+
+  
+  
+  <ellipse cx="255" cy="330" rx="145" ry="90" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" />
+  
+  <ellipse cx="220" cy="298" rx="40" ry="28" fill="#1a1a1a" />
+  <ellipse cx="300" cy="340" rx="35" ry="22" fill="#1a1a1a" />
+  <ellipse cx="170" cy="350" rx="25" ry="18" fill="#1a1a1a" />
+  
+  <rect x="354" y="252" width="38" height="84" rx="18" ry="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" />
+  
+  <ellipse cx="420" cy="248" rx="58" ry="46" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" />
+  
+  <ellipse cx="460" cy="268" rx="30" ry="22" fill="#f5d5c0" stroke="#1a1a1a" stroke-width="5" />
+  
+  <circle cx="452" cy="270" r="6" fill="#cc8888" />
+  <circle cx="468" cy="270" r="6" fill="#cc8888" />
+  
+  <circle cx="402" cy="234" r="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="406" cy="234" r="8" fill="#3a2020" />
+  <circle cx="408" cy="232" r="3" fill="#ffffff" />
+  
+  <ellipse cx="378" cy="218" rx="14" ry="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" transform="rotate(-15,378,218)" />
+  <ellipse cx="378" cy="218" rx="8" ry="15" fill="#f5d5c0" transform="rotate(-15,378,218)" />
+  
+  <path d="M392 212 Q385 190 378 182" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <path d="M408 208 Q408 188 415 180" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  
+  <path d="M470 262 Q498 248 510 265 Q496 280 468 274" fill="#44cc44" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="472" y1="268" x2="498" y2="255" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="185" cy="404" rx="42" ry="22" fill="#f5d5c0" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="172" y1="420" x2="172" y2="436" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="188" y1="422" x2="188" y2="440" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="204" y1="420" x2="204" y2="436" stroke="#1a1a1a" stroke-width="5" />
+  
+  <path d="M112 320 Q80 310 72 340 Q76 360 90 360" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <ellipse cx="90" cy="362" rx="14" ry="8" fill="#cccccc" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="152" y="400" width="22" height="70" rx="11" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" />
+  <rect x="196" y="400" width="22" height="70" rx="11" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" />
+  <rect x="290" y="400" width="22" height="70" rx="11" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" />
+  <rect x="334" y="400" width="22" height="70" rx="11" ry="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" />
+  
+  <rect x="152" y="462" width="22" height="14" rx="7" ry="7" fill="#1a1a1a" />
+  <rect x="196" y="462" width="22" height="14" rx="7" ry="7" fill="#1a1a1a" />
+  <rect x="290" y="462" width="22" height="14" rx="7" ry="7" fill="#1a1a1a" />
+  <rect x="334" y="462" width="22" height="14" rx="7" ry="7" fill="#1a1a1a" />
+</svg>

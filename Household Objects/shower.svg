@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(256,256) scale(1.1624) translate(-255,-309)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 80.500)">
+  <title>shower</title>
+  <g fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M256 50 L256 130" stroke="#1a1a1a" stroke-width="10" />
+    <path d="M256 50 L256 130" stroke="#1a1a1a" stroke-width="5.0000" />
+    <path d="M150 130 L362 130 L380 180 L132 180 Z" fill="#9aaab8" />
+    <ellipse cx="256" cy="180" rx="124" ry="20" fill="#7a8a98" />
+    <ellipse cx="256" cy="180" rx="124" ry="20" stroke="#1a1a1a" stroke-width="5.0000" fill="none" />
+    <g fill="#1a1a1a" stroke="none">
+      <circle cx="180" cy="180" r="4" />
+      <circle cx="210" cy="180" r="4" />
+      <circle cx="240" cy="180" r="4" />
+      <circle cx="272" cy="180" r="4" />
+      <circle cx="302" cy="180" r="4" />
+      <circle cx="332" cy="180" r="4" />
+      <circle cx="195" cy="190" r="4" />
+      <circle cx="225" cy="190" r="4" />
+      <circle cx="256" cy="190" r="4" />
+      <circle cx="287" cy="190" r="4" />
+      <circle cx="317" cy="190" r="4" />
+    </g>
+    <g fill="#5ac8e8" stroke="#1a1a1a" stroke-width="3">
+      <ellipse cx="180" cy="240" rx="6" ry="14" />
+      <ellipse cx="210" cy="260" rx="6" ry="14" />
+      <ellipse cx="240" cy="240" rx="6" ry="14" />
+      <ellipse cx="272" cy="260" rx="6" ry="14" />
+      <ellipse cx="302" cy="240" rx="6" ry="14" />
+      <ellipse cx="332" cy="260" rx="6" ry="14" />
+      <ellipse cx="195" cy="310" rx="6" ry="14" />
+      <ellipse cx="225" cy="330" rx="6" ry="14" />
+      <ellipse cx="256" cy="310" rx="6" ry="14" />
+      <ellipse cx="287" cy="330" rx="6" ry="14" />
+      <ellipse cx="317" cy="310" rx="6" ry="14" />
+      <ellipse cx="210" cy="380" rx="6" ry="14" />
+      <ellipse cx="256" cy="400" rx="6" ry="14" />
+      <ellipse cx="302" cy="380" rx="6" ry="14" />
+    </g>
+  </g>
+</g>
+  </g></svg>

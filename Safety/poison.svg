@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-19.015 -12.739) scale(1.1411)">
+  <g transform="translate(0 0) scale(0.6250)">
+
+
+<path d="M120 230 Q120 100 256 100 Q392 100 392 230 L392 330 Q392 360 365 365 L320 370 L320 410 L290 410 L290 370 L222 370 L222 410 L192 410 L192 370 L147 365 Q120 360 120 330 Z" fill="#F5F5F5" stroke="#1a1a1a" stroke-width="7.0108" />
+
+<ellipse cx="195" cy="240" rx="45" ry="50" fill="#1A1A1A" />
+
+<ellipse cx="317" cy="240" rx="45" ry="50" fill="#1A1A1A" />
+
+<circle cx="180" cy="225" r="8" fill="#FFFFFF" />
+<circle cx="302" cy="225" r="8" fill="#FFFFFF" />
+
+<path d="M256 270 L235 320 Q256 330 277 320 Z" fill="#1A1A1A" />
+
+<path d="M150 365 Q256 360 362 365" fill="none" stroke="#1a1a1a" stroke-width="7.0108" />
+
+<line x1="180" y1="365" x2="180" y2="410" stroke="#1a1a1a" stroke-width="7.0108" />
+<line x1="210" y1="365" x2="210" y2="410" stroke="#1a1a1a" stroke-width="7.0108" />
+<line x1="240" y1="365" x2="240" y2="410" stroke="#1a1a1a" stroke-width="7.0108" />
+<line x1="270" y1="365" x2="270" y2="410" stroke="#1a1a1a" stroke-width="7.0108" />
+<line x1="300" y1="365" x2="300" y2="410" stroke="#1a1a1a" stroke-width="7.0108" />
+<line x1="330" y1="365" x2="330" y2="410" stroke="#1a1a1a" stroke-width="7.0108" />
+
+<line x1="170" y1="410" x2="340" y2="410" stroke="#1a1a1a" stroke-width="7.0108" />
+
+<path d="M170 130 L185 145 L200 130 L215 145 L230 130 L245 145 L260 130 L275 145 L290 130 L305 145 L320 130 L335 145" fill="none" stroke="#1a1a1a" stroke-width="7.0108" />
+
+<path d="M138 280 Q145 300 152 320" fill="none" stroke="#1a1a1a" stroke-width="7.0108" />
+<path d="M374 280 Q367 300 360 320" fill="none" stroke="#1a1a1a" stroke-width="7.0108" />
+
+<g transform="rotate(45 256 430)">
+<rect x="80" y="420" width="352" height="22" rx="11" fill="#F5F5F5" stroke="#1a1a1a" stroke-width="7.0108" />
+<circle cx="80" cy="431" r="20" fill="#F5F5F5" stroke="#1a1a1a" stroke-width="7.0108" />
+<circle cx="432" cy="431" r="20" fill="#F5F5F5" stroke="#1a1a1a" stroke-width="7.0108" />
+</g>
+<g transform="rotate(-45 256 430)">
+<rect x="80" y="420" width="352" height="22" rx="11" fill="#F5F5F5" stroke="#1a1a1a" stroke-width="7.0108" />
+<circle cx="80" cy="431" r="20" fill="#F5F5F5" stroke="#1a1a1a" stroke-width="7.0108" />
+<circle cx="432" cy="431" r="20" fill="#F5F5F5" stroke="#1a1a1a" stroke-width="7.0108" />
+</g></g>
+  <g transform="translate(192 192) scale(0.4375)">
+<svg viewBox="0 0 128 128" width="512" height="512" preserveAspectRatio="xMidYMid meet"><path d="M59.24 44.42c-.91-.31-3.73.2-4.99-.6-4.98-3.16-11.26-9.34-15.52-13.3.08-1.67.41-4.61-.86-5.88-2.39-2.39-6.3-2.39-8.69 0l-3.7 3.7c-2.39 2.39-2.39 6.3 0 8.69 1.27 1.27 3.82.22 5.5.14 3.81 4.1 10.37 10.38 13.3 15.52.99 1.72.62 4.67.98 5.72 2.03 5.94-.13 21.26 11.38 31.75 9.92 9.04 39.47 32.42 39.47 32.42a4.86 4.86 0 0 0 4.5 1.3c3-.67 8.11-2.73 14.24-8.85.17-.17.33-.34.5-.52.17-.17.34-.33.52-.5 6.13-6.13 8.18-11.24 8.85-14.24.36-1.62-.12-3.32-1.3-4.5 0 0-23.38-29.55-32.42-39.47-10.5-11.51-25.82-9.35-31.76-11.38z" fill="#004D3F" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /><path d="M90.26 54.83c.02.02.06.03.08.05 2.59 2.59-3.06 12.42-12.6 21.96l-.02.02-.02.02c-8.98 8.98-18.21 14.49-21.4 12.93.62.69.08.46.79 1.13 5.72 5.38 23.54 20.07 23.66 20.17 2.69 1.67 11.96-3.07 20.14-11.25 7.96-7.96 11.98-15.63 12.01-18.68.09-.51-.11-.23-.29-.44-6.87-8.49-20.9-24.14-21.78-24.89l-.57-1.02z" fill="#FBE793" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /><g fill="#EBC936"><path d="M43.72 77.35c.01.01.01.02.01.02-.01-.01-.01-.02-.01-.02zM69.7 99.79c.09.09.21.15.31.22-.12-.1-.25-.2-.37-.3.03.02.04.05.06.08z" /><path d="M88.61 52.69c1.92 3.58-4.17 12.17-13.71 21.72l-.02.02-.02.02c-8.98 8.98-18.01 14.87-21.19 13.3.62.69 24.12 20.83 24.24 20.93 2.69 1.67 11.96-3.07 20.14-11.25 7.96-7.96 11.98-15.63 12.01-18.68.09-.51.17-.89 0-1.11-6.87-8.5-21.46-24.98-21.45-24.95z" /></g><path d="M59.79 43.82c-4.57-1.56-14.6-9.48-20-14.51.08-1.7.23-4.16-1.06-5.44-.63-.63-3.03-1.86-4.43-1.11.09 1.8-.79 5.09-3.26 7.57-2.58 2.58-5.68 3.42-7.35 3.11-.43 1.06.13 3.88 1.75 4.84 2.52 1.5 2.52.86 4.74.66 5.03 5.41 12.55 14.73 14.11 19.29.45 1.33 1.16 3.84 1.11 5.54h19.95V44.93c-2.12-.23-4.23-.65-5.56-1.11z" fill="#EBC936" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /><path d="M65.33 44.93c-.76-.1-4.92-.97-5.54-1.11v14.41H44.27c.14.63 1.02 4.78 1.11 5.54h19.95V44.93z" fill="#FBE793" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /><path d="M29.53 18.68c-1.27-3.99.74-14.71 4.72-14.95 3.5-.21-.8 8.5-2.38 15.56-.52 2.33-1.96.59-2.34-.61zM33.13 20.72c-.09-1.29 1.57-5.97 3.08-4.79.97.76-1.63 4.46-2.11 5.03-.81.96-.93.26-.97-.24z" fill="#FFE9AF" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /><path d="M17.52 5.61c-2.03-2.31-5.59-2.53-7.89-.5l-2.8 2.47c-2.31 2.03-2.53 5.59-.5 7.89a5.605 5.605 0 0 0 4.93 1.84l1.86 2.11c1.58 1.79 4.35 1.97 6.14.39l.93-.82c1.79-1.58 1.97-4.35.39-6.14l-1.86-2.11c.46-1.75.07-3.68-1.2-5.13z" fill="#8F6C60" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /><ellipse cx="29" cy="27.69" rx="3.42" ry=".81" transform="rotate(-45.001 29 27.69)" fill="#375D28" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /><path d="M20.83 23.94C10.81 21.72.15 27.24 1.97 31.53s16.14-2.78 19.51-4.14 1.01-3.08-.65-3.45zM20.16 30.96c-1.93.55-4.93 2.3-4.32 3.37.79 1.39 3.23-.87 4.93-1.82 1.39-.78 2.63-1.42 2.61-1.76-.05-.62-1.82-.19-3.22.21zM24.72 18.82c-.85-1.81-1.5-5.23-.29-5.47 1.57-.31 1.46 3.01 1.86 4.91.32 1.56.65 2.92.38 3.12-.5.37-1.33-1.25-1.95-2.56z" fill="#FFE9AF" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /><circle cx="36.43" cy="31.43" r="2.16" fill="#FBE793" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /><path fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M90.83 61.56l15.52 17.74" /><path d="M7.33 16.37c.46-.07 4.84-2.7 6.33-4.06C15.94 10.25 18.41 7 18.41 7s.41 1.05.43 1.42c.07 1.07-.11 2.32-.11 2.32s-.97 2.01-2.89 3.76c-1.37 1.25-4.57 2.81-4.57 2.81s-1.48.02-1.95-.09c-.53-.11-1.99-.85-1.99-.85z" fill="#7B5345" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /></svg></g>
+</g>
+  </svg>

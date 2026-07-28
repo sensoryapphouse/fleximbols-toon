@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <ellipse cx="256" cy="320" rx="200" ry="60" fill="#F0E8D8" stroke="#1a1a1a" stroke-width="5.0000" />
+  <ellipse cx="256" cy="312" rx="172" ry="44" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="6" />
+  
+  
+  <path d="M130 290 Q180 280 220 286 Q260 292 300 286 Q330 282 360 292 Q330 304 290 300 Q250 296 210 302 Q170 308 130 302 Z" fill="#8A3A20" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M150 290 Q190 286 230 290 Q270 294 310 290 Q340 286 354 292" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  
+  <path d="M120 312 Q170 304 220 310 Q260 316 310 310 Q350 304 380 314 Q350 326 300 322 Q250 318 200 324 Q160 328 120 324 Z" fill="#6A2A18" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M140 312 Q190 308 240 312 Q290 316 330 312" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  
+  <path d="M140 332 Q190 326 240 330 Q280 334 320 330 Q350 326 370 334 Q340 344 300 342 Q250 340 200 342 Q170 344 140 340 Z" fill="#8A3A20" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M160 332 Q210 330 260 332 Q310 334 350 332" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  
+  <ellipse cx="180" cy="294" rx="4" ry="3" fill="#F0E8D8" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="220" cy="298" rx="4" ry="3" fill="#F0E8D8" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="260" cy="292" rx="4" ry="3" fill="#F0E8D8" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="300" cy="296" rx="4" ry="3" fill="#F0E8D8" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="340" cy="290" rx="4" ry="3" fill="#F0E8D8" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="170" cy="318" rx="4" ry="3" fill="#F0E8D8" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="230" cy="316" rx="4" ry="3" fill="#F0E8D8" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="280" cy="320" rx="4" ry="3" fill="#F0E8D8" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="330" cy="318" rx="4" ry="3" fill="#F0E8D8" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="200" cy="336" rx="4" ry="3" fill="#F0E8D8" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="260" cy="338" rx="4" ry="3" fill="#F0E8D8" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="320" cy="336" rx="4" ry="3" fill="#F0E8D8" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M150 274 Q160 268 180 272 Q200 268 220 274" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" fill="none" />
+  <line x1="158" y1="276" x2="158" y2="270" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="178" y1="270" x2="178" y2="276" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="200" y1="272" x2="200" y2="278" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M300 280 Q320 274 340 278 Q360 274 374 280" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" fill="none" />
+  <line x1="310" y1="278" x2="310" y2="284" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="334" y1="276" x2="334" y2="282" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="358" y1="278" x2="358" y2="284" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M180 330 Q220 326 260 330" stroke="#1a1a1a" stroke-width="3" fill="none" opacity="0.6" />
+  <path d="M200 312 Q240 308 280 312" stroke="#1a1a1a" stroke-width="3" fill="none" opacity="0.6" />
+  
+  <path d="M240 240 Q230 220 244 200 Q258 184 248 168" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" fill="none" />
+  <path d="M300 230 Q292 214 304 196" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" fill="none" />
+</svg>

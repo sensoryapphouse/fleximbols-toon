@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(54.250 -5.500)">
+  
+  
+  <path d="M120,70 Q90,140 100,260 Q108,360 168,420 Q200,448 240,448 L240,420 L180,400 Q140,360 132,260 Q124,170 156,90 Z" fill="#ffe0c2" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <path d="M200,140 Q244,180 280,260 Q322,338 296,392 Q256,420 220,400 Q200,386 208,360 Q220,330 200,300 Q186,250 178,200 Q176,168 192,148 Z" fill="#ffd6b0" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <ellipse cx="262" cy="330" rx="36" ry="22" fill="#ffeacc" />
+  
+  <ellipse cx="252" cy="370" rx="18" ry="22" fill="#a05030" stroke="#1a1a1a" stroke-width="5" />
+  <ellipse cx="248" cy="364" rx="6" ry="8" fill="#502a18" />
+  
+  <path d="M212,170 Q224,220 234,270" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.7" />
+  
+  <circle cx="170" cy="340" r="22" fill="#f5a3b8" opacity="0.5" />
+  
+  <ellipse cx="156" cy="200" rx="14" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="156" cy="200" r="6" fill="#2b2622" />
+  
+  <path d="M132,166 Q160,156 180,168" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+</g>
+  </svg>

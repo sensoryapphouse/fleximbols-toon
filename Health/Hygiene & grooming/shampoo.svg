@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -25.750)">
+  
+  
+  <path d="M180 152 Q180 138 196 138 L316 138 Q332 138 332 152 L332 460 Q332 478 314 478 L198 478 Q180 478 180 460 Z" fill="#5fb4d8" stroke="#1a1a1a" stroke-width="6" />
+  
+  <path d="M180 152 Q180 132 198 124 L314 124 Q332 132 332 152" fill="#5fb4d8" stroke="#1a1a1a" stroke-width="6" />
+  
+  <rect x="208" y="86" width="96" height="44" rx="6" fill="#234a6a" stroke="#1a1a1a" stroke-width="6" />
+  
+  <line x1="222" y1="100" x2="222" y2="118" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="240" y1="100" x2="240" y2="118" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="258" y1="100" x2="258" y2="118" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="276" y1="100" x2="276" y2="118" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="294" y1="100" x2="294" y2="118" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="200" y="220" width="112" height="200" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="216" y="248" width="80" height="14" rx="4" fill="#1a3a56" />
+  <rect x="216" y="270" width="80" height="6" rx="3" fill="#1a3a56" />
+  
+  <g fill="#1a3a56" stroke="#1a1a1a" stroke-width="2">
+    <path d="M218 296 Q218 280 256 280 Q294 280 294 296 L294 320 Q294 330 282 330 L230 330 Q218 330 218 320 Z" />
+  </g>
+  
+  <g stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" fill="none">
+    <path d="M226 340 Q220 360 224 380" />
+    <path d="M246 344 Q244 364 248 384" />
+    <path d="M266 344 Q268 364 264 384" />
+    <path d="M286 340 Q292 360 288 380" />
+  </g>
+  
+  <path d="M198 180 L198 440" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" opacity="0.9" />
+  
+  <path d="M194 470 L318 470" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.6" />
+</g>
+  </svg>

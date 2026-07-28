@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <path d="M120 90 L380 90 Q400 90 400 110 L400 430 Q400 450 380 450 L120 450 Q100 450 100 430 L100 110 Q100 90 120 90 Z" fill="#7a3858" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="100" y="90" width="22" height="360" fill="#52223a" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="140" y="120" width="240" height="300" fill="#a5567a" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="170" y="148" width="180" height="190" fill="#e8d8c0" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="180" y="158" width="160" height="170" fill="#f7eedd" stroke="#1a1a1a" stroke-width="3" />
+  
+  
+  <path d="M210 328 Q210 280 240 270 Q260 264 280 270 Q310 280 310 328 Z" fill="#5a8ab8" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="248" y="248" width="24" height="22" fill="#e8b896" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="260" cy="220" rx="38" ry="42" fill="#e8b896" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M222 210 Q220 175 245 168 Q260 162 278 168 Q300 175 298 210 Q290 195 270 192 Q255 196 240 198 Q225 200 222 210 Z" fill="#3d2820" stroke="#1a1a1a" stroke-width="4" />
+  
+  <ellipse cx="248" cy="222" rx="3" ry="4" fill="#2c1020" />
+  <ellipse cx="272" cy="222" rx="3" ry="4" fill="#2c1020" />
+  
+  <path d="M250 240 Q260 245 270 240" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <circle cx="282" cy="250" r="10" fill="#e8b896" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="160" y="358" width="200" height="50" fill="#fff5e0" stroke="#1a1a1a" stroke-width="5" />
+  <text x="260" y="392" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="28" font-style="italic" font-weight="700" fill="#2c1020" text-anchor="middle">Memoir</text>
+</svg>

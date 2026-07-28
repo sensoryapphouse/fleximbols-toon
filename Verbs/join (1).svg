@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- left puzzle piece: has a concave NOTCH on its right side -->
+  <path d="M 46,154 L 206,154 L 206,216
+           C 186,204 168,218 168,244
+           C 168,270 186,284 206,272
+           L 206,340 L 46,340 Z"
+        fill="#4488dd" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- right puzzle piece: has a concave NOTCH on its left side matching the tab -->
+  <path d="M 466,154 L 306,154 L 306,216
+           C 286,204 268,218 268,244
+           C 268,270 286,284 306,272
+           L 306,340 L 466,340 Z"
+        fill="#ff8844" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- left arrow: left piece moving right toward the gap -->
+  <line x1="46" y1="416" x2="196" y2="416" stroke="#22aa22" stroke-width="11" stroke-linecap="round"/>
+  <polygon points="220,416 194,400 194,432" fill="#22aa22" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+  <!-- right arrow: right piece moving left toward the gap -->
+  <line x1="466" y1="416" x2="316" y2="416" stroke="#22aa22" stroke-width="11" stroke-linecap="round"/>
+  <polygon points="292,416 318,400 318,432" fill="#22aa22" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+</svg>

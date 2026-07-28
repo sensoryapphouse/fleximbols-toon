@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <line x1="256" y1="60" x2="256" y2="100" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="256" cy="56" r="14" fill="#e8443a" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="140" y="100" width="232" height="170" rx="20" fill="#7ac4e0" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="170" y="140" width="60" height="60" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="282" y="140" width="60" height="60" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="200" cy="170" r="14" fill="#1f1f1f" />
+  <circle cx="312" cy="170" r="14" fill="#1f1f1f" />
+  <rect x="180" y="220" width="152" height="30" rx="6" fill="#1f1f1f" />
+  <line x1="210" y1="220" x2="210" y2="250" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="240" y1="220" x2="240" y2="250" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="270" y1="220" x2="270" y2="250" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="300" y1="220" x2="300" y2="250" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="160" y="280" width="192" height="140" rx="12" fill="#5096b8" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="220" cy="330" r="12" fill="#fff44d" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="256" cy="330" r="12" fill="#e8443a" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="292" cy="330" r="12" fill="#7ce05a" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="200" y="370" width="112" height="14" rx="4" fill="#1f1f1f" />
+  <rect x="80" y="290" width="40" height="100" rx="8" fill="#5096b8" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="392" y="290" width="40" height="100" rx="8" fill="#5096b8" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="100" cy="405" r="22" fill="#7ac4e0" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="412" cy="405" r="22" fill="#7ac4e0" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="180" y="430" width="60" height="40" rx="6" fill="#1f1f1f" />
+  <rect x="272" y="430" width="60" height="40" rx="6" fill="#1f1f1f" />
+</svg>

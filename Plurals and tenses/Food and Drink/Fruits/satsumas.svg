@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <ellipse cx="288" cy="116" rx="44" ry="17" fill="#22aa11" stroke="#1a1a1a" stroke-width="6" transform="rotate(-18,288,116)" />
+  
+  <rect x="252" y="96" width="10" height="24" rx="4" fill="#5a3a12" stroke="#1a1a1a" stroke-width="4" />
+  
+  <ellipse cx="256" cy="302" rx="178" ry="130" fill="#ff8800" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <circle cx="220" cy="220" r="9" fill="#ff6600" opacity="0.5" />
+  <circle cx="248" cy="208" r="8" fill="#ff6600" opacity="0.48" />
+  <circle cx="276" cy="216" r="9" fill="#ff6600" opacity="0.5" />
+  <circle cx="304" cy="224" r="8" fill="#ff6600" opacity="0.45" />
+  <circle cx="196" cy="248" r="8" fill="#ff6600" opacity="0.45" />
+  <circle cx="230" cy="258" r="9" fill="#ff6600" opacity="0.48" />
+  <circle cx="264" cy="252" r="8" fill="#ff6600" opacity="0.45" />
+  <circle cx="296" cy="260" r="9" fill="#ff6600" opacity="0.5" />
+  <circle cx="326" cy="248" r="8" fill="#ff6600" opacity="0.45" />
+  <circle cx="186" cy="286" r="7" fill="#ff6600" opacity="0.4" />
+  <circle cx="218" cy="296" r="9" fill="#ff6600" opacity="0.48" />
+  <circle cx="252" cy="302" r="8" fill="#ff6600" opacity="0.45" />
+  <circle cx="284" cy="296" r="9" fill="#ff6600" opacity="0.5" />
+  <circle cx="316" cy="290" r="8" fill="#ff6600" opacity="0.45" />
+  <circle cx="342" cy="278" r="7" fill="#ff6600" opacity="0.4" />
+  <circle cx="208" cy="336" r="8" fill="#ff6600" opacity="0.45" />
+  <circle cx="242" cy="348" r="9" fill="#ff6600" opacity="0.48" />
+  <circle cx="274" cy="350" r="8" fill="#ff6600" opacity="0.45" />
+  <circle cx="304" cy="340" r="8" fill="#ff6600" opacity="0.42" />
+  
+  <path d="M256 172 C256 172 256 234 256 302" fill="none" stroke="#1a1a1a" stroke-width="3" opacity="0.3" />
+  <path d="M256 172 Q310 224 318 302" fill="none" stroke="#1a1a1a" stroke-width="2.5" opacity="0.25" />
+  <path d="M256 172 Q202 224 194 302" fill="none" stroke="#1a1a1a" stroke-width="2.5" opacity="0.25" />
+  
+  
+  
+  <ellipse cx="256" cy="174" rx="18" ry="10" fill="#dd5500" stroke="#1a1a1a" stroke-width="4" />
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1265" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1265)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

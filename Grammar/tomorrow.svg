@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>tomorrow</title>
+
+  <!-- Calendar body -->
+  <rect x="56" y="120" width="400" height="340" rx="22" fill="#fff7e0" stroke="#1a1a1a" stroke-width="6" />
+  <rect x="56" y="120" width="400" height="60" rx="22" fill="#cc2a2a" stroke="#1a1a1a" stroke-width="6" />
+  <circle cx="140" cy="110" r="14" fill="#dddddd" stroke="#1a1a1a" stroke-width="1" />
+  <circle cx="372" cy="110" r="14" fill="#dddddd" stroke="#1a1a1a" stroke-width="1" />
+  <line x1="140" y1="80" x2="140" y2="130" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <line x1="372" y1="80" x2="372" y2="130" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+
+  <!-- Large single day (TOMORROW) centred -->
+  <rect x="186" y="210" width="140" height="190" rx="14" fill="#a3e670" stroke="#1a1a1a" stroke-width="7" />
+  <text x="256" y="340" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="120" font-weight="900" text-anchor="middle" fill="#1a1a1a">16</text>
+
+  <!-- Arrow pointing RIGHT into the big day = "next day / tomorrow" -->
+  <line x1="80" y1="305" x2="180" y2="305" stroke="#27ae60" stroke-width="16" stroke-linecap="round" />
+  <polygon points="170,278 200,305 170,332" fill="#27ae60" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+
+  <!-- Sun rising (new day icon) -->
+  <circle cx="256" cy="430" r="22" fill="#ffd23a" stroke="#1a1a1a" stroke-width="1" />
+  <line x1="222" y1="430" x2="208" y2="430" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" />
+  <line x1="290" y1="430" x2="304" y2="430" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" />
+  <line x1="238" y1="408" x2="228" y2="398" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" />
+  <line x1="274" y1="408" x2="284" y2="398" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" />
+</svg>

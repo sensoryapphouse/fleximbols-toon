@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="84" y="44" width="344" height="424" fill="#fffbf0" rx="8" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="84" y="44" width="344" height="52" fill="#5d4037" rx="8" />
+  <rect x="84" y="78" width="344" height="18" fill="#5d4037" />
+  <text x="256" y="80" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#f5d580" text-anchor="middle">DEED</text>
+  
+  <line x1="114" y1="120" x2="398" y2="120" stroke="#1a1a1a" stroke-width="2.5" />
+  <line x1="114" y1="144" x2="398" y2="144" stroke="#1a1a1a" stroke-width="2.5" />
+  <line x1="114" y1="168" x2="398" y2="168" stroke="#1a1a1a" stroke-width="2.5" />
+  <line x1="114" y1="192" x2="398" y2="192" stroke="#1a1a1a" stroke-width="2.5" />
+  <line x1="114" y1="216" x2="360" y2="216" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  
+  <polygon points="256,252 182,316 330,316" fill="#cc4400" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="196" y="316" width="120" height="92" fill="#f5e090" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="236" y="356" width="40" height="52" fill="#8b5c2a" rx="4" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="272" cy="382" r="5" fill="#c8a020" />
+  
+  <rect x="204" y="326" width="30" height="26" fill="#a0d0f0" rx="2" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="278" y="326" width="30" height="26" fill="#a0d0f0" rx="2" stroke="#1a1a1a" stroke-width="3" />
+  
+  <line x1="150" y1="420" x2="362" y2="420" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="8,4" />
+  <line x1="150" y1="420" x2="150" y2="450" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="8,4" />
+  <line x1="362" y1="420" x2="362" y2="450" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="8,4" />
+  
+  <line x1="114" y1="456" x2="280" y2="456" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M124,454 Q142,438 160,454 Q178,468 196,452 Q214,438 230,452" fill="none" stroke="#1a1a1a" stroke-width="2.5" />
+</svg>

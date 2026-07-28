@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <circle cx="256" cy="50" r="20" fill="none" stroke="#1a1a1a" stroke-width="10" />
+  
+  <line x1="256" y1="70" x2="256" y2="110" stroke="#1a1a1a" stroke-width="10" />
+  
+  <path d="M120 180 Q256 70 392 180" fill="#fff8d0" stroke="#1a1a1a" stroke-width="10" />
+  
+  <path d="M120 180 L120 420 L392 420 L392 180" fill="#fff8d0" stroke="#1a1a1a" stroke-width="10" />
+  
+  <line x1="170" y1="160" x2="170" y2="420" stroke="#1a1a1a" stroke-width="6" />
+  <line x1="220" y1="130" x2="220" y2="420" stroke="#1a1a1a" stroke-width="6" />
+  <line x1="256" y1="120" x2="256" y2="420" stroke="#1a1a1a" stroke-width="6" />
+  <line x1="292" y1="130" x2="292" y2="420" stroke="#1a1a1a" stroke-width="6" />
+  <line x1="342" y1="160" x2="342" y2="420" stroke="#1a1a1a" stroke-width="6" />
+  
+  <ellipse cx="256" cy="180" rx="136" ry="14" fill="none" stroke="#1a1a1a" stroke-width="6" />
+  
+  <line x1="180" y1="320" x2="332" y2="320" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <rect x="100" y="420" width="312" height="40" fill="#c4a04a" stroke="#1a1a1a" stroke-width="10" rx="6" />
+  
+  <ellipse cx="256" cy="290" rx="50" ry="38" fill="#ffd84a" stroke="#1a1a1a" stroke-width="6" />
+  <circle cx="290" cy="265" r="22" fill="#ffd84a" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M306 260 L325 268 L306 275 Z" fill="#ff8c1a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <circle cx="298" cy="258" r="5" fill="#1a1a1a" />
+  <line x1="245" y1="328" x2="245" y2="345" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <line x1="265" y1="328" x2="265" y2="345" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+</svg>

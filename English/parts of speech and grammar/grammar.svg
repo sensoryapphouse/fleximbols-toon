@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+  <!-- Open book base — left page -->
+  <path d="M60 130 Q60 110 80 108 L252 118 L252 400 L80 412 Q60 414 60 394 Z" fill="#fffde8" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Open book base — right page -->
+  <path d="M452 130 Q452 110 432 108 L260 118 L260 400 L432 412 Q452 414 452 394 Z" fill="#fffde8" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Spine crease at centre -->
+  <path d="M256 118 Q250 258 256 400" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Book cover top binding bar -->
+  <rect x="58" y="100" width="396" height="22" rx="8" fill="#c84444" stroke="#1a1a1a" stroke-width="5"/>
+
+  <!-- Book cover bottom binding bar -->
+  <rect x="58" y="398" width="396" height="22" rx="8" fill="#c84444" stroke="#1a1a1a" stroke-width="5"/>
+
+  <!-- Ruled lines — left page -->
+  <line x1="82" y1="168" x2="242" y2="164" stroke="#aabbcc" stroke-width="2"/>
+  <line x1="82" y1="196" x2="242" y2="192" stroke="#aabbcc" stroke-width="2"/>
+  <line x1="82" y1="224" x2="242" y2="220" stroke="#aabbcc" stroke-width="2"/>
+  <line x1="82" y1="252" x2="242" y2="248" stroke="#aabbcc" stroke-width="2"/>
+  <line x1="82" y1="280" x2="242" y2="276" stroke="#aabbcc" stroke-width="2"/>
+  <line x1="82" y1="308" x2="242" y2="304" stroke="#aabbcc" stroke-width="2"/>
+  <line x1="82" y1="336" x2="242" y2="332" stroke="#aabbcc" stroke-width="2"/>
+  <line x1="82" y1="364" x2="242" y2="360" stroke="#aabbcc" stroke-width="2"/>
+
+  <!-- Ruled lines — right page -->
+  <line x1="270" y1="164" x2="430" y2="168" stroke="#aabbcc" stroke-width="2"/>
+  <line x1="270" y1="192" x2="430" y2="196" stroke="#aabbcc" stroke-width="2"/>
+  <line x1="270" y1="220" x2="430" y2="224" stroke="#aabbcc" stroke-width="2"/>
+  <line x1="270" y1="248" x2="430" y2="252" stroke="#aabbcc" stroke-width="2"/>
+  <line x1="270" y1="276" x2="430" y2="280" stroke="#aabbcc" stroke-width="2"/>
+  <line x1="270" y1="304" x2="430" y2="308" stroke="#aabbcc" stroke-width="2"/>
+  <line x1="270" y1="332" x2="430" y2="336" stroke="#aabbcc" stroke-width="2"/>
+  <line x1="270" y1="360" x2="430" y2="364" stroke="#aabbcc" stroke-width="2"/>
+
+  <!-- LEFT PAGE: abc -->
+  <text x="156" y="300" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="90" font-weight="900" text-anchor="middle" fill="#1a1a1a">abc</text>
+
+  <!-- RIGHT PAGE: ?! -->
+  <text x="354" y="300" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="90" font-weight="900" text-anchor="middle" fill="#1a1a1a">?!</text>
+
+</svg>

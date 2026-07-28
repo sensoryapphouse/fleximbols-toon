@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(256,256) scale(1.0806) translate(-223,-311)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Osteopath treating patient: patient lying prone, practitioner standing, hands on spine -->
+
+  <!-- === PATIENT (lying face-down, horizontal) === -->
+  <!-- Patient torso / body -->
+  <rect x="80" y="290" width="300" height="70" rx="30" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Patient head (left side) -->
+  <ellipse cx="72" cy="320" rx="35" ry="30" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Patient hair -->
+  <ellipse cx="68" cy="300" rx="30" ry="16" fill="#4a2e0a" stroke="#1a1a1a" stroke-width="4"/>
+  <!-- Patient shirt/top -->
+  <rect x="82" y="294" width="296" height="62" rx="28" fill="#5b8dd9" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Patient arms alongside body -->
+  <path d="M370 296 Q400 295 410 310 Q415 325 400 335 L370 336" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Patient legs -->
+  <path d="M356 355 Q380 368 390 400 L385 420 Q370 420 365 395 L350 380" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M330 358 Q340 372 342 408 L332 420 Q318 420 318 394 L326 370" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Trousers on legs -->
+  <path d="M330 360 Q344 375 346 410 L332 420 Q318 420 318 395 L326 370 Z" fill="#37474f" stroke="#1a1a1a" stroke-width="4"/>
+  <path d="M354 356 Q378 368 390 400 L385 420 Q370 420 365 395 L350 380 Z" fill="#37474f" stroke="#1a1a1a" stroke-width="4"/>
+  <!-- Spine dots on patient's back -->
+  <circle cx="160" cy="325" r="5" fill="#1a1a1a" opacity="0.5"/>
+  <circle cx="185" cy="323" r="5" fill="#1a1a1a" opacity="0.5"/>
+  <circle cx="210" cy="321" r="5" fill="#1a1a1a" opacity="0.5"/>
+  <circle cx="235" cy="320" r="5" fill="#1a1a1a" opacity="0.5"/>
+  <circle cx="260" cy="320" r="5" fill="#1a1a1a" opacity="0.5"/>
+  <circle cx="285" cy="321" r="5" fill="#1a1a1a" opacity="0.5"/>
+  <circle cx="310" cy="323" r="5" fill="#1a1a1a" opacity="0.5"/>
+
+  <!-- Treatment table legs -->
+  <rect x="90" y="360" width="18" height="100" rx="5" fill="#8b6a3a" stroke="#1a1a1a" stroke-width="4"/>
+  <rect x="352" y="360" width="18" height="100" rx="5" fill="#8b6a3a" stroke="#1a1a1a" stroke-width="4"/>
+  <rect x="80" y="356" width="300" height="12" rx="4" fill="#a87540" stroke="#1a1a1a" stroke-width="4"/>
+
+  <!-- === PRACTITIONER (standing behind patient, leaning over) === -->
+  <!-- Practitioner legs -->
+  <rect x="205" y="420" width="28" height="80" rx="12" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5"/>
+  <rect x="255" y="420" width="28" height="80" rx="12" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Trousers -->
+  <rect x="200" y="380" width="40" height="80" rx="12" fill="#37474f" stroke="#1a1a1a" stroke-width="4"/>
+  <rect x="248" y="380" width="40" height="80" rx="12" fill="#37474f" stroke="#1a1a1a" stroke-width="4"/>
+  <!-- Shoes -->
+  <ellipse cx="219" cy="500" rx="22" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3"/>
+  <ellipse cx="269" cy="500" rx="22" ry="10" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="3"/>
+  <!-- Practitioner torso (leaning forward) -->
+  <path d="M190 250 Q200 380 245 385 Q256 386 268 385 Q310 380 322 250 Z" fill="#e8eaf6" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- White coat line -->
+  <line x1="256" y1="258" x2="256" y2="382" stroke="#1a1a1a" stroke-width="4" stroke-dasharray="6,4"/>
+  <!-- Practitioner head -->
+  <circle cx="256" cy="175" r="50" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Hair -->
+  <path d="M210 155 Q220 120 256 115 Q292 120 302 155" fill="#212121" stroke="#1a1a1a" stroke-width="4"/>
+  <!-- Eyes -->
+  <circle cx="240" cy="170" r="6" fill="#1a1a1a"/>
+  <circle cx="272" cy="170" r="6" fill="#1a1a1a"/>
+  <circle cx="242" cy="168" r="2" fill="#ffffff"/>
+  <circle cx="274" cy="168" r="2" fill="#ffffff"/>
+  <!-- Neck -->
+  <rect x="242" y="220" width="28" height="32" rx="10" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5"/>
+
+  <!-- Practitioner arms reaching down to patient spine -->
+  <!-- Left arm -->
+  <path d="M198 270 Q170 290 185 320" fill="none" stroke="#f3c89c" stroke-width="18" stroke-linecap="round"/>
+  <path d="M198 270 Q170 290 185 320" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" fill-opacity="0"/>
+  <!-- Left hand on spine -->
+  <ellipse cx="185" cy="322" rx="18" ry="12" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Right arm -->
+  <path d="M314 270 Q342 290 327 320" fill="none" stroke="#f3c89c" stroke-width="18" stroke-linecap="round"/>
+  <path d="M314 270 Q342 290 327 320" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" fill-opacity="0"/>
+  <!-- Right hand on spine -->
+  <ellipse cx="327" cy="322" rx="18" ry="12" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Pressure arrows -->
+  <path d="M185 308 L185 316" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" marker-end="url(#arr)"/>
+  <path d="M327 308 L327 316" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="gbn" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e8c070" />
+      <stop offset="100%" stop-color="#c07828" />
+    </linearGradient>
+  </defs>
+  
+  <path d="M210 95 C210 75 222 62 256 62 C290 62 302 75 302 95 L308 260 C295 250 275 245 256 245 C237 245 217 250 204 260 Z" fill="url(#gbn)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round" />
+  
+  <path d="M278 65 C292 72 300 82 300 95 L306 258 C298 252 288 247 278 245 Z" fill="#9a5810" opacity="0.35" />
+  
+  
+  
+  <path d="M212 140 C228 136 244 134 256 134 C268 134 284 136 300 140" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M210 190 C226 185 242 183 256 183 C270 183 286 185 302 190" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M208 235 C224 230 240 228 256 228 C272 228 288 230 304 235" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <ellipse cx="256" cy="350" rx="148" ry="135" fill="url(#gbn)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round" />
+  
+  <path d="M330 222 C378 248 400 298 400 350 C400 418 358 480 310 483 C358 470 392 418 392 350 C392 295 370 248 330 222 Z" fill="#9a5810" opacity="0.35" />
+  
+  <path d="M116 330 C140 310 195 298 256 298 C317 298 372 310 396 330" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M110 370 C136 350 193 338 256 338 C319 338 376 350 402 370" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M118 410 C142 393 196 382 256 382 C316 382 370 393 394 410" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <ellipse cx="256" cy="482" rx="22" ry="10" fill="#a06020" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <path d="M240 62 C238 48 236 36 235 25 C240 20 248 18 256 18 C264 18 272 20 276 25 C275 36 273 48 272 62" fill="#6e4423" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" />
+  
+  
+</svg>

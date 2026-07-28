@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="water" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#4ab0e8" /><stop offset="100%" stop-color="#2a5fa8" /></linearGradient>
+  </defs>
+  <rect x="60" y="180" width="392" height="240" rx="12" fill="url(#water)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <rect x="60" y="180" width="392" height="40" rx="8" fill="#3f8fd6" opacity="0.5" />
+  <path d="M60 180 Q60 168 72 168 L440 168 Q452 168 452 180" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <line x1="164" y1="180" x2="164" y2="420" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="12,10" />
+  <line x1="256" y1="180" x2="256" y2="420" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="12,10" />
+  <line x1="348" y1="180" x2="348" y2="420" stroke="#1a1a1a" stroke-width="6" stroke-dasharray="12,10" />
+  <ellipse cx="164" cy="180" rx="10" ry="10" fill="#f8c531" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="164" cy="210" rx="10" ry="10" fill="#e23b34" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="164" cy="240" rx="10" ry="10" fill="#f8c531" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="164" cy="270" rx="10" ry="10" fill="#e23b34" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="164" cy="300" rx="10" ry="10" fill="#f8c531" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="164" cy="330" rx="10" ry="10" fill="#e23b34" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="164" cy="360" rx="10" ry="10" fill="#f8c531" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="164" cy="390" rx="10" ry="10" fill="#e23b34" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="256" cy="180" rx="10" ry="10" fill="#f8c531" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="256" cy="210" rx="10" ry="10" fill="#e23b34" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="256" cy="240" rx="10" ry="10" fill="#f8c531" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="256" cy="270" rx="10" ry="10" fill="#e23b34" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="256" cy="300" rx="10" ry="10" fill="#f8c531" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="256" cy="330" rx="10" ry="10" fill="#e23b34" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="256" cy="360" rx="10" ry="10" fill="#f8c531" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="256" cy="390" rx="10" ry="10" fill="#e23b34" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="348" cy="180" rx="10" ry="10" fill="#f8c531" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="348" cy="210" rx="10" ry="10" fill="#e23b34" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="348" cy="240" rx="10" ry="10" fill="#f8c531" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="348" cy="270" rx="10" ry="10" fill="#e23b34" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="348" cy="300" rx="10" ry="10" fill="#f8c531" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="348" cy="330" rx="10" ry="10" fill="#e23b34" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="348" cy="360" rx="10" ry="10" fill="#f8c531" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="348" cy="390" rx="10" ry="10" fill="#e23b34" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="430" y="140" width="14" height="260" rx="6" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="6" />
+  <rect x="406" y="140" width="14" height="260" rx="6" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="6" />
+  <rect x="406" y="140" width="38" height="14" rx="6" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="6" />
+  <rect x="406" y="200" width="38" height="12" rx="5" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="406" y="260" width="38" height="12" rx="5" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="406" y="320" width="38" height="12" rx="5" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M60 380 Q100 360 140 380 Q180 400 220 380 Q260 360 300 380 Q340 400 380 380 Q420 360 452 380" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.7" />
+  <path d="M60 400 Q100 380 140 400 Q180 420 220 400 Q260 380 300 400 Q340 420 380 400 Q420 380 452 400" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.5" />
+</svg>

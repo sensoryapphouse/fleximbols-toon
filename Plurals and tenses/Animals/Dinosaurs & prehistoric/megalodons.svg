@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <polygon points="440,220 480,175 488,198 462,225 488,252 480,276 440,232" fill="#4a6a8a" stroke="#1a1a1a" stroke-width="6" />
+  
+  <ellipse cx="240" cy="228" rx="200" ry="95" fill="#5a7a9a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <ellipse cx="240" cy="252" rx="175" ry="55" fill="#d0d8e0" stroke="none" />
+  
+  <polygon points="220,138 258,80 295,138" fill="#4a6a8a" stroke="#1a1a1a" stroke-width="6" />
+  
+  <polygon points="155,255 88,318 80,340 120,325 180,280" fill="#4a6a8a" stroke="#1a1a1a" stroke-width="5" />
+  
+  <polygon points="240,295 230,368 252,362 268,295" fill="#4a6a8a" stroke="#1a1a1a" stroke-width="5" />
+  
+  <polygon points="355,265 375,308 388,295 365,265" fill="#4a6a8a" stroke="#1a1a1a" stroke-width="4" />
+  <polygon points="370,255 390,288 400,272 378,252" fill="#4a6a8a" stroke="#1a1a1a" stroke-width="4" />
+  
+  <polygon points="342,182 360,155 378,182" fill="#4a6a8a" stroke="#1a1a1a" stroke-width="4" />
+  
+  
+  <polygon points="48,192 55,178 90,165 130,160 150,165 145,210 55,210" fill="#2a4a6a" stroke="#1a1a1a" stroke-width="6" />
+  
+  <polygon points="48,240 55,258 90,272 130,275 150,270 145,228 55,228" fill="#2a4a6a" stroke="#1a1a1a" stroke-width="6" />
+  
+  <ellipse cx="100" cy="219" rx="55" ry="30" fill="#8a2020" stroke="#1a1a1a" stroke-width="3" />
+  
+  
+  <polygon points="58,210 65,190 72,210" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" />
+  <polygon points="74,210 82,188 90,210" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" />
+  <polygon points="92,210 100,186 108,210" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" />
+  <polygon points="110,210 118,187 126,210" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" />
+  <polygon points="127,210 134,190 141,210" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" />
+  
+  <polygon points="65,210 70,198 75,210" fill="#e8e8e8" stroke="#1a1a1a" stroke-width="1" />
+  <polygon points="82,210 87,196 92,210" fill="#e8e8e8" stroke="#1a1a1a" stroke-width="1" />
+  <polygon points="100,210 105,195 110,210" fill="#e8e8e8" stroke="#1a1a1a" stroke-width="1" />
+  <polygon points="118,210 123,197 128,210" fill="#e8e8e8" stroke="#1a1a1a" stroke-width="1" />
+  
+  <polygon points="58,228 65,250 72,228" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" />
+  <polygon points="74,228 82,252 90,228" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" />
+  <polygon points="92,228 100,254 108,228" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" />
+  <polygon points="110,228 118,252 126,228" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" />
+  <polygon points="127,228 134,250 141,228" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" />
+  
+  <polygon points="65,228 70,242 75,228" fill="#e8e8e8" stroke="#1a1a1a" stroke-width="1" />
+  <polygon points="82,228 87,240 92,228" fill="#e8e8e8" stroke="#1a1a1a" stroke-width="1" />
+  <polygon points="100,228 105,243 110,228" fill="#e8e8e8" stroke="#1a1a1a" stroke-width="1" />
+  <polygon points="118,228 123,241 128,228" fill="#e8e8e8" stroke="#1a1a1a" stroke-width="1" />
+  
+  <circle cx="178" cy="195" r="12" fill="#111111" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="175" cy="193" r="4" fill="#444444" />
+  
+  <path d="M185,205 Q188,220 185,235" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M198,202 Q201,218 198,233" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M211,200 Q214,216 211,231" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M224,200 Q227,215 224,230" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M237,200 Q240,215 237,230" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M155,228 Q280,222 430,228" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="8,5" />
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl101" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl101)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

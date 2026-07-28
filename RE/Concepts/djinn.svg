@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+  <!-- Lamp at bottom -->
+  <ellipse cx="256" cy="490" rx="70" ry="14" fill="#b8860b" stroke="#1a1a1a" stroke-width="1"/>
+  <path d="M200 490 Q195 475 205 465 Q220 455 256 458 Q292 455 307 465 Q317 475 312 490 Z" fill="#d4a017" stroke="#1a1a1a" stroke-width="1"/>
+  <path d="M186 478 Q170 468 165 458 Q170 450 185 455 Q198 462 205 472" fill="#c8960f" stroke="#1a1a1a" stroke-width="1" stroke-linejoin="round"/>
+  <path d="M312 472 Q326 460 340 456 Q348 462 342 472 Q332 480 318 482" fill="#c8960f" stroke="#1a1a1a" stroke-width="1" stroke-linejoin="round"/>
+  <!-- Lamp spout -->
+  <path d="M186 478 Q174 470 162 474 Q155 482 165 488 Q178 492 196 486" fill="#d4a017" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- Lamp handle -->
+  <path d="M318 468 Q340 462 348 450 Q352 438 342 432 Q330 428 318 438" fill="none" stroke="#d4a017" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- Smoke / swirl emerging from lamp -->
+  <!-- Wide swirling smoke base -->
+  <path d="M240 460 Q220 440 215 415 Q210 390 225 370 Q215 350 220 328 Q225 308 240 295" fill="none" stroke="#9966cc" stroke-width="22" stroke-linecap="round" opacity="0.35"/>
+  <path d="M272 460 Q292 440 297 415 Q302 390 287 370 Q297 350 292 328 Q287 308 272 295" fill="none" stroke="#aa55dd" stroke-width="22" stroke-linecap="round" opacity="0.35"/>
+  <!-- Central smoke column -->
+  <path d="M256 458 Q242 438 244 415 Q246 392 258 375 Q246 358 250 335 Q254 312 256 295" fill="none" stroke="#cc88ff" stroke-width="30" stroke-linecap="round" opacity="0.28"/>
+
+  <!-- Smoke swirl rings -->
+  <ellipse cx="248" cy="420" rx="28" ry="10" fill="none" stroke="#bb77ee" stroke-width="5" opacity="0.5" transform="rotate(-15 248 420)"/>
+  <ellipse cx="264" cy="385" rx="22" ry="9" fill="none" stroke="#cc88ff" stroke-width="1" opacity="0.45" transform="rotate(10 264 385)"/>
+  <ellipse cx="250" cy="352" rx="18" ry="7" fill="none" stroke="#dd99ff" stroke-width="1" opacity="0.4" transform="rotate(-8 250 352)"/>
+
+  <!-- Body / torso (lower ghostly body merging into smoke) -->
+  <path d="M200 340 Q185 370 188 400 Q192 430 215 450 Q235 460 256 460 Q277 460 297 450 Q320 430 324 400 Q327 370 312 340 Q295 310 256 308 Q217 310 200 340 Z" fill="#7700bb" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Body shading -->
+  <path d="M200 340 Q195 365 200 390 Q210 370 220 358 Q235 348 256 346 Q277 348 292 358 Q302 370 312 390 Q317 365 312 340 Q295 310 256 308 Q217 310 200 340 Z" fill="#8800cc" stroke="none"/>
+
+  <!-- Sash / belt -->
+  <path d="M204 360 Q256 375 308 360 Q305 380 256 392 Q207 380 204 360 Z" fill="#ffcc00" stroke="#1a1a1a" stroke-width="1"/>
+  <circle cx="256" cy="372" r="9" fill="#ff8800" stroke="#1a1a1a" stroke-width="3"/>
+
+  <!-- Left arm -->
+  <path d="M202 328 Q172 320 152 308 Q138 296 130 282" fill="none" stroke="#f3c89c" stroke-width="24" stroke-linecap="round"/>
+  <!-- Left hand -->
+  <circle cx="124" cy="274" r="18" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5"/>
+  <path d="M110 268 Q106 256 112 250 Q118 246 124 252" fill="none" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round"/>
+  <path d="M122 264 Q116 250 122 244 Q130 240 135 248" fill="none" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round"/>
+  <path d="M132 266 Q130 252 136 248 Q144 246 146 255" fill="none" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round"/>
+  <path d="M140 272 Q140 260 146 258 Q153 258 153 268" fill="none" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Right arm (raised, gesturing) -->
+  <path d="M310 328 Q340 308 362 285 Q375 268 382 250" fill="none" stroke="#f3c89c" stroke-width="24" stroke-linecap="round"/>
+  <!-- Right hand -->
+  <circle cx="388" cy="238" r="18" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5"/>
+  <path d="M375 228 Q374 215 382 212 Q390 211 391 220" fill="none" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round"/>
+  <path d="M384 224 Q384 210 392 208 Q400 210 399 220" fill="none" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round"/>
+  <path d="M394 228 Q396 216 403 217 Q410 220 408 230" fill="none" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round"/>
+  <path d="M400 236 Q404 226 410 228 Q415 233 412 242" fill="none" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Magical sparkles around raised hand -->
+  <path d="M408 218 L412 206 M422 226 L434 222 M414 240 L422 246" stroke="#ffcc00" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="420" cy="212" r="4" fill="#ffee44" stroke="#1a1a1a" stroke-width="2"/>
+  <circle cx="434" cy="230" r="3" fill="#ff8800" stroke="#1a1a1a" stroke-width="2"/>
+
+  <!-- Neck -->
+  <rect x="240" y="248" width="32" height="24" rx="10" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5"/>
+
+  <!-- Head -->
+  <ellipse cx="256" cy="210" rx="68" ry="72" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5"/>
+
+  <!-- Ear left -->
+  <ellipse cx="190" cy="215" rx="12" ry="16" fill="#f3c89c" stroke="#1a1a1a" stroke-width="1"/>
+  <ellipse cx="190" cy="215" rx="6" ry="9" fill="#e8b88a" stroke="none"/>
+  <!-- Ear right -->
+  <ellipse cx="322" cy="215" rx="12" ry="16" fill="#f3c89c" stroke="#1a1a1a" stroke-width="1"/>
+  <ellipse cx="322" cy="215" rx="6" ry="9" fill="#e8b88a" stroke="none"/>
+
+  <!-- Eyebrows -->
+  <path d="M220 175 Q232 165 248 168" fill="none" stroke="#5a2d0c" stroke-width="5" stroke-linecap="round"/>
+  <path d="M264 168 Q280 165 292 175" fill="none" stroke="#5a2d0c" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Eyes -->
+  <ellipse cx="232" cy="192" rx="18" ry="16" fill="white" stroke="#1a1a1a" stroke-width="1"/>
+  <ellipse cx="280" cy="192" rx="18" ry="16" fill="white" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- Irises -->
+  <circle cx="234" cy="194" r="10" fill="#2211aa"/>
+  <circle cx="278" cy="194" r="10" fill="#2211aa"/>
+  <!-- Pupils -->
+  <circle cx="235" cy="195" r="5" fill="#0a0020"/>
+  <circle cx="279" cy="195" r="5" fill="#0a0020"/>
+  <!-- Eye shine -->
+  <circle cx="238" cy="190" r="3" fill="white"/>
+  <circle cx="282" cy="190" r="3" fill="white"/>
+
+  <!-- Nose -->
+  <path d="M250 215 Q256 228 262 215" fill="none" stroke="#c09070" stroke-width="1" stroke-linecap="round"/>
+  <circle cx="248" cy="218" r="3" fill="#c09070"/>
+  <circle cx="264" cy="218" r="3" fill="#c09070"/>
+
+  <!-- Mouth / smile -->
+  <path d="M228 238 Q256 258 284 238" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <!-- Teeth -->
+  <path d="M234 244 Q256 256 278 244 Q274 254 256 256 Q238 254 234 244 Z" fill="white" stroke="#1a1a1a" stroke-width="3"/>
+
+  <!-- Moustache -->
+  <path d="M232 232 Q244 240 256 234 Q268 240 280 232" fill="none" stroke="#5a2d0c" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Turban base wrap -->
+  <path d="M192 168 Q200 138 256 128 Q312 138 320 168 Q306 148 256 145 Q206 148 192 168 Z" fill="#cc0044" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Turban main dome -->
+  <path d="M188 174 Q188 130 220 112 Q238 104 256 102 Q274 104 292 112 Q324 130 324 174 Q310 158 256 155 Q202 158 188 174 Z" fill="#ee0055" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Turban wrap band -->
+  <path d="M188 174 Q202 162 256 160 Q310 162 324 174 Q315 182 256 184 Q197 182 188 174 Z" fill="#dd0044" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- Turban side wrap detail left -->
+  <path d="M324 168 Q342 155 352 140 Q358 126 346 120 Q334 116 322 130 Q312 145 316 162" fill="none" stroke="#cc0033" stroke-width="8" stroke-linecap="round"/>
+  <!-- Turban gem / jewel -->
+  <circle cx="256" cy="138" r="12" fill="#ffcc00" stroke="#1a1a1a" stroke-width="1"/>
+  <circle cx="256" cy="138" r="6" fill="#ff8800" stroke="none"/>
+  <circle cx="253" cy="135" r="2" fill="white" opacity="0.7"/>
+
+  <!-- Earring left -->
+  <circle cx="183" cy="226" r="6" fill="#ffcc00" stroke="#1a1a1a" stroke-width="3"/>
+  <!-- Earring right -->
+  <circle cx="329" cy="226" r="6" fill="#ffcc00" stroke="#1a1a1a" stroke-width="3"/>
+
+  <!-- Additional magic sparkles in scene -->
+  <path d="M148 345 L150 333 M140 342 L130 338 M152 352 L144 358" stroke="#ffcc00" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+  <circle cx="150" cy="340" r="3" fill="#ffee44" opacity="0.9"/>
+  <path d="M365 310 L368 298 M358 307 L348 303 M370 318 L362 324" stroke="#dd99ff" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+  <circle cx="366" cy="308" r="3" fill="#cc88ff" opacity="0.9"/>
+
+</svg>

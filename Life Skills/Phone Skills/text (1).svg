@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="phone" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#4a4f57" /><stop offset="100%" stop-color="#1c1f25" /></linearGradient>
+    <linearGradient id="screen" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#eaf2ff" /><stop offset="100%" stop-color="#c1cfe6" /></linearGradient>
+    <linearGradient id="ibub" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#5dc3ff" /><stop offset="100%" stop-color="#2070d4" /></linearGradient>
+    <linearGradient id="gbub" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#e0e2e6" /><stop offset="100%" stop-color="#a8acb4" /></linearGradient>
+  </defs>
+  <rect x="138" y="40" width="236" height="432" rx="36" fill="url(#phone)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <rect x="158" y="76" width="196" height="360" rx="14" fill="url(#screen)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  <rect x="226" y="56" width="60" height="10" rx="5" fill="#2b2622" />
+  <circle cx="256" cy="454" r="10" fill="#3a3e45" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M178 132 Q178 116 194 116 L298 116 Q314 116 314 132 L314 178 Q314 194 298 194 L220 194 L196 220 L204 194 L194 194 Q178 194 178 178 Z" fill="url(#gbub)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  <path d="M196 144 L298 144" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.7" />
+  <path d="M196 168 L268 168" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.7" />
+  <path d="M198 238 Q198 222 214 222 L318 222 Q334 222 334 238 L334 296 Q334 312 318 312 L240 312 L218 338 L226 312 L214 312 Q198 312 198 296 Z" fill="url(#ibub)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  <path d="M216 250 L318 250" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.85" />
+  <path d="M216 274 L296 274" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.85" />
+  <path d="M216 298 L262 298" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.85" />
+  <rect x="172" y="360" width="168" height="60" rx="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" opacity="0.85" />
+  <circle cx="194" cy="378" r="6" fill="#2b2622" />
+  <circle cx="222" cy="378" r="6" fill="#2b2622" />
+  <circle cx="250" cy="378" r="6" fill="#2b2622" />
+  <circle cx="278" cy="378" r="6" fill="#2b2622" />
+  <circle cx="306" cy="378" r="6" fill="#2b2622" />
+  <circle cx="194" cy="402" r="6" fill="#2b2622" />
+  <circle cx="222" cy="402" r="6" fill="#2b2622" />
+  <rect x="244" y="396" width="68" height="14" rx="6" fill="#2b2622" />
+</svg>

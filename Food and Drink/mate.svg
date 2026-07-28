@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<svg viewBox="0 0 128 128" version="1.1" xml:space="preserve" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" width="512" height="512" preserveAspectRatio="xMidYMid meet"><defs><filter id="ob" x="-45%" y="-45%" width="190%" height="190%"><feMorphology in="SourceAlpha" operator="dilate" radius="1.0000" result="d"/><feFlood flood-color="#1a1a1a" result="ink"/><feComposite in="ink" in2="d" operator="in"/></filter><g id="art">
+    <g transform="matrix(-1.22416,1.49916e-16,-1.49916e-16,-1.22416,140.165,184.937)">
+        <path d="M95.727,108.654C99.123,102.772 100.911,96.1 100.911,89.308C100.911,67.953 83.573,50.615 62.218,50.615C40.864,50.615 23.526,67.953 23.526,89.308C23.526,96.1 25.314,102.772 28.71,108.654L95.727,108.654Z" fill="rgb(184,146,120)" />
+    </g>
+    <g transform="matrix(1.19104,0,0,1.22416,-10.568,1.62372)">
+        <ellipse cx="62.608" cy="41.093" rx="34.44" ry="5.496" fill="rgb(235,235,235)" />
+    </g>
+    <g transform="matrix(1.19104,0,0,1.22416,-10.568,-10.1867)">
+        <ellipse cx="62.608" cy="41.093" rx="34.44" ry="5.496" fill="rgb(235,235,235)" />
+    </g>
+    <g transform="matrix(1.22416,0,0,2.13903,-14.346,-71.1438)">
+        <rect x="30.491" y="52.04" width="67.017" height="5.496" fill="rgb(235,235,235)" />
+    </g>
+    <g transform="matrix(1.04058,0,0,1.06952,-1.1483,-3.83212)">
+        <ellipse cx="62.608" cy="41.093" rx="34.44" ry="5.496" fill="rgb(117,127,63)" />
+    </g>
+    <g transform="matrix(1.22416,0,0,1.22416,-14.346,-22.5601)">
+        <path d="M75.688,50.008L97.509,22.533" fill="none" />
+    </g>
+</g></defs><use href="#art" filter="url(#ob)"/><use href="#art"/></svg>
+</svg>

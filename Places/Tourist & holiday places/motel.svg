@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(-15.75 30.35) scale(1.8742)" stroke-linejoin="round" stroke-linecap="round">
+  <path d="M 30,128 Q 30,118 42,118 L 248,118 Q 260,118 260,128 L 260,225 L 30,225 Z" fill="#fceeca" stroke="#000000" stroke-width="3.668" stroke-linejoin="round" stroke-linecap="round"></path>
+  <path d="M 22,118 L 145,68 L 268,118 Z" fill="#eb0014" stroke="#000000" stroke-width="3.668" stroke-linejoin="round" stroke-linecap="round"></path>
+  <rect x="60" y="168" width="30" height="55" fill="#ad763d" stroke="#000000" stroke-width="2.935" stroke-linejoin="round" stroke-linecap="round"></rect>
+  <rect x="125" y="168" width="30" height="55" fill="#ad763d" stroke="#000000" stroke-width="2.935" stroke-linejoin="round" stroke-linecap="round"></rect>
+  <rect x="190" y="168" width="30" height="55" fill="#ad763d" stroke="#000000" stroke-width="2.935" stroke-linejoin="round" stroke-linecap="round"></rect>
+  <rect x="225" y="168" width="30" height="55" fill="#ad763d" stroke="#000000" stroke-width="2.935" stroke-linejoin="round" stroke-linecap="round"></rect>
+  <rect x="85" y="140" width="30" height="18" rx="2" ry="2" fill="#ebf8ff" stroke="#000000" stroke-width="2.201" stroke-linejoin="round" stroke-linecap="round"></rect>
+  <rect x="150" y="140" width="30" height="18" rx="2" ry="2" fill="#ebf8ff" stroke="#000000" stroke-width="2.201" stroke-linejoin="round" stroke-linecap="round"></rect>
+  <rect x="215" y="140" width="30" height="18" rx="2" ry="2" fill="#ebf8ff" stroke="#000000" stroke-width="2.201" stroke-linejoin="round" stroke-linecap="round"></rect>
+  <path d="M 22,68 L 145,15 L 268,68" fill="none" stroke="#000000" stroke-width="2.935" stroke-linejoin="round" stroke-linecap="round"></path>
+  <circle cx="145" cy="30" r="10" fill="#fff008" stroke="#000000" stroke-width="2.201" stroke-linejoin="round" stroke-linecap="round"></circle>
+</g></svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+
+  
+  <path d="M120,260 C120,236 156,220 200,212 L200,460 L120,460 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M392,260 C392,236 356,220 312,212 L312,460 L392,460 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M200,212 L200,460 L312,460 L312,212 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+
+  
+  <path d="M200,212 L256,288 L312,212 L296,212 L256,266 L216,212 Z" fill="#3aa3e6" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M252,266 L260,266 L268,310 L256,360 L244,310 Z" fill="#e64545" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M250,266 L262,266 L266,280 L246,280 Z" fill="#a52828" stroke="#1a1a1a" stroke-width="5.0000" />
+
+  
+  <rect x="316" y="360" width="62" height="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="326" y="350" width="8" height="22" fill="#3aa3e6" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="342" y="350" width="8" height="22" fill="#e64545" stroke="#1a1a1a" stroke-width="5.0000" />
+
+  
+  <circle cx="276" cy="340" r="5" fill="#1f2a36" />
+  <circle cx="276" cy="380" r="5" fill="#1f2a36" />
+  <circle cx="276" cy="420" r="5" fill="#1f2a36" />
+
+  
+  <circle cx="256" cy="156" r="60" fill="#fdd2a5" stroke="#1a1a1a" stroke-width="5.0000" />
+
+  
+  <path d="M200,140 C200,98 232,76 256,76 C284,76 312,98 312,140 C300,118 280,108 256,108 C230,108 210,120 200,140 Z" fill="#3a2a20" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+
+  
+  <circle cx="256" cy="100" r="22" fill="#c8d4dc" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="256" cy="100" r="12" fill="#1f2a36" />
+  <circle cx="252" cy="96" r="4" fill="#ffffff" />
+  
+  <path d="M220,108 Q256,84 292,108" fill="none" stroke="#1a1a1a" stroke-width="5.0000" />
+
+  
+  <circle cx="234" cy="160" r="6" fill="#1f2a36" />
+  <circle cx="278" cy="160" r="6" fill="#1f2a36" />
+  
+  <path d="M222,144 L246,144" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <path d="M266,144 L290,144" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+
+  
+  <path d="M254,168 Q252,182 256,184 Q260,182 258,168" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+
+  
+  <path d="M240,196 Q256,210 272,196" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+
+  
+  
+  <path d="M218,224 C212,250 200,300 192,330 C188,350 200,372 220,378" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <path d="M294,224 C300,250 312,300 320,330 C324,350 312,372 292,378" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <circle cx="218" cy="222" r="8" fill="#1f2a36" />
+  <circle cx="294" cy="222" r="8" fill="#1f2a36" />
+  
+  <path d="M220,378 L292,378" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <circle cx="256" cy="400" r="26" fill="#c8d4dc" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="256" cy="400" r="14" fill="#3a8edb" stroke="#1a1a1a" stroke-width="5.0000" />
+
+  
+  <rect x="346" y="232" width="32" height="10" fill="#e64545" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="356" y="222" width="12" height="30" fill="#e64545" stroke="#1a1a1a" stroke-width="5.0000" />
+</svg>

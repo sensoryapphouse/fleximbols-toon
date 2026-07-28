@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(67.250 4.750)">
+  <g transform="translate(0 0) scale(0.6250)">
+  <defs>
+    <linearGradient id="e0_hull" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#4a7a9b" /><stop offset="100%" stop-color="#1e3a52" /></linearGradient>
+    <linearGradient id="e0_deck" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#7a8a6a" /><stop offset="100%" stop-color="#4a5a3a" /></linearGradient>
+  </defs>
+  
+  <path d="M42 370 Q38 385 52 400 Q80 414 256 416 Q432 414 460 400 Q474 385 470 370 L450 345 L62 345 Z" fill="url(#e0_hull)" stroke="#1a1a1a" stroke-width="8.0000" stroke-linejoin="round" stroke-linecap="round" />
+  
+  <path d="M52 400 Q80 414 256 416 Q432 414 460 400 L448 393 Q418 408 256 408 Q94 408 64 393 Z" fill="#0e2030" opacity="0.5" />
+  
+  <path d="M75 350 Q256 342 448 350 Q256 357 75 357 Z" fill="#ffffff" opacity="0.2" />
+  
+  <path d="M62 345 L450 345 L462 358 L50 358 Z" fill="#e23b34" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <rect x="58" y="308" width="396" height="40" rx="4" fill="url(#e0_deck)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  
+  
+  <rect x="65" y="262" width="54" height="48" rx="3" fill="#e23b34" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <rect x="125" y="262" width="54" height="48" rx="3" fill="#3f8fd6" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <rect x="185" y="262" width="54" height="48" rx="3" fill="#f8c531" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <rect x="245" y="262" width="54" height="48" rx="3" fill="#5bb24a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <rect x="305" y="262" width="54" height="48" rx="3" fill="#f6892a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <rect x="365" y="262" width="54" height="48" rx="3" fill="#3f8fd6" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <line x1="65" y1="286" x2="119" y2="286" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="125" y1="286" x2="179" y2="286" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="185" y1="286" x2="239" y2="286" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="245" y1="286" x2="299" y2="286" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="305" y1="286" x2="359" y2="286" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="365" y1="286" x2="419" y2="286" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="68" y="265" width="22" height="10" rx="2" fill="#ffffff" opacity="0.35" />
+  <rect x="128" y="265" width="22" height="10" rx="2" fill="#ffffff" opacity="0.35" />
+  <rect x="188" y="265" width="22" height="10" rx="2" fill="#ffffff" opacity="0.35" />
+  <rect x="248" y="265" width="22" height="10" rx="2" fill="#ffffff" opacity="0.35" />
+  <rect x="308" y="265" width="22" height="10" rx="2" fill="#ffffff" opacity="0.35" />
+  <rect x="368" y="265" width="22" height="10" rx="2" fill="#ffffff" opacity="0.35" />
+  
+  <rect x="75" y="214" width="54" height="48" rx="3" fill="#f6892a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <rect x="135" y="214" width="54" height="48" rx="3" fill="#5bb24a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <rect x="195" y="214" width="54" height="48" rx="3" fill="#e23b34" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <rect x="255" y="214" width="54" height="48" rx="3" fill="#f8c531" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <rect x="315" y="214" width="54" height="48" rx="3" fill="#8a5fd0" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <rect x="375" y="214" width="44" height="48" rx="3" fill="#e23b34" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <rect x="78" y="217" width="22" height="10" rx="2" fill="#ffffff" opacity="0.35" />
+  <rect x="138" y="217" width="22" height="10" rx="2" fill="#ffffff" opacity="0.35" />
+  <rect x="198" y="217" width="22" height="10" rx="2" fill="#ffffff" opacity="0.35" />
+  <rect x="258" y="217" width="22" height="10" rx="2" fill="#ffffff" opacity="0.35" />
+  <rect x="318" y="217" width="22" height="10" rx="2" fill="#ffffff" opacity="0.35" />
+  
+  <rect x="420" y="230" width="34" height="115" rx="4" fill="#f0d080" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <rect x="424" y="244" width="26" height="22" rx="3" fill="#aad4f5" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="424" y="274" width="26" height="22" rx="3" fill="#aad4f5" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="428" y="198" width="20" height="36" rx="4" fill="#2b2622" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="424" y="192" width="28" height="12" rx="4" fill="#2b2622" />
+  <rect x="428" y="208" width="20" height="12" rx="3" fill="#e23b34" />
+  
+  <circle cx="65" cy="368" r="7" fill="#6f757e" stroke="#1a1a1a" stroke-width="4" /></g>
+  <g transform="translate(192 192) scale(0.4375)">
+  
+  
+  <path d="M256 60 Q200 80 220 110 Q256 130 280 110 Q310 80 256 60 Z" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" />
+  
+  <circle cx="256" cy="100" r="32" fill="none" stroke="#1a1a1a" stroke-width="12" />
+  
+  <rect x="160" y="156" width="192" height="20" rx="6" fill="#222222" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="244" y="130" width="24" height="240" fill="#222222" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="220" y="360" width="72" height="20" fill="#222222" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M256 370 Q140 380 100 320 Q120 400 200 432 Q250 444 256 410 Z" fill="#222222" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M256 370 Q372 380 412 320 Q392 400 312 432 Q262 444 256 410 Z" fill="#222222" stroke="#1a1a1a" stroke-width="5" />
+  
+  <polygon points="100,320 90,300 116,310" fill="#444444" stroke="#1a1a1a" stroke-width="3" />
+  <polygon points="412,320 422,300 396,310" fill="#444444" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M256 60 Q256 50 240 44 Q224 38 220 30" stroke="#1a1a1a" stroke-width="8" fill="none" stroke-linecap="round" />
+  
+  <path d="M40 470 Q80 458 120 470 Q160 482 200 470 Q240 458 280 470 Q320 482 360 470 Q400 458 440 470 Q472 482 492 470" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" /></g>
+</g>
+  </svg>

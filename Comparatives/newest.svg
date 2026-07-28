@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,77.261) scale(0.8491)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>new</title>
+  <path d="M 256 90 L 290 150 L 360 130 L 350 200 L 420 232 L 360 270 L 380 340 L 310 320 L 280 386 L 240 330 L 170 360 L 175 290 L 100 270 L 160 220 L 130 150 L 200 165 Z" fill="#e63946" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <circle cx="256" cy="230" r="80" fill="#f4b400" stroke="#1a1a1a" stroke-width="4" />
+  <text x="256" y="262" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="62" font-weight="900" text-anchor="middle" fill="#1a1a1a">NEW</text>
+  <path d="M 90 100 L 100 120 L 120 100 L 110 130 L 130 145 L 105 145 L 95 170 L 88 145 L 65 145 L 85 130 L 75 100 Z" fill="#1d9bf0" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <path d="M 410 380 L 420 400 L 440 380 L 430 410 L 450 425 L 425 425 L 415 450 L 408 425 L 385 425 L 405 410 L 395 380 Z" fill="#1d9bf0" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <circle cx="80" cy="380" r="10" fill="#10b981" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="430" cy="100" r="10" fill="#a855f7" stroke="#1a1a1a" stroke-width="3" />
+</g><g transform="translate(360 8) scale(0.2812)"><path d="M 256,44 L 300,178 L 441,178 L 327,262 L 370,396 L 256,313 L 142,396 L 185,262 L 71,178 L 212,178 Z" fill="#f0b400" stroke="#1a1a1a" stroke-width="26" stroke-linejoin="round"/><rect x="86" y="412" width="340" height="72" rx="16" fill="#3fae5a" stroke="#1a1a1a" stroke-width="26"/></g></svg>

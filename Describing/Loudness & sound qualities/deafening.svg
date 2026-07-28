@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<radialGradient id="bm" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#fff3a3" /><stop offset="60%" stop-color="#ff9933" /><stop offset="100%" stop-color="#e63946" /></radialGradient>
+<linearGradient id="sk" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#ffd1a3" /><stop offset="100%" stop-color="#f0a878" /></linearGradient>
+</defs>
+<g transform="translate(256 200)">
+<path d="M0 -130 L25 -80 L80 -100 L60 -50 L130 -40 L80 0 L130 40 L60 50 L80 100 L25 80 L0 130 L-25 80 L-80 100 L-60 50 L-130 40 L-80 0 L-130 -40 L-60 -50 L-80 -100 L-25 -80 Z" fill="url(#bm)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+</g>
+<g transform="translate(170 320)">
+
+<rect x="-30" y="60" width="14" height="50" fill="#5a8acb" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+<rect x="16" y="60" width="14" height="50" fill="#5a8acb" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+<rect x="-36" y="0" width="72" height="70" rx="8" fill="#7ab6f0" stroke="#1a1a1a" stroke-width="7" />
+<circle cx="0" cy="-30" r="32" fill="url(#sk)" stroke="#1a1a1a" stroke-width="7" />
+<circle cx="-8" cy="-32" r="3" fill="#2b2622" />
+<circle cx="8" cy="-32" r="3" fill="#2b2622" />
+<path d="M-12 -20 Q0 -10 12 -20" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+<path d="M-32 -30 Q-50 -10 -42 20 Q-30 30 -30 10" fill="url(#sk)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+<path d="M32 -30 Q50 -10 42 20 Q30 30 30 10" fill="url(#sk)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+<circle cx="-42" cy="-28" r="6" fill="#ffb5c5" stroke="#1a1a1a" stroke-width="4" />
+<circle cx="42" cy="-28" r="6" fill="#ffb5c5" stroke="#1a1a1a" stroke-width="4" />
+</g>
+<g stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round">
+<path d="M90 90 L60 70" /><path d="M70 130 L40 130" /><path d="M422 90 L452 70" /><path d="M442 130 L472 130" />
+</g>
+</svg>

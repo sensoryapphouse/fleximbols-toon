@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="240" y="60" width="32" height="240" fill="#c08054" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M252 100 L252 280" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M262 80 L262 290" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="184" y="40" width="144" height="44" rx="22" ry="22" fill="#3a7ad8" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="200" y="56" width="112" height="12" rx="6" ry="6" fill="#1a5ab8" />
+  
+  <rect x="220" y="292" width="72" height="28" fill="#a8a8a8" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="240" cy="306" r="4" fill="#1a1a1a" />
+  <circle cx="272" cy="306" r="4" fill="#1a1a1a" />
+  
+  <path d="M160 320 L352 320 L352 380 Q352 432 304 460 Q256 488 208 460 Q160 432 160 380 Z" fill="#d8d8d8" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M180 332 Q180 410 220 446" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  
+  <path d="M256 320 L256 470" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M260 458 Q280 466 300 458 Q310 472 286 478 Q266 480 260 458 Z" fill="#7a4a2c" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+</svg>

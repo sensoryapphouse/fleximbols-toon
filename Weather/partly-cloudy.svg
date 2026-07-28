@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3aa6ff" />
+      <stop offset="100%" stop-color="#9bd0ff" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="512" height="512" fill="url(#sky)" />
+  <g transform="translate(200,200)">
+    <g stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round">
+      <line x1="0" y1="-130" x2="0" y2="-96" />
+      <line x1="0" y1="96" x2="0" y2="130" />
+      <line x1="-130" y1="0" x2="-96" y2="0" />
+      <line x1="96" y1="0" x2="130" y2="0" />
+      <line x1="-94" y1="-94" x2="-68" y2="-68" />
+      <line x1="94" y1="-94" x2="68" y2="-68" />
+      <line x1="-94" y1="94" x2="-68" y2="68" />
+      <line x1="94" y1="94" x2="68" y2="68" />
+    </g>
+    <circle cx="0" cy="0" r="76" fill="#ffd166" stroke="#1a1a1a" stroke-width="5.0000" />
+    <path d="M-30 -14 Q-30 -26 -18 -26" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.55" />
+  </g>
+  <g transform="translate(330,250)">
+    <path d="M-90 24 Q-78 -18 -42 -14 Q-22 -44 8 -28 Q36 -42 60 -16 Q92 -14 100 18 Q114 38 80 48 L-70 46 Q-104 38 -90 24 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+    <path d="M-44 26 Q-32 20 -20 24" stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round" />
+  </g>
+  <g transform="translate(120,360)">
+    <path d="M-70 16 Q-60 -16 -30 -10 Q-16 -34 6 -22 Q28 -34 48 -14 Q72 -12 80 12 Q92 30 64 36 L-58 36 Q-82 32 -70 16 Z" fill="#e8e8e8" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="0" y="440" width="512" height="72" fill="#f0e2c8" />
+  <line x1="0" y1="440" x2="512" y2="440" stroke="#1a1a1a" stroke-width="3" />
+  
+  
+  <ellipse cx="256" cy="430" rx="140" ry="22" fill="#7a2d12" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M116 430 Q116 300 156 250 Q200 220 256 220 Q312 220 356 250 Q396 300 396 430 Z" fill="#c75c2a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <g stroke="#1a1a1a" stroke-width="4" fill="none">
+    <path d="M132 410 Q126 340 158 270" />
+    <path d="M170 422 Q170 340 188 250" />
+    <path d="M210 428 Q210 340 220 232" />
+    <path d="M256 432 Q256 340 256 224" />
+    <path d="M302 428 Q302 340 292 232" />
+    <path d="M342 422 Q342 340 324 250" />
+    <path d="M380 410 Q386 340 354 270" />
+  </g>
+  
+  <ellipse cx="256" cy="230" rx="100" ry="28" fill="#e8763c" stroke="#1a1a1a" stroke-width="5.0000" />
+  <ellipse cx="256" cy="230" rx="80" ry="18" fill="#ff9650" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="256" cy="230" r="14" fill="#ffd24a" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="256" cy="230" r="6" fill="#c89530" />
+  
+  <g stroke="#1a1a1a" stroke-width="1.5" fill="none">
+    <line x1="220" y1="225" x2="226" y2="222" />
+    <line x1="240" y1="225" x2="246" y2="222" />
+    <line x1="280" y1="227" x2="286" y2="224" />
+    <line x1="200" y1="232" x2="206" y2="229" />
+    <line x1="300" y1="232" x2="306" y2="229" />
+  </g>
+  
+  <path d="M156 250 Q200 220 256 220 Q312 220 356 250" fill="none" stroke="#1a1a1a" stroke-width="4" />
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2248" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2248)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

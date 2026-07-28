@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -55.500)">
+  
+  <ellipse cx="256" cy="385" rx="210" ry="42" fill="#e8dfc8" />
+  <ellipse cx="256" cy="370" rx="210" ry="44" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" />
+  <ellipse cx="256" cy="365" rx="180" ry="34" fill="#f4ebd0" />
+  <path d="M 90 320 Q 90 200 256 200 Q 422 200 422 320 Q 380 340 256 340 Q 132 340 90 320 Z" fill="#ffd84a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M 110 290 Q 110 220 256 220 Q 402 220 402 290 Q 380 320 256 322 Q 132 320 110 290 Z" fill="#ffe070" />
+  <path d="M 256 220 Q 200 220 160 240 Q 130 270 130 300 Q 200 310 256 310 Q 312 310 382 300 Q 382 270 352 240 Q 312 220 256 220 Z" fill="#ffd040" opacity="0.4" />
+  <path d="M 256 220 Q 256 240 256 260 Q 252 280 256 300 Q 260 320 256 340" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M 175 245 Q 230 240 280 260 Q 320 270 360 265" stroke="#1a1a1a" stroke-width="2" fill="none" />
+  <path d="M 170 290 Q 210 296 256 296 Q 300 296 340 290" stroke="#1a1a1a" stroke-width="2" fill="none" />
+  <rect x="180" y="260" width="40" height="22" rx="3" fill="#f4a868" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="232" y="270" width="44" height="22" rx="3" fill="#ffd060" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="310" cy="275" rx="26" ry="14" fill="#5a9040" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="310" cy="272" rx="20" ry="9" fill="#7ab058" />
+  <rect x="195" y="265" width="10" height="6" fill="#d88858" />
+  <rect x="240" y="276" width="14" height="4" fill="#f0c050" />
+  <circle cx="260" cy="285" r="4" fill="#c0d050" />
+  <circle cx="330" cy="282" r="3" fill="#4a7a30" />
+</g>
+  </svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -25.000)">
+  
+  
+  <rect x="40" y="380" width="432" height="22" fill="#a0683f" stroke="#1a1a1a" stroke-width="5.0000" />
+  <line x1="80" y1="402" x2="80" y2="470" stroke="#1a1a1a" stroke-width="5.0000" />
+  <line x1="432" y1="402" x2="432" y2="470" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="60" y="395" width="392" height="10" fill="#d49156" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="370" y="280" width="22" height="120" rx="6" fill="#8a5a2f" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="130" y="345" width="200" height="40" fill="#fffef2" stroke="#1a1a1a" stroke-width="5.0000" />
+  <line x1="145" y1="358" x2="280" y2="358" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="145" y1="370" x2="240" y2="370" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="145" y1="380" x2="200" y2="380" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  <path d="M230 380 Q230 290 290 280 Q360 282 360 380 Z" fill="#4a90e2" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M275 282 L295 305 L315 282" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  
+  <rect x="282" y="248" width="26" height="40" fill="#f5c89c" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <circle cx="295" cy="210" r="48" fill="#f5c89c" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M250 200 Q255 160 295 158 Q345 156 342 205 Q330 188 305 192 Q280 196 250 200 Z" fill="#5c3a1f" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <circle cx="247" cy="218" r="8" fill="#f5c89c" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M270 218 Q278 225 286 218" fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <path d="M306 218 Q314 225 322 218" fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  
+  <line x1="268" y1="206" x2="288" y2="210" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <line x1="304" y1="210" x2="324" y2="206" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  
+  <path d="M295 222 L292 238 L300 240" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <path d="M285 252 Q295 256 305 252" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <path d="M240 320 Q200 340 195 370 Q200 380 220 372 L260 360" fill="#4a90e2" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <circle cx="215" cy="368" r="14" fill="#f5c89c" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <g transform="translate(212 370) rotate(40)">
+    <rect x="-6" y="-50" width="12" height="60" fill="#f5c542" stroke="#1a1a1a" stroke-width="3" />
+    <polygon points="-6,10 0,22 6,10" fill="#f0d6a8" stroke="#1a1a1a" stroke-width="3" />
+    <polygon points="-3,17 0,22 3,17" fill="#2b2b2b" stroke="#1a1a1a" stroke-width="2" />
+    <rect x="-6" y="-58" width="12" height="10" fill="#ff6b9d" stroke="#1a1a1a" stroke-width="3" />
+  </g>
+  
+  <path d="M348 318 Q380 330 380 360 Q380 380 360 380 L340 380" fill="#4a90e2" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <circle cx="358" cy="370" r="13" fill="#f5c89c" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <g stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round">
+    <line x1="180" y1="350" x2="180" y2="365" />
+    <line x1="170" y1="358" x2="190" y2="358" />
+  </g>
+</g>
+  </svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<title>last</title>
+
+<path d="M 80 180 L 432 180 L 392 256 L 432 332 L 80 332 L 120 256 Z" fill="#e63946" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+<path d="M 432 180 L 472 200 L 432 220 Z" fill="#9d0208" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<path d="M 80 180 L 40 200 L 80 220 Z" fill="#9d0208" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<text x="256" y="282" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="900" font-size="72" text-anchor="middle" fill="#ffffff" stroke="#1a1a1a" stroke-width="3">LAST</text>
+</svg>

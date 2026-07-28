@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.000 -12.750)">
+  
+  
+  <line x1="40" y1="256" x2="472" y2="256" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <polygon points="472,256 460,250 460,262" fill="#1a1a1a" />
+  
+  <path d="M60,256 C90,256 100,130 130,130 C160,130 170,256 200,256 C230,256 240,382 270,382 C300,382 310,256 340,256" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round" />
+  
+  <path d="M340,256 C370,256 380,130 410,130 C440,130 450,256 460,256" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round" />
+  
+  <line x1="200" y1="245" x2="200" y2="267" stroke="#1a1a1a" stroke-width="5.0000" />
+  <line x1="340" y1="245" x2="340" y2="267" stroke="#1a1a1a" stroke-width="5.0000" />
+  <line x1="460" y1="245" x2="460" y2="267" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M60,290 Q130,310 200,290" stroke="#1a1a1a" stroke-width="5.0000" fill="none" />
+  
+  <line x1="60" y1="300" x2="60" y2="320" stroke="#1a1a1a" stroke-width="5.0000" />
+  <line x1="460" y1="300" x2="460" y2="320" stroke="#1a1a1a" stroke-width="5.0000" />
+  <line x1="60" y1="310" x2="460" y2="310" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <text x="256" y="345" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#1a1a1a">1 s</text>
+  
+  <text x="256" y="100" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="64" font-weight="bold" fill="#cc3300">Hz</text>
+  
+  <text x="256" y="480" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" fill="#444444">cycles per second</text>
+</g>
+  </svg>

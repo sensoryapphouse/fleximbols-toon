@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(256,256) scale(1) translate(-282,-309)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- ===== Rescue Helicopter — yellow rescue paint with red cross ===== -->
+
+  <!-- Landing skids -->
+  <line x1="100" y1="430" x2="260" y2="430" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <line x1="252" y1="430" x2="412" y2="430" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <line x1="148" y1="390" x2="148" y2="430" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <line x1="210" y1="390" x2="180" y2="430" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <line x1="304" y1="390" x2="334" y2="430" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <line x1="366" y1="390" x2="366" y2="430" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Main fuselage — yellow rescue body -->
+  <path d="M 80 310 Q 80 250 130 250 L 390 250 Q 450 250 450 310 L 450 380 Q 450 400 430 400 L 100 400 Q 80 400 80 380 Z"
+        fill="#f5c800" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+
+  <!-- Nose cone -->
+  <path d="M 80 310 Q 60 330 58 355 Q 60 375 80 380"
+        fill="#f5c800" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+
+  <!-- Tail boom -->
+  <path d="M 390 280 L 480 250 L 480 300 L 390 310 Z"
+        fill="#f5c800" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Tail rotor -->
+  <circle cx="484" cy="250" r="8" fill="#1a1a1a"/>
+  <line x1="484" y1="220" x2="484" y2="280" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <line x1="454" y1="250" x2="514" y2="250" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Cockpit window -->
+  <path d="M 90 300 Q 95 260 130 260 L 210 260 L 210 310 L 90 310 Z"
+        fill="#a8d8f0" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Window highlight -->
+  <path d="M 100 275 Q 110 265 130 265 L 165 265 L 165 285 L 100 285 Z"
+        fill="#ffffff" opacity="0.45"/>
+
+  <!-- Side cabin window -->
+  <rect x="240" y="265" width="60" height="45" rx="8"
+        fill="#a8d8f0" stroke="#1a1a1a" stroke-width="5"/>
+  <path d="M 248 272 Q 258 268 268 275 L 255 286 Z" fill="#ffffff" opacity="0.45"/>
+
+  <!-- Red cross on side of fuselage -->
+  <rect x="310" y="276" width="70" height="70" rx="8"
+        fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+  <!-- Cross horizontal -->
+  <rect x="312" y="297" width="66" height="26" rx="4" fill="#e23b34"/>
+  <!-- Cross vertical -->
+  <rect x="331" y="278" width="26" height="66" rx="4" fill="#e23b34"/>
+
+  <!-- Main rotor mast -->
+  <rect x="248" y="225" width="16" height="28" rx="4"
+        fill="#888" stroke="#1a1a1a" stroke-width="4"/>
+
+  <!-- Main rotor hub -->
+  <circle cx="256" cy="222" r="14" fill="#555" stroke="#1a1a1a" stroke-width="5"/>
+
+  <!-- Main rotor blades — two long blades meeting at hub -->
+  <rect x="66" y="216" width="180" height="12" rx="6"
+        fill="#888" stroke="#1a1a1a" stroke-width="4"/>
+  <rect x="266" y="216" width="180" height="12" rx="6"
+        fill="#888" stroke="#1a1a1a" stroke-width="4"/>
+  <!-- Motion arc lines indicating rotation -->
+  <path d="M 76 200 Q 256 178 436 200" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="6,8" opacity="0.55"/>
+  <path d="M 76 244 Q 256 266 436 244" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="6,8" opacity="0.55"/>
+
+  <!-- Rotor centre dot -->
+  <circle cx="256" cy="222" r="9" fill="#1a1a1a"/>
+</g></svg>

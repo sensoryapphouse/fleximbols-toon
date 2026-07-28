@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<rect x="180" y="380" width="150" height="80" fill="#5a8c5a" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="180" y="300" width="70" height="80" fill="#f4c542" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="260" y="300" width="70" height="80" fill="#4a90c2" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="180" y="220" width="150" height="80" fill="#e85d75" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="180" y="140" width="70" height="80" fill="#7a4ec2" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="260" y="140" width="70" height="80" fill="#f29e4c" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="180" y="60" width="150" height="80" fill="#3da870" stroke="#1a1a1a" stroke-width="5.0000" />
+<text x="255" y="445" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="2">8</text>
+<text x="215" y="365" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="2">6</text>
+<text x="295" y="365" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="2">7</text>
+<text x="255" y="285" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="2">5</text>
+<text x="215" y="205" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="2">3</text>
+<text x="295" y="205" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="2">4</text>
+<text x="255" y="125" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="40" fill="#ffffff" stroke="#1a1a1a" stroke-width="2">1</text>
+<circle cx="370" cy="425" r="22" fill="#e63946" stroke="#1a1a1a" stroke-width="5.0000" />
+<path d="M 110 470 Q 130 460 145 465" fill="none" stroke="#1a1a1a" stroke-width="3" />
+</svg>

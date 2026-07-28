@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-28.583 -28.583) scale(1.1127)">
+<title>hourglass</title>
+
+<rect x="110" y="80" width="292" height="36" rx="8" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="4.4936" />
+
+<rect x="110" y="396" width="292" height="36" rx="8" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="4.4936" />
+
+<path d="M150 116 L362 116 L256 256 L362 396 L150 396 L256 256 Z" fill="#e6f4fb" stroke="#1a1a1a" stroke-width="4.4936" stroke-linejoin="round" />
+
+<path d="M170 130 L342 130 L262 240 Q256 246 250 240 Z" fill="#f6c544" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+
+<rect x="252" y="248" width="8" height="100" fill="#f6c544" stroke="#1a1a1a" stroke-width="3" />
+
+<path d="M180 382 L332 382 Q336 332 256 312 Q176 332 180 382 Z" fill="#f6c544" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+
+<path d="M170 130 L210 130 L226 160" fill="none" stroke="#1a1a1a" stroke-width="4.4936" stroke-linecap="round" />
+<path d="M180 382 L210 366" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+
+<rect x="120" y="116" width="14" height="280" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="4.4936" />
+<rect x="378" y="116" width="14" height="280" fill="#8a5a2b" stroke="#1a1a1a" stroke-width="4.4936" />
+</g>
+  </svg>

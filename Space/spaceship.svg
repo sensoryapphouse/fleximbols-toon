@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -18.250)">
+  
+  
+  <path d="M210 410 Q220 460 256 488 Q292 460 302 410 Q280 440 256 420 Q232 440 210 410 Z" fill="#ff6b1a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <path d="M222 412 Q230 446 256 466 Q282 446 290 412 Q272 432 256 418 Q240 432 222 412 Z" fill="#fde66a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  
+  <path d="M180 340 L120 410 L120 430 L188 410 Z" fill="#d83a3a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M332 340 L392 410 L392 430 L324 410 Z" fill="#d83a3a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M188 220 Q188 130 256 60 Q324 130 324 220 L324 400 L188 400 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M232 90 Q256 60 280 90 Q256 110 232 90 Z" fill="#d83a3a" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="256" cy="220" r="46" fill="#5fb8ff" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="256" cy="220" r="36" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="240" cy="206" rx="10" ry="6" fill="#ffffff" />
+  
+  <path d="M188 320 L324 320" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M188 340 L324 340 L324 360 L188 360 Z" fill="#d83a3a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M204 400 L308 400 L296 420 L216 420 Z" fill="#a8a8a8" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <circle cx="208" cy="280" r="4" fill="#a8a8a8" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="304" cy="280" r="4" fill="#a8a8a8" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="208" cy="380" r="4" fill="#a8a8a8" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="304" cy="380" r="4" fill="#a8a8a8" stroke="#1a1a1a" stroke-width="2" />
+</g>
+  </svg>

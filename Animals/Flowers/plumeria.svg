@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -29.000)">
+  
+  
+  <path d="M40 470 Q40 360 110 320 Q150 350 130 460 Q90 478 40 470 Z" fill="#2b6d3a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M70 460 Q90 410 110 340" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M472 470 Q472 360 402 320 Q362 350 382 460 Q422 478 472 470 Z" fill="#2b6d3a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M442 460 Q422 410 402 340" fill="none" stroke="#1a1a1a" stroke-width="3" />
+
+  
+  <g transform="translate(256 256)">
+    
+    <path d="M0 -10 Q-50 -40 -80 -100 Q-90 -150 -40 -160 Q0 -150 10 -100 Q12 -50 0 -10 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+    
+    <path d="M0 -10 Q40 -50 100 -60 Q150 -40 150 10 Q120 50 70 30 Q30 10 0 -10 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+    
+    <path d="M0 0 Q40 30 70 90 Q60 140 10 140 Q-20 110 -10 60 Q-6 30 0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+    
+    <path d="M-10 0 Q-60 30 -110 90 Q-130 140 -80 150 Q-40 130 -30 80 Q-20 40 -10 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+    
+    <path d="M-10 -10 Q-60 -30 -130 -30 Q-160 0 -130 30 Q-90 30 -50 10 Q-20 0 -10 -10 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+
+    
+    <circle r="60" fill="#fff9d0" />
+    <circle r="45" fill="#fff3a8" />
+    <circle r="32" fill="#ffe680" />
+    <circle r="20" fill="#ffd040" />
+    <circle r="10" fill="#ffb020" />
+
+    
+    <path d="M-40 -150 Q0 -160 30 -130" fill="none" stroke="#1a1a1a" stroke-width="5" />
+    <path d="M100 -60 Q150 -40 140 10" fill="none" stroke="#1a1a1a" stroke-width="5" />
+    <path d="M70 90 Q60 140 10 140" fill="none" stroke="#1a1a1a" stroke-width="5" />
+    <path d="M-80 150 Q-130 140 -110 90" fill="none" stroke="#1a1a1a" stroke-width="5" />
+    <path d="M-130 -30 Q-160 0 -130 30" fill="none" stroke="#1a1a1a" stroke-width="5" />
+
+    
+    <path d="M-6 -20 Q-30 -40 -20 -90" fill="none" stroke="#1a1a1a" stroke-width="3" />
+    <path d="M14 -10 Q40 -20 60 -40" fill="none" stroke="#1a1a1a" stroke-width="3" />
+    <path d="M10 14 Q30 30 36 60" fill="none" stroke="#1a1a1a" stroke-width="3" />
+    <path d="M-20 14 Q-40 30 -60 50" fill="none" stroke="#1a1a1a" stroke-width="3" />
+    <path d="M-20 -6 Q-40 0 -70 0" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  </g>
+</g>
+  </svg>

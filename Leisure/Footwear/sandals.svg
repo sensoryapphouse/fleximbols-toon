@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(256,256) scale(1.0191) translate(-255,-316)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Left sandal -->
+  <!-- Sole -->
+  <path d="M48 340 Q44 280 70 248 Q96 220 148 216 Q196 212 224 232 Q248 250 248 300 Q248 356 224 388 Q200 414 160 418 Q110 420 76 394 Q48 370 48 340 Z" fill="#c8a06a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Sole side wall -->
+  <path d="M48 340 Q44 280 70 248 L72 260 Q52 290 56 340 Q56 370 76 394 L72 404 Q48 382 48 340 Z" fill="#a8804a" stroke="none"/>
+  <!-- Sole bottom edge line -->
+  <path d="M48 340 Q44 280 70 248 Q96 220 148 216 Q196 212 224 232 Q248 250 248 300 Q248 356 224 388 Q200 414 160 418 Q110 420 76 394 Q48 370 48 340 Z" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Footbed inner (lighter) -->
+  <path d="M60 338 Q56 285 80 256 Q104 230 150 226 Q192 222 216 240 Q236 256 236 304 Q236 354 214 382 Q192 406 156 410 Q112 412 82 388 Q60 368 60 338 Z" fill="#e0b880" stroke="none"/>
+  <!-- Toe strap (across toes) -->
+  <path d="M90 262 Q130 240 190 252 Q210 258 218 270 L210 286 Q200 272 186 266 Q138 254 100 275 Z" fill="#8a4e20" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Ankle strap (across top of foot) -->
+  <path d="M64 320 Q70 306 90 300 Q110 296 128 302 Q148 310 164 304 Q186 296 206 302 Q224 310 228 326 L220 336 Q206 320 186 316 Q164 320 144 328 Q122 336 100 330 Q78 324 70 334 Z" fill="#8a4e20" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Side strap left -->
+  <path d="M64 320 Q56 340 62 360 Q70 372 80 368 Q86 350 82 332 Z" fill="#8a4e20" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Side strap right -->
+  <path d="M228 326 Q236 344 232 364 Q224 378 214 372 Q210 354 216 336 Z" fill="#8a4e20" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Right sandal (mirrored, shifted right and slightly overlapping) -->
+  <!-- Sole -->
+  <path d="M264 340 Q260 280 286 248 Q312 220 364 216 Q412 212 440 232 Q464 250 464 300 Q464 356 440 388 Q416 414 376 418 Q326 420 292 394 Q264 370 264 340 Z" fill="#c8a06a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Sole side wall shading -->
+  <path d="M464 300 Q464 356 440 388 Q416 414 376 418 L378 408 Q404 406 426 380 Q450 350 450 300 Q450 254 430 240 L440 232 Q464 250 464 300 Z" fill="#a8804a" stroke="none"/>
+  <!-- Footbed inner -->
+  <path d="M276 338 Q272 285 296 256 Q320 230 366 226 Q408 222 432 240 Q452 256 452 304 Q452 354 430 382 Q408 406 372 410 Q328 412 298 388 Q276 368 276 338 Z" fill="#e0b880" stroke="none"/>
+  <!-- Toe strap -->
+  <path d="M306 262 Q346 240 406 252 Q426 258 434 270 L426 286 Q416 272 402 266 Q354 254 316 275 Z" fill="#8a4e20" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Ankle strap -->
+  <path d="M280 320 Q286 306 306 300 Q326 296 344 302 Q364 310 380 304 Q402 296 422 302 Q440 310 444 326 L436 336 Q422 320 402 316 Q380 320 360 328 Q338 336 316 330 Q294 324 286 334 Z" fill="#8a4e20" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Side strap left -->
+  <path d="M280 320 Q272 340 278 360 Q286 372 296 368 Q302 350 298 332 Z" fill="#8a4e20" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Side strap right -->
+  <path d="M444 326 Q452 344 448 364 Q440 378 430 372 Q426 354 432 336 Z" fill="#8a4e20" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+</g></svg>

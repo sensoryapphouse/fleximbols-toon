@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-8.750 -22.750)">
+  <defs>
+    <linearGradient id="cloudg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#d0d8e8" />
+      <stop offset="100%" stop-color="#9aaac0" />
+    </linearGradient>
+    <radialGradient id="bulbg" cx="45%" cy="35%" r="55%">
+      <stop offset="0%" stop-color="#fff8c0" />
+      <stop offset="100%" stop-color="#f8c531" />
+    </radialGradient>
+    <linearGradient id="braincolg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ef7fae" />
+      <stop offset="100%" stop-color="#c04878" />
+    </linearGradient>
+  </defs>
+  
+  <path d="M120,195 Q105,165 125,145 Q115,118 140,108 Q155,82 185,90 Q200,68 230,72 Q255,55 285,68 Q315,58 335,80 Q362,72 372,98 Q398,102 400,128 Q418,142 410,168 Q420,185 408,200 Q400,215 380,215 L155,215 Q128,215 120,195Z" fill="url(#cloudg)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M155,205 Q260,220 395,208 Q390,215 380,215 L155,215 Q140,215 130,208Z" fill="#6f757e" opacity="0.3" />
+  
+  
+  
+  <path d="M272,218 L248,290 L268,290 L238,370 L310,280 L285,280 L318,218Z" fill="#f8c531" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  
+  <ellipse cx="130" cy="295" rx="30" ry="34" fill="url(#bulbg)" stroke="#1a1a1a" stroke-width="7" />
+  
+  <rect x="118" y="326" width="24" height="10" rx="3" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="122" y="336" width="16" height="7" rx="2" fill="#6f757e" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M122,320 Q130,312 138,320" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <line x1="100" y1="278" x2="92" y2="268" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="130" y1="262" x2="130" y2="250" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="160" y1="278" x2="168" y2="268" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <ellipse cx="400" cy="310" rx="30" ry="34" fill="url(#bulbg)" stroke="#1a1a1a" stroke-width="7" />
+  
+  <rect x="388" y="341" width="24" height="10" rx="3" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="392" y="351" width="16" height="7" rx="2" fill="#6f757e" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M392,335 Q400,327 408,335" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <line x1="370" y1="293" x2="362" y2="283" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="400" y1="277" x2="400" y2="265" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="430" y1="293" x2="438" y2="283" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  
+  <ellipse cx="256" cy="435" rx="72" ry="60" fill="url(#braincolg)" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M210,420 Q228,408 246,420 Q260,408 278,420 Q292,410 305,420" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M220,440 Q236,430 252,440 Q268,430 284,440" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <path d="M200,420 Q195,400 210,390 Q225,380 240,390 Q252,378 268,388 Q282,378 298,390 Q315,382 320,400 Q330,418 310,425" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  
+  
+  <line x1="175" y1="370" x2="168" y2="390" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="335" y1="375" x2="342" y2="395" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="256" y1="378" x2="256" y2="400" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+</g>
+  </svg>

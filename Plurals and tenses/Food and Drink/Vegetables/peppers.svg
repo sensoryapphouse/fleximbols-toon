@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+
+<path d="M140 200 Q120 280 140 380 Q170 460 256 460 Q342 460 372 380 Q392 280 372 200 Q350 180 320 200 Q300 190 256 195 Q212 190 192 200 Q162 180 140 200 Z" fill="#e74c3c" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+
+<path d="M200 250 Q190 360 215 440" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+<path d="M312 250 Q322 360 297 440" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+
+<path d="M175 240 Q165 320 180 380" stroke="#1a1a1a" stroke-width="12" stroke-linecap="round" fill="none" />
+
+<path d="M210 200 Q200 170 220 160 Q240 150 256 160 Q272 150 292 160 Q312 170 302 200 Q280 190 256 195 Q232 190 210 200 Z" fill="#27ae60" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+
+<path d="M248 160 Q244 120 256 90 Q268 120 264 160 Z" fill="#27ae60" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1554" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1554)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

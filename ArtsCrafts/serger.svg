@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="bodyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#d0c8b8"/>
+      <stop offset="100%" stop-color="#a09080"/>
+    </linearGradient>
+    <linearGradient id="armGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c0b8a8"/>
+      <stop offset="100%" stop-color="#e8e0d0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Base / table platform -->
+  <rect x="60" y="380" width="392" height="40" rx="8"
+        fill="#6a5a3a" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Legs -->
+  <rect x="90" y="418" width="22" height="60" rx="4"
+        fill="#5a4a2a" stroke="#1a1a1a" stroke-width="5"/>
+  <rect x="400" y="418" width="22" height="60" rx="4"
+        fill="#5a4a2a" stroke="#1a1a1a" stroke-width="5"/>
+
+  <!-- Machine body (wide box) -->
+  <rect x="80" y="200" width="320" height="182" rx="14"
+        fill="url(#bodyGrad)" stroke="#1a1a1a" stroke-width="5"/>
+
+  <!-- Top panel -->
+  <rect x="80" y="178" width="320" height="42" rx="10"
+        fill="#b8b0a0" stroke="#1a1a1a" stroke-width="5"/>
+
+  <!-- Thread cone 1 (left) -->
+  <ellipse cx="130" cy="172" rx="18" ry="8"
+           fill="#e84a4a" stroke="#1a1a1a" stroke-width="1"/>
+  <polygon points="112,172 130,100 148,172"
+           fill="#e84a4a" stroke="#1a1a1a" stroke-width="1" stroke-linejoin="round"/>
+  <ellipse cx="130" cy="100" rx="8" ry="4"
+           fill="#c03030" stroke="#1a1a1a" stroke-width="3"/>
+
+  <!-- Thread cone 2 -->
+  <ellipse cx="200" cy="172" rx="18" ry="8"
+           fill="#3aa0d8" stroke="#1a1a1a" stroke-width="1"/>
+  <polygon points="182,172 200,100 218,172"
+           fill="#3aa0d8" stroke="#1a1a1a" stroke-width="1" stroke-linejoin="round"/>
+  <ellipse cx="200" cy="100" rx="8" ry="4"
+           fill="#1f6a92" stroke="#1a1a1a" stroke-width="3"/>
+
+  <!-- Thread cone 3 -->
+  <ellipse cx="270" cy="172" rx="18" ry="8"
+           fill="#7fc04a" stroke="#1a1a1a" stroke-width="1"/>
+  <polygon points="252,172 270,100 288,172"
+           fill="#7fc04a" stroke="#1a1a1a" stroke-width="1" stroke-linejoin="round"/>
+  <ellipse cx="270" cy="100" rx="8" ry="4"
+           fill="#4a7a25" stroke="#1a1a1a" stroke-width="3"/>
+
+  <!-- Thread cone 4 (right) -->
+  <ellipse cx="340" cy="172" rx="18" ry="8"
+           fill="#f0a020" stroke="#1a1a1a" stroke-width="1"/>
+  <polygon points="322,172 340,100 358,172"
+           fill="#f0a020" stroke="#1a1a1a" stroke-width="1" stroke-linejoin="round"/>
+  <ellipse cx="340" cy="100" rx="8" ry="4"
+           fill="#b06a10" stroke="#1a1a1a" stroke-width="3"/>
+
+  <!-- Arm extending right (overlock arm) -->
+  <rect x="370" y="240" width="82" height="36" rx="8"
+        fill="url(#armGrad)" stroke="#1a1a1a" stroke-width="5"/>
+
+  <!-- Presser foot area -->
+  <rect x="408" y="276" width="30" height="40" rx="4"
+        fill="#888070" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- Needle -->
+  <line x1="420" y1="276" x2="420" y2="330"
+        stroke="#1a1a1a" stroke-width="1" stroke-linecap="round"/>
+  <!-- Needle eye -->
+  <ellipse cx="420" cy="320" rx="3" ry="5"
+           fill="none" stroke="#ffffff" stroke-width="2"/>
+
+  <!-- Fabric under foot -->
+  <path d="M90 330 Q240 318 440 328"
+        fill="none" stroke="#e0d0b8" stroke-width="8"
+        stroke-linecap="round"/>
+  <!-- Serged edge lines -->
+  <path d="M90 338 Q240 326 440 336"
+        fill="none" stroke="#e84a4a" stroke-width="3"
+        stroke-linecap="round" stroke-dasharray="8,6"/>
+  <path d="M90 344 Q240 332 440 342"
+        fill="none" stroke="#3aa0d8" stroke-width="3"
+        stroke-linecap="round" stroke-dasharray="8,6"/>
+
+  <!-- Control knobs on front panel -->
+  <circle cx="120" cy="300" r="14" fill="#6a5a3a" stroke="#1a1a1a" stroke-width="1"/>
+  <circle cx="120" cy="300" r="6" fill="#888" stroke="#1a1a1a" stroke-width="2"/>
+  <circle cx="165" cy="300" r="14" fill="#6a5a3a" stroke="#1a1a1a" stroke-width="1"/>
+  <circle cx="165" cy="300" r="6" fill="#888" stroke="#1a1a1a" stroke-width="2"/>
+
+  <!-- Speed dial -->
+  <circle cx="310" cy="290" r="30" fill="#5a4a2a" stroke="#1a1a1a" stroke-width="1"/>
+  <line x1="310" y1="290" x2="310" y2="268"
+        stroke="#ffffff" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Power button -->
+  <circle cx="360" cy="290" r="16" fill="#e84a4a" stroke="#1a1a1a" stroke-width="1"/>
+</svg>

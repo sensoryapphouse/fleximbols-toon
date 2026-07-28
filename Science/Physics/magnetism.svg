@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 75.750)">
+  
+  <rect x="80" y="120" width="80" height="220" rx="16" fill="#cc2222" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="352" y="120" width="80" height="220" rx="16" fill="#2244cc" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M80 140 Q80 50 256 50 Q432 50 432 140" fill="none" stroke="#1a1a1a" stroke-width="80" stroke-linecap="butt" />
+  <path d="M80 140 Q80 50 256 50 Q432 50 432 140" fill="none" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M120 140 Q120 90 256 90 Q392 90 392 140" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="0" />
+  
+  
+  <rect x="82" y="130" width="76" height="42" fill="#dd3333" rx="6" />
+  <text x="120" y="162" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#ffffff">N</text>
+  
+  <rect x="354" y="130" width="76" height="42" fill="#3355dd" rx="6" />
+  <text x="392" y="162" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="30" font-weight="bold" text-anchor="middle" fill="#ffffff">S</text>
+  
+  <rect x="80" y="320" width="80" height="28" rx="8" fill="#ee4444" stroke="#1a1a1a" stroke-width="6" />
+  <rect x="352" y="320" width="80" height="28" rx="8" fill="#4466ee" stroke="#1a1a1a" stroke-width="6" />
+  
+  <path d="M160 334 Q200 390 240 400 Q280 410 320 400 Q360 390 352 334" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="8,5" />
+  <path d="M160 330 Q200 370 240 380 Q280 380 320 370 Q360 350 352 330" fill="none" stroke="#1a1a1a" stroke-width="2.5" stroke-dasharray="6,5" />
+  <path d="M160 326 Q256 355 352 326" fill="none" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="5,5" />
+  
+  
+  <rect x="138" y="356" width="10" height="38" rx="3" fill="#aaaaaa" stroke="#1a1a1a" stroke-width="3" transform="rotate(-15 143 375)" />
+  <ellipse cx="143" cy="358" rx="7" ry="5" fill="#cccccc" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="362" y="356" width="10" height="38" rx="3" fill="#aaaaaa" stroke="#1a1a1a" stroke-width="3" transform="rotate(15 367 375)" />
+  <ellipse cx="367" cy="358" rx="7" ry="5" fill="#cccccc" stroke="#1a1a1a" stroke-width="2" />
+  
+  <line x1="118" y1="380" x2="148" y2="358" stroke="#1a1a1a" stroke-width="4" />
+  <polygon points="148,355 138,366 152,368" fill="#cc0000" />
+  
+  <line x1="394" y1="380" x2="364" y2="358" stroke="#1a1a1a" stroke-width="4" />
+  <polygon points="364,355 374,366 360,368" fill="#0033cc" />
+</g>
+  </svg>

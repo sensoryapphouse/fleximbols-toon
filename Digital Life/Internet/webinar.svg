@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="wbScreenGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4a9ee8" />
+      <stop offset="100%" stop-color="#2a5fa8" />
+    </linearGradient>
+    <linearGradient id="wbPresGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f3c19a" />
+      <stop offset="100%" stop-color="#d99a6a" />
+    </linearGradient>
+  </defs>
+  
+  <rect x="50" y="55" width="380" height="270" rx="14" ry="14" fill="url(#wbScreenGrad)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <rect x="50" y="220" width="380" height="105" rx="0" ry="0" fill="#1a3f7a" opacity="0.35" />
+  
+  <rect x="70" y="70" width="180" height="60" rx="8" ry="8" fill="#ffffff" opacity="0.25" />
+  
+  <rect x="68" y="73" width="344" height="234" rx="8" ry="8" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="362" y="68" width="80" height="34" rx="8" ry="8" fill="#e23b34" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <rect x="371" y="78" width="10" height="14" rx="1" fill="#ffffff" />
+  <rect x="385" y="78" width="6" height="14" rx="1" fill="#ffffff" />
+  <rect x="395" y="78" width="6" height="14" rx="1" fill="#ffffff" />
+  <rect x="405" y="78" width="9" height="14" rx="1" fill="#ffffff" />
+  <rect x="405" y="82" width="9" height="6" rx="1" fill="#e23b34" />
+  
+  
+  <circle cx="256" cy="168" r="36" fill="url(#wbPresGrad)" stroke="#1a1a1a" stroke-width="6" />
+  
+  <ellipse cx="256" cy="143" rx="30" ry="14" fill="#6e4423" stroke="#1a1a1a" stroke-width="5" />
+  
+  <circle cx="244" cy="164" r="5" fill="#2b2622" />
+  <circle cx="268" cy="164" r="5" fill="#2b2622" />
+  <circle cx="246" cy="162" r="2" fill="#ffffff" />
+  <circle cx="270" cy="162" r="2" fill="#ffffff" />
+  
+  <path d="M245 177 Q256 186 267 177" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <rect x="218" y="202" width="76" height="55" rx="10" ry="10" fill="#3f8fd6" stroke="#1a1a1a" stroke-width="6" />
+  
+  <rect x="236" y="325" width="40" height="38" rx="4" ry="4" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  
+  <rect x="186" y="358" width="140" height="22" rx="8" ry="8" fill="#6f757e" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  
+  <rect x="186" y="368" width="140" height="12" rx="4" fill="#4a4f55" opacity="0.4" />
+  
+  <circle cx="80" cy="420" r="20" fill="#f8c531" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="80" cy="410" r="8" fill="#d99a6a" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="140" cy="420" r="20" fill="#5bb24a" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="140" cy="410" r="8" fill="#d99a6a" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="200" cy="420" r="20" fill="#8a5fd0" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="200" cy="410" r="8" fill="#d99a6a" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="260" cy="420" r="20" fill="#e23b34" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="260" cy="410" r="8" fill="#d99a6a" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="320" cy="420" r="20" fill="#37b0a6" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="320" cy="410" r="8" fill="#d99a6a" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="380" cy="420" r="20" fill="#f6892a" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="380" cy="410" r="8" fill="#d99a6a" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="440" cy="420" r="20" fill="#3f8fd6" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="440" cy="410" r="8" fill="#d99a6a" stroke="#1a1a1a" stroke-width="4" />
+</svg>

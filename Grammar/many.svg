@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+
+<rect x="60" y="60" width="392" height="392" rx="40" fill="#fff4d6" stroke="#1a1a1a" stroke-width="5.0000" />
+
+<polygon points="120,120 130,145 156,145 135,160 144,185 120,170 96,185 105,160 84,145 110,145" fill="#ff5577" stroke="#1a1a1a" stroke-width="4" />
+<polygon points="220,110 230,135 256,135 235,150 244,175 220,160 196,175 205,150 184,135 210,135" fill="#33b0ff" stroke="#1a1a1a" stroke-width="4" />
+<polygon points="320,125 330,150 356,150 335,165 344,190 320,175 296,190 305,165 284,150 310,150" fill="#ffd633" stroke="#1a1a1a" stroke-width="4" />
+<polygon points="400,135 410,155 432,155 414,168 422,190 400,176 378,190 386,168 368,155 390,155" fill="#7acc4d" stroke="#1a1a1a" stroke-width="4" />
+<circle cx="100" cy="220" r="20" fill="#ff8533" stroke="#1a1a1a" stroke-width="4" />
+<circle cx="170" cy="225" r="18" fill="#9966ff" stroke="#1a1a1a" stroke-width="4" />
+<circle cx="245" cy="215" r="22" fill="#ff5577" stroke="#1a1a1a" stroke-width="4" />
+<circle cx="320" cy="225" r="18" fill="#33b0ff" stroke="#1a1a1a" stroke-width="4" />
+<circle cx="390" cy="220" r="20" fill="#ffd633" stroke="#1a1a1a" stroke-width="4" />
+<polygon points="130,310 140,335 166,335 145,350 154,375 130,360 106,375 115,350 94,335 120,335" fill="#9966ff" stroke="#1a1a1a" stroke-width="4" />
+<polygon points="230,320 240,345 266,345 245,360 254,385 230,370 206,385 215,360 194,345 220,345" fill="#7acc4d" stroke="#1a1a1a" stroke-width="4" />
+<polygon points="330,310 340,335 366,335 345,350 354,375 330,360 306,375 315,350 294,335 320,335" fill="#ff5577" stroke="#1a1a1a" stroke-width="4" />
+<polygon points="410,320 420,340 442,340 424,353 432,375 410,361 388,375 396,353 378,340 400,340" fill="#33b0ff" stroke="#1a1a1a" stroke-width="4" />
+
+<rect x="100" y="395" width="312" height="50" rx="14" fill="#ff5577" stroke="#1a1a1a" stroke-width="5.0000" />
+<text x="256" y="432" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="36" font-weight="900" fill="#ffffff">MANY</text>
+</svg>

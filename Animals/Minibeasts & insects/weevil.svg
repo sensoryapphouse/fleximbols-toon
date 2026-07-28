@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-97.301 -116.239) scale(1.2418)">
+  <defs>
+    <linearGradient id="wvl" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#7c5a32" /><stop offset="100%" stop-color="#574020" /></linearGradient>
+  </defs>
+  <g stroke="#1a1a1a" stroke-width="4.429" stroke-linecap="round" fill="none">
+    <path d="M270 360 Q252 408 226 440 M312 366 Q306 416 296 452 M356 360 Q368 408 388 440 M250 344 Q220 372 196 410 M392 344 Q416 366 440 396" />
+  </g>
+  <ellipse cx="322" cy="300" rx="120" ry="104" fill="url(#wvl)" stroke="#1a1a1a" stroke-width="2.972" />
+  <path d="M236 268 Q210 250 200 224 Q196 208 204 196" fill="none" stroke="#1a1a1a" stroke-width="6.644" stroke-linecap="round" />
+  <g stroke="#1a1a1a" stroke-width="2.215" stroke-linecap="round" opacity="0.55"><path d="M300 230 Q322 226 348 232 M296 280 Q330 276 372 282 M300 330 Q330 328 366 334" /></g>
+  <path d="M232 262 Q196 268 168 296 Q140 326 128 364 Q124 380 134 388 Q148 392 156 378 Q170 344 196 318 Q220 296 244 290 Z" fill="url(#wvl)" stroke="#1a1a1a" stroke-width="2.972" stroke-linejoin="round" />
+  <path d="M196 300 Q176 290 168 272 Q186 256 210 254 M178 320 Q160 318 146 332" fill="none" stroke="#1a1a1a" stroke-width="4.429" stroke-linecap="round" />
+  <circle cx="234" cy="262" r="9" fill="#1a1410" stroke="#1a1a1a" stroke-width="2.215" />
+  <circle cx="231" cy="259" r="2.6" fill="#ffffff" />
+  
+</g>
+  </svg>

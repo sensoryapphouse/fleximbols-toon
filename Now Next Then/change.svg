@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -39.750)">
+<g stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" stroke-linejoin="round">
+<path d="M 80 150 L 320 150 L 320 100 L 432 190 L 320 280 L 320 230 L 80 230 Z" fill="#4a9af0" />
+<path d="M 432 362 L 192 362 L 192 312 L 80 402 L 192 492 L 192 442 L 432 442 Z" fill="#f06a4a" />
+<path d="M 90 160 L 310 160" stroke="#1a1a1a" stroke-width="3" fill="none" opacity="0.5" />
+<path d="M 200 372 L 420 372" stroke="#1a1a1a" stroke-width="3" fill="none" opacity="0.5" />
+</g>
+</g>
+  </svg>

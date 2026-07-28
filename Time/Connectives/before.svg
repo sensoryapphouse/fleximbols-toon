@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  
+  <circle cx="256" cy="256" r="180" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <circle cx="256" cy="256" r="155" fill="#fff5d1" stroke="#1a1a1a" stroke-width="4" />
+  
+  <line x1="256" y1="115" x2="256" y2="140" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="256" y1="372" x2="256" y2="397" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="115" y1="256" x2="140" y2="256" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="372" y1="256" x2="397" y2="256" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <line x1="345" y1="155" x2="332" y2="170" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="167" y1="155" x2="180" y2="170" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="345" y1="357" x2="332" y2="342" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="167" y1="357" x2="180" y2="342" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <path d="M380 256 A124 124 0 0 0 300 140" stroke="#1a1a1a" stroke-width="20" fill="none" stroke-linecap="round" />
+
+  <polygon points="252,132 300,108 300,156" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <circle cx="256" cy="256" r="14" fill="#000000" />
+  
+  <path d="M168 92 L130 60 L150 110 Z" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <path d="M344 92 L382 60 L362 110 Z" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+</svg>

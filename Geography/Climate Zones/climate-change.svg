@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="globegrad" cx="40%" cy="35%" r="60%"><stop offset="0%" stop-color="#5bb2e8" /><stop offset="100%" stop-color="#2a5fa8" /></radialGradient>
+    <linearGradient id="thermgrad" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f3f3f3" /><stop offset="100%" stop-color="#d0d5da" /></linearGradient>
+    <linearGradient id="mercgrad" x1="0%" y1="100%" x2="0%" y2="0%"><stop offset="0%" stop-color="#e23b34" /><stop offset="100%" stop-color="#f6892a" /></linearGradient>
+    <clipPath id="globeclip"><circle cx="210" cy="265" r="150" /></clipPath>
+  </defs>
+  <circle cx="210" cy="265" r="150" fill="url(#globegrad)" stroke="#1a1a1a" stroke-width="5.0000" />
+  <g clip-path="url(#globeclip)">
+    <path d="M100,220 Q130,200 160,215 Q175,195 200,210 Q210,185 240,200 Q255,185 270,205 Q285,190 300,220 Q320,210 340,230 L340,290 Q310,310 280,295 Q260,315 230,300 Q200,320 170,305 Q140,320 110,300 Z" fill="#5bb24a" stroke="none" />
+    <path d="M80,280 Q100,265 120,275 Q110,295 90,300 Z" fill="#5bb24a" stroke="none" />
+    <path d="M155,320 Q175,310 195,325 Q185,345 165,348 Z" fill="#5bb24a" stroke="none" />
+    <path d="M230,340 Q255,330 275,345 Q265,365 245,365 Z" fill="#5bb24a" stroke="none" />
+    
+    <path d="M80,220 Q210,200 340,220" fill="none" stroke="#1a1a1a" stroke-width="3" opacity="0.4" />
+    <path d="M75,310 Q210,290 345,310" fill="none" stroke="#1a1a1a" stroke-width="3" opacity="0.4" />
+    <line x1="210" y1="115" x2="210" y2="415" stroke="#1a1a1a" stroke-width="3" opacity="0.4" />
+  </g>
+  <path d="M210,190 Q200,220 205,265 Q200,310 210,340" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.2" />
+  <rect x="330" y="130" width="28" height="200" rx="14" fill="url(#thermgrad)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <circle cx="344" cy="342" r="28" fill="#e23b34" stroke="#1a1a1a" stroke-width="7" />
+  <rect x="338" y="185" width="12" height="155" rx="6" fill="url(#mercgrad)" />
+  <line x1="358" y1="200" x2="372" y2="200" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <line x1="358" y1="225" x2="368" y2="225" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="358" y1="250" x2="372" y2="250" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <line x1="358" y1="275" x2="368" y2="275" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="358" y1="300" x2="372" y2="300" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M395,148 Q410,132 400,115 Q415,128 418,148 Q425,130 432,118 Q428,140 435,158" fill="#f6892a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <path d="M402,160 Q408,145 405,132" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.7" />
+  <path d="M338,148 Q332,160 340,170" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.4" />
+</svg>

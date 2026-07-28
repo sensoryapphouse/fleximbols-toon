@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(256,256) scale(1) translate(-255,-344)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Table surface -->
+  <ellipse cx="256" cy="370" rx="220" ry="70" fill="#f8fafc" stroke="#1a1a1a" stroke-width="6" />
+  <ellipse cx="256" cy="354" rx="220" ry="70" fill="#f8fafc" stroke="#1a1a1a" stroke-width="6" />
+
+  <!-- Turkey / roast bird — centre back -->
+  <ellipse cx="256" cy="290" rx="60" ry="40" fill="#c0622a" stroke="#1a1a1a" stroke-width="5" />
+  <ellipse cx="256" cy="278" rx="44" ry="28" fill="#d97c3a" stroke="#1a1a1a" stroke-width="1" />
+  <!-- drumstick left -->
+  <path d="M204 298 Q188 318 196 338" fill="none" stroke="#c0622a" stroke-width="10" stroke-linecap="round" />
+  <circle cx="196" cy="342" r="9" fill="#f5dfc3" stroke="#1a1a1a" stroke-width="1" />
+  <!-- drumstick right -->
+  <path d="M308 298 Q324 318 316 338" fill="none" stroke="#c0622a" stroke-width="10" stroke-linecap="round" />
+  <circle cx="316" cy="342" r="9" fill="#f5dfc3" stroke="#1a1a1a" stroke-width="1" />
+  <!-- plate under turkey -->
+  <ellipse cx="256" cy="316" rx="92" ry="20" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <!-- Mashed potatoes on plate -->
+  <ellipse cx="200" cy="308" rx="20" ry="12" fill="#f5dfb3" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M190 304 Q195 296 200 302 Q205 296 210 304" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+  <!-- Green peas -->
+  <circle cx="312" cy="312" r="4" fill="#5fb84a" stroke="#1a1a1a" stroke-width="1"/>
+  <circle cx="320" cy="308" r="4" fill="#5fb84a" stroke="#1a1a1a" stroke-width="1"/>
+  <circle cx="316" cy="316" r="4" fill="#5fb84a" stroke="#1a1a1a" stroke-width="1"/>
+  <circle cx="324" cy="316" r="4" fill="#5fb84a" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- Corn on the cob -->
+  <ellipse cx="332" cy="306" rx="14" ry="6" fill="#f5c83a" stroke="#1a1a1a" stroke-width="2"/>
+  <line x1="322" y1="306" x2="342" y2="306" stroke="#c79c20" stroke-width="1"/>
+
+  <!-- Bread loaf — left -->
+  <path d="M100 330 Q106 300 140 296 Q174 300 180 330 Z" fill="#d4892a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <ellipse cx="140" cy="330" rx="40" ry="14" fill="#e8a040" stroke="#1a1a1a" stroke-width="5" />
+  <!-- bread scoring lines -->
+  <path d="M118 315 Q140 308 162 315" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M112 323 Q140 316 168 323" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+
+  <!-- Wine glass — far left -->
+  <path d="M58 280 Q48 320 56 340 L72 340 Q80 320 70 280 Z" fill="#c0392b" stroke="#1a1a1a" stroke-width="1" stroke-linejoin="round" />
+  <rect x="62" y="340" width="8" height="22" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="52" y="362" width="28" height="6" rx="2" fill="#1a1a1a" stroke="#1a1a1a" stroke-width="2" />
+  <!-- glass rim -->
+  <path d="M48 284 Q64 278 80 284" fill="none" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" />
+
+  <!-- Apple — right side -->
+  <circle cx="390" cy="318" r="24" fill="#e63232" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M390 294 Q394 286 400 284" fill="none" stroke="#3a7d20" stroke-width="1" stroke-linecap="round" />
+  <path d="M384 296 Q378 290 376 282" fill="none" stroke="#3a7d20" stroke-width="1" stroke-linecap="round" />
+
+  <!-- Bunch of grapes — far right -->
+  <circle cx="440" cy="315" r="10" fill="#7b3f9e" stroke="#1a1a1a" stroke-width="1" />
+  <circle cx="456" cy="315" r="10" fill="#7b3f9e" stroke="#1a1a1a" stroke-width="1" />
+  <circle cx="448" cy="300" r="10" fill="#7b3f9e" stroke="#1a1a1a" stroke-width="1" />
+  <circle cx="432" cy="300" r="10" fill="#7b3f9e" stroke="#1a1a1a" stroke-width="1" />
+  <circle cx="464" cy="300" r="10" fill="#7b3f9e" stroke="#1a1a1a" stroke-width="1" />
+  <circle cx="440" cy="285" r="10" fill="#7b3f9e" stroke="#1a1a1a" stroke-width="1" />
+  <circle cx="456" cy="285" r="10" fill="#7b3f9e" stroke="#1a1a1a" stroke-width="1" />
+  <path d="M448 275 Q450 264 456 260" fill="none" stroke="#3a7d20" stroke-width="1" stroke-linecap="round" />
+
+  <!-- Wedge of cheese — right of bread -->
+  <polygon points="178,344 218,304 218,344" fill="#f0d060" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <circle cx="192" cy="334" r="4" fill="#c8aa30" />
+  <circle cx="204" cy="320" r="3" fill="#c8aa30" />
+
+  <!-- More food at the front of the table -->
+  <!-- Pie at front-center -->
+  <ellipse cx="256" cy="380" rx="50" ry="14" fill="#d4892a" stroke="#1a1a1a" stroke-width="4"/>
+  <path d="M206 380 Q206 354 256 354 Q306 354 306 380 Z" fill="#f0c060" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M224 366 L288 366" stroke="#1a1a1a" stroke-width="2"/>
+  <path d="M256 354 L256 374" stroke="#1a1a1a" stroke-width="2"/>
+
+  <!-- Plate of cookies front-left -->
+  <ellipse cx="130" cy="390" rx="40" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3"/>
+  <circle cx="118" cy="384" r="10" fill="#c08040" stroke="#1a1a1a" stroke-width="3"/>
+  <circle cx="142" cy="384" r="10" fill="#c08040" stroke="#1a1a1a" stroke-width="3"/>
+  <circle cx="130" cy="372" r="10" fill="#c08040" stroke="#1a1a1a" stroke-width="3"/>
+  <circle cx="116" cy="382" r="2" fill="#3a2516"/>
+  <circle cx="146" cy="382" r="2" fill="#3a2516"/>
+  <circle cx="128" cy="370" r="2" fill="#3a2516"/>
+
+  <!-- Bowl of soup front-right -->
+  <ellipse cx="390" cy="392" rx="42" ry="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="4"/>
+  <path d="M348 392 Q348 374 390 374 Q432 374 432 392 Z" fill="#e8a040" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+  <ellipse cx="390" cy="378" rx="32" ry="6" fill="#f8c068" stroke="#1a1a1a" stroke-width="2"/>
+
+  <!-- Sausages -->
+  <ellipse cx="200" cy="334" rx="16" ry="6" fill="#a04030" stroke="#1a1a1a" stroke-width="3"/>
+  <ellipse cx="218" cy="334" rx="16" ry="6" fill="#a04030" stroke="#1a1a1a" stroke-width="3"/>
+
+  <!-- Table edge line -->
+  <path d="M36 354 Q256 370 476 354" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+</g></svg>

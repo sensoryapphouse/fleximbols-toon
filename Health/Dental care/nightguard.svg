@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-42.571 -53.078) scale(1.1674)">
+  <defs>
+    <linearGradient id="gtray" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e8f4ff" />
+      <stop offset="100%" stop-color="#a8cce8" />
+    </linearGradient>
+  </defs>
+  <path d="M 90 210 Q 88 170 256 162 Q 424 170 422 210 L 418 310 Q 416 360 256 368 Q 96 360 94 310 Z" fill="url(#gtray)" stroke="#1a1a1a" stroke-width="4.2830" stroke-linejoin="round" opacity="0.93" />
+  <path d="M 105 218 Q 103 182 256 175 Q 409 182 407 218 L 403 305 Q 401 348 256 355 Q 111 348 109 305 Z" fill="#c8e4f8" opacity="0.45" />
+  
+  <path d="M 118 240 L 118 300 Q 118 340 256 346 Q 394 340 394 300 L 394 240 Q 394 215 256 210 Q 118 215 118 240 Z" fill="#d8eef8" opacity="0.5" />
+  <path d="M 118 240 Q 118 215 256 210 Q 394 215 394 240" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <path d="M 118 265 Q 118 258 256 255 Q 394 258 394 265" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.7" />
+  <rect x="148" y="220" width="42" height="38" rx="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" opacity="0.82" />
+  <rect x="200" y="216" width="42" height="42" rx="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" opacity="0.82" />
+  <rect x="252" y="215" width="42" height="42" rx="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" opacity="0.82" />
+  <rect x="304" y="216" width="42" height="42" rx="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" opacity="0.82" />
+  <rect x="348" y="220" width="38" height="38" rx="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" opacity="0.82" />
+  <rect x="153" y="225" width="24" height="12" rx="4" fill="#ffffff" opacity="0.5" />
+  <rect x="205" y="221" width="24" height="12" rx="4" fill="#ffffff" opacity="0.5" />
+  <rect x="257" y="220" width="24" height="12" rx="4" fill="#ffffff" opacity="0.5" />
+  <rect x="309" y="221" width="24" height="12" rx="4" fill="#ffffff" opacity="0.5" />
+  <path d="M 90 210 Q 88 255 90 300 Q 92 345 110 360" fill="none" stroke="#1a1a1a" stroke-width="4.2830" stroke-linecap="round" />
+  <path d="M 422 210 Q 424 255 422 300 Q 420 345 402 360" fill="none" stroke="#1a1a1a" stroke-width="4.2830" stroke-linecap="round" />
+  <path d="M 110 360 Q 183 380 256 382 Q 329 380 402 360" fill="none" stroke="#1a1a1a" stroke-width="4.2830" stroke-linecap="round" />
+</g>
+  </svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+    <g transform="matrix(0.969278,-0.245968,0.245968,0.969278,-105.776,96.5273)">
+        <path d="M226,240L206,120" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:7px;" />
+        <path d="M226,240L206,120" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:3px;" />
+        <path d="M262,226L256,100" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:7px;" />
+        <path d="M262,226L256,100" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:3px;" />
+        <path d="M300,226L308,104" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:7px;" />
+        <path d="M300,226L308,104" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:3px;" />
+        <path d="M338,236L360,124" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:7px;" />
+        <path d="M338,236L360,124" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:3px;" />
+        <path d="M372,258L412,168" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:7px;" />
+        <path d="M372,258L412,168" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:3px;" />
+        <path d="M398,292L450,232" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:7px;" />
+        <path d="M398,292L450,232" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:3px;" />
+        <path d="M410,332L468,306" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:6px;" />
+        <path d="M410,332L468,306" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:3px;" />
+        <path d="M244,232L230,116" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:6px;" />
+        <path d="M280,222L282,100" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:6px;" />
+        <path d="M320,228L334,110" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:6px;" />
+        <path d="M356,246L388,146" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:6px;" />
+        <path d="M388,312L442,270" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:6px;" />
+    </g>
+    <path d="M150,350C147.333,296.667 174.667,262 232,246C297.333,235.333 346.667,253.333 380,300C396,326.667 398.667,352.667 388,378C362.667,398 326.667,409.333 280,412C226.667,412 189.333,404 168,388C156,376 150,363.333 150,350Z" style="fill:url(#_Linear1);fill-rule:nonzero;stroke:#1a1a1a;stroke-width:5.0000px;stroke-linecap:butt;stroke-linejoin:round;" />
+    <path d="M196,360C198.667,376 198.667,392 196,408M268,356C269.333,373.333 270.667,390.667 272,408" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-opacity:0.5;stroke-width:3px;" />
+    <path d="M198,400C194,417.333 196,430.667 204,440C212,442.667 218,440 222,432C220.667,421.333 219.333,411.333 218,402L198,400Z" style="fill:rgb(62,47,28);fill-rule:nonzero;stroke:#1a1a1a;stroke-width:6px;stroke-linecap:butt;stroke-linejoin:round;" />
+    <path d="M300,400C305.333,417.333 304,430.667 296,440C288,442.667 282,440 278,432C280.667,421.333 282.667,411.333 284,402L300,400Z" style="fill:rgb(62,47,28);fill-rule:nonzero;stroke:#1a1a1a;stroke-width:6px;stroke-linecap:butt;stroke-linejoin:round;" />
+    <path d="M150,348C128.667,341.333 111.333,341.333 98,348C87.333,354.667 83.333,364 86,376C91.333,386.667 102,393.333 118,396C136.667,396 152.667,390.667 166,380C174,370.667 176,360.667 172,350L150,348Z" style="fill:rgb(90,72,48);fill-rule:nonzero;stroke:#1a1a1a;stroke-width:5.0000px;stroke-linecap:butt;stroke-linejoin:round;" />
+    <circle cx="158" cy="320" r="14" style="fill:rgb(74,58,38);stroke:#1a1a1a;stroke-width:5px;stroke-linecap:butt;" />
+    <path d="M98,360C87.333,361.333 78.667,366 72,374C76,382 84,385.333 96,384C104,380 108.667,374 110,366L98,360Z" style="fill:rgb(43,36,32);fill-rule:nonzero;stroke:#1a1a1a;stroke-width:5px;stroke-linecap:butt;stroke-linejoin:round;" />
+    <ellipse cx="84" cy="372" rx="6" ry="5" style="fill:rgb(21,17,12);" />
+    <circle cx="126" cy="356" r="9" style="fill:rgb(22,18,16);stroke:#1a1a1a;stroke-width:3px;stroke-linecap:butt;" />
+    <circle cx="123" cy="353" r="2.4" style="fill:white;" />
+    <path d="M96,366C84,367.333 73.333,370.667 64,376" style="fill:none;fill-rule:nonzero;stroke:#1a1a1a;stroke-opacity:0.6;stroke-width:2.5px;" />
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.03468e-14,168.977,-168.977,1.03468e-14,149.822,243.023)"><stop offset="0" style="stop-color:rgb(106,85,58);stop-opacity:1" /><stop offset="1" style="stop-color:rgb(71,55,34);stop-opacity:1" /></linearGradient>
+    </defs>
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl424" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl424)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

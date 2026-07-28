@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="pane" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#dff1ff" />
+<stop offset="1" stop-color="#a8d3ee" />
+</linearGradient>
+<linearGradient id="frame" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#a07350" />
+<stop offset="1" stop-color="#704e30" />
+</linearGradient>
+</defs>
+<rect x="80" y="80" width="352" height="320" rx="14" fill="url(#frame)" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="110" y="110" width="292" height="260" fill="url(#pane)" stroke="#1a1a1a" stroke-width="7" />
+<line x1="256" y1="110" x2="256" y2="370" stroke="#1a1a1a" stroke-width="7" />
+<line x1="110" y1="240" x2="402" y2="240" stroke="#1a1a1a" stroke-width="7" />
+<g stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" fill="none" opacity="0.95">
+<path d="M160 150 L160 200 M145 160 L175 190 M145 190 L175 160 M140 175 L180 175" />
+<path d="M340 150 L340 200 M325 160 L355 190 M325 190 L355 160 M320 175 L360 175" />
+<path d="M160 290 L160 340 M145 300 L175 330 M145 330 L175 300 M140 315 L180 315" />
+<path d="M340 290 L340 340 M325 300 L355 330 M325 330 L355 300 M320 315 L360 315" />
+<path d="M210 130 L220 145 M300 130 L290 145" />
+<path d="M220 220 Q230 215 240 222" />
+<path d="M270 350 Q280 345 290 352" />
+</g>
+<g fill="#ffffff" opacity="0.85">
+<circle cx="200" cy="220" r="4" />
+<circle cx="300" cy="220" r="4" />
+<circle cx="200" cy="270" r="3" />
+<circle cx="300" cy="270" r="3" />
+<circle cx="250" cy="180" r="3" />
+<circle cx="250" cy="340" r="3" />
+</g>
+</svg>

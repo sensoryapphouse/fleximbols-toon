@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.000 -31.500)">
+  
+  
+  <path d="M60 470 Q160 440 230 380" fill="none" stroke="#1a1a1a" stroke-width="11" stroke-linecap="round" />
+  <path d="M230 380 Q280 320 360 280" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  
+  <path d="M120 440 Q150 400 200 410 Q190 450 150 460 Q120 458 120 440 Z" fill="#2b6d3a" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M300 360 Q340 320 400 330 Q390 380 340 380 Q310 374 300 360 Z" fill="#2b6d3a" stroke="#1a1a1a" stroke-width="5" />
+
+  
+  
+  <g transform="translate(180 280) scale(0.85)">
+    <path d="M0 -10 Q-40 -34 -60 -90 Q-68 -130 -28 -140 Q0 -130 8 -90 Q10 -50 0 -10 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+    <path d="M0 -10 Q34 -44 84 -52 Q124 -34 124 8 Q100 42 60 28 Q26 10 0 -10 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+    <path d="M0 0 Q34 26 60 76 Q52 118 10 120 Q-16 96 -8 54 Q-4 26 0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+    <path d="M-10 0 Q-50 26 -94 76 Q-110 120 -68 126 Q-34 110 -26 70 Q-16 34 -10 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+    <path d="M-10 -10 Q-50 -26 -110 -26 Q-134 0 -110 26 Q-76 26 -42 10 Q-16 0 -10 -10 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+    <circle r="52" fill="#fff9d0" />
+    <circle r="38" fill="#fff3a8" />
+    <circle r="26" fill="#ffe680" />
+    <circle r="14" fill="#ffd040" />
+    <path d="M-28 -130 Q0 -140 20 -120" fill="none" stroke="#1a1a1a" stroke-width="5" />
+    <path d="M84 -52 Q124 -34 120 8" fill="none" stroke="#1a1a1a" stroke-width="5" />
+    <path d="M60 76 Q52 118 10 120" fill="none" stroke="#1a1a1a" stroke-width="5" />
+    <path d="M-68 126 Q-110 120 -94 76" fill="none" stroke="#1a1a1a" stroke-width="5" />
+    <path d="M-110 -26 Q-134 0 -110 26" fill="none" stroke="#1a1a1a" stroke-width="5" />
+  </g>
+
+  
+  <g transform="translate(340 200) scale(0.6) rotate(20)">
+    <path d="M0 -10 Q-40 -34 -60 -90 Q-68 -130 -28 -140 Q0 -130 8 -90 Q10 -50 0 -10 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+    <path d="M0 -10 Q34 -44 84 -52 Q124 -34 124 8 Q100 42 60 28 Q26 10 0 -10 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+    <path d="M0 0 Q34 26 60 76 Q52 118 10 120 Q-16 96 -8 54 Q-4 26 0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+    <path d="M-10 0 Q-50 26 -94 76 Q-110 120 -68 126 Q-34 110 -26 70 Q-16 34 -10 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+    <path d="M-10 -10 Q-50 -26 -110 -26 Q-134 0 -110 26 Q-76 26 -42 10 Q-16 0 -10 -10 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+    <circle r="52" fill="#fff9d0" />
+    <circle r="38" fill="#fff3a8" />
+    <circle r="26" fill="#ffe680" />
+    <circle r="14" fill="#ffd040" />
+  </g>
+
+  
+  <g transform="translate(420 290) rotate(40)">
+    <path d="M0 0 Q-14 -40 -8 -80 Q0 -90 8 -80 Q14 -40 0 0 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" />
+    <path d="M0 0 Q-12 6 -16 -10 Q0 -22 14 -8 Q12 6 0 0 Z" fill="#4a9a5a" stroke="#1a1a1a" stroke-width="4" />
+    <path d="M-6 -68 Q0 -80 6 -68" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  </g>
+</g>
+  <g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl152" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl152)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

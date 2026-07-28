@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-37.500 -33.250)">
+  <g transform="translate(64 64) scale(0.7500)">
+  <title>clock</title>
+  
+  <path d="M150 80 L120 40 L100 80 Z" fill="#e63946" stroke="#1a1a1a" stroke-width="6.6667" stroke-linejoin="round" />
+  <path d="M362 80 L392 40 L412 80 Z" fill="#e63946" stroke="#1a1a1a" stroke-width="6.6667" stroke-linejoin="round" />
+  
+  <circle cx="256" cy="278" r="190" fill="#e63946" stroke="#1a1a1a" stroke-width="6.6667" />
+  
+  <circle cx="256" cy="278" r="160" fill="#fff7d6" stroke="#1a1a1a" stroke-width="6.6667" />
+  
+  <line x1="256" y1="128" x2="256" y2="150" stroke="#1a1a1a" stroke-width="6.6667" stroke-linecap="round" />
+  <line x1="256" y1="428" x2="256" y2="406" stroke="#1a1a1a" stroke-width="6.6667" stroke-linecap="round" />
+  <line x1="106" y1="278" x2="128" y2="278" stroke="#1a1a1a" stroke-width="6.6667" stroke-linecap="round" />
+  <line x1="406" y1="278" x2="384" y2="278" stroke="#1a1a1a" stroke-width="6.6667" stroke-linecap="round" />
+  
+  <text x="256" y="170" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="bold" fill="#1f1f1f" text-anchor="middle">12</text>
+  <text x="394" y="290" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="bold" fill="#1f1f1f" text-anchor="middle">3</text>
+  <text x="256" y="412" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="bold" fill="#1f1f1f" text-anchor="middle">6</text>
+  <text x="120" y="290" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="bold" fill="#1f1f1f" text-anchor="middle">9</text>
+  
+  <g stroke="#1a1a1a" stroke-width="6.6667" stroke-linecap="round">
+    <line x1="331" y1="148" x2="324" y2="161" />
+    <line x1="386" y1="203" x2="373" y2="210" />
+    <line x1="386" y1="353" x2="373" y2="346" />
+    <line x1="331" y1="408" x2="324" y2="395" />
+    <line x1="181" y1="408" x2="188" y2="395" />
+    <line x1="126" y1="353" x2="139" y2="346" />
+    <line x1="126" y1="203" x2="139" y2="210" />
+    <line x1="181" y1="148" x2="188" y2="161" />
+  </g>
+  
+  <line x1="256" y1="278" x2="335" y2="225" stroke="#1a1a1a" stroke-width="6.6667" stroke-linecap="round" />
+  
+  <line x1="256" y1="278" x2="256" y2="150" stroke="#1a1a1a" stroke-width="6.6667" stroke-linecap="round" />
+  
+  <line x1="256" y1="278" x2="200" y2="370" stroke="#1a1a1a" stroke-width="6.6667" stroke-linecap="round" />
+  
+  <circle cx="256" cy="278" r="11" fill="#1f1f1f" />
+  
+  <path d="M180 460 L150 500 L180 500 Z" fill="#1f1f1f" />
+  <path d="M332 460 L362 500 L332 500 Z" fill="#1f1f1f" /></g>
+  <g transform="translate(368 368) scale(0.2500)">
+
+  <rect x="216" y="80" width="80" height="352" rx="20" fill="#2e7d32" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="80" y="216" width="352" height="80" rx="20" fill="#2e7d32" stroke="#1a1a1a" stroke-width="4" /></g>
+</g>
+  </svg>

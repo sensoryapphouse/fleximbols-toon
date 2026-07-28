@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -23.500)">
+  
+  
+  <rect x="156" y="240" width="200" height="220" rx="14" fill="#a86040" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="176" y="260" width="160" height="180" rx="10" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="8,6" />
+  
+  <rect x="200" y="200" width="14" height="60" fill="#888888" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="298" y="200" width="14" height="60" fill="#888888" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="140" y="100" width="232" height="110" rx="24" fill="#e8302c" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="158" y="118" width="196" height="74" rx="18" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="10,6" />
+  
+  <line x1="256" y1="118" x2="256" y2="192" stroke="#1a1a1a" stroke-width="3" />
+  
+  
+  
+  <path d="M420 156 L470 156 M464 148 L470 156 L464 164" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  <text x="420" y="200" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="900" fill="#1a1a1a">REST</text>
+</g>
+  </svg>

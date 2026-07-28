@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="pineBark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#5a3a20" />
+      <stop offset="0.5" stop-color="#7a5230" />
+      <stop offset="1" stop-color="#3e2812" />
+    </linearGradient>
+    <linearGradient id="pineFoliage" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3f8048" />
+      <stop offset="1" stop-color="#1f5a28" />
+    </linearGradient>
+    <linearGradient id="pineCone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a06832" />
+      <stop offset="1" stop-color="#5a3a18" />
+    </linearGradient>
+  </defs>
+  
+  <ellipse cx="256" cy="470" rx="160" ry="14" fill="#bcd896" />
+  <path d="M232,470 L236,360 Q236,346 248,342 L264,342 Q276,346 276,360 L280,470 Z" fill="url(#pineBark)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <polygon points="256,40 168,180 196,180 152,260 188,260 130,350 382,350 324,260 360,260 316,180 344,180" fill="url(#pineFoliage)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <g stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" fill="none">
+    <g transform="translate(110,330)">
+      <path d="M0,0 L-30,-18" />
+      <path d="M0,0 L-32,-8" />
+      <path d="M0,0 L-32,8" />
+      <path d="M0,0 L-28,20" />
+    </g>
+    <g transform="translate(150,250)">
+      <path d="M0,0 L-26,-16" />
+      <path d="M0,0 L-28,-4" />
+      <path d="M0,0 L-26,10" />
+    </g>
+    <g transform="translate(196,140)">
+      <path d="M0,0 L-24,-14" />
+      <path d="M0,0 L-26,0" />
+      <path d="M0,0 L-24,14" />
+    </g>
+    <g transform="translate(402,330)">
+      <path d="M0,0 L30,-18" />
+      <path d="M0,0 L32,-8" />
+      <path d="M0,0 L32,8" />
+      <path d="M0,0 L28,20" />
+    </g>
+    <g transform="translate(362,250)">
+      <path d="M0,0 L26,-16" />
+      <path d="M0,0 L28,-4" />
+      <path d="M0,0 L26,10" />
+    </g>
+    <g transform="translate(316,140)">
+      <path d="M0,0 L24,-14" />
+      <path d="M0,0 L26,0" />
+      <path d="M0,0 L24,14" />
+    </g>
+  </g>
+  <g fill="#1f5a28" stroke="#1a1a1a" stroke-width="1.5">
+    <circle cx="110" cy="330" r="4" />
+    <circle cx="150" cy="250" r="4" />
+    <circle cx="196" cy="140" r="4" />
+    <circle cx="402" cy="330" r="4" />
+    <circle cx="362" cy="250" r="4" />
+    <circle cx="316" cy="140" r="4" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">
+    <ellipse cx="200" cy="300" rx="16" ry="26" fill="url(#pineCone)" />
+    <ellipse cx="320" cy="240" rx="14" ry="22" fill="url(#pineCone)" />
+    <ellipse cx="256" cy="200" rx="14" ry="22" fill="url(#pineCone)" />
+  </g>
+  <g fill="none" stroke="#1a1a1a" stroke-width="1.5">
+    <path d="M186,288 q14,4 28,0" />
+    <path d="M186,300 q14,4 28,0" />
+    <path d="M186,312 q14,4 28,0" />
+    <path d="M308,228 q12,4 24,0" />
+    <path d="M308,240 q12,4 24,0" />
+    <path d="M308,252 q12,4 24,0" />
+    <path d="M244,188 q12,4 24,0" />
+    <path d="M244,200 q12,4 24,0" />
+    <path d="M244,212 q12,4 24,0" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="2" fill="none" stroke-linecap="round">
+    <path d="M246,380 L246,440" />
+    <path d="M256,380 L256,440" />
+    <path d="M266,380 L266,440" />
+  </g>
+</svg>

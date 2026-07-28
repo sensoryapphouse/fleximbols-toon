@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-11.750 0.250)">
+  <defs>
+    <radialGradient id="centerg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f8c531" />
+      <stop offset="100%" stop-color="#e0a417" />
+    </radialGradient>
+    <linearGradient id="beamg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3f8fd6" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#3f8fd6" stop-opacity="0.7" />
+    </linearGradient>
+  </defs>
+  
+  <circle cx="300" cy="256" r="185" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <circle cx="300" cy="256" r="185" fill="#e23b34" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <circle cx="300" cy="256" r="130" fill="#ffffff" stroke="#1a1a1a" stroke-width="7" />
+  
+  <circle cx="300" cy="256" r="75" fill="#e23b34" stroke="#1a1a1a" stroke-width="7" />
+  
+  <circle cx="300" cy="256" r="28" fill="url(#centerg)" stroke="#1a1a1a" stroke-width="6" />
+  
+  <circle cx="300" cy="256" r="14" fill="#ffffff" opacity="0.7" />
+  
+  <path d="M50,80 L290,242 L290,270 L50,432Z" fill="url(#beamg)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" opacity="0.85" />
+  
+  <line x1="50" y1="256" x2="290" y2="256" stroke="#1a1a1a" stroke-width="3" opacity="0.6" stroke-linecap="round" />
+  
+  <line x1="230" y1="256" x2="370" y2="256" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <line x1="300" y1="186" x2="300" y2="326" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <circle cx="300" cy="256" r="30" fill="#f8c531" stroke="#1a1a1a" stroke-width="6" />
+  <circle cx="300" cy="256" r="14" fill="#ffffff" opacity="0.7" />
+  
+  <line x1="248" y1="252" x2="248" y2="260" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="352" y1="252" x2="352" y2="260" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="296" y1="210" x2="304" y2="210" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="296" y1="302" x2="304" y2="302" stroke="#1a1a1a" stroke-width="4" />
+</g>
+  </svg>

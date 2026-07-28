@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="90" y="55" width="332" height="400" fill="#fffef0" stroke="#1a1a1a" stroke-width="5.0000" rx="10" />
+  
+  <polygon points="346,55 422,55 422,115" fill="#e8e0c0" stroke="#1a1a1a" stroke-width="5" />
+  <polygon points="346,55 346,115 422,115" fill="#fffef0" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="90" y="55" width="256" height="50" fill="#1a4488" stroke="#1a1a1a" stroke-width="5.0000" rx="6" />
+  <rect x="90" y="90" width="256" height="15" fill="#1a4488" stroke="none" />
+  <text x="218" y="87" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="bold" fill="#ffffff" letter-spacing="4">PATENT</text>
+  
+  <line x1="110" y1="122" x2="402" y2="122" stroke="#1a1a1a" stroke-width="3" />
+  
+  
+  <path d="M205,170 Q205,135 256,130 Q307,135 307,170 Q307,205 280,225 L280,255 L232,255 L232,225 Q205,205 205,170 Z" fill="#ffffc0" stroke="#1a1a1a" stroke-width="5" />
+  
+  <path d="M240,190 L248,180 L256,190 L264,180 L272,190" stroke="#1a1a1a" stroke-width="4" fill="none" stroke-linejoin="round" />
+  
+  <rect x="235" y="255" width="42" height="15" fill="#bbbbbb" stroke="#1a1a1a" stroke-width="4" rx="3" />
+  <rect x="238" y="270" width="36" height="15" fill="#999999" stroke="#1a1a1a" stroke-width="4" rx="3" />
+  <rect x="241" y="285" width="30" height="12" fill="#888888" stroke="#1a1a1a" stroke-width="4" rx="3" />
+  
+  <line x1="180" y1="145" x2="166" y2="130" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="160" y1="170" x2="142" y2="165" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="332" y1="145" x2="346" y2="130" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="352" y1="170" x2="370" y2="165" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="256" y1="122" x2="256" y2="105" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <line x1="115" y1="318" x2="397" y2="318" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="115" y1="338" x2="397" y2="338" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="115" y1="358" x2="350" y2="358" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="115" y1="378" x2="397" y2="378" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="115" y1="398" x2="280" y2="398" stroke="#1a1a1a" stroke-width="3" />
+  
+  <text x="256" y="315" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="13" fill="#888888">No. _______________</text>
+  
+  <circle cx="370" cy="410" r="32" fill="#cc4400" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="370" cy="410" r="26" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="6,4" />
+  <text x="370" y="416" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" font-weight="bold" fill="#ffffff">SEAL</text>
+</svg>

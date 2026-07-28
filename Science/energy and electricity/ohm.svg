@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <text x="256" y="310" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="280" font-weight="bold" text-anchor="middle" fill="#cc2200" stroke="#1a1a1a" stroke-width="8">󲡡</text>
+  
+  
+  <line x1="100" y1="370" x2="140" y2="370" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <line x1="372" y1="370" x2="412" y2="370" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <line x1="100" y1="370" x2="60" y2="370" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="60" y1="370" x2="60" y2="430" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="60" y1="430" x2="452" y2="430" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="452" y1="430" x2="452" y2="370" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="412" y1="370" x2="452" y2="370" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <polyline points="168,430 186,430 196,412 210,448 224,412 238,448 252,412 266,448 280,412 294,448 304,430 344,430" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <rect x="180" y="60" width="152" height="44" rx="8" fill="#ffeecc" stroke="#1a1a1a" stroke-width="4" />
+  <text x="256" y="91" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#884400">unit: 󲡡</text>
+</svg>

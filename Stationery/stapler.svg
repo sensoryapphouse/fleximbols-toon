@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(1.250 -63.750)">
+  
+  <line x1="60" y1="400" x2="452" y2="400" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M70 360 Q70 340 90 340 L420 340 Q440 340 440 360 L440 396 Q440 400 436 400 L74 400 Q70 400 70 396 Z" fill="#5a3a18" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="120" y="324" width="280" height="22" rx="4" fill="#cccccc" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="170" y1="335" x2="350" y2="335" stroke="#1a1a1a" stroke-width="2" />
+  
+  <circle cx="420" cy="312" r="14" fill="#999999" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="420" cy="312" r="5" fill="#2a1a08" />
+  
+  <path d="M88 256 Q88 240 104 240 L398 240 Q420 240 420 262 L420 300 Q420 312 408 312 L100 312 Q88 312 88 300 Z" fill="#b8362b" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="100" y="252" width="280" height="12" rx="4" fill="#e85a44" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="110" y="284" width="60" height="14" rx="3" fill="#2a1a08" />
+  
+  <line x1="120" y1="278" x2="120" y2="270" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="132" y1="278" x2="132" y2="270" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="144" y1="278" x2="144" y2="270" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="156" y1="278" x2="156" y2="270" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="300" cy="276" r="14" fill="#f4d27a" stroke="#1a1a1a" stroke-width="3" />
+  <text x="300" y="282" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="16" font-weight="900" fill="#2a1a08" text-anchor="middle">S</text>
+  
+  <path d="M50 280 L50 296 L70 296 L70 280" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <line x1="40" y1="270" x2="80" y2="270" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+</g>
+  </svg>

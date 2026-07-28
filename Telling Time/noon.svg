@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+<stop offset="0" stop-color="#ffe066" />
+<stop offset="1" stop-color="#ffae2e" />
+</radialGradient>
+<linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#fffbe6" />
+<stop offset="1" stop-color="#ffe9b8" />
+</linearGradient>
+</defs>
+<g transform="translate(-2.03 -65.08) scale(1.168)">
+<g stroke="#1a1a1a" stroke-width="7" stroke-linecap="round">
+<line x1="156" y1="120" x2="156" y2="90" />
+<line x1="86" y1="190" x2="56" y2="190" />
+<line x1="256" y1="120" x2="256" y2="90" />
+<line x1="356" y1="120" x2="356" y2="90" />
+<line x1="106" y1="140" x2="84" y2="120" />
+<line x1="206" y1="140" x2="186" y2="118" />
+<line x1="306" y1="140" x2="328" y2="118" />
+</g>
+<circle cx="156" cy="170" r="58" fill="url(#sun)" stroke="#1a1a1a" stroke-width="8" />
+<circle cx="140" cy="156" r="10" fill="#fff8d8" />
+<circle cx="256" cy="330" r="130" fill="url(#face)" stroke="#1a1a1a" stroke-width="9" />
+<circle cx="256" cy="330" r="110" fill="none" stroke="#1a1a1a" stroke-width="3" />
+<line x1="256" y1="330" x2="256" y2="240" stroke="#1a1a1a" stroke-width="4.2808" stroke-linecap="round" />
+<line x1="256" y1="330" x2="256" y2="248" stroke="#1a1a1a" stroke-width="4.2808" stroke-linecap="round" />
+<circle cx="256" cy="330" r="10" fill="#2b2622" />
+</g>
+</svg>

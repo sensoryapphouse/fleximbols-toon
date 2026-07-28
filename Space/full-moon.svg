@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<radialGradient id="skyFM" cx="0.5" cy="0.5" r="0.7">
+<stop offset="0" stop-color="#1d2050" />
+<stop offset="1" stop-color="#080a25" />
+</radialGradient>
+<radialGradient id="moonFM" cx="0.4" cy="0.35" r="0.8">
+<stop offset="0" stop-color="#fff7d8" />
+<stop offset="1" stop-color="#e4c878" />
+</radialGradient>
+</defs>
+<circle cx="256" cy="256" r="220" fill="url(#skyFM)" stroke="#1a1a1a" stroke-width="5.0000" />
+<g fill="#ffe88a" stroke="#1a1a1a" stroke-width="3">
+<polygon points="92,120 96,132 108,134 99,141 102,153 92,146 82,153 85,141 76,134 88,132" />
+<polygon points="430,142 434,154 446,156 437,163 440,175 430,168 420,175 423,163 414,156 426,154" />
+<polygon points="100,380 104,392 116,394 107,401 110,413 100,406 90,413 93,401 84,394 96,392" />
+<polygon points="420,380 424,392 436,394 427,401 430,413 420,406 410,413 413,401 404,394 416,392" />
+</g>
+<circle cx="256" cy="240" r="115" fill="url(#moonFM)" stroke="#1a1a1a" stroke-width="5.0000" />
+<g fill="#b89352" stroke="#1a1a1a" stroke-width="4">
+<circle cx="220" cy="210" r="18" />
+<circle cx="280" cy="250" r="14" />
+<circle cx="240" cy="280" r="10" />
+<circle cx="290" cy="200" r="8" />
+<circle cx="200" cy="260" r="9" />
+</g>
+</svg>

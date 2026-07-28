@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="doc" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#ffffff" /><stop offset="100%" stop-color="#dde4ec" /></linearGradient>
+    <linearGradient id="bubble" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#7ed3a0" /><stop offset="100%" stop-color="#2bbf6a" /></linearGradient>
+  </defs>
+  
+  <rect x="58" y="200" width="220" height="252" rx="14" fill="url(#doc)" stroke="#1a1a1a" stroke-width="7" />
+  <rect x="58" y="200" width="220" height="32" rx="14" fill="#5fa6e0" stroke="#1a1a1a" stroke-width="7" />
+  <line x1="80" y1="266" x2="256" y2="266" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <line x1="80" y1="294" x2="256" y2="294" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <line x1="80" y1="322" x2="220" y2="322" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <line x1="80" y1="394" x2="256" y2="394" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.6" />
+  <line x1="80" y1="418" x2="220" y2="418" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.6" />
+  
+  <path d="M230,60 C214,60 200,74 200,90 L200,210 C200,226 214,240 230,240 L308,240 L300,290 L368,238 L444,238 C460,238 474,224 474,208 L474,90 C474,74 460,60 444,60 Z" fill="url(#bubble)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <circle cx="260" cy="150" r="14" fill="#ffffff" />
+  <circle cx="336" cy="150" r="14" fill="#ffffff" />
+  <circle cx="412" cy="150" r="14" fill="#ffffff" />
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-71.109 -29.657) scale(1.2015)">
+  
+  <path d="M150 120 L150 340 Q150 380 190 380 L310 380 Q350 380 350 340 L350 120 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.1615" stroke-linejoin="round" />
+  
+  <rect x="138" y="108" width="224" height="24" rx="6" fill="#dddddd" stroke="#1a1a1a" stroke-width="6" />
+  
+  <path d="M330 108 L355 85 L365 95 L342 120" fill="#dddddd" stroke="#1a1a1a" stroke-width="5" />
+  
+  <path d="M154 230 L154 336 Q154 372 190 372 L310 372 Q346 372 346 336 L346 230 Z" fill="#5522bb" />
+  
+  <path d="M154 230 Q192 218 228 230 Q264 242 300 230 Q323 223 346 230" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="200" cy="300" r="8" fill="#7744cc" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="248" cy="280" r="6" fill="#8855dd" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="290" cy="330" r="9" fill="#6633bb" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="378" y="100" width="30" height="280" rx="4" fill="#eeeeee" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="382" y="104" width="22" height="20" fill="#ff0000" />
+  <rect x="382" y="124" width="22" height="20" fill="#ff4400" />
+  <rect x="382" y="144" width="22" height="20" fill="#ff8800" />
+  <rect x="382" y="164" width="22" height="20" fill="#ffcc00" />
+  <rect x="382" y="184" width="22" height="20" fill="#aacc00" />
+  <rect x="382" y="204" width="22" height="20" fill="#44aa00" />
+  <rect x="382" y="224" width="22" height="20" fill="#008800" />
+  <rect x="382" y="244" width="22" height="20" fill="#006688" />
+  <rect x="382" y="264" width="22" height="20" fill="#0044cc" />
+  <rect x="382" y="284" width="22" height="20" fill="#2200cc" />
+  <rect x="382" y="304" width="22" height="20" fill="#5500bb" />
+  <rect x="382" y="324" width="22" height="20" fill="#7700aa" />
+  <rect x="382" y="344" width="22" height="20" fill="#880099" />
+  <rect x="382" y="364" width="22" height="20" fill="#990077" />
+  
+  <path d="M358 352 L382 352" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  <polygon points="378,346 390,352 378,358" fill="#1a1a1a" />
+  
+  <text x="428" y="120" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" fill="#1a1a1a" font-weight="bold">1</text>
+  <text x="428" y="235" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" fill="#1a1a1a" font-weight="bold">7</text>
+  <text x="423" y="315" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" fill="#1a1a1a" font-weight="bold">11</text>
+  <text x="423" y="355" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" fill="#1a1a1a" font-weight="bold">13</text>
+  <text x="423" y="375" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" fill="#1a1a1a" font-weight="bold">14</text>
+  
+  <text x="372" y="95" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" fill="#1a1a1a" font-weight="bold">pH</text>
+  
+  <text x="250" y="60" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="28" fill="#5522bb" font-weight="bold" text-anchor="middle">BASE</text>
+</g>
+  </svg>

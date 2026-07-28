@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -33.750)">
+  
+  
+  <ellipse cx="256" cy="290" rx="130" ry="160" fill="#b88858" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <ellipse cx="256" cy="310" rx="80" ry="115" fill="#e8c890" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M210 260 Q230 270 250 260" fill="none" stroke="#1a1a1a" stroke-width="2.5" />
+  <path d="M262 260 Q282 270 302 260" fill="none" stroke="#1a1a1a" stroke-width="2.5" />
+  <path d="M200 295 Q225 305 250 295" fill="none" stroke="#1a1a1a" stroke-width="2.5" />
+  <path d="M262 295 Q287 305 312 295" fill="none" stroke="#1a1a1a" stroke-width="2.5" />
+  <path d="M210 330 Q230 340 250 330" fill="none" stroke="#1a1a1a" stroke-width="2.5" />
+  <path d="M262 330 Q282 340 302 330" fill="none" stroke="#1a1a1a" stroke-width="2.5" />
+  <path d="M220 365 Q240 375 256 365 Q272 375 292 365" fill="none" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  <path d="M130 220 Q120 320 150 380 Q165 360 170 280 Q160 230 130 220 Z" fill="#8a6238" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M382 220 Q392 320 362 380 Q347 360 342 280 Q352 230 382 220 Z" fill="#8a6238" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M165 165 L150 110 L195 155 Z" fill="#8a6238" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M347 165 L362 110 L317 155 Z" fill="#8a6238" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <circle cx="210" cy="200" r="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="302" cy="200" r="48" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <circle cx="210" cy="200" r="30" fill="#f4c020" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="302" cy="200" r="30" fill="#f4c020" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="210" cy="200" r="14" fill="#000000" />
+  <circle cx="302" cy="200" r="14" fill="#000000" />
+  
+  <circle cx="215" cy="195" r="4" fill="#ffffff" />
+  <circle cx="307" cy="195" r="4" fill="#ffffff" />
+  
+  <path d="M240 230 L272 230 L256 265 Z" fill="#e89028" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M210 440 L200 470 M210 440 L215 470 M210 440 L225 465" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" fill="none" />
+  <path d="M302 440 L292 465 M302 440 L307 470 M302 440 L317 470" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" fill="none" />
+  
+  <text x="256" y="500" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="42" font-weight="bold" fill="#000000" text-anchor="middle">OWL</text>
+</g>
+  </svg>

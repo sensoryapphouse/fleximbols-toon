@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 8.250)">
+  <title>bouncy-castle</title>
+  
+  <line x1="30" y1="470" x2="482" y2="470" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="40" y="390" width="432" height="80" rx="36" fill="#6BCB77" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="70" y="200" width="372" height="200" rx="20" fill="#7A4DC9" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="50" y="120" width="80" height="290" rx="20" fill="#4ABDD6" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M40 130 L90 70 L140 130 Z" fill="#D62828" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <line x1="90" y1="70" x2="90" y2="38" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M90 40 L124 52 L90 64 Z" fill="#FFD24A" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="382" y="120" width="80" height="290" rx="20" fill="#4ABDD6" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M372 130 L422 70 L472 130 Z" fill="#D62828" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <line x1="422" y1="70" x2="422" y2="38" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M422 40 L456 52 L422 64 Z" fill="#FFD24A" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="216" y="100" width="80" height="200" rx="20" fill="#FFD24A" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M206 110 L256 50 L306 110 Z" fill="#D62828" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <line x1="256" y1="50" x2="256" y2="18" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M256 20 L290 32 L256 44 Z" fill="#6BCB77" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="142" y="180" width="22" height="22" fill="#7A4DC9" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="176" y="180" width="22" height="22" fill="#7A4DC9" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="314" y="180" width="22" height="22" fill="#7A4DC9" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="348" y="180" width="22" height="22" fill="#7A4DC9" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="60" y="120" width="16" height="16" fill="#4ABDD6" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="84" y="120" width="16" height="16" fill="#4ABDD6" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="108" y="120" width="16" height="16" fill="#4ABDD6" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="392" y="120" width="16" height="16" fill="#4ABDD6" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="416" y="120" width="16" height="16" fill="#4ABDD6" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="440" y="120" width="16" height="16" fill="#4ABDD6" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M196 400 L196 290 Q196 240 256 240 Q316 240 316 290 L316 400 Z" fill="#2E2E3A" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M196 390 L316 390 L296 410 L216 410 Z" fill="#F08D8D" stroke="#1a1a1a" stroke-width="4" />
+</g>
+  </svg>

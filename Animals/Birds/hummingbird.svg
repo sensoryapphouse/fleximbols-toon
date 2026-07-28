@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-25.500 -25.500)">
+<title>hummingbird</title>
+
+<circle cx="430" cy="370" r="36" fill="#e25b48" stroke="#1a1a1a" stroke-width="5" />
+<circle cx="390" cy="350" r="26" fill="#e25b48" stroke="#1a1a1a" stroke-width="5" />
+<circle cx="416" cy="404" r="26" fill="#e25b48" stroke="#1a1a1a" stroke-width="5" />
+<circle cx="430" cy="370" r="10" fill="#f6c544" stroke="#1a1a1a" stroke-width="3" />
+
+<path d="M430 406 Q428 446 412 478" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" />
+
+<path d="M150 230 Q150 180 210 178 Q280 178 296 224 Q300 256 268 268 Q220 280 184 268 Q150 258 150 230 Z" fill="#3aa57a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+
+<path d="M186 252 Q220 274 264 260" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" />
+
+<circle cx="296" cy="226" r="42" fill="#2f6aa6" stroke="#1a1a1a" stroke-width="5.0000" />
+
+<path d="M306 252 Q316 268 296 270 Q278 268 286 252 Z" fill="#e25b48" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+
+<circle cx="306" cy="218" r="6" fill="#2b1a0a" />
+<circle cx="308" cy="216" r="2" fill="#ffffff" />
+
+<path d="M330 232 L406 360" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+
+<path d="M150 220 L90 190 L110 230 L80 250 L120 250 L100 290 L150 252 Z" fill="#3aa57a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+
+<path d="M210 200 Q170 130 100 130 Q160 170 170 220 Q200 230 210 200 Z" fill="#5fc69a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+
+<path d="M220 250 Q190 320 130 340 Q190 320 220 290 Q240 270 220 250 Z" fill="#5fc69a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+
+<path d="M70 110 Q90 130 60 150" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<path d="M100 100 Q120 120 90 140" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<path d="M100 360 Q120 340 90 320" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+</g>
+  </svg>

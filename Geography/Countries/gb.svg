@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+  <!--
+    Union Jack (Great Britain flag)
+    Layers (bottom to top):
+      1. Blue background (#012169)
+      2. White Saint Andrew diagonals (corner to corner, ~1/5 width)
+      3. Red Saint Patrick diagonals (counterchanged, ~1/15 width, offset per quadrant)
+      4. White Saint George cross (vertical + horizontal, ~1/5 width)
+      5. Red Saint George cross (vertical + horizontal, ~1/15 width)
+  -->
+
+  <!-- 1. Blue background -->
+  <rect width="512" height="512" fill="#012169"/>
+
+  <!-- 2. Saint Andrew's cross – white diagonals, width 102 (≈1/5 of 512) -->
+  <line x1="0" y1="0"   x2="512" y2="512" stroke="#FFFFFF" stroke-width="102"/>
+  <line x1="512" y1="0" x2="0"   y2="512" stroke="#FFFFFF" stroke-width="102"/>
+
+  <!--
+    3. Saint Patrick's cross – red diagonals, counterchanged.
+       The flag rule: in each half-triangle the red stripe is displaced
+       toward the hoist (left). Width = 34 (1/3 of Saint Andrew width).
+       Offset = 34 (half the red stripe width, so the white shows equally
+       on both sides).
+
+       Four quadrant clip-paths divide the flag into four triangles along
+       the two diagonals. In each quadrant the red line is offset by ±17px
+       perpendicular to the diagonal (≈ 34/√2 * correction):
+       practical offset along x axis ≈ 24px.
+  -->
+  <defs>
+    <!-- Top triangle (above both diagonals) -->
+    <clipPath id="q-top">
+      <polygon points="0,0 512,0 256,256"/>
+    </clipPath>
+    <!-- Right triangle -->
+    <clipPath id="q-right">
+      <polygon points="512,0 512,512 256,256"/>
+    </clipPath>
+    <!-- Bottom triangle -->
+    <clipPath id="q-bottom">
+      <polygon points="0,512 512,512 256,256"/>
+    </clipPath>
+    <!-- Left triangle -->
+    <clipPath id="q-left">
+      <polygon points="0,0 0,512 256,256"/>
+    </clipPath>
+  </defs>
+
+  <!--
+    TL→BR diagonal: in top quadrant shift right (+24,−24), in bottom shift left (−24,+24)
+    BL→TR diagonal: in left quadrant shift right (+24,+24), in right shift left (−24,−24)
+  -->
+
+  <!-- TL→BR red, top quadrant: stripe offset to right of diagonal -->
+  <line x1="24"  y1="-24" x2="536" y2="488" stroke="#C8102E" stroke-width="34" clip-path="url(#q-top)"/>
+  <!-- TL→BR red, bottom quadrant: stripe offset to left of diagonal -->
+  <line x1="-24" y1="24"  x2="488" y2="536" stroke="#C8102E" stroke-width="34" clip-path="url(#q-bottom)"/>
+
+  <!-- BL→TR red, left quadrant: stripe offset upward -->
+  <line x1="-24" y1="488" x2="488" y2="-24" stroke="#C8102E" stroke-width="34" clip-path="url(#q-left)"/>
+  <!-- BL→TR red, right quadrant: stripe offset downward -->
+  <line x1="24"  y1="536" x2="536" y2="24"  stroke="#C8102E" stroke-width="34" clip-path="url(#q-right)"/>
+
+  <!-- 4. Saint George's cross – white, width 102 -->
+  <rect x="205" y="0"   width="102" height="512" fill="#FFFFFF"/>
+  <rect x="0"   y="205" width="512" height="102" fill="#FFFFFF"/>
+
+  <!-- 5. Saint George's cross – red, width 68 (centred inside white) -->
+  <rect x="222" y="0"   width="68"  height="512" fill="#C8102E"/>
+  <rect x="0"   y="222" width="512" height="68"  fill="#C8102E"/>
+
+  <!-- Border -->
+  <rect width="512" height="512" fill="none" stroke="#1a1a1a" stroke-width="5"/>
+
+</svg>

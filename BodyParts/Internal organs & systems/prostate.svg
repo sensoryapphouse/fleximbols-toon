@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="prFill" cx="0.4" cy="0.35" r="0.8">
+      <stop offset="0" stop-color="#e8b890" />
+      <stop offset="0.6" stop-color="#c08858" />
+      <stop offset="1" stop-color="#7a4828" />
+    </radialGradient>
+    <radialGradient id="blFill4" cx="0.4" cy="0.4" r="0.7">
+      <stop offset="0" stop-color="#ffe8a0" />
+      <stop offset="1" stop-color="#b88040" />
+    </radialGradient>
+    <linearGradient id="utFill2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f4c8a8" />
+      <stop offset="1" stop-color="#c08858" />
+    </linearGradient>
+  </defs>
+  
+  <rect x="20" y="20" width="472" height="472" fill="none" stroke="#1a1a1a" stroke-width="4" rx="14" />
+
+  
+  <path d="M158,90 Q126,110 128,170 Q132,225 188,250 Q256,262 324,250 Q380,225 384,170 Q386,110 354,90 Q300,76 256,76 Q212,76 158,90 Z" fill="url(#blFill4)" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M180,108 Q256,98 332,108" stroke="#1a1a1a" stroke-width="5.0000" fill="none" stroke-linecap="round" opacity="0.7" />
+
+  
+  <path d="M236,250 L236,275 L276,275 L276,250 Z" fill="url(#blFill4)" stroke="#1a1a1a" stroke-width="5" />
+
+  
+  
+  <path d="M170,278 Q150,310 158,360 Q170,408 220,420 Q256,425 292,420 Q342,408 354,360 Q362,310 342,278 Q310,265 256,265 Q202,265 170,278 Z" fill="url(#prFill)" stroke="#1a1a1a" stroke-width="5.0000" />
+
+  
+  <path d="M256,275 Q252,330 256,400 Q260,410 256,418" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+
+  
+  <path d="M195,300 Q180,330 188,370 Q200,400 240,408" stroke="#1a1a1a" stroke-width="3" fill="none" opacity="0.7" />
+  <path d="M317,300 Q332,330 324,370 Q312,400 272,408" stroke="#1a1a1a" stroke-width="3" fill="none" opacity="0.7" />
+
+  
+  <g stroke="#1a1a1a" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.7">
+    <path d="M185,320 Q205,315 220,325" />
+    <path d="M205,350 Q225,348 240,355" />
+    <path d="M195,385 Q220,380 235,388" />
+    <path d="M275,325 Q295,315 320,320" />
+    <path d="M275,355 Q295,348 315,350" />
+    <path d="M278,388 Q295,380 320,385" />
+  </g>
+
+  
+  <path d="M190,290 Q220,278 245,278" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.65" />
+  <path d="M275,278 Q300,278 322,290" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.65" />
+
+  
+  
+  <path d="M256,260 L256,440" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="4 4" opacity="0.5" />
+  
+  <path d="M246,420 L246,470 Q248,478 256,478 Q264,478 266,470 L266,420" fill="url(#utFill2)" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M256,422 L256,476" stroke="#1a1a1a" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.7" />
+
+  
+  <path d="M155,275 Q130,265 110,278 Q95,295 110,310 Q130,320 160,310 Q175,300 168,285 Z" fill="#a85a4a" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M120,285 Q125,278 132,283" stroke="#1a1a1a" stroke-width="2.5" fill="none" opacity="0.7" />
+  <path d="M357,275 Q382,265 402,278 Q417,295 402,310 Q382,320 352,310 Q337,300 344,285 Z" fill="#a85a4a" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M392,285 Q387,278 380,283" stroke="#1a1a1a" stroke-width="2.5" fill="none" opacity="0.7" />
+
+  
+  <path d="M160,308 Q175,318 188,315" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M352,308 Q337,318 324,315" stroke="#1a1a1a" stroke-width="3" fill="none" />
+
+  
+  <g stroke="#1a1a1a" stroke-width="3" fill="none">
+    <path d="M60,355 L150,355" />
+    <polygon points="150,355 140,349 140,361" fill="#1a1a1a" />
+  </g>
+</svg>

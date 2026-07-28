@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-7.750 -15.750)">
+  <defs>
+    <linearGradient id="paper" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#ffffff" /><stop offset="100%" stop-color="#e6e9ef" /></linearGradient>
+    <linearGradient id="bin" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#e23b34" /><stop offset="100%" stop-color="#b81f1f" /></linearGradient>
+    <linearGradient id="lid" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#ef7fae" /><stop offset="100%" stop-color="#b81f1f" /></linearGradient>
+  </defs>
+  <path d="M80 64 L80 212 C80 220 86 226 94 226 L208 226 C216 226 222 220 222 212 L222 116 L170 64 Z" fill="url(#paper)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M170 64 L170 100 C170 110 178 116 186 116 L222 116 Z" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  <line x1="100" y1="138" x2="200" y2="138" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.55" />
+  <line x1="100" y1="164" x2="200" y2="164" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.55" />
+  <line x1="100" y1="190" x2="170" y2="190" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.55" />
+  <path d="M232 178 Q288 220 320 268" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" fill="none" stroke-dasharray="14 12" />
+  <path d="M310 250 L324 274 L300 268 Z" fill="#f6892a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <rect x="240" y="218" width="208" height="40" rx="14" fill="url(#lid)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <rect x="316" y="194" width="56" height="28" rx="10" fill="url(#lid)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <path d="M260 258 L274 462 C274 472 282 480 292 480 L396 480 C406 480 414 472 414 462 L428 258 Z" fill="url(#bin)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <line x1="306" y1="296" x2="316" y2="446" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.6" />
+  <line x1="344" y1="296" x2="344" y2="446" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.6" />
+  <line x1="382" y1="296" x2="372" y2="446" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.6" />
+  <path d="M270 268 Q270 286 282 290" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" fill="none" opacity="0.5" />
+</g>
+  </svg>

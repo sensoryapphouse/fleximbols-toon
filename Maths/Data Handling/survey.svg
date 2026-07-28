@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="gclip" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f7f2ea" /><stop offset="100%" stop-color="#e8dfc8" /></linearGradient>
+  </defs>
+  
+  <rect x="72" y="72" width="280" height="370" rx="10" ry="10" fill="url(#gclip)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <rect x="318" y="82" width="28" height="350" rx="5" fill="#c8b898" opacity="0.45" />
+  
+  <rect x="146" y="60" width="136" height="34" rx="8" fill="#9c6b3f" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <rect x="172" y="54" width="84" height="24" rx="6" fill="#c88040" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="94" y="112" width="200" height="12" rx="4" fill="#9c8060" />
+  <rect x="94" y="130" width="140" height="9" rx="3" fill="#b89870" />
+  
+  <rect x="94" y="158" width="160" height="9" rx="3" fill="#a09070" />
+  
+  <circle cx="100" cy="185" r="10" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="128" cy="185" r="10" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="156" cy="185" r="10" fill="#3f8fd6" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="184" cy="185" r="10" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="212" cy="185" r="10" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="94" y="212" width="180" height="9" rx="3" fill="#a09070" />
+  
+  <polygon points="104,240 108,228 112,240 124,240 115,248 118,260 108,252 98,260 101,248 92,240" fill="#f8c531" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <polygon points="134,240 138,228 142,240 154,240 145,248 148,260 138,252 128,260 131,248 122,240" fill="#f8c531" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <polygon points="164,240 168,228 172,240 184,240 175,248 178,260 168,252 158,260 161,248 152,240" fill="#f8c531" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <polygon points="194,240 198,228 202,240 214,240 205,248 208,260 198,252 188,260 191,248 182,240" fill="#f8c531" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <polygon points="224,240 228,228 232,240 244,240 235,248 238,260 228,252 218,260 221,248 212,240" fill="#e8e0d0" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  
+  <rect x="94" y="278" width="150" height="9" rx="3" fill="#a09070" />
+  <circle cx="100" cy="303" r="10" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="128" cy="303" r="10" fill="#e23b34" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="156" cy="303" r="10" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="184" cy="303" r="10" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="94" y="326" width="160" height="9" rx="3" fill="#a09070" />
+  <rect x="94" y="342" width="236" height="14" rx="3" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="94" y="362" width="236" height="14" rx="3" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  
+  <rect x="330" y="260" width="32" height="160" rx="6" fill="#f8c531" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" transform="rotate(-30 346 340)" />
+  
+  <polygon points="346,396 332,420 360,420" fill="#f3c19a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" transform="rotate(-30 346 410)" />
+  
+  <rect x="330" y="256" width="32" height="18" rx="4" fill="#ef7fae" stroke="#1a1a1a" stroke-width="5" transform="rotate(-30 346 265)" />
+  
+  <rect x="336" y="268" width="8" height="140" rx="3" fill="#ffffff" opacity="0.3" transform="rotate(-30 340 338)" />
+</svg>

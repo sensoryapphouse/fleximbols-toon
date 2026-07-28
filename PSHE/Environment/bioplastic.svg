@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-91.710 -118.902) scale(1.3596)">
+  <defs>
+    <linearGradient id="bottle" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#c8eaf8" /><stop offset="100%" stop-color="#e8f6fe" /></linearGradient>
+    <linearGradient id="stemg" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#7ed45a" /><stop offset="100%" stop-color="#5bb24a" /></linearGradient>
+  </defs>
+  
+  <path d="M188 220 Q178 240 178 300 L178 390 Q178 416 200 420 L312 420 Q334 416 334 390 L334 300 Q334 240 324 220 Z" fill="url(#bottle)" stroke="#1a1a1a" stroke-width="2.480" stroke-linejoin="round" stroke-linecap="round" />
+  
+  <rect x="220" y="155" width="72" height="68" rx="10" fill="#d8f0fc" stroke="#1a1a1a" stroke-width="2.480" stroke-linejoin="round" />
+  
+  <rect x="214" y="132" width="84" height="30" rx="10" fill="#5bb24a" stroke="#1a1a1a" stroke-width="2.480" stroke-linejoin="round" />
+  
+  <path d="M310 225 Q328 250 330 300 L330 390 Q330 412 314 418 L330 405 Q334 390 334 370 L334 300 Q332 245 322 225 Z" fill="#8abfd6" opacity="0.45" />
+  
+  <path d="M196 250 Q190 280 192 340 L200 340 Q198 280 204 250 Z" fill="#ffffff" opacity="0.55" />
+  <path d="M226 168 Q232 160 240 162 Q236 172 228 174 Z" fill="#ffffff" opacity="0.5" />
+  
+  <line x1="256" y1="400" x2="256" y2="280" stroke="#1a1a1a" stroke-width="4.720" stroke-linecap="round" />
+  
+  <path d="M256 320 Q218 295 215 268 Q238 270 256 300 Z" fill="url(#stemg)" stroke="#1a1a1a" stroke-width="4.045" stroke-linejoin="round" />
+  
+  <path d="M256 295 Q294 270 297 243 Q274 245 256 275 Z" fill="url(#stemg)" stroke="#1a1a1a" stroke-width="4.045" stroke-linejoin="round" />
+  
+  <path d="M256 280 Q232 252 235 228 Q255 235 256 265 Z" fill="url(#stemg)" stroke="#1a1a1a" stroke-width="4.045" stroke-linejoin="round" />
+  <path d="M256 280 Q280 252 277 228 Q257 235 256 265 Z" fill="url(#stemg)" stroke="#1a1a1a" stroke-width="4.045" stroke-linejoin="round" />
+</g>
+  </svg>

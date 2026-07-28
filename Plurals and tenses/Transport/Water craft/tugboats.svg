@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(6.500 52.000)">
+  <defs>
+    <linearGradient id="hull" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#e23b34" /><stop offset="100%" stop-color="#8a1010" /></linearGradient>
+    <linearGradient id="house" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f8c531" /><stop offset="100%" stop-color="#c89010" /></linearGradient>
+    <linearGradient id="fender" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#4a4a4a" /><stop offset="100%" stop-color="#1e1e1e" /></linearGradient>
+    <linearGradient id="win" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#aad4f5" /><stop offset="100%" stop-color="#6aaee0" /></linearGradient>
+  </defs>
+  
+  <path d="M68 268 Q42 285 40 318 Q42 350 68 365 L108 365 L108 268 Z" fill="url(#fender)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round" />
+  
+  <line x1="52" y1="290" x2="105" y2="290" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="48" y1="318" x2="105" y2="318" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <line x1="52" y1="346" x2="105" y2="346" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <path d="M58 278 Q70 272 100 272 L100 282 Q70 282 58 288 Z" fill="#ffffff" opacity="0.2" />
+  
+  <path d="M100 265 L100 372 L420 372 Q450 368 458 350 Q462 330 452 310 L420 268 Z" fill="url(#hull)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round" />
+  
+  <path d="M100 372 L420 372 Q450 368 458 350 L445 350 Q438 365 420 365 L100 365 Z" fill="#5a0808" opacity="0.45" />
+  
+  <path d="M115 272 Q280 264 415 272 Q280 280 115 280 Z" fill="#ffffff" opacity="0.3" />
+  
+  <rect x="100" y="352" width="358" height="20" rx="3" fill="#2b2622" />
+  
+  <rect x="108" y="232" width="300" height="38" rx="4" fill="#9c6b3f" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <path d="M120 236 Q256 230 395 236 Q256 242 120 242 Z" fill="#ffffff" opacity="0.2" />
+  
+  <path d="M168 100 L168 236 L340 236 L340 100 Q326 75 280 68 L228 68 Q185 75 168 100 Z" fill="url(#house)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round" />
+  
+  <path d="M312 70 Q337 84 340 100 L340 236 L324 236 L324 100 Q321 84 312 70 Z" fill="#8a6008" opacity="0.4" />
+  
+  <path d="M182 105 Q254 90 326 105 Q254 115 182 118 Z" fill="#ffffff" opacity="0.3" />
+  
+  <rect x="183" y="118" width="50" height="62" rx="6" fill="url(#win)" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="249" y="118" width="50" height="62" rx="6" fill="url(#win)" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="183" y="195" width="50" height="30" rx="5" fill="url(#win)" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="249" y="195" width="50" height="30" rx="5" fill="url(#win)" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="186" y="122" width="20" height="18" rx="3" fill="#ffffff" opacity="0.55" />
+  <rect x="252" y="122" width="20" height="18" rx="3" fill="#ffffff" opacity="0.55" />
+  
+  <rect x="222" y="42" width="64" height="70" rx="8" fill="#2b2622" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  <rect x="215" y="35" width="78" height="18" rx="6" fill="#2b2622" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="222" y="58" width="64" height="20" rx="4" fill="#f8c531" />
+  
+  <rect x="368" y="218" width="16" height="30" rx="4" fill="#6f757e" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="376" cy="216" r="10" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="5" />
+</g>
+  <g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3568" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3568)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

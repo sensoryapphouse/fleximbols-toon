@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <path d="M256 100 C242 100 216 115 206 148 C194 188 196 248 202 300 C208 348 222 392 236 425 C244 448 252 468 256 482 C260 468 268 448 276 425 C290 392 304 348 310 300 C316 248 318 188 306 148 C296 115 270 100 256 100 Z" fill="#1a6e22" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  
+  
+  
+  <path d="M250 472 Q252 490 256 500 Q260 490 262 472" fill="#155518" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M256 118 Q254 260 254 400 Q254 445 256 482" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  
+  <g fill="#2a8a1a" stroke="#1a1a1a" stroke-width="5">
+    <path d="M256 103 C245 76 225 70 232 90 C214 70 208 81 226 93 C208 88 202 103 225 99 C213 114 222 124 233 108 C233 128 247 129 254 111 L256 103" />
+    <path d="M256 103 C267 76 287 70 280 90 C298 70 304 81 286 93 C304 88 310 103 287 99 C299 114 290 124 279 108 C279 128 265 129 258 111 L256 103" />
+  </g>
+  
+  <rect x="251" y="60" width="10" height="44" rx="4" fill="#2a8a1a" stroke="#1a1a1a" stroke-width="5" />
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1571" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1571)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

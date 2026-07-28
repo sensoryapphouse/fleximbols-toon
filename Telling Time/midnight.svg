@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#2a3470" />
+<stop offset="1" stop-color="#141a3a" />
+</linearGradient>
+<radialGradient id="moon" cx="0.5" cy="0.5" r="0.5">
+<stop offset="0" stop-color="#fffae6" />
+<stop offset="1" stop-color="#e8d27a" />
+</radialGradient>
+</defs>
+<g transform="translate(-32.81 -86.20) scale(1.213)">
+<g fill="#ffe066" stroke="#1a1a1a" stroke-width="4">
+<polygon points="76,128 84,150 106,152 88,166 94,188 76,176 58,188 64,166 46,152 68,150" />
+<polygon points="306,90 312,108 332,110 316,122 322,142 306,130 290,142 296,122 280,110 300,108" />
+<polygon points="416,160 422,178 442,180 426,192 432,212 416,200 400,212 406,192 390,180 410,178" />
+</g>
+<circle cx="146" cy="160" r="56" fill="url(#moon)" stroke="#1a1a1a" stroke-width="8" />
+<circle cx="160" cy="160" r="44" fill="#2a3470" stroke="none" />
+<circle cx="256" cy="330" r="130" fill="url(#face)" stroke="#1a1a1a" stroke-width="9" />
+<circle cx="256" cy="330" r="110" fill="none" stroke="#1a1a1a" stroke-width="3" />
+<line x1="256" y1="330" x2="256" y2="240" stroke="#1a1a1a" stroke-width="4.1220" stroke-linecap="round" />
+<line x1="256" y1="330" x2="256" y2="248" stroke="#1a1a1a" stroke-width="4.1220" stroke-linecap="round" />
+<circle cx="256" cy="330" r="10" fill="#fff8d8" />
+</g>
+</svg>

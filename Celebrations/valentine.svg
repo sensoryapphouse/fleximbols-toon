@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(4.000 -40.500)">
+  
+  
+  <path d="M256 460 C100 360 56 260 110 180 C150 122 230 122 256 190 C282 122 362 122 402 180 C456 260 412 360 256 460 Z" fill="#ffe1ea" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M256 432 C124 348 88 264 130 200 C162 154 226 154 256 212 C286 154 350 154 382 200 C424 264 388 348 256 432 Z" fill="#ee2a4d" stroke="#1a1a1a" stroke-width="4" />
+
+  
+  <path d="M170 220 Q150 250 162 290 Q172 300 184 290 Q196 268 194 240 Q188 218 170 220 Z" fill="#ff7a92" />
+  <ellipse cx="208" cy="218" rx="10" ry="14" fill="#ffd1dc" />
+
+  
+  <line x1="60" y1="320" x2="452" y2="180" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="60" y1="320" x2="452" y2="180" stroke="#1a1a1a" stroke-width="4" fill="none" stroke-linecap="round" stroke-dasharray="0" />
+
+  
+  <path d="M46 326 Q22 314 30 296 Q44 290 60 308 Z" fill="#ffd23f" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M58 332 Q34 348 22 332 Q30 312 60 320 Z" fill="#ee2a4d" stroke="#1a1a1a" stroke-width="4" />
+
+  
+  <path d="M452 180 L490 170 L470 200 L490 208 L450 198 Z" fill="#ffd23f" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+
+  
+  <circle cx="220" cy="280" r="7" fill="#1a1a1a" />
+  <circle cx="292" cy="280" r="7" fill="#1a1a1a" />
+  <path d="M232 312 Q256 332 280 312" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  
+</g>
+  </svg>

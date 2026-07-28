@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <ellipse cx="118" cy="356" rx="36" ry="22" fill="#65a30d" stroke="#1a1a1a" stroke-width="5" />
+  
+  <ellipse cx="394" cy="356" rx="36" ry="22" fill="#65a30d" stroke="#1a1a1a" stroke-width="5" />
+  
+  <path d="M104 290 L70 274 L92 304 Z" fill="#65a30d" stroke="#1a1a1a" stroke-width="5" />
+  
+  <ellipse cx="256" cy="356" rx="170" ry="38" fill="#a3e635" stroke="#1a1a1a" stroke-width="5" />
+  
+  <path d="M120 300 A140 110 0 0 1 400 300 Z" fill="#15803d" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <g fill="#22c55e" stroke="#1a1a1a" stroke-width="4">
+    <polygon points="256,210 296,232 296,272 256,294 216,272 216,232" />
+    <polygon points="190,242 220,260 220,290 190,300 162,288 162,260" />
+    <polygon points="322,242 350,260 350,288 322,300 292,290 292,260" />
+    <polygon points="186,300 216,300 200,318" />
+    <polygon points="296,300 326,300 312,318" />
+    <polygon points="226,294 286,294 268,310 244,310" />
+  </g>
+  
+  <path d="M120 300 A140 110 0 0 1 400 300" fill="none" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <ellipse cx="416" cy="310" rx="50" ry="42" fill="#84cc16" stroke="#1a1a1a" stroke-width="5" />
+  
+  <circle cx="432" cy="298" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="434" cy="300" r="6" fill="#1f1f1f" />
+  
+  <path d="M438 322 q12 6 22 -2" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <circle cx="418" cy="326" r="5" fill="#f472b6" />
+  
+  <g fill="#1f1f1f">
+    <circle cx="104" cy="372" r="4" />
+    <circle cx="120" cy="376" r="4" />
+    <circle cx="380" cy="372" r="4" />
+    <circle cx="396" cy="376" r="4" />
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-74.886 -90.883) scale(1.1226)">
+  
+  <path d="M120 420 L120 280 Q120 260 140 260 Q160 260 160 280 L160 220 Q160 200 180 200 Q200 200 200 220 L200 280 Q200 220 220 220 Q240 220 240 240 L240 290 Q240 240 260 240 Q280 240 280 260 L280 320 Q280 380 240 410 Q210 430 180 430 Q140 430 120 420 Z" fill="#FFD9B3" stroke="#1a1a1a" stroke-width="4.4539" stroke-linejoin="round" />
+  
+  <circle cx="200" cy="200" r="14" fill="#FF6B6B" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="195" cy="195" r="4" fill="#FFFFFF" />
+  
+  <path d="M230 180 L210 195" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M225 180 L230 180 L230 185" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" fill="none" />
+  <path d="M170 180 L190 195" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M175 180 L170 180 L170 185" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" fill="none" />
+  
+  <rect x="310" y="200" width="160" height="60" rx="12" fill="#FFEC8C" stroke="#1a1a1a" stroke-width="4.4539" />
+  <text x="390" y="244" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="40" font-weight="900" text-anchor="middle" fill="#2A1F12">SMALL</text>
+  
+  <path d="M308 230 L250 215" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+</g>
+  </svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -22.500)">
+  
+  <ellipse cx="256" cy="478" rx="180" ry="14" fill="#9bbf7a" />
+  <path d="M 226 478 L 222 296 L 240 280 L 274 280 L 290 296 L 286 478 Z" fill="#6b4a30" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M 240 380 L 232 320 M 270 380 L 280 320 M 256 440 L 256 350" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M 226 290 Q 200 240 168 200 M 286 290 Q 312 240 344 200 M 256 280 Q 256 220 256 168" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+  <circle cx="256" cy="200" r="120" fill="#4a8a3a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="160" cy="220" r="62" fill="#5fa84a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="352" cy="222" r="62" fill="#5fa84a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="212" cy="118" r="50" fill="#6ec05a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="304" cy="120" r="50" fill="#6ec05a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <g fill="#356b28" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">
+    <ellipse cx="190" cy="240" rx="10" ry="6" transform="rotate(-30 190 240)" />
+    <ellipse cx="320" cy="240" rx="10" ry="6" transform="rotate(30 320 240)" />
+    <ellipse cx="256" cy="160" rx="10" ry="6" />
+    <ellipse cx="232" cy="190" rx="10" ry="6" transform="rotate(-20 232 190)" />
+    <ellipse cx="282" cy="190" rx="10" ry="6" transform="rotate(20 282 190)" />
+    <ellipse cx="180" cy="180" rx="10" ry="6" transform="rotate(-30 180 180)" />
+    <ellipse cx="332" cy="180" rx="10" ry="6" transform="rotate(30 332 180)" />
+  </g>
+  <g fill="#e63946" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round">
+    <path d="M 160 200 Q 144 200 140 214 Q 140 228 148 236 Q 156 244 168 244 Q 184 240 188 224 Q 188 210 180 200 Q 170 198 160 200 Z" />
+    <path d="M 220 256 Q 204 256 200 270 Q 200 284 208 292 Q 216 300 228 300 Q 244 296 248 280 Q 248 266 240 256 Q 230 254 220 256 Z" />
+    <path d="M 296 256 Q 280 256 276 270 Q 276 284 284 292 Q 292 300 304 300 Q 320 296 324 280 Q 324 266 316 256 Q 306 254 296 256 Z" />
+    <path d="M 352 198 Q 336 198 332 212 Q 332 226 340 234 Q 348 242 360 242 Q 376 238 380 222 Q 380 208 372 198 Q 362 196 352 198 Z" />
+    <path d="M 218 154 Q 202 154 198 168 Q 198 182 206 190 Q 214 198 226 198 Q 242 194 246 178 Q 246 164 238 154 Q 228 152 218 154 Z" />
+    <path d="M 296 154 Q 280 154 276 168 Q 276 182 284 190 Q 292 198 304 198 Q 320 194 324 178 Q 324 164 316 154 Q 306 152 296 154 Z" />
+    <path d="M 256 218 Q 240 218 236 232 Q 236 246 244 254 Q 252 262 264 262 Q 280 258 284 242 Q 284 228 276 218 Q 266 216 256 218 Z" />
+    <path d="M 256 90 Q 240 90 236 104 Q 236 118 244 126 Q 252 134 264 134 Q 280 130 284 114 Q 284 100 276 90 Q 266 88 256 90 Z" />
+    <path d="M 156 268 Q 144 268 140 280 Q 140 292 148 300 Q 156 306 168 306 Q 180 304 184 290 Q 184 278 178 270 Q 168 266 156 268 Z" />
+    <path d="M 348 268 Q 336 268 332 280 Q 332 292 340 300 Q 348 306 360 306 Q 372 304 376 290 Q 376 278 370 270 Q 360 266 348 268 Z" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="2.5" fill="#356b28" stroke-linejoin="round">
+    <path d="M 162 196 L 162 184 L 168 184 L 168 198 Z" />
+    <path d="M 222 252 L 222 240 L 228 240 L 228 254 Z" />
+    <path d="M 298 252 L 298 240 L 304 240 L 304 254 Z" />
+    <path d="M 354 194 L 354 184 L 360 184 L 360 196 Z" />
+    <path d="M 220 150 L 220 138 L 226 138 L 226 152 Z" />
+    <path d="M 298 150 L 298 138 L 304 138 L 304 152 Z" />
+    <path d="M 258 214 L 258 202 L 264 202 L 264 216 Z" />
+    <path d="M 258 86 L 258 74 L 264 74 L 264 88 Z" />
+    <path d="M 158 264 L 158 252 L 164 252 L 164 266 Z" />
+    <path d="M 350 264 L 350 252 L 356 252 L 356 266 Z" />
+  </g>
+</g>
+  </svg>

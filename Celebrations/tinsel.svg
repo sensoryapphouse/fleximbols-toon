@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="gSilver" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e8eef5" />
+      <stop offset="100%" stop-color="#8a9aaa" />
+    </linearGradient>
+    <linearGradient id="gGold" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f8e87a" />
+      <stop offset="100%" stop-color="#b08010" />
+    </linearGradient>
+  </defs>
+  
+  <path d="M72,210 Q112,170 152,210 Q192,250 232,210 Q272,170 312,210 Q352,250 392,210 Q432,170 452,198" fill="none" stroke="#1a1a1a" stroke-width="22" stroke-linecap="round" />
+  <path d="M72,210 Q112,170 152,210 Q192,250 232,210 Q272,170 312,210 Q352,250 392,210 Q432,170 452,198" fill="none" stroke="#1a1a1a" stroke-width="22" stroke-linecap="round" opacity="0" />
+  
+  <path d="M72,210 Q112,170 152,210 Q192,250 232,210 Q272,170 312,210 Q352,250 392,210 Q432,170 452,198" fill="none" stroke="#1a1a1a" stroke-width="26" stroke-linecap="round" opacity="1" />
+  <path d="M72,210 Q112,170 152,210 Q192,250 232,210 Q272,170 312,210 Q352,250 392,210 Q432,170 452,198" fill="none" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round" />
+  
+  <path d="M72,204 Q112,164 152,204 Q192,244 232,204 Q272,164 312,204 Q352,244 392,204 Q432,164 452,192" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.55" />
+
+  
+  
+  <line x1="88" y1="222" x2="76" y2="290" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="88" y1="222" x2="76" y2="290" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="76" cy="295" rx="7" ry="10" fill="url(#gSilver)" stroke="#1a1a1a" stroke-width="4" />
+  
+
+  <line x1="108" y1="232" x2="100" y2="316" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="108" y1="232" x2="100" y2="316" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="100" cy="321" rx="6" ry="9" fill="url(#gSilver)" stroke="#1a1a1a" stroke-width="4" />
+  
+
+  
+  <line x1="158" y1="218" x2="148" y2="298" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="158" y1="218" x2="148" y2="298" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="148" cy="303" rx="7" ry="10" fill="url(#gSilver)" stroke="#1a1a1a" stroke-width="4" />
+  
+
+  <line x1="178" y1="228" x2="172" y2="330" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="178" y1="228" x2="172" y2="330" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="172" cy="336" rx="6" ry="9" fill="url(#gSilver)" stroke="#1a1a1a" stroke-width="4" />
+
+  
+  <line x1="238" y1="215" x2="226" y2="308" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="238" y1="215" x2="226" y2="308" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="226" cy="313" rx="7" ry="10" fill="url(#gSilver)" stroke="#1a1a1a" stroke-width="4" />
+  
+
+  <line x1="258" y1="224" x2="250" y2="340" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="258" y1="224" x2="250" y2="340" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="250" cy="346" rx="6" ry="9" fill="url(#gSilver)" stroke="#1a1a1a" stroke-width="4" />
+
+  
+  <line x1="316" y1="218" x2="306" y2="302" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="316" y1="218" x2="306" y2="302" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="306" cy="307" rx="7" ry="10" fill="url(#gSilver)" stroke="#1a1a1a" stroke-width="4" />
+  
+
+  <line x1="338" y1="228" x2="330" y2="318" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="338" y1="228" x2="330" y2="318" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="330" cy="323" rx="6" ry="9" fill="url(#gSilver)" stroke="#1a1a1a" stroke-width="4" />
+
+  
+  <line x1="394" y1="216" x2="384" y2="296" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="394" y1="216" x2="384" y2="296" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="384" cy="301" rx="7" ry="10" fill="url(#gSilver)" stroke="#1a1a1a" stroke-width="4" />
+  
+
+  <line x1="416" y1="208" x2="408" y2="310" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="416" y1="208" x2="408" y2="310" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="408" cy="316" rx="6" ry="9" fill="url(#gSilver)" stroke="#1a1a1a" stroke-width="4" />
+
+  
+  <path d="M130,160 L134,150 L138,160 L148,164 L138,168 L134,178 L130,168 L120,164 Z" fill="#f8e87a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <path d="M290,148 L293,140 L296,148 L304,151 L296,154 L293,162 L290,154 L282,151 Z" fill="#f8e87a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <path d="M420,155 L423,148 L426,155 L433,158 L426,161 L423,168 L420,161 L413,158 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <path d="M200,340 L202,334 L204,340 L210,342 L204,344 L202,350 L200,344 L194,342 Z" fill="#e8eef5" stroke="#1a1a1a" stroke-width="2" stroke-linejoin="round" />
+
+  
+  <path d="M72,310 Q112,270 152,310 Q192,350 232,310 Q272,270 312,310 Q352,350 392,310 Q432,270 452,298" fill="none" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round" />
+  <path d="M72,310 Q112,270 152,310 Q192,350 232,310 Q272,270 312,310 Q352,350 392,310 Q432,270 452,298" fill="none" stroke="#1a1a1a" stroke-width="16" stroke-linecap="round" />
+  <path d="M72,304 Q112,264 152,304 Q192,344 232,304 Q272,264 312,304 Q352,344 392,304 Q432,264 452,292" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" opacity="0.5" />
+
+  
+  <line x1="152" y1="322" x2="142" y2="392" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="152" y1="322" x2="142" y2="392" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="142" cy="397" rx="7" ry="10" fill="url(#gGold)" stroke="#1a1a1a" stroke-width="4" />
+  
+
+  <line x1="256" y1="314" x2="246" y2="400" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="256" y1="314" x2="246" y2="400" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="246" cy="405" rx="7" ry="10" fill="url(#gGold)" stroke="#1a1a1a" stroke-width="4" />
+
+  <line x1="360" y1="322" x2="352" y2="405" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="360" y1="322" x2="352" y2="405" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <ellipse cx="352" cy="410" rx="6" ry="9" fill="url(#gGold)" stroke="#1a1a1a" stroke-width="4" />
+</svg>

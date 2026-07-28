@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -29.750)">
+  
+  
+  <path d="M120 120 Q256 80 392 120 Q412 140 408 180 Q396 200 360 196 Q300 180 256 184 Q212 180 152 196 Q116 200 104 180 Q100 140 120 120 Z" fill="#f7c8a0" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M180 150 Q188 130 196 150 M210 142 Q218 122 226 142 M244 138 Q252 118 260 138 M278 142 Q286 122 294 142 M312 150 Q320 130 328 150" stroke="#1a1a1a" stroke-width="5.0000" fill="none" stroke-linecap="round" />
+
+  
+  <path d="M160 200 Q140 260 150 360 Q160 430 200 460 Q230 472 256 472 Q282 472 312 460 Q352 430 362 360 Q372 260 352 200 Q330 192 310 210 Q282 230 256 230 Q230 230 202 210 Q182 192 160 200 Z" fill="#f0a890" stroke="#1a1a1a" stroke-width="5.0000" />
+
+  
+  <path d="M210 240 Q200 300 210 380 Q220 420 256 430 Q292 420 302 380 Q312 300 302 240 Q290 235 280 250 Q270 270 256 272 Q242 270 232 250 Q222 235 210 240 Z" fill="#e07a8a" stroke="#1a1a1a" stroke-width="5.0000" />
+
+  
+  <ellipse cx="256" cy="370" rx="22" ry="32" fill="#a64458" stroke="#1a1a1a" stroke-width="5.0000" />
+
+  
+  <path d="M236 254 Q256 244 276 254 Q272 270 256 270 Q240 270 236 254 Z" fill="#c45d6f" stroke="#1a1a1a" stroke-width="5.0000" />
+
+  
+  <circle cx="220" cy="155" r="4" fill="#1a1a1a" />
+  <circle cx="292" cy="155" r="4" fill="#1a1a1a" />
+  <path d="M240 170 Q256 178 272 170" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+</g>
+  </svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,58.010) scale(0.8867)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-15.000 36.250)">
+
+
+<rect x="80" y="280" width="280" height="80" rx="20" fill="#c0392b" stroke="#1a1a1a" stroke-width="5.0000" />
+
+<rect x="100" y="295" width="240" height="15" rx="6" fill="#e74c3c" />
+
+<circle cx="120" cy="320" r="8" fill="#bdc3c7" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="320" cy="320" r="8" fill="#bdc3c7" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="220" cy="320" r="6" fill="#7f8c8d" stroke="#1a1a1a" stroke-width="3" />
+
+<path d="M340 320 L460 100 Q470 90 460 80 L450 75 Q440 70 432 80 L320 280 Z" fill="#ecf0f1" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+
+<path d="M340 305 L450 100" stroke="#1a1a1a" stroke-width="5.0000" fill="none" />
+
+<circle cx="340" cy="320" r="12" fill="#7f8c8d" stroke="#1a1a1a" stroke-width="5.0000" />
+<circle cx="340" cy="320" r="4" fill="#1a1a1a" />
+
+<path d="M210 335 L230 335 L230 345 L240 345 L240 355 L230 355 L230 365 L210 365 L210 355 L200 355 L200 345 L210 345 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+</g>
+  </g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl3230" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl3230)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

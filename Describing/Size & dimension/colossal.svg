@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-14.750 -30.000)">
+<defs>
+<linearGradient id="bronze" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#c98b4a" />
+<stop offset="0.5" stop-color="#a05f2c" />
+<stop offset="1" stop-color="#6e3f1c" />
+</linearGradient>
+<linearGradient id="bronzeLight" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#e0a35e" />
+<stop offset="1" stop-color="#9c5e2a" />
+</linearGradient>
+<linearGradient id="plinth" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#a89784" />
+<stop offset="1" stop-color="#5f5142" />
+</linearGradient>
+</defs>
+<g stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round">
+<rect x="180" y="400" width="280" height="50" fill="url(#plinth)" />
+<rect x="200" y="380" width="240" height="25" fill="url(#plinth)" />
+<rect x="250" y="380" width="140" height="20" fill="url(#bronze)" />
+<rect x="260" y="200" width="120" height="180" fill="url(#bronze)" />
+<path d="M260 200 L240 240 L240 350 L260 360 Z" fill="url(#bronzeLight)" />
+<path d="M380 200 L400 240 L400 350 L380 360 Z" fill="url(#bronzeLight)" />
+<circle cx="320" cy="150" r="55" fill="url(#bronze)" />
+<path d="M275 100 Q320 70 365 100 Q372 130 320 130 Q268 130 275 100 Z" fill="url(#bronzeLight)" />
+<circle cx="305" cy="155" r="5" fill="#2b2622" />
+<circle cx="335" cy="155" r="5" fill="#2b2622" />
+<path d="M310 175 Q320 180 330 175" fill="none" stroke-width="5" />
+<path d="M240 220 Q210 240 200 290 Q198 320 220 330 L240 320" fill="url(#bronze)" />
+<path d="M400 220 Q430 240 440 290 Q442 320 420 330 L400 320" fill="url(#bronze)" />
+<rect x="290" y="380" width="20" height="18" fill="url(#bronzeLight)" />
+<rect x="330" y="380" width="20" height="18" fill="url(#bronzeLight)" />
+<circle cx="100" cy="410" r="18" fill="#ffd1b3" />
+<rect x="82" y="420" width="36" height="50" fill="#c44545" />
+<rect x="82" y="465" width="36" height="22" fill="#2b3856" />
+<rect x="88" y="403" width="24" height="6" fill="#2b2622" />
+</g>
+</g>
+  </svg>

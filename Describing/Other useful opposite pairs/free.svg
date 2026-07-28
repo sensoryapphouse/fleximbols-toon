@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-73.579 -55.133) scale(1.2298)">
+  <g transform="translate(0 0) scale(0.6250)">
+<defs>
+<linearGradient id="e0_bg" x1="0" x2="0" y1="0" y2="1">
+<stop offset="0" stop-color="#ffe6ee" />
+<stop offset="1" stop-color="#ffb6c8" />
+</linearGradient>
+</defs>
+<g transform="translate(171.37 122.74) scale(0.632)">
+<circle cx="256" cy="256" r="220" fill="url(#e0_bg)" stroke="#1a1a1a" stroke-width="4" />
+<g transform="rotate(-18 256 280)">
+<path d="M118 200 l54 -54 q10 -10 24 -10 h208 q16 0 16 16 v168 q0 16 -16 16 h-208 q-14 0 -24 -10 l-54 -54 q-14 -14 0 -28 z" fill="#ffc850" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+<circle cx="170" cy="232" r="20" fill="#fff5dc" stroke="#1a1a1a" stroke-width="4" />
+<circle cx="170" cy="232" r="8" fill="#2b2622" />
+<g stroke="#1a1a1a" stroke-width="4">
+<line x1="230" y1="260" x2="230" y2="298" />
+<line x1="240" y1="260" x2="240" y2="298" />
+<line x1="252" y1="260" x2="252" y2="298" />
+<line x1="264" y1="260" x2="264" y2="298" />
+<line x1="276" y1="260" x2="276" y2="298" />
+<line x1="290" y1="260" x2="290" y2="298" />
+<line x1="302" y1="260" x2="302" y2="298" />
+<line x1="314" y1="260" x2="314" y2="298" />
+<line x1="328" y1="260" x2="328" y2="298" />
+<line x1="340" y1="260" x2="340" y2="298" />
+</g>
+</g>
+<path d="M134 86 q44 32 44 86" stroke="#1a1a1a" stroke-width="4" fill="none" stroke-linecap="round" />
+<circle cx="134" cy="86" r="10" fill="#2b2622" />
+</g></g>
+  <g transform="translate(192 192) scale(0.4375)">
+<svg viewBox="0 0 128 128" width="512" height="512" preserveAspectRatio="xMidYMid meet"><path d="M116 128H12c-6.6 0-12-5.4-12-12V12C0 5.4 5.4 0 12 0h104c6.6 0 12 5.4 12 12v104c0 6.6-5.4 12-12 12z" fill="#18B8FF" stroke="#1a1a1a" stroke-width="9.2930" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /><path d="M124.48 3.52L3.52 124.48C5.7 126.65 8.7 128 12 128h104c6.6 0 12-5.4 12-12V12c0-3.3-1.35-6.3-3.52-8.48z" fill="#1878FF" stroke="#1a1a1a" stroke-width="9.2930" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /><path d="M112 101c0 6.63-5.37 12-12 12H27.89c-6.6 0-12-5.4-12-12V28.9c0-6.6 5.4-12 12-12H100c6.63 0 12 5.37 12 12z" fill="#18A2FF" stroke="#1a1a1a" stroke-width="9.2930" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /><text x="65.201" y="99.084" font-weight="400" font-size="20.579" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" letter-spacing="0" word-spacing="0" text-anchor="middle" fill="#FFFFFF" stroke-width="9.2930"><tspan x="65.201" y="99.084" font-weight="700" font-size="105.834" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif">0</tspan></text></svg></g>
+</g>
+  </svg>

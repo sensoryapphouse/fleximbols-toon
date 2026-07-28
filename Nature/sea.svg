@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <path d="M30 200 Q90 150 150 200 T270 200 T390 200 T490 200 L490 260 Q430 220 370 260 T250 260 T130 260 T30 260 Z" fill="#1e90ff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M30 280 Q90 230 150 280 T270 280 T390 280 T490 280 L490 340 Q430 300 370 340 T250 340 T130 340 T30 340 Z" fill="#3aaaff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M30 360 Q90 310 150 360 T270 360 T390 360 T490 360 L490 480 L30 480 Z" fill="#5dc1ff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M120 180 Q140 160 160 180" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <path d="M260 180 Q280 160 300 180" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <path d="M400 180 Q420 160 440 180" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <circle cx="420" cy="100" r="42" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5.0000" />
+  <g stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round">
+    <line x1="420" y1="30" x2="420" y2="50" />
+    <line x1="420" y1="150" x2="420" y2="170" />
+    <line x1="350" y1="100" x2="370" y2="100" />
+    <line x1="470" y1="100" x2="490" y2="100" />
+    <line x1="370" y1="50" x2="382" y2="62" />
+    <line x1="458" y1="138" x2="470" y2="150" />
+    <line x1="370" y1="150" x2="382" y2="138" />
+    <line x1="458" y1="62" x2="470" y2="50" />
+  </g>
+</svg>

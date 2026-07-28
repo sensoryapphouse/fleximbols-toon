@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <ellipse cx="256" cy="400" rx="200" ry="40" fill="#cfe9f5" stroke="#1a1a1a" stroke-width="5.0000" />
+  <ellipse cx="256" cy="392" rx="200" ry="40" fill="#e8f4fb" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  
+  <polygon points="160,200 256,160 352,200 256,240" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <polygon points="160,200 256,240 256,360 160,320" fill="#f0f0f0" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <polygon points="352,200 256,240 256,360 352,320" fill="#e0e0e0" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <polygon points="320,240 380,220 420,240 360,260" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <polygon points="360,260 420,240 420,300 360,320" fill="#e0e0e0" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M 130 180 Q 150 160 170 180" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <path d="M 140 192 Q 160 172 180 192" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  
+  <path d="M 220 130 Q 230 110 220 90 Q 210 70 220 50" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <path d="M 290 130 Q 300 110 290 90 Q 280 70 290 50" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+</svg>

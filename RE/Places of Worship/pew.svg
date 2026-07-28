@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Church pew — wooden bench -->
+  <!-- Back panel -->
+  <rect x="72" y="160" width="368" height="130" rx="8" fill="#8b5a2b" stroke="#1a1a1a" stroke-width="5" />
+  <!-- Back panel top rail (capping) -->
+  <rect x="68" y="155" width="376" height="22" rx="7" fill="#a06a3b" stroke="#1a1a1a" stroke-width="5" />
+  <!-- Back panel vertical grain lines -->
+  <line x1="148" y1="178" x2="148" y2="290" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="10,6" opacity="0.4" />
+  <line x1="224" y1="178" x2="224" y2="290" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="10,6" opacity="0.4" />
+  <line x1="300" y1="178" x2="300" y2="290" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="10,6" opacity="0.4" />
+  <line x1="376" y1="178" x2="376" y2="290" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="10,6" opacity="0.4" />
+  <!-- Seat board -->
+  <rect x="68" y="285" width="376" height="30" rx="6" fill="#a06a3b" stroke="#1a1a1a" stroke-width="5" />
+  <!-- Seat underside apron -->
+  <rect x="80" y="315" width="352" height="18" rx="4" fill="#7a4a22" stroke="#1a1a1a" stroke-width="4" />
+  <!-- Left leg -->
+  <rect x="88" y="333" width="36" height="110" rx="6" fill="#8b5a2b" stroke="#1a1a1a" stroke-width="5" />
+  <!-- Right leg -->
+  <rect x="388" y="333" width="36" height="110" rx="6" fill="#8b5a2b" stroke="#1a1a1a" stroke-width="5" />
+  <!-- Left foot pad -->
+  <ellipse cx="106" cy="443" rx="26" ry="8" fill="#5a3010" stroke="#1a1a1a" stroke-width="4" />
+  <!-- Right foot pad -->
+  <ellipse cx="406" cy="443" rx="26" ry="8" fill="#5a3010" stroke="#1a1a1a" stroke-width="4" />
+  <!-- Armrest / end panel left -->
+  <path d="M72 160 Q60 160 60 180 L60 305 Q60 315 72 315" fill="#9a6030" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <!-- Armrest / end panel right -->
+  <path d="M440 160 Q452 160 452 180 L452 305 Q452 315 440 315" fill="#9a6030" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+</svg>

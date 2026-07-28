@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+  <!-- Leggings: flat-lay garment view, dark navy, waistband at top, two leg tubes -->
+
+  <!-- Left leg tube -->
+  <path d="
+    M 154 170
+    Q 148 270 140 360
+    Q 136 410 138 460
+    Q 138 472 150 474
+    Q 162 476 168 466
+    Q 174 450 178 410
+    Q 188 350 196 280
+    Q 204 220 210 180
+    Z"
+    fill="#1c2a4a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Right leg tube -->
+  <path d="
+    M 358 170
+    Q 364 270 372 360
+    Q 376 410 374 460
+    Q 374 472 362 474
+    Q 350 476 344 466
+    Q 338 450 334 410
+    Q 324 350 316 280
+    Q 308 220 302 180
+    Z"
+    fill="#1c2a4a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Crotch gusset connecting the two legs -->
+  <path d="
+    M 210 180
+    Q 218 230 232 248
+    Q 244 260 256 260
+    Q 268 260 280 248
+    Q 294 230 302 180
+    Z"
+    fill="#1c2a4a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Waistband -->
+  <rect x="142" y="138" width="228" height="44" rx="10" ry="10"
+    fill="#14203a" stroke="#1a1a1a" stroke-width="5"/>
+
+  <!-- Waistband fold/highlight line -->
+  <line x1="150" y1="158" x2="362" y2="158"
+    stroke="#2a3d6a" stroke-width="3" stroke-linecap="round" opacity="0.8"/>
+
+  <!-- Subtle seam line down left leg -->
+  <path d="M 182 182 Q 178 290 172 400 Q 168 435 166 462"
+    fill="none" stroke="#253660" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+
+  <!-- Subtle seam line down right leg -->
+  <path d="M 330 182 Q 334 290 340 400 Q 344 435 346 462"
+    fill="none" stroke="#253660" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+
+  <!-- Ankle cuffs / hem bands -->
+  <!-- Left ankle -->
+  <path d="M 138 452 Q 138 474 150 474 Q 162 476 168 466 Q 172 458 174 452 Z"
+    fill="#14203a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+
+  <!-- Right ankle -->
+  <path d="M 374 452 Q 374 474 362 474 Q 350 476 344 466 Q 340 458 338 452 Z"
+    fill="#14203a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+
+</svg>

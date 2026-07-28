@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="0" y="340" width="512" height="172" fill="#3a7ab8" />
+  <path d="M0 340 Q 60 332 120 340 T 240 340 T 360 340 T 480 340 L 512 340 L 512 360 L 0 360 Z" fill="#2f6aa3" />
+  <path d="M0 390 Q 80 384 160 390 T 320 390 T 480 390 L 512 390 L 512 405 L 0 405 Z" fill="#4f8cc9" />
+  
+  <path d="M16 320 L 492 320 L 466 410 L 42 410 Z" fill="#1a2e6a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="18" y="318" width="474" height="6" fill="#e8e0c4" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="32" y="386" width="430" height="10" fill="#8a1a1a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  
+  <g stroke="#1a1a1a" stroke-width="5.0000">
+    <rect x="50" y="280" width="38" height="38" fill="#d63a2a" />
+    <rect x="90" y="280" width="38" height="38" fill="#2c8acc" />
+    <rect x="130" y="280" width="38" height="38" fill="#1a8a4a" />
+    <rect x="170" y="280" width="38" height="38" fill="#e2a01a" />
+    <rect x="210" y="280" width="38" height="38" fill="#d63a2a" />
+    <rect x="250" y="280" width="38" height="38" fill="#2c8acc" />
+    <rect x="290" y="280" width="38" height="38" fill="#e2a01a" />
+    <rect x="330" y="280" width="38" height="38" fill="#1a8a4a" />
+    <rect x="370" y="280" width="38" height="38" fill="#d63a2a" />
+  </g>
+  
+  <g stroke="#1a1a1a" stroke-width="5.0000">
+    <line x1="82" y1="282" x2="82" y2="316" />
+    <line x1="122" y1="282" x2="122" y2="316" />
+    <line x1="162" y1="282" x2="162" y2="316" />
+    <line x1="202" y1="282" x2="202" y2="316" />
+    <line x1="242" y1="282" x2="242" y2="316" />
+    <line x1="282" y1="282" x2="282" y2="316" />
+    <line x1="322" y1="282" x2="322" y2="316" />
+    <line x1="362" y1="282" x2="362" y2="316" />
+    <line x1="402" y1="282" x2="402" y2="316" />
+  </g>
+  
+  <g stroke="#1a1a1a" stroke-width="5.0000">
+    <rect x="60" y="240" width="38" height="38" fill="#e2a01a" />
+    <rect x="100" y="240" width="38" height="38" fill="#d63a2a" />
+    <rect x="140" y="240" width="38" height="38" fill="#2c8acc" />
+    <rect x="180" y="240" width="38" height="38" fill="#1a8a4a" />
+    <rect x="220" y="240" width="38" height="38" fill="#e2a01a" />
+    <rect x="260" y="240" width="38" height="38" fill="#2c8acc" />
+    <rect x="300" y="240" width="38" height="38" fill="#d63a2a" />
+    <rect x="340" y="240" width="38" height="38" fill="#1a8a4a" />
+    <rect x="380" y="240" width="38" height="38" fill="#e2a01a" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="5.0000">
+    <line x1="92" y1="242" x2="92" y2="276" />
+    <line x1="132" y1="242" x2="132" y2="276" />
+    <line x1="172" y1="242" x2="172" y2="276" />
+    <line x1="212" y1="242" x2="212" y2="276" />
+    <line x1="252" y1="242" x2="252" y2="276" />
+    <line x1="292" y1="242" x2="292" y2="276" />
+    <line x1="332" y1="242" x2="332" y2="276" />
+    <line x1="372" y1="242" x2="372" y2="276" />
+    <line x1="412" y1="242" x2="412" y2="276" />
+  </g>
+  
+  <g stroke="#1a1a1a" stroke-width="5.0000">
+    <rect x="80" y="200" width="38" height="38" fill="#1a8a4a" />
+    <rect x="120" y="200" width="38" height="38" fill="#e2a01a" />
+    <rect x="160" y="200" width="38" height="38" fill="#d63a2a" />
+    <rect x="200" y="200" width="38" height="38" fill="#2c8acc" />
+    <rect x="240" y="200" width="38" height="38" fill="#1a8a4a" />
+    <rect x="280" y="200" width="38" height="38" fill="#e2a01a" />
+    <rect x="320" y="200" width="38" height="38" fill="#d63a2a" />
+    <rect x="360" y="200" width="38" height="38" fill="#2c8acc" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="5.0000">
+    <line x1="112" y1="202" x2="112" y2="236" />
+    <line x1="152" y1="202" x2="152" y2="236" />
+    <line x1="192" y1="202" x2="192" y2="236" />
+    <line x1="232" y1="202" x2="232" y2="236" />
+    <line x1="272" y1="202" x2="272" y2="236" />
+    <line x1="312" y1="202" x2="312" y2="236" />
+    <line x1="352" y1="202" x2="352" y2="236" />
+    <line x1="392" y1="202" x2="392" y2="236" />
+  </g>
+  
+  <g stroke="#1a1a1a" stroke-width="5.0000">
+    <rect x="120" y="160" width="38" height="38" fill="#d63a2a" />
+    <rect x="160" y="160" width="38" height="38" fill="#2c8acc" />
+    <rect x="200" y="160" width="38" height="38" fill="#e2a01a" />
+    <rect x="240" y="160" width="38" height="38" fill="#1a8a4a" />
+    <rect x="280" y="160" width="38" height="38" fill="#d63a2a" />
+    <rect x="320" y="160" width="38" height="38" fill="#2c8acc" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="5.0000">
+    <line x1="152" y1="162" x2="152" y2="196" />
+    <line x1="192" y1="162" x2="192" y2="196" />
+    <line x1="232" y1="162" x2="232" y2="196" />
+    <line x1="272" y1="162" x2="272" y2="196" />
+    <line x1="312" y1="162" x2="312" y2="196" />
+    <line x1="352" y1="162" x2="352" y2="196" />
+  </g>
+  
+  <rect x="420" y="250" width="50" height="68" fill="#f0ece0" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="430" y="262" width="11" height="12" fill="#7fb8d8" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="449" y="262" width="11" height="12" fill="#7fb8d8" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="430" y="285" width="11" height="12" fill="#7fb8d8" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="449" y="285" width="11" height="12" fill="#7fb8d8" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="430" y="225" width="32" height="25" fill="#dcd6c0" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="437" y="232" width="9" height="12" fill="#7fb8d8" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="450" y="232" width="9" height="12" fill="#7fb8d8" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="438" y="190" width="16" height="38" fill="#d63a2a" stroke="#1a1a1a" stroke-width="5.0000" />
+</svg>

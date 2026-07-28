@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-3.750 -12.750)">
+  
+  
+  <path d="M256 410 C 256 410 80 300 80 196 C 80 140 124 96 180 96 C 218 96 244 116 256 144 C 268 116 294 96 332 96 C 388 96 432 140 432 196 C 432 300 256 410 256 410 Z" fill="#ff3b6e" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  
+  
+  
+  <path d="M80 110 C 80 110 60 96 60 80 C 60 70 68 62 78 62 C 84 62 88 66 90 70 C 92 66 96 62 102 62 C 112 62 120 70 120 80 C 120 96 100 110 100 110 Z" fill="#ff8fb1" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M420 90 C 420 90 400 76 400 60 C 400 50 408 42 418 42 C 424 42 428 46 430 50 C 432 46 436 42 442 42 C 452 42 460 50 460 60 C 460 76 440 90 440 90 Z" fill="#ff8fb1" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="116" y="430" width="280" height="64" rx="14" ry="14" fill="#ffd23f" stroke="#1a1a1a" stroke-width="4" />
+  <text x="256" y="475" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="48" font-weight="900" text-anchor="middle" fill="#1a1a1a">LOVE</text>
+</g>
+  </svg>

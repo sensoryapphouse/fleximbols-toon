@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-130.654 -121.043) scale(1.4786)">
+  
+  
+  <path d="M138 138 L374 138 Q384 138 384 148 L384 374 Q384 384 374 384 L138 384 Q128 384 128 374 L128 148 Q128 138 138 138 Z" fill="#7ac4a0" stroke="#1a1a1a" stroke-width="3.3816" />
+  
+  <path d="M156 156 L366 156 L366 366 L156 366 Z" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="8 6" />
+  
+  <g stroke="#1a1a1a" stroke-width="3" fill="none">
+    <line x1="170" y1="178" x2="350" y2="178" />
+    <line x1="170" y1="208" x2="350" y2="208" />
+    <line x1="170" y1="238" x2="350" y2="238" />
+    <line x1="170" y1="268" x2="350" y2="268" />
+    <line x1="170" y1="298" x2="350" y2="298" />
+    <line x1="170" y1="328" x2="350" y2="328" />
+    <line x1="184" y1="170" x2="184" y2="346" />
+    <line x1="214" y1="170" x2="214" y2="346" />
+    <line x1="244" y1="170" x2="244" y2="346" />
+    <line x1="274" y1="170" x2="274" y2="346" />
+    <line x1="304" y1="170" x2="304" y2="346" />
+    <line x1="334" y1="170" x2="334" y2="346" />
+  </g>
+  
+  <path d="M138 138 L186 138 L138 186 Z" fill="#a3dcbf" opacity="0.8" />
+  <path d="M138 138 L186 138 L138 186 Z" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="384" cy="138" r="14" fill="none" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="384" cy="138" r="14" fill="#7ac4a0" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="384" cy="138" r="6" fill="none" stroke="#1a1a1a" stroke-width="3" />
+</g>
+  </svg>

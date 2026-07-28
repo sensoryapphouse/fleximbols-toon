@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="play-wall" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#e0f0d8" />
+<stop offset="1" stop-color="#b4dcc0" />
+</linearGradient>
+<linearGradient id="play-floor" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#d8b88e" />
+<stop offset="1" stop-color="#a87a4a" />
+</linearGradient>
+</defs>
+<g stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round">
+<rect x="40" y="40" width="432" height="432" rx="18" fill="url(#play-wall)" />
+<rect x="40" y="356" width="432" height="116" fill="url(#play-floor)" />
+<line x1="40" y1="356" x2="472" y2="356" stroke-width="6" />
+<rect x="60" y="80" width="60" height="60" fill="#d76a64" />
+<rect x="130" y="80" width="60" height="60" fill="#7fb8e0" />
+<rect x="200" y="80" width="60" height="60" fill="#f7d05a" />
+<rect x="306" y="80" width="146" height="172" rx="6" fill="#fbf3df" />
+<line x1="306" y1="130" x2="452" y2="130" stroke-width="5" />
+<line x1="306" y1="186" x2="452" y2="186" stroke-width="5" />
+<rect x="318" y="92" width="22" height="32" fill="#d76a64" />
+<rect x="346" y="96" width="20" height="28" fill="#7fb8e0" />
+<rect x="372" y="92" width="26" height="32" fill="#9cd083" />
+<rect x="406" y="98" width="32" height="26" fill="#f7a64a" />
+<circle cx="332" cy="160" r="14" fill="#f4a04a" />
+<rect x="354" y="146" width="40" height="32" fill="#d76a64" />
+<rect x="402" y="142" width="42" height="40" fill="#7e4ea4" rx="6" />
+<rect x="318" y="200" width="44" height="38" fill="#3d6da8" />
+<rect x="372" y="198" width="34" height="40" fill="#f7d05a" />
+<rect x="414" y="200" width="32" height="38" fill="#9cd083" />
+<rect x="86" y="296" width="180" height="56" rx="22" fill="#f4a04a" />
+<line x1="86" y1="324" x2="266" y2="324" stroke-width="4" stroke-dasharray="10 10" />
+<rect x="120" y="232" width="40" height="68" fill="#d76a64" rx="6" />
+<circle cx="140" cy="222" r="22" fill="#ffd8b8" stroke-width="6" />
+<circle cx="134" cy="220" r="2.5" fill="#2b2622" stroke="none" />
+<circle cx="146" cy="220" r="2.5" fill="#2b2622" stroke="none" />
+<path d="M134,228 Q140,234 146,228" fill="none" stroke-width="3" />
+<circle cx="106" cy="352" r="22" fill="#2b2622" />
+<circle cx="106" cy="352" r="9" fill="#fbf3df" />
+<circle cx="240" cy="352" r="22" fill="#2b2622" />
+<circle cx="240" cy="352" r="9" fill="#fbf3df" />
+<path d="M268,332 L308,300 L320,340 Z" fill="#9cd083" />
+<rect x="290" y="332" width="56" height="36" fill="#7e4ea4" rx="6" />
+<circle cx="312" cy="368" r="14" fill="#2b2622" />
+<circle cx="312" cy="368" r="6" fill="#fbf3df" />
+<rect x="370" y="284" width="84" height="68" fill="#7fb46c" rx="6" />
+<circle cx="386" cy="306" r="10" fill="#ffffff" />
+<circle cx="386" cy="306" r="4" fill="#2b2622" stroke="none" />
+<circle cx="412" cy="306" r="10" fill="#ffffff" />
+<circle cx="412" cy="306" r="4" fill="#2b2622" stroke="none" />
+<path d="M386,334 Q412,348 438,334" fill="none" stroke-width="4" />
+</g>
+</svg>

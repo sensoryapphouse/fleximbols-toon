@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-49.750 3.750)">
+  
+  
+  <line x1="120" y1="100" x2="360" y2="340" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <rect x="115" y="95" width="240" height="22" rx="8" fill="#8B5A2B" stroke="#1a1a1a" stroke-width="5.0000" transform="rotate(45 235 106)" />
+  
+  <line x1="160" y1="135" x2="320" y2="295" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="345" cy="335" rx="32" ry="22" fill="#C9A55C" stroke="#1a1a1a" stroke-width="5.0000" transform="rotate(45 345 335)" />
+  <line x1="328" y1="318" x2="370" y2="360" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <line x1="338" y1="308" x2="380" y2="350" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <path d="M 320 350 L 240 480 L 320 460 L 290 490 L 360 470 L 340 495 L 410 470 L 395 495 L 470 460 L 450 480 L 470 430 L 440 440 L 460 380 Z" fill="#E8A33D" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <line x1="340" y1="380" x2="295" y2="475" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <line x1="370" y1="395" x2="345" y2="480" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <line x1="400" y1="400" x2="395" y2="485" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <line x1="430" y1="395" x2="440" y2="478" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <line x1="450" y1="385" x2="465" y2="460" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+</g>
+  </svg>

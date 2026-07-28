@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-52.035 -24.032) scale(1.2044)">
+  <defs>
+    <linearGradient id="gCap" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#3a3030" /><stop offset="100%" stop-color="#1a1515" /></linearGradient>
+    <linearGradient id="gBoard" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#4a4040" /><stop offset="100%" stop-color="#2b2622" /></linearGradient>
+  </defs>
+  
+  <polygon points="256,118 430,208 256,268 82,208" fill="url(#gBoard)" stroke="#1a1a1a" stroke-width="4.1514" stroke-linejoin="round" stroke-linecap="round" />
+  
+  <polygon points="256,125 380,200 310,222 195,175" fill="#ffffff" opacity="0.12" />
+  
+  <path d="M156 230 Q156 330 256 345 Q356 330 356 230 L256 268 Z" fill="url(#gCap)" stroke="#1a1a1a" stroke-width="4.1514" stroke-linejoin="round" />
+  
+  <path d="M256 268 L356 230 Q356 310 310 335 Q280 345 256 345 Z" fill="#111010" opacity="0.4" />
+  
+  <path d="M170 238 Q200 228 240 232 Q220 260 185 265 Z" fill="#ffffff" opacity="0.18" />
+  
+  <circle cx="256" cy="190" r="14" fill="#f8c531" stroke="#1a1a1a" stroke-width="6" />
+  
+  <line x1="256" y1="204" x2="340" y2="260" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <line x1="340" y1="260" x2="340" y2="350" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  
+  <line x1="322" y1="350" x2="322" y2="390" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <line x1="332" y1="348" x2="330" y2="392" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <line x1="340" y1="350" x2="340" y2="395" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <line x1="348" y1="348" x2="350" y2="392" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <line x1="358" y1="350" x2="358" y2="390" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <rect x="318" y="346" width="44" height="10" rx="4" fill="#e0a417" stroke="#1a1a1a" stroke-width="4" />
+</g>
+  </svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g stroke="#1a1a1a" stroke-linejoin="round" stroke-linecap="round">
+
+    <!-- Snake body — thick curving path with fill, rendered as two parallel paths for body volume -->
+    <!-- Outer (darker) body for depth -->
+    <path d="M 60 390
+             C 80 380 110 340 130 300
+             C 150 260 140 220 180 200
+             C 220 180 260 200 290 180
+             C 320 160 340 120 380 110
+             C 410 102 440 114 455 140
+             C 462 158 458 180 446 194"
+          fill="none" stroke="#2a7a2a" stroke-width="38" stroke-linecap="round"/>
+
+    <!-- Main body fill -->
+    <path d="M 60 390
+             C 80 380 110 340 130 300
+             C 150 260 140 220 180 200
+             C 220 180 260 200 290 180
+             C 320 160 340 120 380 110
+             C 410 102 440 114 455 140
+             C 462 158 458 180 446 194"
+          fill="none" stroke="#4aaa4a" stroke-width="28" stroke-linecap="round"/>
+
+    <!-- Belly stripe (lighter underside) -->
+    <path d="M 64 386
+             C 82 377 112 338 132 298
+             C 152 258 142 218 180 198
+             C 218 178 258 198 288 178
+             C 318 158 338 118 378 108
+             C 406 100 436 112 451 137
+             C 458 154 454 176 443 190"
+          fill="none" stroke="#c8e8a0" stroke-width="10" stroke-linecap="round" stroke-dasharray="18 12"/>
+
+    <!-- Body scale pattern dots -->
+    <circle cx="110" cy="340" r="5" fill="#2a6a2a" stroke-width="2"/>
+    <circle cx="136" cy="308" r="5" fill="#2a6a2a" stroke-width="2"/>
+    <circle cx="148" cy="268" r="5" fill="#2a6a2a" stroke-width="2"/>
+    <circle cx="168" cy="232" r="5" fill="#2a6a2a" stroke-width="2"/>
+    <circle cx="200" cy="196" r="5" fill="#2a6a2a" stroke-width="2"/>
+    <circle cx="236" cy="186" r="5" fill="#2a6a2a" stroke-width="2"/>
+    <circle cx="268" cy="182" r="5" fill="#2a6a2a" stroke-width="2"/>
+    <circle cx="302" cy="172" r="5" fill="#2a6a2a" stroke-width="2"/>
+    <circle cx="334" cy="150" r="5" fill="#2a6a2a" stroke-width="2"/>
+    <circle cx="366" cy="122" r="5" fill="#2a6a2a" stroke-width="2"/>
+    <circle cx="400" cy="110" r="5" fill="#2a6a2a" stroke-width="2"/>
+    <circle cx="432" cy="122" r="5" fill="#2a6a2a" stroke-width="2"/>
+
+    <!-- Outline stroke on top of body -->
+    <path d="M 60 390
+             C 80 380 110 340 130 300
+             C 150 260 140 220 180 200
+             C 220 180 260 200 290 180
+             C 320 160 340 120 380 110
+             C 410 102 440 114 455 140
+             C 462 158 458 180 446 194"
+          fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+
+    <!-- Snake head (at the end near 446,194) -->
+    <ellipse cx="432" cy="202" rx="28" ry="20" fill="#4aaa4a" stroke-width="5" transform="rotate(-35 432 202)"/>
+    <!-- Head outline -->
+    <ellipse cx="432" cy="202" rx="28" ry="20" fill="none" stroke="#1a1a1a" stroke-width="5" transform="rotate(-35 432 202)"/>
+    <!-- Eye -->
+    <circle cx="442" cy="192" r="7" fill="#f8f800" stroke-width="4"/>
+    <circle cx="443" cy="192" r="3" fill="#1a1a1a" stroke="none"/>
+    <!-- Nostril -->
+    <circle cx="450" cy="187" r="2.5" fill="#1a1a1a" stroke="none"/>
+    <!-- Forked tongue -->
+    <path d="M 455 196 L 472 192 M 472 192 L 480 186 M 472 192 L 480 198"
+          fill="none" stroke="#cc2222" stroke-width="4" stroke-linecap="round"/>
+
+    <!-- Tail tip -->
+    <path d="M 60 390 Q 46 400 40 420 Q 38 434 48 438" fill="none" stroke="#4aaa4a" stroke-width="20" stroke-linecap="round"/>
+    <path d="M 60 390 Q 46 400 40 420 Q 38 434 48 438" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+    <!-- Tail point -->
+    <path d="M 48 438 Q 54 448 52 456" fill="none" stroke="#4aaa4a" stroke-width="10" stroke-linecap="round"/>
+    <path d="M 48 438 Q 54 448 52 456" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+
+  </g>
+</svg>

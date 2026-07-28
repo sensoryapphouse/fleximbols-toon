@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="bbBowl" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e8ecf0" />
+      <stop offset="100%" stop-color="#7c848c" />
+    </linearGradient>
+    <linearGradient id="whiskMetal" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e4e8ec" />
+      <stop offset="100%" stop-color="#7c848c" />
+    </linearGradient>
+    <linearGradient id="whiskHandle" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#5a606a" />
+      <stop offset="100%" stop-color="#2a2e34" />
+    </linearGradient>
+    <linearGradient id="froth" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#fff4d8" />
+    </linearGradient>
+  </defs>
+  
+  <ellipse cx="256" cy="290" rx="170" ry="34" fill="#4a505a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M86,290 Q86,432 196,464 Q256,476 316,464 Q426,432 426,290" fill="url(#bbBowl)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <ellipse cx="256" cy="290" rx="170" ry="34" fill="none" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M100,290 Q100,260 130,256 Q155,250 170,260 Q190,240 220,250 Q240,228 270,242 Q295,224 325,240 Q350,228 380,250 Q410,256 412,290 Q400,304 256,304 Q112,304 100,290 Z" fill="url(#froth)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  
+  <circle cx="150" cy="220" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="200" cy="190" r="11" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="120" cy="180" r="9" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="380" cy="210" r="13" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="420" cy="180" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="172" cy="250" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="350" cy="240" r="8" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
+  
+  <g transform="rotate(14 280 230)">
+    
+    <rect x="270" y="40" width="26" height="120" rx="12" fill="url(#whiskHandle)" stroke="#1a1a1a" stroke-width="7" />
+    <ellipse cx="283" cy="40" rx="14" ry="8" fill="#1a1c20" stroke="#1a1a1a" stroke-width="5" />
+    
+    <rect x="276" y="160" width="14" height="14" fill="#5a606a" stroke="#1a1a1a" stroke-width="5" />
+    
+    <path d="M283,174 Q180,240 180,330 Q180,400 283,410 Q386,400 386,330 Q386,240 283,174" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+    <path d="M283,174 Q220,250 220,335 Q220,395 283,410 Q346,395 346,335 Q346,250 283,174" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+    <path d="M283,174 Q260,260 260,340 Q260,398 283,410 Q306,398 306,340 Q306,260 283,174" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+    <path d="M186,320 Q283,360 380,320" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  </g>
+  
+  <path d="M70,140 L100,120 L78,158 L108,142" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M420,140 L450,120 L428,158 L458,142" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <path d="M60,260 L90,256" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M450,260 L420,256" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M70,308 L100,308" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M442,308 L412,308" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <path d="M380 80 Q420 100 410 200 Q396 300 320 380 Q260 432 180 432 Q220 360 280 320 Q340 280 360 200 Q370 140 380 80 Z" fill="#5BA8D6" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <path d="M370 110 Q396 140 388 200 Q374 280 318 348 Q272 388 220 408 Q260 348 308 308 Q346 268 358 200 Q364 150 370 110 Z" fill="#9CD0EA" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M380 80 Q300 220 200 432" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <path d="M360 140 L320 130" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M348 180 L298 168" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M332 220 L274 206" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M312 260 L250 246" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M288 300 L222 286" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M262 340 L196 332" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <line x1="200" y1="432" x2="170" y2="470" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <path d="M100 200 Q120 210 100 230" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M80 280 Q100 290 80 310" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M440 320 Q420 330 440 350" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+</svg>

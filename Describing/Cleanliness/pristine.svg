@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 46.250)">
+<defs>
+<linearGradient id="skyP" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#bde6f5" />
+<stop offset="1" stop-color="#e8f5fc" />
+</linearGradient>
+<linearGradient id="snowP" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" />
+<stop offset="1" stop-color="#dde9f2" />
+</linearGradient>
+</defs>
+<rect x="40" y="60" width="432" height="280" rx="20" fill="url(#skyP)" stroke="#1a1a1a" stroke-width="5.0000" />
+<circle cx="400" cy="120" r="28" fill="#fff5b8" stroke="#1a1a1a" stroke-width="7" />
+<path d="M 60 280 L 160 170 L 230 240 L 300 160 L 380 240 L 452 200 L 452 320 L 60 320 Z" fill="#cfd9e6" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+<path d="M 60 280 L 160 170 L 200 210 L 130 280 Z" fill="#ffffff" opacity="0.85" />
+<path d="M 230 240 L 300 160 L 340 200 L 270 280 Z" fill="#ffffff" opacity="0.85" />
+<path d="M 60 320 Q 256 270 452 320 L 452 360 L 60 360 Z" fill="url(#snowP)" stroke="#1a1a1a" stroke-width="5.0000" />
+<circle cx="120" cy="140" r="5" fill="#ffffff" />
+<circle cx="180" cy="110" r="4" fill="#ffffff" />
+<circle cx="260" cy="100" r="5" fill="#ffffff" />
+<circle cx="340" cy="130" r="4" fill="#ffffff" />
+<g fill="#ffffff" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round">
+<path d="M 90 305 L 95 315 L 105 320 L 95 325 L 90 335 L 85 325 L 75 320 L 85 315 Z" />
+<path d="M 420 295 L 425 305 L 435 310 L 425 315 L 420 325 L 415 315 L 405 310 L 415 305 Z" />
+</g>
+</g>
+  </svg>

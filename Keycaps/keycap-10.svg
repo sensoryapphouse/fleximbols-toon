@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns4="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<svg version="1.1" id="svg12" ns1:docname="emoji_u1f51f.svg" ns2:version="0.92.3 (2405546, 2018-03-11)" ns2:export-filename="C:\Users\const\git\blobmoji\png\128\emoji_u1f51f.png" ns2:export-xdpi="96" ns2:export-ydpi="96" viewBox="0 0 128 128" width="512" height="512" preserveAspectRatio="xMidYMid meet"><defs><filter id="ob" x="-45%" y="-45%" width="190%" height="190%"><feMorphology in="SourceAlpha" operator="dilate" radius="1.0000" result="d"/><feFlood flood-color="#1a1a1a" result="ink"/><feComposite in="ink" in2="d" operator="in"/></filter><g id="art">
+  <metadata id="metadata18">
+    <rdf:RDF>
+      <ns4:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </ns4:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs16" />
+  <ns1:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" ns2:pageopacity="0" ns2:pageshadow="2" ns2:window-width="1920" ns2:window-height="1046" id="namedview14" showgrid="false" ns2:snap-bbox="true" ns2:snap-bbox-midpoints="true" ns2:object-nodes="false" ns2:snap-page="true" ns2:zoom="2.5390625" ns2:cx="-49.992902" ns2:cy="-27.323923" ns2:window-x="-11" ns2:window-y="-11" ns2:window-maximized="1" ns2:current-layer="svg12" ns2:bbox-nodes="true" />
+  <path d="M116 128H12c-6.6 0-12-5.4-12-12V12C0 5.4 5.4 0 12 0h104c6.6 0 12 5.4 12 12v104c0 6.6-5.4 12-12 12z" fill="#1bb7fc" id="path2" />
+  <path d="M124.48 3.52L3.52 124.48C5.7 126.65 8.7 128 12 128h104c6.6 0 12-5.4 12-12V12c0-3.3-1.35-6.3-3.52-8.48z" fill="#1b79fc" id="path4" />
+  <path d="M112 101c0 6.63-5.37 12-12 12H27.89c-6.6 0-12-5.4-12-12V28.9c0-6.6 5.4-12 12-12H100c6.63 0 12 5.37 12 12z" fill="#1ba2fc" id="path6" />
+  <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" fill="#ffffff" x="14" y="90" font-weight="400" font-size="17.903" letter-spacing="0" word-spacing="0" id="text825">
+    <tspan font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="14" y="90" font-weight="700" font-size="72" letter-spacing="0" id="tspan823">1</tspan>
+  </text>
+  <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" id="text821" word-spacing="0" letter-spacing="0" font-size="17.903" font-weight="400" y="90" x="66" fill="#ffffff">
+    <tspan font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" id="tspan819" letter-spacing="0" font-size="72" font-weight="700" y="90" x="66">0</tspan>
+  </text>
+</g></defs><use href="#art" filter="url(#ob)"/><use href="#art"/></svg>
+</svg>

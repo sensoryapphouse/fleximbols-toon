@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Floor -->
+  <polygon points="40,472 472,472 340,300 172,300"
+           fill="#C8B898" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <!-- Ceiling -->
+  <polygon points="40,40 472,40 340,212 172,212"
+           fill="#E8DCC8" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <!-- Left wall -->
+  <polygon points="40,40 172,212 172,300 40,472"
+           fill="#D4C4A4" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <!-- Right wall -->
+  <polygon points="472,40 340,212 340,300 472,472"
+           fill="#C4B494" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <!-- Back wall (end of corridor) -->
+  <polygon points="172,212 340,212 340,300 172,300"
+           fill="#B8A880" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+
+  <!-- Left wall: door 1 (near) -->
+  <rect x="52" y="100" width="68" height="148" rx="4" ry="4"
+        fill="#A08060" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <!-- door 1 knob -->
+  <circle cx="112" cy="178" r="6" fill="#D4A820" stroke="#1a1a1a" stroke-width="3" />
+
+  <!-- Left wall: door 2 (mid perspective) -->
+  <rect x="84" y="200" width="50" height="90" rx="3" ry="3"
+        fill="#A08060" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <!-- door 2 knob -->
+  <circle cx="127" cy="247" r="5" fill="#D4A820" stroke="#1a1a1a" stroke-width="2.5" />
+
+  <!-- Right wall: door 1 (near) -->
+  <rect x="392" y="100" width="68" height="148" rx="4" ry="4"
+        fill="#907050" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <!-- door 1 knob -->
+  <circle cx="400" cy="178" r="6" fill="#D4A820" stroke="#1a1a1a" stroke-width="3" />
+
+  <!-- Right wall: door 2 (mid perspective) -->
+  <rect x="378" y="200" width="50" height="90" rx="3" ry="3"
+        fill="#907050" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  <!-- door 2 knob -->
+  <circle cx="385" cy="247" r="5" fill="#D4A820" stroke="#1a1a1a" stroke-width="2.5" />
+
+  <!-- Overhead light at vanishing point -->
+  <ellipse cx="256" cy="256" rx="14" ry="8"
+           fill="#FFEE88" stroke="#1a1a1a" stroke-width="4" />
+</svg>

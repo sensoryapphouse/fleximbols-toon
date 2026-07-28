@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Outer gold ring -->
+  <circle cx="256" cy="256" r="220" fill="#c98e1a" stroke="#1a1a1a" stroke-width="6" />
+  <!-- Inner bezel -->
+  <circle cx="256" cy="256" r="196" fill="#f5d570" stroke="#1a1a1a" stroke-width="5" />
+  <!-- Face -->
+  <circle cx="256" cy="256" r="172" fill="#fdf3d8" stroke="#1a1a1a" stroke-width="1" />
+  <!-- Tick marks -->
+  <line x1="256" y1="88" x2="256" y2="108" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" />
+  <line x1="256" y1="404" x2="256" y2="424" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" />
+  <line x1="88" y1="256" x2="108" y2="256" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" />
+  <line x1="404" y1="256" x2="424" y2="256" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" />
+  <!-- NE tick -->
+  <line x1="377" y1="135" x2="363" y2="149" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <!-- NW tick -->
+  <line x1="135" y1="135" x2="149" y2="149" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <!-- SE tick -->
+  <line x1="377" y1="377" x2="363" y2="363" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <!-- SW tick -->
+  <line x1="135" y1="377" x2="149" y2="363" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <!-- Cardinal labels -->
+  <text x="256" y="150" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Arial Black','Impact',sans-serif" font-size="36" font-weight="900" fill="#2b2622">N</text>
+  <text x="256" y="370" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Arial Black','Impact',sans-serif" font-size="36" font-weight="900" fill="#2b2622">S</text>
+  <text x="370" y="258" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Arial Black','Impact',sans-serif" font-size="36" font-weight="900" fill="#2b2622">E</text>
+  <text x="142" y="258" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Arial Black','Impact',sans-serif" font-size="36" font-weight="900" fill="#2b2622">W</text>
+  <!-- Needle north (red) -->
+  <path d="M256 140 L244 256 L256 256 Z" fill="#e23b34" stroke="#1a1a1a" stroke-width="1" stroke-linejoin="round" />
+  <path d="M256 140 L268 256 L256 256 Z" fill="#b81f1f" stroke="#1a1a1a" stroke-width="1" stroke-linejoin="round" />
+  <!-- Needle south (white) -->
+  <path d="M256 372 L244 256 L256 256 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="1" stroke-linejoin="round" />
+  <path d="M256 372 L268 256 L256 256 Z" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="1" stroke-linejoin="round" />
+  <!-- Centre pivot -->
+  <circle cx="256" cy="256" r="14" fill="#2b2622" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="256" cy="256" r="6" fill="#f8c531" />
+</svg>

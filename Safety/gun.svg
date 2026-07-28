@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-15.750 8.250)">
+<path d="M80 200 L380 200 L380 260 L320 260 L300 360 L200 360 L210 260 L80 260 Z" fill="#5C5C5C" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="80" y="200" width="300" height="20" fill="#3A3A3A" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="380" y="210" width="50" height="40" fill="#1F1F1F" />
+<circle cx="420" cy="230" r="10" fill="#5C5C5C" stroke="#1a1a1a" stroke-width="3" />
+<rect x="220" y="270" width="60" height="14" fill="#C28A4A" stroke="#1a1a1a" stroke-width="3" />
+<path d="M210 260 L210 360 L300 360 L300 260" fill="none" stroke="#1a1a1a" stroke-width="5.0000" />
+<path d="M120 220 L120 200" stroke="#1a1a1a" stroke-width="3" />
+<path d="M150 220 L150 200" stroke="#1a1a1a" stroke-width="3" />
+<path d="M180 220 L180 200" stroke="#1a1a1a" stroke-width="3" />
+<text x="420" y="160" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="48" font-weight="900" text-anchor="middle" fill="#FFE34D" stroke="#1a1a1a" stroke-width="5.0000">BANG</text>
+<path d="M430 180 L460 150 L450 190 L490 180 L460 210 L490 220 L450 220 L470 250" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+</g>
+  </svg>

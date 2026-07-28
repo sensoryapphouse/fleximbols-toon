@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect width="512" height="512" fill="#f5f0e8" />
+
+  
+  <rect x="60" y="80" width="392" height="300" rx="14" ry="14" fill="#1a5c2e" stroke="#1a1a1a" stroke-width="6" />
+  
+  <rect x="74" y="94" width="364" height="272" rx="8" ry="8" fill="#1e6b35" stroke="#2a7a40" stroke-width="3" />
+  
+  <line x1="74" y1="150" x2="438" y2="150" stroke="#1f6e37" stroke-width="1" opacity="0.5" />
+  <line x1="74" y1="210" x2="438" y2="210" stroke="#1f6e37" stroke-width="1" opacity="0.5" />
+  <line x1="74" y1="270" x2="438" y2="270" stroke="#1f6e37" stroke-width="1" opacity="0.5" />
+
+  
+  
+  <line x1="105" y1="190" x2="150" y2="240" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="150" y1="190" x2="105" y2="240" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+
+  
+  <line x1="180" y1="215" x2="220" y2="215" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="200" y1="195" x2="200" y2="235" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+
+  
+  
+  <line x1="238" y1="192" x2="278" y2="192" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <line x1="238" y1="192" x2="238" y2="215" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <line x1="238" y1="215" x2="278" y2="215" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <line x1="278" y1="215" x2="278" y2="238" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <line x1="238" y1="238" x2="278" y2="238" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+
+  
+  <line x1="300" y1="208" x2="340" y2="208" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="300" y1="226" x2="340" y2="226" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+
+  
+  
+  <line x1="368" y1="192" x2="368" y2="238" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="358" y1="202" x2="368" y2="192" stroke="#f5f5e0" stroke-width="7" stroke-linecap="round" />
+  
+  
+  <line x1="382" y1="192" x2="416" y2="192" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <line x1="416" y1="192" x2="416" y2="215" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <line x1="382" y1="215" x2="416" y2="215" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <line x1="382" y1="215" x2="382" y2="238" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <line x1="382" y1="238" x2="416" y2="238" stroke="#f5f5e0" stroke-width="5.0000" stroke-linecap="round" />
+
+  
+  
+  <line x1="120" y1="270" x2="148" y2="270" stroke="#f0e878" stroke-width="6" stroke-linecap="round" />
+  <line x1="148" y1="270" x2="148" y2="285" stroke="#f0e878" stroke-width="6" stroke-linecap="round" />
+  <line x1="120" y1="285" x2="148" y2="285" stroke="#f0e878" stroke-width="6" stroke-linecap="round" />
+  <line x1="120" y1="285" x2="120" y2="300" stroke="#f0e878" stroke-width="6" stroke-linecap="round" />
+  <line x1="120" y1="300" x2="148" y2="300" stroke="#f0e878" stroke-width="6" stroke-linecap="round" />
+  
+  <line x1="162" y1="268" x2="192" y2="300" stroke="#f0e878" stroke-width="6" stroke-linecap="round" />
+  <line x1="192" y1="268" x2="162" y2="300" stroke="#f0e878" stroke-width="6" stroke-linecap="round" />
+  
+  <line x1="206" y1="279" x2="234" y2="279" stroke="#f0e878" stroke-width="6" stroke-linecap="round" />
+  <line x1="206" y1="293" x2="234" y2="293" stroke="#f0e878" stroke-width="6" stroke-linecap="round" />
+  
+  <line x1="248" y1="268" x2="264" y2="286" stroke="#f0e878" stroke-width="6" stroke-linecap="round" />
+  <line x1="280" y1="268" x2="264" y2="286" stroke="#f0e878" stroke-width="6" stroke-linecap="round" />
+  <line x1="264" y1="286" x2="264" y2="310" stroke="#f0e878" stroke-width="6" stroke-linecap="round" />
+
+  
+  <rect x="390" y="295" width="14" height="56" rx="5" ry="5" fill="#f8f5ee" stroke="#1a1a1a" stroke-width="3" transform="rotate(-25 397 323)" />
+  <rect x="390" y="340" width="14" height="10" rx="3" ry="3" fill="#e8cca8" stroke="#1a1a1a" stroke-width="2" transform="rotate(-25 397 323)" />
+
+  
+  <rect x="60" y="378" width="392" height="22" rx="4" ry="4" fill="#8b6914" stroke="#1a1a1a" stroke-width="5" />
+
+  
+  <rect x="340" y="370" width="70" height="24" rx="6" ry="6" fill="#e8c090" stroke="#1a1a1a" stroke-width="4" />
+
+  
+  <line x1="120" y1="400" x2="100" y2="460" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="392" y1="400" x2="412" y2="460" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <line x1="100" y1="440" x2="412" y2="440" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+</svg>

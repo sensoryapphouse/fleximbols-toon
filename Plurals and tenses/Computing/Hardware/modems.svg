@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,13.824) scale(0.973)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+<rect x="80" y="240" width="352" height="180" rx="20" ry="20" fill="#1E40AF" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="100" y="260" width="312" height="120" rx="10" ry="10" fill="#1E3A8A" stroke="#1a1a1a" stroke-width="5.0000" />
+
+<rect x="116" y="280" width="280" height="6" rx="3" ry="3" fill="#0F172A" />
+<rect x="116" y="294" width="280" height="6" rx="3" ry="3" fill="#0F172A" />
+<rect x="116" y="308" width="280" height="6" rx="3" ry="3" fill="#0F172A" />
+<rect x="116" y="322" width="280" height="6" rx="3" ry="3" fill="#0F172A" />
+
+<circle cx="130" cy="400" r="8" fill="#10B981" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="160" cy="400" r="8" fill="#10B981" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="190" cy="400" r="8" fill="#FFBE0B" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="220" cy="400" r="8" fill="#FB5607" stroke="#1a1a1a" stroke-width="3" />
+
+<rect x="310" y="392" width="90" height="16" rx="4" ry="4" fill="#3A86FF" stroke="#1a1a1a" stroke-width="3" />
+
+<rect x="140" y="100" width="14" height="160" rx="6" ry="6" fill="#1F2937" />
+<circle cx="147" cy="100" r="10" fill="#FB5607" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="248" y="80" width="14" height="180" rx="6" ry="6" fill="#1F2937" />
+<circle cx="255" cy="80" r="10" fill="#FB5607" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="358" y="100" width="14" height="160" rx="6" ry="6" fill="#1F2937" />
+<circle cx="365" cy="100" r="10" fill="#FB5607" stroke="#1a1a1a" stroke-width="5.0000" />
+
+<path d="M390 160 Q420 130 450 160" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+<path d="M395 180 Q420 155 445 180" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+<circle cx="420" cy="200" r="5" fill="#FFBE0B" />
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl863" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl863)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

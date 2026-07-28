@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<title>duster</title>
+<rect x="232" y="290" width="48" height="170" rx="12" fill="#a0522d" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="220" y="440" width="72" height="32" rx="10" fill="#7b3a16" stroke="#1a1a1a" stroke-width="5.0000" />
+<ellipse cx="256" cy="270" rx="80" ry="34" fill="#d97706" stroke="#1a1a1a" stroke-width="5.0000" />
+<path d="M180 230 Q170 130 200 90" stroke="#1a1a1a" stroke-width="14" fill="none" stroke-linecap="round" />
+<path d="M210 215 Q205 110 235 70" stroke="#1a1a1a" stroke-width="14" fill="none" stroke-linecap="round" />
+<path d="M240 205 Q240 100 250 50" stroke="#1a1a1a" stroke-width="14" fill="none" stroke-linecap="round" />
+<path d="M270 205 Q272 100 290 55" stroke="#1a1a1a" stroke-width="14" fill="none" stroke-linecap="round" />
+<path d="M300 215 Q310 110 340 70" stroke="#1a1a1a" stroke-width="14" fill="none" stroke-linecap="round" />
+<path d="M330 230 Q345 130 370 85" stroke="#1a1a1a" stroke-width="14" fill="none" stroke-linecap="round" />
+<path d="M195 220 Q190 120 215 80" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+<path d="M285 215 Q288 110 305 65" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+<path d="M315 220 Q325 115 350 80" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+</svg>

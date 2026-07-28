@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <g stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" fill="none">
+    
+    <line x1="256" y1="60" x2="256" y2="452" />
+    
+    <line x1="86" y1="158" x2="426" y2="354" />
+    
+    <line x1="86" y1="354" x2="426" y2="158" />
+  </g>
+  
+  <g stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" fill="none">
+    
+    <path d="M230 110 L256 130 L282 110" />
+    <path d="M226 170 L256 195 L286 170" />
+    <path d="M222 230 L256 258 L290 230" />
+    
+    <path d="M230 402 L256 382 L282 402" />
+    <path d="M226 342 L256 317 L286 342" />
+    <path d="M222 282 L256 254 L290 282" />
+    
+    <path d="M345 175 L370 192 L380 165" />
+    <path d="M290 209 L322 222 L335 195" />
+    
+    <path d="M167 337 L142 320 L132 347" />
+    <path d="M222 303 L190 290 L177 317" />
+    
+    <path d="M167 175 L142 192 L132 165" />
+    <path d="M222 209 L190 222 L177 195" />
+    
+    <path d="M345 337 L370 320 L380 347" />
+    <path d="M290 303 L322 290 L335 317" />
+  </g>
+  
+  <polygon points="256,228 280,242 280,270 256,284 232,270 232,242" fill="#1976D2" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <circle cx="256" cy="256" r="10" fill="#FFFFFF" />
+  
+  <g fill="#1976D2">
+    <circle cx="256" cy="60" r="10" />
+    <circle cx="256" cy="452" r="10" />
+    <circle cx="86" cy="158" r="10" />
+    <circle cx="86" cy="354" r="10" />
+    <circle cx="426" cy="158" r="10" />
+    <circle cx="426" cy="354" r="10" />
+  </g>
+</svg>

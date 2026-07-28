@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="bcn" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#d96a3a" />
+<stop offset="50%" stop-color="#a83d1c" />
+<stop offset="100%" stop-color="#762713" />
+</linearGradient>
+<linearGradient id="bft" x1="0%" y1="0%" x2="0%" y2="100%">
+<stop offset="0%" stop-color="#ffe6cf" />
+<stop offset="100%" stop-color="#f4b88a" />
+</linearGradient>
+</defs>
+<g stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M90 200 Q140 140 220 180 Q300 220 360 160 Q420 100 460 170 Q440 220 380 240 Q320 260 280 310 Q250 360 180 360 Q110 350 100 290 Q90 240 90 200 Z" fill="url(#bcn)" />
+<path d="M115 215 Q160 175 215 210 Q280 245 340 195 Q400 150 430 185 Q415 215 365 230 Q310 245 275 290 Q245 335 190 335 Q135 325 125 285 Q115 245 115 215 Z" fill="url(#bft)" />
+<path d="M150 200 Q200 180 240 215" stroke-width="7" />
+<path d="M260 230 Q310 215 350 195" stroke-width="7" />
+<path d="M170 270 Q220 250 270 280" stroke-width="7" />
+<path d="M155 320 Q200 305 240 320" stroke-width="6" />
+<path d="M300 260 Q340 240 380 220" stroke-width="6" />
+<path d="M115 245 q12 -8 24 0" stroke-width="6" />
+<path d="M200 320 q12 -8 24 0" stroke-width="6" />
+<path d="M320 215 q12 -8 24 0" stroke-width="6" />
+</g>
+</svg>

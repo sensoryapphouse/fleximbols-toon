@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+  <!-- HANDLE / BAR being gripped — cylindrical, vertical -->
+  <rect x="218" y="56" width="76" height="400" rx="30" fill="#5a3e28" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Handle highlight -->
+  <rect x="228" y="70" width="18" height="370" rx="9" fill="#7a5a3a" opacity="0.5"/>
+  <!-- Handle grip tape wrapping lines -->
+  <line x1="218" y1="160" x2="294" y2="160" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="218" y1="200" x2="294" y2="200" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="218" y1="240" x2="294" y2="240" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="218" y1="280" x2="294" y2="280" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="218" y1="320" x2="294" y2="320" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="218" y1="360" x2="294" y2="360" stroke="#1a1a1a" stroke-width="3"/>
+
+  <!-- HAND gripping the bar — skin tone #f3c89c -->
+  <!-- Palm body wrapping around handle -->
+  <path d="M138 200 Q128 220 130 260 Q132 300 144 330 Q158 362 180 370 Q210 380 220 370 L220 170 Q200 162 180 168 Q158 176 138 200 Z" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Thumb (left side, pressing in) -->
+  <path d="M130 220 Q108 218 100 238 Q94 256 108 268 Q120 278 140 272 Q148 264 144 250 Q142 234 130 220 Z" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Thumb knuckle crease -->
+  <path d="M114 250 Q122 246 132 252" fill="none" stroke="#d4a078" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Index finger -->
+  <path d="M220 170 L220 145 Q220 120 204 116 Q188 112 184 128 L184 168" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Index knuckles -->
+  <line x1="185" y1="152" x2="219" y2="148" stroke="#d4a078" stroke-width="3"/>
+  <line x1="186" y1="136" x2="218" y2="133" stroke="#d4a078" stroke-width="2.5"/>
+
+  <!-- Middle finger -->
+  <path d="M220 185 L220 152 Q220 122 204 118 Q188 112 186 132 L186 180" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Ring finger -->
+  <path d="M220 220 L220 188 Q220 158 206 154 Q190 150 188 172 L188 216" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Pinky finger -->
+  <path d="M220 260 L220 230 Q220 204 208 200 Q194 196 192 216 L192 256" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Palm skin creases -->
+  <path d="M140 208 Q160 200 180 202" fill="none" stroke="#d4a078" stroke-width="3" stroke-linecap="round"/>
+  <path d="M136 240 Q155 233 175 235" fill="none" stroke="#d4a078" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M138 272 Q158 266 178 268" fill="none" stroke="#d4a078" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Knuckle bumps on back of fingers (right-side view) -->
+  <circle cx="216" cy="160" r="5" fill="#e8b080" stroke="#1a1a1a" stroke-width="2"/>
+  <circle cx="216" cy="198" r="5" fill="#e8b080" stroke="#1a1a1a" stroke-width="2"/>
+  <circle cx="216" cy="234" r="5" fill="#e8b080" stroke="#1a1a1a" stroke-width="2"/>
+  <circle cx="216" cy="248" r="5" fill="#e8b080" stroke="#1a1a1a" stroke-width="2"/>
+
+  <!-- Fingernails subtle indication -->
+  <path d="M186 120 Q204 114 218 120" fill="#f8dfc0" stroke="#1a1a1a" stroke-width="2" stroke-linecap="round"/>
+  <path d="M187 124 Q204 118 218 124" fill="#f8dfc0" stroke="#1a1a1a" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Finger tips wrapping AROUND to the far side of the pole -->
+  <path d="M 294 140 Q 320 138 326 160 Q 330 178 314 184 L 294 184 Z" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M 294 188 Q 320 186 326 208 Q 330 226 314 232 L 294 232 Z" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M 294 236 Q 320 234 324 254 Q 326 272 312 276 L 294 276 Z" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Wrist base -->
+  <path d="M140 340 Q132 356 136 380 Q140 400 160 408 Q184 416 210 410 L220 370 Q200 376 180 370 Q158 362 144 330 Z" fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Wrist crease -->
+  <path d="M146 380 Q172 374 208 380" fill="none" stroke="#d4a078" stroke-width="3" stroke-linecap="round"/>
+
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-80.329 -83.945) scale(1.3151)">
+<defs>
+<linearGradient id="skin2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffd9b8" />
+<stop offset="1" stop-color="#e8a878" />
+</linearGradient>
+<linearGradient id="hair" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#5a3a1f" />
+<stop offset="1" stop-color="#2b2622" />
+</linearGradient>
+</defs>
+<path d="M170 350 Q160 250 200 200 L312 200 Q352 250 342 350 Q342 380 320 395 Q256 410 192 395 Q170 380 170 350 Z" fill="url(#skin2)" stroke="#1a1a1a" stroke-width="3.8020" stroke-linejoin="round" />
+<path d="M170 240 Q175 200 200 190 L312 190 Q337 200 342 240 L335 245 L320 220 L310 250 L295 215 L280 250 L268 215 L256 250 L244 215 L232 250 L217 215 L202 250 L192 220 L177 245 Z" fill="url(#hair)" stroke="#1a1a1a" stroke-width="3.8020" stroke-linejoin="round" />
+<path d="M177 245 L165 150 L195 230" fill="url(#hair)" stroke="#1a1a1a" stroke-width="3.8020" stroke-linejoin="round" />
+<path d="M202 220 L195 110 L228 215" fill="url(#hair)" stroke="#1a1a1a" stroke-width="3.8020" stroke-linejoin="round" />
+<path d="M232 215 L235 80 L265 215" fill="url(#hair)" stroke="#1a1a1a" stroke-width="3.8020" stroke-linejoin="round" />
+<path d="M265 215 L275 95 L300 215" fill="url(#hair)" stroke="#1a1a1a" stroke-width="3.8020" stroke-linejoin="round" />
+<path d="M300 215 L315 110 L335 230" fill="url(#hair)" stroke="#1a1a1a" stroke-width="3.8020" stroke-linejoin="round" />
+<path d="M335 230 L348 150 L342 245" fill="url(#hair)" stroke="#1a1a1a" stroke-width="3.8020" stroke-linejoin="round" />
+<circle cx="220" cy="305" r="10" fill="#2b2622" />
+<circle cx="292" cy="305" r="10" fill="#2b2622" />
+<circle cx="216" cy="301" r="3" fill="#ffffff" />
+<circle cx="288" cy="301" r="3" fill="#ffffff" />
+<path d="M235 345 Q256 360 277 345" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round" />
+<circle cx="195" cy="335" r="8" fill="#ffb3a0" opacity="0.7" />
+<circle cx="317" cy="335" r="8" fill="#ffb3a0" opacity="0.7" />
+</g>
+  </svg>

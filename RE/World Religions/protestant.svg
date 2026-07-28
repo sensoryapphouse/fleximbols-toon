@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  
+  <rect x="0" y="0" width="512" height="252" fill="#cce8ff" />
+  
+  <rect x="0" y="392" width="512" height="120" fill="#88bb66" />
+
+  
+  
+  <rect x="162" y="265" width="188" height="158" fill="#f4f0e8" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <polygon points="152,265 256,202 360,265" fill="#8888aa" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="238" y="152" width="36" height="55" fill="#8888aa" stroke="#1a1a1a" stroke-width="5" />
+  
+  <polygon points="238,152 256,118 274,152" fill="#8888aa" stroke="#1a1a1a" stroke-width="5" />
+
+  
+  <rect x="250" y="84" width="12" height="36" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="238" y="94" width="36" height="12" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+
+  
+  <rect x="172" y="290" width="32" height="52" fill="#bbddff" stroke="#1a1a1a" stroke-width="4" rx="3" />
+  <rect x="308" y="290" width="32" height="52" fill="#bbddff" stroke="#1a1a1a" stroke-width="4" rx="3" />
+  
+  <rect x="228" y="328" width="56" height="95" fill="#775533" stroke="#1a1a1a" stroke-width="5" rx="4" />
+  
+  <circle cx="278" cy="375" r="5" fill="#cc9900" stroke="#1a1a1a" stroke-width="2" />
+
+  
+  
+  <rect x="60" y="102" width="28" height="248" fill="#336699" stroke="#1a1a1a" stroke-width="5.0000" rx="4" />
+  <rect x="22" y="158" width="104" height="28" fill="#336699" stroke="#1a1a1a" stroke-width="5.0000" rx="4" />
+
+  
+  
+  <path d="M356 315 Q356 262 386 260 L445 264 L445 378 Q412 382 356 378 Z" fill="#faf8f0" stroke="#1a1a1a" stroke-width="5" />
+  
+  <path d="M445 264 L488 268 Q500 274 500 326 L500 378 Q468 382 445 378 Z" fill="#faf8f0" stroke="#1a1a1a" stroke-width="5" />
+  
+  <line x1="445" y1="264" x2="445" y2="378" stroke="#1a1a1a" stroke-width="5" />
+  
+  <path d="M354 378 Q412 385 447 381 L447 395 Q412 399 354 393 Z" fill="#223366" stroke="#1a1a1a" stroke-width="4" />
+  
+  <line x1="368" y1="294" x2="436" y2="294" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="368" y1="305" x2="436" y2="305" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="368" y1="316" x2="436" y2="316" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="368" y1="327" x2="436" y2="327" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="368" y1="338" x2="436" y2="338" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="368" y1="349" x2="436" y2="349" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="368" y1="360" x2="436" y2="360" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="453" y1="296" x2="490" y2="298" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="453" y1="307" x2="490" y2="309" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="453" y1="318" x2="490" y2="320" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="453" y1="329" x2="490" y2="331" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="453" y1="340" x2="490" y2="342" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="453" y1="351" x2="490" y2="353" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="453" y1="362" x2="490" y2="364" stroke="#1a1a1a" stroke-width="2" />
+  
+  <line x1="445" y1="264" x2="438" y2="395" stroke="#1a1a1a" stroke-width="5" />
+</svg>

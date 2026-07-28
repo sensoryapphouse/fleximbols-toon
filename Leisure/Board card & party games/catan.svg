@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(-131.85 -80.49) scale(2.4243)" stroke-linejoin="round" stroke-linecap="round">
+  <!-- Catan: hex tile cluster with road + settlement (house) + resource card -->
+  <!-- centre hex (pasture green) -->
+  <polygon points="145,70 185,93 185,139 145,162 105,139 105,93" fill="#51ac1c" stroke="#000000" stroke-width="2.269" stroke-linejoin="round"/>
+  <!-- upper left hex (forest dark green) -->
+  <polygon points="105,47 145,70 145,116 105,139 65,116 65,70" fill="#6e9223" stroke="#000000" stroke-width="2.269" stroke-linejoin="round"/>
+  <!-- upper right hex (wheat yellow) -->
+  <polygon points="185,47 225,70 225,116 185,139 145,116 145,70" fill="#ffe55a" stroke="#000000" stroke-width="2.269" stroke-linejoin="round"/>
+  <!-- lower left hex (clay/brick) -->
+  <polygon points="105,139 145,162 145,208 105,231 65,208 65,162" fill="#ed5d00" stroke="#000000" stroke-width="2.269" stroke-linejoin="round"/>
+  <!-- lower right hex (ore grey) -->
+  <polygon points="185,139 225,162 225,208 185,231 145,208 145,162" fill="#bebebe" stroke="#000000" stroke-width="2.269" stroke-linejoin="round"/>
+  <!-- number token in centre hex -->
+  <circle cx="145" cy="116" r="11" fill="#f6dcba" stroke="#000000" stroke-width="1.512"/>
+  <circle cx="145" cy="116" r="1.5" fill="#000000"/>
+  <circle cx="141" cy="120" r="1.2" fill="#000000"/>
+  <circle cx="149" cy="120" r="1.2" fill="#000000"/>
+  <!-- road on edge between hexes (red) -->
+  <rect x="138" y="155" width="14" height="22" fill="#ff140e" stroke="#000000" stroke-width="1.512" transform="rotate(-30 145 166)"/>
+  <!-- settlement (house) on a vertex -->
+  <path d="M 175 130 L 175 145 L 200 145 L 200 130 L 187 120 Z" fill="#ff140e" stroke="#000000" stroke-width="1.891" stroke-linejoin="round"/>
+  <!-- resource card overlapping bottom-right -->
+  <rect x="195" y="175" width="60" height="55" rx="4" fill="#ebf8ff" stroke="#000000" stroke-width="2.269" stroke-linejoin="round"/>
+  <!-- wheat sheaf on the card -->
+  <path d="M 225 188 L 225 220" stroke="#7d5e23" stroke-width="1.512" stroke-linecap="round"/>
+  <ellipse cx="219" cy="195" rx="4" ry="7" fill="#ffe55a" stroke="#000000" stroke-width="1.134"/>
+  <ellipse cx="231" cy="195" rx="4" ry="7" fill="#ffe55a" stroke="#000000" stroke-width="1.134"/>
+  <ellipse cx="219" cy="207" rx="4" ry="7" fill="#ffe55a" stroke="#000000" stroke-width="1.134"/>
+  <ellipse cx="231" cy="207" rx="4" ry="7" fill="#ffe55a" stroke="#000000" stroke-width="1.134"/>
+  <ellipse cx="225" cy="190" rx="4" ry="7" fill="#ffe55a" stroke="#000000" stroke-width="1.134"/>
+</g></svg>

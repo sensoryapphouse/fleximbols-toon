@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="0" y="0" width="512" height="220" fill="#87ceeb" />
+  
+  <polygon points="0,512 0,200 512,200 512,512" fill="#8a8a8a" />
+  
+  <polygon points="0,200 100,180 200,195 300,175 400,190 512,180 512,200 0,200" fill="#969696" />
+  
+  
+  <ellipse cx="82" cy="290" rx="45" ry="52" fill="#a0a0a0" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  
+  <path d="M50,268 Q82,258 114,268" fill="#909090" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="68" cy="280" rx="9" ry="7" fill="#5c4020" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="96" cy="280" rx="9" ry="7" fill="#5c4020" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M82,280 L78,300 Q82,304 86,300 L82,280" fill="#909090" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M68,314 Q82,320 96,314" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <ellipse cx="44" cy="275" rx="18" ry="28" fill="#cccccc" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="120" cy="275" rx="18" ry="28" fill="#cccccc" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="82" cy="248" rx="35" ry="18" fill="#cccccc" stroke="#1a1a1a" stroke-width="3" />
+
+  
+  <ellipse cx="185" cy="295" rx="44" ry="50" fill="#a0a0a0" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M154,272 Q185,262 216,272" fill="#909090" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="172" cy="284" rx="9" ry="7" fill="#5c4020" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="198" cy="284" rx="9" ry="7" fill="#5c4020" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M185,284 L181,303 Q185,307 189,303 L185,284" fill="#909090" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M172,318 Q185,324 198,318" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <ellipse cx="148" cy="280" rx="16" ry="24" fill="#b89070" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="222" cy="280" rx="16" ry="24" fill="#b89070" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M152,262 Q185,248 218,262" fill="#b89070" stroke="#1a1a1a" stroke-width="3" />
+
+  
+  <ellipse cx="326" cy="295" rx="44" ry="50" fill="#a0a0a0" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M295,272 Q326,262 357,272" fill="#909090" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="313" cy="283" rx="9" ry="7" fill="#5c4020" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="339" cy="283" rx="9" ry="7" fill="#5c4020" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="313" cy="283" r="13" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="339" cy="283" r="13" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="326" y1="283" x2="326" y2="283" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M300,278 Q304,276 308,278" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M344,278 Q348,276 352,278" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  
+  <line x1="322" y1="283" x2="330" y2="283" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M326,300 L322,308 Q326,312 330,308 L326,300" fill="#909090" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M312,314 Q326,310 340,314" fill="#5c3010" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="326" cy="316" rx="16" ry="5" fill="#5c3010" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="288" cy="280" rx="15" ry="22" fill="#5c3010" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="364" cy="280" rx="15" ry="22" fill="#5c3010" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M292,262 Q326,250 360,262" fill="#5c3010" stroke="#1a1a1a" stroke-width="3" />
+
+  
+  <ellipse cx="430" cy="292" rx="43" ry="50" fill="#a0a0a0" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M400,270 Q430,260 460,270" fill="#909090" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="418" cy="281" rx="9" ry="7" fill="#5c4020" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="442" cy="281" rx="9" ry="7" fill="#5c4020" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M430,281 L426,300 Q430,304 434,300 L430,281" fill="#909090" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M418,314 Q430,320 442,314" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <path d="M416,318 Q430,330 444,318 Q440,340 430,345 Q420,340 416,318 Z" fill="#3a2010" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="393" cy="276" rx="14" ry="20" fill="#3a2010" stroke="#1a1a1a" stroke-width="3" />
+  <ellipse cx="467" cy="276" rx="14" ry="20" fill="#3a2010" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M396,258 Q430,246 464,258" fill="#3a2010" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="408" y="234" width="44" height="34" fill="#3a2010" stroke="#1a1a1a" stroke-width="4" rx="2" />
+  <rect x="400" y="264" width="60" height="8" fill="#3a2010" stroke="#1a1a1a" stroke-width="3" />
+  
+  <polygon points="120,512 140,440 160,512" fill="#2d5a20" />
+  <polygon points="150,512 170,448 190,512" fill="#2d5a20" />
+  <polygon points="330,512 350,440 370,512" fill="#2d5a20" />
+  <polygon points="360,512 380,448 400,512" fill="#2d5a20" />
+  
+  <ellipse cx="256" cy="80" rx="18" ry="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M238,80 Q220,70 200,76" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M274,80 Q292,70 312,76" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <ellipse cx="248" cy="80" rx="6" ry="5" fill="#aa5500" stroke="#1a1a1a" stroke-width="2" />
+</svg>

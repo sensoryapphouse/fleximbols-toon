@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Cookie body: equilateral-ish triangle, rounded corners via path -->
+  <path d="M 256,72
+           L 462,424
+           L 50,424
+           Z"
+        fill="#D4A574" stroke="#1a1a1a" stroke-width="5"
+        stroke-linejoin="round" stroke-linecap="round"
+        paint-order="stroke fill" />
+  <!-- Filling: dark pocket at each corner and top pinch -->
+  <!-- Top pinch filling -->
+  <path d="M 256,72 L 210,190 L 302,190 Z"
+        fill="#7A3A1A" stroke="#1a1a1a" stroke-width="5"
+        stroke-linejoin="round" stroke-linecap="round"
+        paint-order="stroke fill" />
+  <!-- Bottom-left filling -->
+  <path d="M 50,424 L 170,296 L 200,374 Z"
+        fill="#7A3A1A" stroke="#1a1a1a" stroke-width="5"
+        stroke-linejoin="round" stroke-linecap="round"
+        paint-order="stroke fill" />
+  <!-- Bottom-right filling -->
+  <path d="M 462,424 L 342,296 L 312,374 Z"
+        fill="#7A3A1A" stroke="#1a1a1a" stroke-width="5"
+        stroke-linejoin="round" stroke-linecap="round"
+        paint-order="stroke fill" />
+  <!-- Seam lines / fold hints -->
+  <path d="M 232,205 Q 256,192 280,205"
+        fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <path d="M 175,378 Q 188,365 203,378"
+        fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+  <path d="M 307,378 Q 320,365 335,378"
+        fill="none" stroke="#1a1a1a" stroke-width="3.5" stroke-linecap="round" />
+</svg>

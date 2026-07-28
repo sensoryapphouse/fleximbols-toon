@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-25.000 -57.500)">
+  <defs>
+    <linearGradient id="phb" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#c08038" /><stop offset="55%" stop-color="#9c5e22" /><stop offset="100%" stop-color="#754418" /></linearGradient>
+    <linearGradient id="pht" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#c8a45a" /><stop offset="100%" stop-color="#8a6a2c" /></linearGradient>
+  </defs>
+  
+  <path d="M48 446 Q230 436 360 442 Q436 446 470 442" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" />
+  
+  <path d="M210 320 Q330 340 430 392 Q470 410 478 432 Q470 446 452 440 Q420 420 372 402 Q300 376 224 360 Z" fill="url(#pht)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <path d="M250 348 Q270 360 286 378 M300 356 Q322 368 340 388 M352 372 Q374 384 392 404 M408 392 Q428 404 446 422" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <ellipse cx="206" cy="320" rx="104" ry="78" fill="url(#phb)" stroke="#1a1a1a" stroke-width="5.0000" />
+  <g fill="#5a3a14" opacity="0.7"><circle cx="180" cy="300" r="6" /><circle cx="216" cy="294" r="6" /><circle cx="248" cy="306" r="6" /><circle cx="192" cy="332" r="5.5" /><circle cx="228" cy="338" r="5.5" /><circle cx="262" cy="330" r="5.5" /></g>
+  
+  <path d="M150 300 Q176 288 214 296 Q236 322 226 352 Q196 366 168 354 Q148 332 150 300 Z" fill="#8a5e26" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <path d="M186 392 L180 440 M186 392 L192 440" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <path d="M222 394 L218 440 M222 394 L228 440" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <path d="M180 440 L166 450 M180 440 L182 454 M180 440 L194 450 M218 440 L204 450 M218 440 L220 454 M218 440 L232 450" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <path d="M126 296 Q104 264 110 230 Q120 200 150 196 Q180 198 192 226 Q198 256 186 286 Q166 308 146 308 Z" fill="#1f5a3a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <ellipse cx="142" cy="236" rx="40" ry="42" fill="#216a44" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M120 282 Q150 296 184 282 Q180 300 170 308 Q150 314 132 306 Q122 296 120 282 Z" fill="#f2efe6" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M118 226 Q104 214 108 196 Q124 192 138 206 Q140 222 130 232 Z" fill="#d8322c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <path d="M150 196 Q146 178 158 168 Q166 178 164 196 Z" fill="#1f5a3a" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <path d="M104 222 L74 228 L104 240 Z" fill="#d8c08a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <ellipse cx="132" cy="222" rx="9" ry="9" fill="#e0a82c" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="132" cy="222" rx="4.5" ry="4.5" fill="#1c1408" />
+  <circle cx="130" cy="219" r="2" fill="#ffffff" />
+</g>
+  <g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl69" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl69)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

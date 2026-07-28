@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <rect x="40" y="40" width="432" height="432" rx="20" fill="#FFF8E1" stroke="#1a1a1a" stroke-width="7" />
+  <g transform="translate(180 90)">
+    <polygon points="0,0 160,0 180,280 -20,280" fill="#B0BEC5" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+    <rect x="20" y="-25" width="120" height="25" rx="4" fill="#90A4AE" stroke="#1a1a1a" stroke-width="7" />
+    <rect x="55" y="-50" width="50" height="30" rx="20" fill="none" stroke="#1a1a1a" stroke-width="7" />
+    <g fill="#3D3D3D">
+      <ellipse cx="10" cy="40" rx="6" ry="3" />
+      <ellipse cx="40" cy="40" rx="6" ry="3" />
+      <ellipse cx="70" cy="40" rx="6" ry="3" />
+      <ellipse cx="100" cy="40" rx="6" ry="3" />
+      <ellipse cx="130" cy="40" rx="6" ry="3" />
+      <ellipse cx="160" cy="40" rx="6" ry="3" />
+      <ellipse cx="25" cy="80" rx="6" ry="3" />
+      <ellipse cx="55" cy="80" rx="6" ry="3" />
+      <ellipse cx="85" cy="80" rx="6" ry="3" />
+      <ellipse cx="115" cy="80" rx="6" ry="3" />
+      <ellipse cx="145" cy="80" rx="6" ry="3" />
+      <ellipse cx="10" cy="120" rx="6" ry="3" />
+      <ellipse cx="40" cy="120" rx="6" ry="3" />
+      <ellipse cx="70" cy="120" rx="6" ry="3" />
+      <ellipse cx="100" cy="120" rx="6" ry="3" />
+      <ellipse cx="130" cy="120" rx="6" ry="3" />
+      <ellipse cx="160" cy="120" rx="6" ry="3" />
+      <ellipse cx="25" cy="160" rx="6" ry="3" />
+      <ellipse cx="55" cy="160" rx="6" ry="3" />
+      <ellipse cx="85" cy="160" rx="6" ry="3" />
+      <ellipse cx="115" cy="160" rx="6" ry="3" />
+      <ellipse cx="145" cy="160" rx="6" ry="3" />
+      <ellipse cx="10" cy="200" rx="6" ry="3" />
+      <ellipse cx="40" cy="200" rx="6" ry="3" />
+      <ellipse cx="70" cy="200" rx="6" ry="3" />
+      <ellipse cx="100" cy="200" rx="6" ry="3" />
+      <ellipse cx="130" cy="200" rx="6" ry="3" />
+      <ellipse cx="160" cy="200" rx="6" ry="3" />
+    </g>
+  </g>
+  <g transform="translate(80 130) rotate(-15)">
+    <rect x="0" y="0" width="90" height="60" rx="6" fill="#FFD54F" stroke="#1a1a1a" stroke-width="7" />
+    <line x1="15" y1="10" x2="15" y2="50" stroke="#1a1a1a" stroke-width="3" opacity="0.5" />
+    <line x1="35" y1="10" x2="35" y2="50" stroke="#1a1a1a" stroke-width="3" opacity="0.5" />
+  </g>
+  <g fill="#FFD54F" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round">
+    <path d="M 170 400 Q 180 380 200 395 Q 210 405 195 415 Z" />
+    <path d="M 220 405 Q 235 385 255 400 Q 265 415 245 420 Z" />
+    <path d="M 275 405 Q 290 385 310 400 Q 320 415 295 420 Z" />
+    <path d="M 195 425 Q 215 412 240 425 Q 250 440 220 442 Z" />
+    <path d="M 260 425 Q 280 412 305 425 Q 315 440 285 442 Z" />
+    <path d="M 320 408 Q 335 388 355 403 Q 365 418 340 422 Z" />
+  </g>
+</svg>

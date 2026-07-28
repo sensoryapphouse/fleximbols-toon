@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="coatC" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" />
+<stop offset="1" stop-color="#dee5ed" />
+</linearGradient>
+</defs>
+<rect x="252" y="52" width="8" height="36" rx="2" fill="#8a847d" stroke="#1a1a1a" stroke-width="4" />
+<path d="M256 56 q-22 -30 -42 -8 q22 18 42 8 z" fill="#9a948c" stroke="#1a1a1a" stroke-width="6" />
+<path d="M178 110 q72 -18 156 0 l4 8 q-38 10 -82 10 q-44 0 -82 -10 z" fill="#9a948c" stroke="#1a1a1a" stroke-width="7" />
+<path d="M210 126 q-42 30 -58 82 l30 24 v220 a16 16 0 0 0 16 16 h116 a16 16 0 0 0 16 -16 V232 l30 -24 q-16 -52 -58 -82 q-22 20 -46 20 q-24 0 -46 -20 z" fill="url(#coatC)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+<path d="M210 126 q24 20 46 64" fill="none" stroke="#1a1a1a" stroke-width="7" />
+<path d="M302 126 q-24 20 -46 64" fill="none" stroke="#1a1a1a" stroke-width="7" />
+<line x1="256" y1="190" x2="256" y2="464" stroke="#1a1a1a" stroke-width="6" />
+<g fill="#2b2622">
+<circle cx="256" cy="214" r="5" />
+<circle cx="256" cy="254" r="5" />
+<circle cx="256" cy="294" r="5" />
+<circle cx="256" cy="334" r="5" />
+<circle cx="256" cy="374" r="5" />
+<circle cx="256" cy="414" r="5" />
+</g>
+<rect x="192" y="300" width="50" height="60" rx="4" fill="none" stroke="#1a1a1a" stroke-width="7" />
+<rect x="270" y="300" width="50" height="60" rx="4" fill="none" stroke="#1a1a1a" stroke-width="7" />
+<rect x="216" y="210" width="24" height="28" rx="2" fill="none" stroke="#1a1a1a" stroke-width="6" />
+<rect x="222" y="200" width="8" height="22" rx="2" fill="#3d8fbf" stroke="#1a1a1a" stroke-width="4" />
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="40" y="40" width="432" height="432" rx="10" fill="#e8e0d0" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  
+  <path d="M80 380 L80 280 L120 260 L130 200 L160 180 L180 140 L220 130 L240 150 L230 190 L260 200 L280 180 L300 190 L290 230 L310 250 L350 240 L380 260 L390 300 L360 320 L340 360 L300 380 L260 390 L220 380 L180 400 L140 390 Z" fill="#cc4422" fill-opacity="0.5" stroke="#1a1a1a" stroke-width="6" />
+  
+  
+  
+  <circle cx="210" cy="108" r="7" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="212" cy="108" r="4" fill="#1a1a1a" />
+  
+  <path d="M150 280 L110 310 L100 350 L130 340 L150 310 Z" fill="#cc4422" fill-opacity="0.5" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M260 350 L250 400 L280 420 L300 400 L290 370 Z" fill="#cc4422" fill-opacity="0.5" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="55" y="55" width="120" height="100" rx="3" fill="#2255aa" fill-opacity="0.35" stroke="#1a1a1a" stroke-width="4" stroke-dasharray="8,4" />
+  <rect x="300" y="55" width="170" height="130" rx="3" fill="#226633" fill-opacity="0.35" stroke="#1a1a1a" stroke-width="4" stroke-dasharray="8,4" />
+  <rect x="320" y="330" width="140" height="130" rx="3" fill="#8855cc" fill-opacity="0.35" stroke="#1a1a1a" stroke-width="4" stroke-dasharray="8,4" />
+  <rect x="55" y="380" width="90" height="90" rx="3" fill="#dd9922" fill-opacity="0.35" stroke="#1a1a1a" stroke-width="4" stroke-dasharray="8,4" />
+  
+  <line x1="240" y1="40" x2="240" y2="472" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="6,4" />
+  <line x1="40" y1="240" x2="472" y2="240" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="6,4" />
+</svg>

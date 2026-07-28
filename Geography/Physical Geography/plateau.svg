@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="0" y="80" width="512" height="160" fill="#87ceeb" />
+  
+  <rect x="0" y="200" width="512" height="25" fill="#cc7733" />
+  
+  <rect x="0" y="195" width="512" height="12" fill="#dd8844" />
+  
+  <polygon points="0,225 0,270 20,270 512,265 512,225" fill="#dd6633" />
+  
+  <polygon points="0,270 0,315 20,315 512,310 512,270 20,270" fill="#cc5522" />
+  
+  <polygon points="0,315 0,360 25,360 512,355 512,315 20,315" fill="#bb4411" />
+  
+  <polygon points="0,360 0,400 30,400 512,395 512,360 25,360" fill="#aa3300" />
+  
+  <rect x="0" y="400" width="512" height="112" fill="#deb887" />
+  
+  <ellipse cx="80" cy="192" rx="30" ry="10" fill="#88aa44" />
+  <ellipse cx="200" cy="190" rx="25" ry="9" fill="#779933" />
+  <ellipse cx="350" cy="191" rx="28" ry="10" fill="#88aa44" />
+  <ellipse cx="450" cy="193" rx="22" ry="8" fill="#779933" />
+  
+  <line x1="0" y1="248" x2="512" y2="245" stroke="#1a1a1a" stroke-width="2" opacity="0.3" />
+  <line x1="0" y1="292" x2="512" y2="289" stroke="#1a1a1a" stroke-width="2" opacity="0.3" />
+  <line x1="0" y1="337" x2="512" y2="334" stroke="#1a1a1a" stroke-width="2" opacity="0.3" />
+  
+  <line x1="150" y1="225" x2="148" y2="400" stroke="#1a1a1a" stroke-width="2" opacity="0.25" />
+  <line x1="280" y1="225" x2="278" y2="400" stroke="#1a1a1a" stroke-width="2" opacity="0.25" />
+  <line x1="400" y1="225" x2="398" y2="400" stroke="#1a1a1a" stroke-width="2" opacity="0.25" />
+  
+  <line x1="0" y1="195" x2="512" y2="195" stroke="#1a1a1a" stroke-width="5.0000" />
+  <line x1="0" y1="400" x2="512" y2="400" stroke="#1a1a1a" stroke-width="5" />
+  
+  <ellipse cx="60" cy="400" rx="18" ry="8" fill="#88aa44" />
+  <ellipse cx="440" cy="400" rx="18" ry="8" fill="#88aa44" />
+</svg>

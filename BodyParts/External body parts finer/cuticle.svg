@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<g transform="translate(23.80 -46.40) scale(1.080)">
+  
+  
+  <path d="M 130 480 L 130 240 Q 130 110 256 80 Q 382 110 382 240 L 382 480 Z" fill="#f3c191" stroke="#1a1a1a" stroke-width="4.6296" />
+  
+  <path d="M 150 400 Q 256 392 362 400" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <path d="M 177 250 Q 182 168 256 145 Q 330 168 335 250 Z" fill="#ffc5d0" stroke="#1a1a1a" stroke-width="6" />
+  
+  <path d="M 177 250 Q 182 168 256 145 Q 330 168 335 250 L 332 230 Q 327 175 256 158 Q 185 175 180 230 Z" fill="#ffffff" stroke="none" />
+  
+  <path d="M 177 250 Q 182 168 256 145 Q 330 168 335 250 Z" fill="none" stroke="#1a1a1a" stroke-width="6" />
+  
+  <path d="M 160 268 Q 256 250 352 268 Q 350 286 340 290 Q 256 278 172 290 Q 162 286 160 268 Z" fill="#ffd54f" stroke="#1a1a1a" stroke-width="7" />
+  
+  <path d="M 190 274 Q 200 271 215 274" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M 235 274 Q 256 271 280 274" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M 300 274 Q 315 271 330 274" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <path d="M 90 230 L 90 268 L 155 280 M 145 272 L 155 280 L 145 285" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
+  <circle cx="80" cy="200" r="32" fill="#d83232" />
+</g>
+</svg>

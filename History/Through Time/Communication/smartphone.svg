@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="body" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#d0d5de" />
+      <stop offset="100%" stop-color="#aeb4bd" />
+    </linearGradient>
+    <linearGradient id="scr" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7ec8f0" />
+      <stop offset="100%" stop-color="#3f8fd6" />
+    </linearGradient>
+  </defs>
+  <rect x="152" y="56" width="208" height="400" rx="28" ry="28" fill="url(#body)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <rect x="176" y="100" width="160" height="288" rx="6" ry="6" fill="url(#scr)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <rect x="220" y="68" width="72" height="12" rx="6" fill="#6f757e" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="307" cy="74" r="6" fill="#2b2622" />
+  <rect x="200" y="418" width="112" height="14" rx="7" fill="#6f757e" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="176" y="100" width="160" height="60" rx="4" fill="#2a5fa8" opacity="0.35" />
+  <rect x="185" y="108" width="70" height="28" rx="4" fill="#ffffff" opacity="0.25" />
+  <rect x="152" y="56" width="80" height="400" rx="28" fill="#2b2622" opacity="0.06" />
+  <rect x="188" y="108" width="50" height="20" rx="3" fill="#ffffff" opacity="0.35" />
+</svg>

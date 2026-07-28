@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,8.243) scale(0.9839)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <path d="M256,52            C190,52 140,100 140,160            C140,196 162,224 188,242            C162,260 140,290 140,338            C140,418 196,460 256,460            C316,460 372,418 372,338            C372,290 350,260 324,242            C350,224 372,196 372,160            C372,100 322,52 256,52 Z" fill="#c98a4a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M140,236 Q170,256 192,250" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M372,236 Q342,256 320,250" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <g stroke="#1a1a1a" stroke-width="3" fill="none" stroke-linecap="round">
+    <path d="M168,100 Q256,90 344,100" />
+    <path d="M160,130 Q256,124 352,130" />
+    <path d="M156,170 Q256,168 356,170" />
+    <path d="M168,200 Q256,200 344,200" />
+    <path d="M168,300 Q256,294 344,300" />
+    <path d="M156,340 Q256,338 356,340" />
+    <path d="M156,380 Q256,378 356,380" />
+    <path d="M170,420 Q256,418 342,420" />
+    
+    <path d="M200,80 Q190,160 210,232" />
+    <path d="M260,72 Q250,160 264,234" />
+    <path d="M310,80 Q318,160 304,232" />
+    <path d="M210,260 Q200,360 200,440" />
+    <path d="M260,256 Q256,360 256,448" />
+    <path d="M308,260 Q314,360 308,440" />
+  </g>
+  
+  
+  
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1406" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1406)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

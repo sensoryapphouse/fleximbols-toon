@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(8.95 50.86) scale(1.7038)" stroke-linejoin="round" stroke-linecap="round">
+  <g stroke="#000000" stroke-width="3.228" stroke-linejoin="round" stroke-linecap="round">
+    <!-- water line -->
+    <path d="M10 200 Q150 210 280 200" fill="none" stroke="#3b6fb0" stroke-width="3.228"/>
+    <!-- body: plump white pelican floating -->
+    <path d="M70 150 Q60 110 110 102 Q160 96 200 120 Q236 140 236 168 Q236 196 196 198 L100 198 Q66 192 70 150 Z"
+          fill="#f9f9f9"/>
+    <!-- neck: filled column from body up to head -->
+    <path d="M104 132 Q84 92 110 64 L132 70 Q116 100 124 134 Z" fill="#f9f9f9"/>
+    <!-- folded wing -->
+    <path d="M120 130 Q170 122 210 150 Q190 172 150 172 Q120 168 120 130 Z" fill="#e3e3e3"/>
+    <!-- head -->
+    <circle cx="128" cy="58" r="22" fill="#f9f9f9"/>
+    <!-- eye -->
+    <circle cx="136" cy="52" r="3.2" fill="#000000" stroke="none"/>
+    <!-- upper bill: long, pointing left -->
+    <path d="M108 50 L40 58 Q34 60 40 64 L110 70 Z" fill="#ffbf46"/>
+    <!-- gular pouch (the iconic throat pouch) hanging under the bill -->
+    <path d="M44 62 Q40 96 78 102 Q112 104 110 70 L46 62 Z" fill="#ffd688"/>
+    <!-- hook tip of bill -->
+    <path d="M40 58 Q30 58 32 66 L40 64 Z" fill="#ef951b"/>
+  </g>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl68" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl68)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

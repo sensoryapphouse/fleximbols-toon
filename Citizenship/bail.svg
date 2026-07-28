@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="78" y="302" width="165" height="95" rx="6" fill="#44aa44" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="72" y="295" width="165" height="95" rx="6" fill="#338833" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="66" y="288" width="165" height="95" rx="6" fill="#228b22" stroke="#1a1a1a" stroke-width="5" />
+  
+  <ellipse cx="148" cy="335" rx="28" ry="20" fill="#44aa44" stroke="#1a1a1a" stroke-width="3" />
+  <text x="148" y="341" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" font-weight="bold" fill="#1a1a1a" text-anchor="middle">$</text>
+  <text x="75" y="303" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" fill="#1a1a1a">100</text>
+  <text x="197" y="303" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" fill="#1a1a1a">100</text>
+  
+  <rect x="270" y="280" width="160" height="120" rx="6" fill="#fffde7" stroke="#1a1a1a" stroke-width="5.0000" />
+  <line x1="288" y1="312" x2="412" y2="312" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="288" y1="330" x2="395" y2="330" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="288" y1="348" x2="412" y2="348" stroke="#1a1a1a" stroke-width="3" />
+  <text x="350" y="300" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="13" font-weight="bold" fill="#553300" text-anchor="middle">BAIL BOND</text>
+  
+  <line x1="288" y1="378" x2="380" y2="378" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M288 375 Q305 366 320 374 Q335 382 352 370" stroke="#1a1a1a" stroke-width="2.5" fill="none" />
+  
+  <circle cx="360" cy="160" r="38" fill="none" stroke="#1a1a1a" stroke-width="10" />
+  <circle cx="360" cy="160" r="20" fill="none" stroke="#1a1a1a" stroke-width="8" />
+  
+  <rect x="388" y="154" width="80" height="12" rx="4" fill="#d4af37" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="420" y="166" width="10" height="16" rx="2" fill="#d4af37" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="440" y="166" width="10" height="22" rx="2" fill="#d4af37" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="458" y="166" width="10" height="13" rx="2" fill="#d4af37" stroke="#1a1a1a" stroke-width="4" />
+  
+  
+  <ellipse cx="115" cy="195" rx="22" ry="12" fill="none" stroke="#1a1a1a" stroke-width="8" transform="rotate(-30,115,195)" />
+  <ellipse cx="148" cy="182" rx="22" ry="12" fill="none" stroke="#1a1a1a" stroke-width="8" transform="rotate(-30,148,182)" />
+  
+  <line x1="163" y1="175" x2="180" y2="168" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="3,3" />
+  
+  <ellipse cx="198" cy="162" rx="22" ry="12" fill="none" stroke="#1a1a1a" stroke-width="8" transform="rotate(-50,198,162)" />
+  <ellipse cx="225" cy="145" rx="22" ry="12" fill="none" stroke="#1a1a1a" stroke-width="8" transform="rotate(-50,225,145)" />
+  
+  <line x1="167" y1="178" x2="158" y2="165" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="173" y1="173" x2="170" y2="158" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="178" y1="170" x2="182" y2="157" stroke="#1a1a1a" stroke-width="4" />
+</svg>

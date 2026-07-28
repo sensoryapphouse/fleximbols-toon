@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<radialGradient id="appleG" cx="0.35" cy="0.35" r="0.7">
+<stop offset="0" stop-color="#ff6b6b" />
+<stop offset="0.6" stop-color="#e63946" />
+<stop offset="1" stop-color="#a51c2c" />
+</radialGradient>
+<linearGradient id="leafG" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#7cd66f" />
+<stop offset="1" stop-color="#3a9d3a" />
+</linearGradient>
+<linearGradient id="dropG" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#cdeefc" />
+<stop offset="1" stop-color="#5fb8e8" />
+</linearGradient>
+</defs>
+<path d="M256 170 C170 160 110 220 110 310 C110 400 180 460 256 460 C332 460 402 400 402 310 C402 220 342 160 256 170 Z" fill="url(#appleG)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+<path d="M256 170 C220 145 200 130 220 175 C235 195 250 185 256 170 Z" fill="url(#leafG)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+<path d="M256 170 C260 130 280 110 305 100" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+<path d="M165 230 C150 245 145 270 160 285" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" opacity="0.7" />
+
+<path d="M120 140 C115 155 120 165 130 165 C140 165 145 152 138 140 C133 130 125 130 120 140 Z" fill="url(#dropG)" stroke="#1a1a1a" stroke-width="7" />
+<path d="M395 130 C390 145 395 155 405 155 C415 155 420 142 413 130 C408 120 400 120 395 130 Z" fill="url(#dropG)" stroke="#1a1a1a" stroke-width="7" />
+<path d="M70 250 C65 263 70 272 80 272 C90 272 94 261 88 250 C84 242 75 242 70 250 Z" fill="url(#dropG)" stroke="#1a1a1a" stroke-width="7" />
+<path d="M445 250 C440 263 445 272 455 272 C465 272 469 261 463 250 C459 242 450 242 445 250 Z" fill="url(#dropG)" stroke="#1a1a1a" stroke-width="7" />
+<rect x="116" y="475" width="280" height="28" rx="14" fill="#fff3a8" stroke="#1a1a1a" stroke-width="7" />
+</svg>

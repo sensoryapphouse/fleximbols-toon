@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="68" y="92" width="376" height="356" rx="22" ry="22" fill="#d2d2c8" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="56" y="80" width="376" height="356" rx="22" ry="22" fill="#f7f7f2" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M56 102 Q56 80 78 80 L410 80 Q432 80 432 102 L432 156 L56 156 Z" fill="#c93939" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <text x="244" y="138" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="56" font-weight="900" fill="#f7f7f2" text-anchor="middle">SUN</text>
+  
+  <rect x="116" y="56" width="20" height="56" rx="6" ry="6" fill="#8a8a85" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="232" y="56" width="20" height="56" rx="6" ry="6" fill="#8a8a85" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="348" y="56" width="20" height="56" rx="6" ry="6" fill="#8a8a85" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <g font-family="Verdana, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="middle">
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="96" y="200" fill="#c93939">S</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="148" y="200" fill="#1a1a1a">M</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="200" y="200" fill="#1a1a1a">T</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="252" y="200" fill="#1a1a1a">W</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="304" y="200" fill="#1a1a1a">T</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="356" y="200" fill="#1a1a1a">F</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="408" y="200" fill="#1a1a1a">S</text>
+  </g>
+  
+  <g fill="#1a1a1a" font-family="Verdana, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="148" y="252">1</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="200" y="252">2</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="252" y="252">3</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="304" y="252">4</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="356" y="252">5</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="408" y="252">6</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="96" y="252" fill="#c93939">7</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="148" y="304">8</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="200" y="304">9</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="252" y="304">10</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="304" y="304">11</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="356" y="304">12</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="408" y="304">13</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="96" y="304" fill="#c93939">14</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="148" y="356">15</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="200" y="356">16</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="252" y="356">17</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="304" y="356">18</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="356" y="356">19</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="408" y="356">20</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="96" y="356" fill="#c93939">21</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="148" y="408">22</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="200" y="408">23</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="252" y="408">24</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="304" y="408">25</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="356" y="408">26</text>
+    <text font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" x="408" y="408">27</text>
+  </g>
+  
+  <circle cx="96" cy="297" r="24" fill="none" stroke="#1a1a1a" stroke-width="5" />
+</svg>

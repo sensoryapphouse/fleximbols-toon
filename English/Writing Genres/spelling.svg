@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="40" y="90" width="432" height="340" rx="8" fill="#8a5a30" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="60" y="110" width="392" height="300" fill="#2a4a32" stroke="#1a1a1a" stroke-width="4" />
+  
+  <line x1="50" y1="120" x2="62" y2="115" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="50" y1="200" x2="62" y2="195" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="50" y1="300" x2="62" y2="295" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="450" y1="120" x2="462" y2="115" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="450" y1="220" x2="462" y2="215" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="450" y1="320" x2="462" y2="315" stroke="#1a1a1a" stroke-width="2" />
+  
+  
+  <line x1="175" y1="260" x2="218" y2="260" stroke="#1a1a1a" stroke-width="5" />
+  <polygon points="218,260 210,255 210,265" fill="#ffe060" />
+  <line x1="295" y1="260" x2="338" y2="260" stroke="#1a1a1a" stroke-width="5" />
+  <polygon points="338,260 330,255 330,265" fill="#ffe060" />
+  
+  <line x1="120" y1="310" x2="180" y2="310" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="225" y1="310" x2="290" y2="310" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="340" y1="310" x2="400" y2="310" stroke="#1a1a1a" stroke-width="3" />
+  
+  <line x1="200" y1="180" x2="312" y2="180" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="380" y="403" width="44" height="10" rx="3" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="80" y="403" width="60" height="10" fill="#d8d0c0" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="80" y="408" width="60" height="5" fill="#80604a" stroke="#1a1a1a" stroke-width="2" />
+  
+</svg>

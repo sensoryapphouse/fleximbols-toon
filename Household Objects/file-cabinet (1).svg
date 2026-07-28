@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <line x1="0" y1="475" x2="512" y2="475" stroke="#1a1a1a" stroke-width="6" />
+  <rect x="0" y="475" width="512" height="37" fill="#c9a47a" />
+  
+  <rect x="130" y="40" width="252" height="435" fill="#a8b0b8" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <polygon points="130,40 382,40 392,30 140,30" fill="#7a8088" stroke="#1a1a1a" stroke-width="5" />
+  
+  
+  <rect x="142" y="55" width="228" height="100" fill="#c0c8d0" stroke="#1a1a1a" stroke-width="5" />
+  
+  <rect x="216" y="98" width="80" height="14" fill="#5a6068" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="200" y="68" width="112" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="212" y1="77" x2="300" y2="77" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="142" y="160" width="228" height="100" fill="#c0c8d0" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="216" y="203" width="80" height="14" fill="#5a6068" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="200" y="173" width="112" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="212" y1="182" x2="300" y2="182" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="142" y="265" width="228" height="100" fill="#c0c8d0" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="216" y="308" width="80" height="14" fill="#5a6068" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="200" y="278" width="112" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="212" y1="287" x2="300" y2="287" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="142" y="370" width="228" height="100" fill="#c0c8d0" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="216" y="413" width="80" height="14" fill="#5a6068" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="200" y="383" width="112" height="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="212" y1="392" x2="300" y2="392" stroke="#1a1a1a" stroke-width="2" />
+  
+  <line x1="140" y1="50" x2="140" y2="470" stroke="#1a1a1a" stroke-width="3" />
+</svg>

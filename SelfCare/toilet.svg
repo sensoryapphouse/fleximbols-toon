@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>toilet</title>
+  <g stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Cistern (tank) -->
+    <rect x="170" y="60" width="172" height="170" rx="14" fill="#bfd9ea" />
+    <rect x="186" y="76" width="140" height="84" rx="6" fill="#79a8c4" />
+    <rect x="246" y="180" width="20" height="22" rx="4" fill="#1a1a1a" stroke="none" />
+
+    <!-- Pedestal/base (behind the seat) -->
+    <path d="M180 300 Q190 440 256 440 Q322 440 332 300 Z" fill="#dbe7ef" />
+
+    <!-- Seat ring (the actual toilet seat — annulus shape with evenodd fill) -->
+    <path d="M256 240 a132 64 0 1 0 0.1 0 Z M256 264 a96 38 0 1 1 -0.1 0 Z" fill="#e8eef3" fill-rule="evenodd" />
+
+    <!-- Bowl water inside the seat -->
+    <ellipse cx="256" cy="302" rx="92" ry="34" fill="#9bc7e0" />
+    <ellipse cx="256" cy="298" rx="84" ry="28" fill="#bfd9ea" />
+
+    <!-- Floor base -->
+    <rect x="170" y="438" width="172" height="22" rx="4" fill="#bfd9ea" />
+  </g>
+</svg>

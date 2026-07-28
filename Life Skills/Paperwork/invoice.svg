@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-17.704 0.543) scale(1.1585)">
+  <g transform="translate(0 0) scale(0.6250)">
+
+<path d="M 130 80 L 350 80 L 410 140 L 410 432 L 130 432 Z" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+<path d="M 350 80 L 350 140 L 410 140" fill="#E8E8E8" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+<line x1="160" y1="180" x2="380" y2="180" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<line x1="160" y1="220" x2="380" y2="220" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<line x1="160" y1="260" x2="380" y2="260" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<line x1="160" y1="300" x2="380" y2="300" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<line x1="160" y1="340" x2="320" y2="340" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+<line x1="160" y1="380" x2="360" y2="380" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" /></g>
+  <g transform="translate(192 192) scale(0.4375)">
+  <title>dollar</title>
+  <circle cx="256" cy="256" r="200" fill="#2bb673" stroke="#1a1a1a" stroke-width="8" />
+  <circle cx="256" cy="256" r="168" fill="none" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M256 88 L256 132" stroke="#1a1a1a" stroke-width="9.8650" stroke-linecap="round" />
+  <path d="M256 380 L256 424" stroke="#1a1a1a" stroke-width="9.8650" stroke-linecap="round" />
+  <path d="M328 178 Q300 142 248 142 Q188 142 188 196 Q188 240 248 252 Q316 268 316 316 Q316 374 248 374 Q188 374 168 332" fill="none" stroke="#1a1a1a" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="180" cy="180" r="14" fill="#ffffff" opacity="0.6" /></g>
+</g>
+  </svg>

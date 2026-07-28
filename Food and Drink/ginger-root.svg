@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+  <!-- Main ginger root body — central knobby mass -->
+  <path d="M160 290 Q140 250 155 215 Q170 182 210 175 Q238 170 258 180 Q278 168 305 175 Q345 185 355 220 Q368 258 348 295 Q328 330 285 340 Q260 346 235 340 Q200 332 180 320 Z" fill="#c8820a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Upper lobe / finger right -->
+  <path d="M305 175 Q320 148 340 135 Q362 122 375 138 Q390 155 378 178 Q366 200 345 210 Q325 218 308 208 Q294 198 300 185 Z" fill="#c88210" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Left upper finger -->
+  <path d="M205 178 Q195 148 205 125 Q218 103 240 100 Q260 98 270 115 Q282 135 270 158 Q258 180 240 185 Q222 188 210 178 Z" fill="#ba7808" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Lower right finger -->
+  <path d="M340 300 Q360 288 378 295 Q398 303 402 325 Q406 348 385 360 Q364 372 345 360 Q326 348 328 325 Q328 310 340 300 Z" fill="#c08010" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Lower left stub -->
+  <path d="M180 315 Q158 318 145 335 Q132 354 145 372 Q158 388 178 382 Q200 375 205 355 Q210 335 195 322 Z" fill="#ba7808" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Bottom stub -->
+  <path d="M248 340 Q240 365 242 385 Q246 408 262 410 Q278 412 282 390 Q285 370 275 348 Q265 335 252 338 Z" fill="#c08010" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Texture lines on main body -->
+  <g fill="none" stroke="#8a5005" stroke-width="3" stroke-linecap="round" opacity="0.7">
+    <path d="M185 225 Q215 218 248 222 Q278 218 310 228"/>
+    <path d="M175 255 Q210 248 248 252 Q285 248 325 258"/>
+    <path d="M170 285 Q210 278 248 282 Q285 278 335 290"/>
+  </g>
+
+  <!-- Texture on upper right lobe -->
+  <g fill="none" stroke="#8a5005" stroke-width="2.5" stroke-linecap="round" opacity="0.7">
+    <path d="M315 160 Q332 150 350 155"/>
+    <path d="M312 175 Q332 165 358 172"/>
+  </g>
+
+  <!-- Texture on upper left lobe -->
+  <g fill="none" stroke="#8a5005" stroke-width="2.5" stroke-linecap="round" opacity="0.7">
+    <path d="M215 125 Q230 115 248 118"/>
+    <path d="M212 142 Q228 132 250 135"/>
+  </g>
+
+  <!-- Small tip buds (growing tips, slightly lighter) -->
+  <circle cx="240" cy="98" r="10" fill="#e0a020" stroke="#1a1a1a" stroke-width="3"/>
+  <circle cx="375" cy="135" r="9" fill="#e0a020" stroke="#1a1a1a" stroke-width="3"/>
+  <circle cx="400" cy="330" r="8" fill="#e0a020" stroke="#1a1a1a" stroke-width="3"/>
+  <circle cx="262" cy="412" r="8" fill="#e0a020" stroke="#1a1a1a" stroke-width="3"/>
+  <circle cx="143" cy="370" r="7" fill="#e0a020" stroke="#1a1a1a" stroke-width="3"/>
+
+  <!-- Skin/cross-section highlight on main body -->
+  <ellipse cx="252" cy="258" rx="55" ry="45" fill="#e09818" stroke="none" opacity="0.25"/>
+
+</svg>

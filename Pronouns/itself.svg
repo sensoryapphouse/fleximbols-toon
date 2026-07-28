@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0 0) scale(0.6250)">
+  
+  
+  <path d="M256 76 L460 168 L256 260 L52 168 Z" fill="#d49b66" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <path d="M52 168 L256 260 L256 460 L52 368 Z" fill="#a86a3d" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <path d="M460 168 L256 260 L256 460 L460 368 Z" fill="#b87a4a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <line x1="52" y1="168" x2="256" y2="220" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="460" y1="168" x2="256" y2="220" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="256" y1="220" x2="256" y2="260" stroke="#1a1a1a" stroke-width="5" />
+  
+  <path d="M150 122 L362 122 L362 144 L150 144 Z" fill="#f2c14e" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" transform="translate(0,0)" />
+  
+  <path d="M104 192 L408 192 L408 212 L104 212 Z" fill="none" stroke="none" />
+  
+  <path d="M256 100 L256 220" stroke="#1a1a1a" stroke-width="8.0000" stroke-linecap="round" />
+  <path d="M256 100 L256 220" stroke="#1a1a1a" stroke-width="4" fill="none" />
+  
+  <rect x="140" y="300" width="100" height="68" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="156" y1="320" x2="224" y2="320" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="156" y1="336" x2="216" y2="336" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="156" y1="352" x2="220" y2="352" stroke="#1a1a1a" stroke-width="4" />
+  
+  <text x="296" y="356" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="bold" fill="#1a1a1a">UP</text>
+  <path d="M340 320 L340 296 L328 308 M340 296 L352 308" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" /></g>
+  <g transform="translate(368 368) scale(0.2500)">
+
+  <path d="M40 256 L320 256 L320 156 L472 256 L320 356 L320 256" fill="#1f6dc2" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round" /></g>
+</svg>

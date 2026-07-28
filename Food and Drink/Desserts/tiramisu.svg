@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-62.520 -120.602) scale(1.2358)">
+  <defs>
+    <linearGradient id="cocoa" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#7a4e28" /><stop offset="100%" stop-color="#5a3210" /></linearGradient>
+    <linearGradient id="cream" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#fffaf2" /><stop offset="100%" stop-color="#ede0c4" /></linearGradient>
+    <linearGradient id="lady" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#c8a878" /><stop offset="100%" stop-color="#9c7840" /></linearGradient>
+  </defs>
+  <rect x="100" y="160" width="312" height="290" rx="10" fill="url(#lady)" stroke="#1a1a1a" stroke-width="4.0460" stroke-linejoin="round" />
+  <rect x="100" y="160" width="312" height="60" rx="10" fill="url(#lady)" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="100" y1="220" x2="412" y2="220" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="108" y="168" width="60" height="44" rx="4" fill="#b89050" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="176" y="168" width="60" height="44" rx="4" fill="#b89050" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="244" y="168" width="60" height="44" rx="4" fill="#b89050" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="312" y="168" width="92" height="44" rx="4" fill="#b89050" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="100" y="220" width="312" height="70" fill="url(#cream)" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="100" y="290" width="312" height="60" fill="url(#lady)" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="108" y="297" width="60" height="46" rx="4" fill="#b89050" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="176" y="297" width="60" height="46" rx="4" fill="#b89050" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="244" y="297" width="60" height="46" rx="4" fill="#b89050" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="312" y="297" width="92" height="46" rx="4" fill="#b89050" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="100" y="350" width="312" height="70" fill="url(#cream)" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="100" y="420" width="312" height="30" rx="8" fill="url(#cocoa)" stroke="#1a1a1a" stroke-width="4.0460" stroke-linejoin="round" />
+  <path d="M100,395 L412,395 L412,420 L100,420 Z" fill="url(#cocoa)" stroke="#1a1a1a" stroke-width="4.0460" />
+  <path d="M108,400 Q140,396 172,400 Q204,404 236,400 Q268,396 300,400 Q332,404 364,400 Q390,397 404,400" fill="none" stroke="#1a1a1a" stroke-width="3" opacity="0.5" />
+  <path d="M108,410 Q140,406 172,410 Q204,414 236,410 Q268,406 300,410 Q332,414 364,410 Q390,407 404,410" fill="none" stroke="#1a1a1a" stroke-width="3" opacity="0.5" />
+  <path d="M115,398 Q256,390 395,398" fill="#9a6830" opacity="0.3" />
+  <path d="M130,232 Q256,225 380,232" fill="#ffffff" opacity="0.35" />
+  <path d="M130,362 Q256,355 380,362" fill="#ffffff" opacity="0.35" />
+  <rect x="412" y="155" width="8" height="300" rx="4" fill="#2b2622" opacity="0.08" />
+</g>
+  </svg>

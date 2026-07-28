@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-59.692 -66.123) scale(1.1692)">
+  <g transform="translate(64 64) scale(0.7500)">
+
+<ellipse cx="200" cy="260" rx="150" ry="160" fill="#9BE34C" stroke="#1a1a1a" stroke-width="5.7019" />
+<path d="M170 130 Q190 110 220 124 Q240 100 268 116" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+<path d="M196 100 Q210 90 230 96 L240 70 Q220 64 200 78 Z" fill="#3E7A1F" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<path d="M240 70 Q254 56 274 60" stroke="#1a1a1a" stroke-width="5" fill="none" stroke-linecap="round" />
+<ellipse cx="380" cy="340" rx="120" ry="125" fill="#D6F5A1" stroke="#1a1a1a" stroke-width="5.7019" />
+<ellipse cx="380" cy="340" rx="100" ry="105" fill="#E8FBC8" stroke="#1a1a1a" stroke-width="4" />
+<g stroke="#1a1a1a" stroke-width="4" fill="#FFFFFF">
+<path d="M380 340 L380 245 M380 340 L380 435 M380 340 L286 340 M380 340 L474 340 M380 340 L313 273 M380 340 L447 273 M380 340 L313 407 M380 340 L447 407" />
+</g>
+<g fill="#C4E879" stroke="#1a1a1a" stroke-width="3">
+<path d="M380 340 L382 260 Q388 260 392 268 L382 340 Z" />
+<path d="M380 340 L460 342 Q460 350 452 354 L380 342 Z" />
+<path d="M380 340 L378 420 Q372 420 368 412 L378 340 Z" />
+<path d="M380 340 L300 338 Q300 330 308 326 L380 338 Z" />
+</g>
+<circle cx="380" cy="340" r="10" fill="#9BE34C" stroke="#1a1a1a" stroke-width="3" /></g>
+  <g transform="translate(256 256) scale(0.3750)">
+  
+  <path d="M150 180 L150 460 Q150 480 170 480 L342 480 Q362 480 362 460 L362 180 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <rect x="170" y="290" width="172" height="110" fill="#3a7fd9" stroke="#1a1a1a" stroke-width="5" />
+  <text x="256" y="365" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="68" font-weight="900" text-anchor="middle" fill="#ffffff">SALT</text>
+  
+  <path d="M140 180 L372 180 L372 130 Q372 110 352 110 L160 110 Q140 110 140 130 Z" fill="#c9c9d1" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <circle cx="200" cy="145" r="7" fill="#1a1a1a" />
+  <circle cx="230" cy="145" r="7" fill="#1a1a1a" />
+  <circle cx="260" cy="145" r="7" fill="#1a1a1a" />
+  <circle cx="290" cy="145" r="7" fill="#1a1a1a" />
+  <circle cx="320" cy="145" r="7" fill="#1a1a1a" />
+  <circle cx="215" cy="170" r="7" fill="#1a1a1a" />
+  <circle cx="245" cy="170" r="7" fill="#1a1a1a" />
+  <circle cx="275" cy="170" r="7" fill="#1a1a1a" />
+  <circle cx="305" cy="170" r="7" fill="#1a1a1a" />
+  
+  <rect x="200" y="60" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="250" y="40" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="305" y="65" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="170" y="90" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="335" y="90" width="10" height="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" /></g>
+</g>
+  <g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1050" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1050)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

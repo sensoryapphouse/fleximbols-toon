@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <rect x="40" y="40" width="432" height="432" rx="20" fill="#FFF8E1" stroke="#1a1a1a" stroke-width="5.0000" />
+  <g transform="translate(180 170)">
+    <path d="M 80 0 C 30 0 0 50 0 100 C 0 160 40 210 80 210 C 120 210 160 160 160 100 C 160 50 130 0 80 0 Z" fill="#FFF8E1" stroke="#1a1a1a" stroke-width="5.0000" />
+    <path d="M 100 5 C 130 -10 145 5 145 30 C 110 40 105 25 100 5 Z" fill="#A8D8A8" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+    <path d="M 85 -10 Q 90 -25 100 -30" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+    <path d="M 80 0 C 30 0 0 50 0 100 C 0 130 10 160 30 180 L 120 180 C 130 160 130 130 110 110 C 100 100 90 50 80 0 Z" fill="#E63946" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+    <g fill="#3D3D3D">
+      <circle cx="40" cy="125" r="3" />
+      <circle cx="80" cy="155" r="3" />
+      <circle cx="55" cy="80" r="3" />
+    </g>
+  </g>
+  <g fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round">
+    <path d="M 350 110 Q 410 130 410 200 Q 410 270 360 290 Q 320 305 340 340 Q 360 380 320 410 Q 290 430 250 425" fill="#E63946" />
+  </g>
+  <g transform="translate(110 90) rotate(-30)">
+    <rect x="-10" y="0" width="20" height="120" rx="6" fill="#1D3557" stroke="#1a1a1a" stroke-width="6" />
+    <g fill="#A8DADC">
+      <circle cx="0" cy="20" r="4" />
+      <circle cx="0" cy="50" r="4" />
+      <circle cx="0" cy="80" r="4" />
+    </g>
+    <path d="M -30 120 L 30 120 L 35 150 L -35 150 Z" fill="#B0BEC5" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+    <rect x="-20" y="150" width="40" height="15" fill="#90A4AE" stroke="#1a1a1a" stroke-width="5" />
+    <path d="M -20 165 L -20 180 L -10 175 Z" fill="#E0E0E0" stroke="#1a1a1a" stroke-width="4" />
+  </g>
+</svg>

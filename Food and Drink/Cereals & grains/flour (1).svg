@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <path d="M 130 170 Q 130 150 150 144 L 362 144 Q 382 150 382 170 L 382 430 Q 382 450 362 450 L 150 450 Q 130 450 130 430 Z" fill="#f0e4cc" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M 140 160 Q 200 130 256 144 Q 312 130 372 160 L 362 178 Q 312 162 256 174 Q 200 162 150 178 Z" fill="#d6c8aa" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <rect x="170" y="220" width="172" height="170" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="186" y="240" width="140" height="34" rx="4" fill="#e84a4a" stroke="#1a1a1a" stroke-width="3" />
+  <text x="256" y="266" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="24" font-weight="900" text-anchor="middle" fill="#ffffff">FLOUR</text>
+  
+  <path d="M 256 300 L 256 372" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <ellipse cx="244" cy="310" rx="8" ry="14" fill="#e8c466" stroke="#1a1a1a" stroke-width="3" transform="rotate(-25 244 310)" />
+  <ellipse cx="268" cy="310" rx="8" ry="14" fill="#e8c466" stroke="#1a1a1a" stroke-width="3" transform="rotate(25 268 310)" />
+  <ellipse cx="240" cy="328" rx="8" ry="14" fill="#e8c466" stroke="#1a1a1a" stroke-width="3" transform="rotate(-25 240 328)" />
+  <ellipse cx="272" cy="328" rx="8" ry="14" fill="#e8c466" stroke="#1a1a1a" stroke-width="3" transform="rotate(25 272 328)" />
+  <ellipse cx="244" cy="346" rx="8" ry="14" fill="#e8c466" stroke="#1a1a1a" stroke-width="3" transform="rotate(-25 244 346)" />
+  <ellipse cx="268" cy="346" rx="8" ry="14" fill="#e8c466" stroke="#1a1a1a" stroke-width="3" transform="rotate(25 268 346)" />
+  
+  <circle cx="220" cy="120" r="18" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="250" cy="100" r="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="280" cy="116" r="16" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
+</svg>

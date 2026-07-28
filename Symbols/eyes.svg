@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g transform="translate(-33.57 16.35) scale(1.9971)" stroke-linejoin="round" stroke-linecap="round">
+  <!-- left eye white -->
+  <ellipse cx="88" cy="120" rx="58" ry="42" fill="#ffffff" stroke="#000000" stroke-width="2.754" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- right eye white -->
+  <ellipse cx="202" cy="120" rx="58" ry="42" fill="#ffffff" stroke="#000000" stroke-width="2.754" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- left iris (looking right - pupil shifted right) -->
+  <circle cx="106" cy="120" r="22" fill="#1846d9" stroke="#000000" stroke-width="2.203"/>
+  <!-- left pupil -->
+  <circle cx="110" cy="120" r="12" fill="#000000"/>
+  <!-- left eye highlight -->
+  <circle cx="100" cy="112" r="5" fill="#ffffff"/>
+  <!-- right iris (looking right - pupil shifted right) -->
+  <circle cx="220" cy="120" r="22" fill="#1846d9" stroke="#000000" stroke-width="2.203"/>
+  <!-- right pupil -->
+  <circle cx="224" cy="120" r="12" fill="#000000"/>
+  <!-- right eye highlight -->
+  <circle cx="214" cy="112" r="5" fill="#ffffff"/>
+  <!-- left upper lid -->
+  <path d="M30 120 C30 78 146 78 146 120" fill="none" stroke="#000000" stroke-width="2.754" stroke-linecap="round"/>
+  <!-- right upper lid -->
+  <path d="M144 120 C144 78 260 78 260 120" fill="none" stroke="#000000" stroke-width="2.754" stroke-linecap="round"/>
+</g></svg>

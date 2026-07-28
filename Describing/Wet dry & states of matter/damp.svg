@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="towelD" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#9bd0b6" />
+<stop offset="1" stop-color="#5fa380" />
+</linearGradient>
+</defs>
+<line x1="60" y1="100" x2="452" y2="100" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+<g stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round">
+<rect x="180" y="90" width="14" height="20" rx="3" fill="#c79555" />
+<rect x="318" y="90" width="14" height="20" rx="3" fill="#c79555" />
+</g>
+<path d="M 150 105 Q 150 100 158 100 L 350 100 Q 358 100 358 105 L 365 200 Q 380 280 360 360 Q 340 380 320 370 Q 300 380 280 365 Q 260 380 240 365 Q 220 380 200 370 Q 180 380 160 360 Q 140 280 152 200 Z" fill="url(#towelD)" stroke="#1a1a1a" stroke-width="5.0000" />
+<g stroke="#1a1a1a" stroke-width="5" fill="none">
+<line x1="170" y1="130" x2="345" y2="130" />
+<line x1="170" y1="340" x2="345" y2="335" />
+</g>
+<g stroke="#1a1a1a" stroke-width="4" fill="none" opacity="0.6">
+<line x1="180" y1="160" x2="180" y2="320" />
+<line x1="210" y1="160" x2="210" y2="325" />
+<line x1="240" y1="160" x2="240" y2="330" />
+<line x1="270" y1="160" x2="270" y2="332" />
+<line x1="300" y1="160" x2="300" y2="328" />
+<line x1="330" y1="160" x2="330" y2="322" />
+</g>
+<g fill="#3aa6d8" stroke="#1a1a1a" stroke-width="5">
+<ellipse cx="210" cy="220" rx="14" ry="18" />
+<ellipse cx="290" cy="260" rx="16" ry="20" />
+<ellipse cx="250" cy="180" rx="10" ry="13" />
+</g>
+<g fill="#3aa6d8" stroke="#1a1a1a" stroke-width="4">
+<circle cx="160" cy="390" r="6" />
+<circle cx="240" cy="395" r="6" />
+<circle cx="330" cy="392" r="6" />
+</g>
+</svg>

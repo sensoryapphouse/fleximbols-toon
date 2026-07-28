@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <path d="M256 56 Q236 80 232 110" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" />
+  <path d="M256 56 Q276 80 280 110" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" />
+  
+  <ellipse cx="256" cy="118" rx="20" ry="14" fill="#7a4f23" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M150 200 Q150 130 256 130 Q362 130 362 200 L362 392 Q362 460 256 460 Q150 460 150 392 Z" fill="#d6b079" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <ellipse cx="256" cy="200" rx="106" ry="32" fill="#e6c490" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M180 210 Q176 280 184 360 Q188 400 184 444" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M210 208 Q206 290 214 370 Q216 410 212 452" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M240 206 Q244 290 236 372 Q232 412 238 454" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M272 206 Q268 288 276 372 Q280 412 274 454" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M302 208 Q306 288 298 368 Q294 408 302 452" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M332 210 Q336 290 328 368 Q324 408 330 444" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M168 250 L344 254" stroke="#1a1a1a" stroke-width="2" opacity="0.7" />
+  <path d="M162 320 L350 322" stroke="#1a1a1a" stroke-width="2" opacity="0.7" />
+  <path d="M168 390 L344 392" stroke="#1a1a1a" stroke-width="2" opacity="0.7" />
+  
+  <path d="M180 200 Q180 140 256 138" fill="none" stroke="#1a1a1a" stroke-width="6" opacity="0.7" />
+</svg>

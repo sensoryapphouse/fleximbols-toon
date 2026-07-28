@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>quay</title>
+  
+  <rect x="0" y="320" width="512" height="160" fill="#3aa6d1" />
+  <path d="M0 332 Q64 322 128 332 T256 332 T384 332 T512 332 L512 360 L0 360 Z" fill="#2b8db8" />
+  <path d="M0 380 Q64 372 128 380 T256 380 T384 380 T512 380" stroke="#1a1a1a" stroke-width="3" fill="none" opacity="0.7" />
+  <path d="M0 420 Q90 410 180 420 T360 420 T512 420" stroke="#1a1a1a" stroke-width="3" fill="none" opacity="0.5" />
+  <rect x="0" y="240" width="512" height="90" fill="#a87a4e" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="0" y="240" width="512" height="20" fill="#c9986a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <line x1="80" y1="260" x2="80" y2="330" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="180" y1="260" x2="180" y2="330" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="280" y1="260" x2="280" y2="330" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="380" y1="260" x2="380" y2="330" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="460" y1="260" x2="460" y2="330" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="120" y="180" width="50" height="80" rx="10" fill="#374151" stroke="#1a1a1a" stroke-width="5.0000" />
+  <ellipse cx="145" cy="180" rx="28" ry="12" fill="#1f2937" />
+  <rect x="320" y="180" width="50" height="80" rx="10" fill="#374151" stroke="#1a1a1a" stroke-width="5.0000" />
+  <ellipse cx="345" cy="180" rx="28" ry="12" fill="#1f2937" />
+  <path d="M170 195 Q245 240 318 195" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+  <rect x="60" y="100" width="100" height="60" fill="#e63946" stroke="#1a1a1a" stroke-width="5.0000" />
+  <polygon points="60,100 110,60 160,100" fill="#a8222d" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="90" y="120" width="20" height="30" fill="#fde68a" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="120" y="120" width="20" height="30" fill="#fde68a" stroke="#1a1a1a" stroke-width="2" />
+</svg>

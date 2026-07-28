@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-11.750 -52.250)">
+<defs>
+<radialGradient id="lemon" cx="0.35" cy="0.3" r="0.8">
+<stop offset="0" stop-color="#fff48a" />
+<stop offset="0.6" stop-color="#f5c520" />
+<stop offset="1" stop-color="#a87a10" />
+</radialGradient>
+<linearGradient id="zester" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#e0e0e0" />
+<stop offset="1" stop-color="#909090" />
+</linearGradient>
+<linearGradient id="handle" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#a86a3a" />
+<stop offset="1" stop-color="#5a3818" />
+</linearGradient>
+<linearGradient id="peel" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#fff066" />
+<stop offset="1" stop-color="#d99a1a" />
+</linearGradient>
+</defs>
+<ellipse cx="200" cy="290" rx="115" ry="100" fill="url(#lemon)" stroke="#1a1a1a" stroke-width="5.0000" />
+<path d="M105 250 Q90 230 100 215 Q85 240 88 265" fill="url(#lemon)" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" />
+<path d="M295 330 Q310 350 300 365 Q315 340 312 315" fill="url(#lemon)" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" />
+
+<g stroke="#1a1a1a" stroke-width="3" fill="none" opacity="0.6">
+<path d="M140 240 Q150 250 145 265" />
+<path d="M180 220 Q195 230 188 250" />
+<path d="M225 235 Q240 250 230 265" />
+<path d="M155 320 Q170 330 162 345" />
+<path d="M210 320 Q225 330 215 345" />
+</g>
+<g transform="translate(330 180) rotate(35)">
+<rect x="-15" y="0" width="30" height="120" rx="6" fill="url(#zester)" stroke="#1a1a1a" stroke-width="7" />
+<rect x="-18" y="120" width="36" height="80" rx="10" fill="url(#handle)" stroke="#1a1a1a" stroke-width="7" />
+<g fill="#2b2622">
+<circle cx="-6" cy="20" r="2.5" />
+<circle cx="6" cy="20" r="2.5" />
+<circle cx="-6" cy="35" r="2.5" />
+<circle cx="6" cy="35" r="2.5" />
+<circle cx="-6" cy="50" r="2.5" />
+<circle cx="6" cy="50" r="2.5" />
+<circle cx="-6" cy="65" r="2.5" />
+<circle cx="6" cy="65" r="2.5" />
+<circle cx="-6" cy="80" r="2.5" />
+<circle cx="6" cy="80" r="2.5" />
+<circle cx="-6" cy="95" r="2.5" />
+<circle cx="6" cy="95" r="2.5" />
+</g>
+</g>
+<g fill="url(#peel)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round">
+<path d="M340 360 Q355 345 370 360 Q380 380 365 395 Q345 400 335 385 Q330 370 340 360 Z" />
+<path d="M385 305 Q400 290 415 305 Q425 325 410 340 Q390 345 380 330 Q375 315 385 305 Z" />
+<path d="M295 405 Q310 390 325 405 Q335 425 320 440 Q300 445 290 430 Q285 415 295 405 Z" />
+<path d="M420 365 Q435 350 450 365 Q460 385 445 400 Q425 405 415 390 Q410 375 420 365 Z" />
+</g>
+</g>
+  </svg>

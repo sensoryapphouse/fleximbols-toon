@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>ball</title>
+  
+  <circle cx="256" cy="256" r="180" fill="#e74c3c" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M256 76 Q200 256 256 436 Q312 256 256 76 Z" fill="#f7c948" stroke="#1a1a1a" stroke-width="8" />
+  <path d="M126 156 Q210 220 126 356 Q60 256 126 156 Z" fill="#3498db" stroke="#1a1a1a" stroke-width="8" />
+  <path d="M386 156 Q302 220 386 356 Q452 256 386 156 Z" fill="#27ae60" stroke="#1a1a1a" stroke-width="8" />
+  
+  <circle cx="256" cy="86" r="22" fill="#ffffff" stroke="#1a1a1a" stroke-width="6" />
+  
+  
+</svg>

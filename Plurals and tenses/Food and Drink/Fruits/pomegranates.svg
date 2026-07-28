@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <radialGradient id="pom" cx="38%" cy="32%" r="65%"><stop offset="0%" stop-color="#e84040" /><stop offset="100%" stop-color="#a01818" /></radialGradient>
+    <radialGradient id="aril" cx="35%" cy="30%" r="60%"><stop offset="0%" stop-color="#f05060" /><stop offset="100%" stop-color="#b02030" /></radialGradient>
+  </defs>
+  <ellipse cx="168" cy="316" rx="132" ry="138" fill="url(#pom)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M148,180 Q158,155 168,148 Q178,155 188,180" fill="#c03030" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <path d="M148,180 Q156,170 168,167 Q180,170 188,180 Q180,188 168,186 Q156,188 148,180Z" fill="#8a1818" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  <line x1="158" y1="170" x2="168" y2="148" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <line x1="178" y1="170" x2="168" y2="148" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <path d="M315,158 L492,158 Q508,158 508,188 L508,450 Q508,468 490,468 L315,468 Q296,468 296,450 L296,182 Q296,158 315,158Z" fill="#f8f0e8" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M296,296 L508,296" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.28" />
+  <path d="M394,158 L394,468" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.22" />
+  <ellipse cx="330" cy="218" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  
+  <ellipse cx="360" cy="207" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  
+  <ellipse cx="390" cy="213" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  
+  <ellipse cx="420" cy="206" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  
+  <ellipse cx="450" cy="214" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  
+  <ellipse cx="480" cy="208" rx="14" ry="12" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="314" cy="250" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="344" cy="242" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="374" cy="248" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="404" cy="240" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="434" cy="246" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="464" cy="240" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="494" cy="248" rx="12" ry="11" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="326" cy="314" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="356" cy="306" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="386" cy="312" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="416" cy="304" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="446" cy="310" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="476" cy="304" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="312" cy="354" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="342" cy="346" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="372" cy="352" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="402" cy="344" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="432" cy="350" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="462" cy="344" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="492" cy="350" rx="12" ry="11" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="328" cy="394" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="358" cy="388" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="388" cy="394" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="418" cy="388" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="448" cy="394" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="478" cy="388" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="344" cy="432" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="374" cy="438" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="404" cy="432" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="434" cy="438" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <ellipse cx="464" cy="432" rx="15" ry="13" fill="url(#aril)" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="472" y="168" width="7" height="255" rx="3" fill="#ffffff" opacity="0.26" />
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1255" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1255)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="gb" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#c8a878" /><stop offset="100%" stop-color="#9c7040" /></linearGradient>
+<linearGradient id="gf" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f8c531" /><stop offset="100%" stop-color="#e23b34" /></linearGradient>
+</defs>
+<rect x="56" y="200" width="400" height="56" rx="6" ry="6" fill="url(#gb)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="56" y="200" width="400" height="20" rx="6" ry="6" fill="#c8a878" opacity="0.5" />
+<rect x="56" y="272" width="400" height="56" rx="6" ry="6" fill="url(#gb)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="56" y="344" width="400" height="56" rx="6" ry="6" fill="url(#gb)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="80" y="200" width="72" height="56" rx="0" fill="#6e4423" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<rect x="168" y="200" width="72" height="56" rx="0" fill="#6e4423" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<rect x="256" y="200" width="72" height="56" rx="0" fill="#6e4423" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<rect x="344" y="200" width="72" height="56" rx="0" fill="#6e4423" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<rect x="120" y="272" width="72" height="56" rx="0" fill="#6e4423" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<rect x="208" y="272" width="72" height="56" rx="0" fill="#6e4423" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<rect x="296" y="272" width="72" height="56" rx="0" fill="#6e4423" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<rect x="80" y="344" width="72" height="56" rx="0" fill="#6e4423" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<rect x="168" y="344" width="72" height="56" rx="0" fill="#6e4423" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<rect x="256" y="344" width="72" height="56" rx="0" fill="#6e4423" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<rect x="344" y="344" width="72" height="56" rx="0" fill="#6e4423" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+<path d="M160 196 Q148 160 164 124 Q156 148 176 148 Q164 120 188 96 Q180 124 204 120 Q192 88 220 68 Q212 100 236 96 Q228 68 256 60 Q248 88 272 84 Q264 56 292 68 Q280 96 308 96 Q284 124 316 120 Q300 148 324 148 Q340 148 336 124 Q348 148 352 196Z" fill="url(#gf)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M200 196 Q196 172 208 156 Q204 168 216 168 Q208 148 224 132 Q220 152 236 148 Q228 128 248 116 Q244 136 260 132 Q256 112 272 120 Q264 140 280 136 Q272 156 288 148 Q280 168 296 168 Q308 168 304 156 Q316 172 312 196Z" fill="#f8c531" opacity="0.6" />
+</svg>

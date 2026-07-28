@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <path d="M256,470            C170,470 130,400 130,340            C130,290 175,260 256,260            C337,260 382,290 382,340            C382,400 342,470 256,470 Z" fill="#ff7a3d" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M256,300            C200,300 178,330 178,360            C178,380 200,395 256,395            C312,395 334,380 334,360            C334,330 312,300 256,300 Z" fill="#ffb079" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <ellipse cx="256" cy="160" rx="58" ry="74" fill="#ff7a3d" stroke="#1a1a1a" stroke-width="5.0000" />
+  <ellipse cx="256" cy="160" rx="32" ry="44" fill="#ffb079" />
+  
+  <ellipse cx="148" cy="200" rx="50" ry="62" transform="rotate(-25 148 200)" fill="#ff7a3d" stroke="#1a1a1a" stroke-width="5.0000" />
+  <ellipse cx="148" cy="200" rx="26" ry="36" transform="rotate(-25 148 200)" fill="#ffb079" />
+  
+  <ellipse cx="364" cy="200" rx="50" ry="62" transform="rotate(25 364 200)" fill="#ff7a3d" stroke="#1a1a1a" stroke-width="5.0000" />
+  <ellipse cx="364" cy="200" rx="26" ry="36" transform="rotate(25 364 200)" fill="#ffb079" />
+  
+  <ellipse cx="68" cy="290" rx="44" ry="54" transform="rotate(-50 68 290)" fill="#ff7a3d" stroke="#1a1a1a" stroke-width="5.0000" />
+  <ellipse cx="68" cy="290" rx="22" ry="30" transform="rotate(-50 68 290)" fill="#ffb079" />
+  
+  <ellipse cx="444" cy="290" rx="44" ry="54" transform="rotate(50 444 290)" fill="#ff7a3d" stroke="#1a1a1a" stroke-width="5.0000" />
+  <ellipse cx="444" cy="290" rx="22" ry="30" transform="rotate(50 444 290)" fill="#ffb079" />
+  
+  <path d="M256,80 L260,68 L264,80 Z" fill="#1f1f1f" />
+  <path d="M115,150 L114,138 L122,148 Z" fill="#1f1f1f" />
+  <path d="M397,150 L398,138 L390,148 Z" fill="#1f1f1f" />
+</svg>

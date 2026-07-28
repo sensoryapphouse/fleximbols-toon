@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fcfe8" />
+      <stop offset="1" stop-color="#3c8fb8" />
+    </linearGradient>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff4d0" />
+      <stop offset="1" stop-color="#e8c98a" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="370" width="512" height="142" fill="url(#sea)" />
+  <path d="M0 410 Q120 396 240 410 T480 406" fill="none" stroke="#1a1a1a" stroke-width="3" opacity="0.6" />
+  <path d="M0 446 Q120 434 240 446 T480 442" fill="none" stroke="#1a1a1a" stroke-width="3" opacity="0.5" />
+  
+  <path d="M80 200 L256 110 L432 200 L420 220 L256 134 L92 220 Z" fill="#b03a2e" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <line x1="160" y1="166" x2="172" y2="186" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="220" y1="138" x2="232" y2="158" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="280" y1="138" x2="292" y2="158" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="340" y1="166" x2="352" y2="186" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="320" y="140" width="22" height="48" fill="#aa6644" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M320 144 Q326 124 332 138 Q336 120 344 140" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="100" y="200" width="312" height="160" fill="url(#wall)" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="232" y="262" width="48" height="98" fill="#8a4a1a" stroke="#1a1a1a" stroke-width="6" />
+  <circle cx="270" cy="312" r="4" fill="#ffd76e" />
+  
+  <rect x="130" y="232" width="68" height="64" fill="#a8e0ff" stroke="#1a1a1a" stroke-width="6" />
+  <line x1="164" y1="232" x2="164" y2="296" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="130" y1="264" x2="198" y2="264" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="314" y="232" width="68" height="64" fill="#a8e0ff" stroke="#1a1a1a" stroke-width="6" />
+  <line x1="348" y1="232" x2="348" y2="296" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="314" y1="264" x2="382" y2="264" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="125" y="298" width="78" height="14" fill="#5a3a1a" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="140" cy="296" r="6" fill="#ff5a8a" />
+  <circle cx="158" cy="295" r="6" fill="#ffd84a" />
+  <circle cx="176" cy="296" r="6" fill="#ff5a8a" />
+  <circle cx="192" cy="295" r="6" fill="#ffd84a" />
+  
+  <rect x="60" y="360" width="392" height="38" fill="#3a3a3a" stroke="#1a1a1a" stroke-width="5.0000" />
+  <line x1="70" y1="378" x2="442" y2="378" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="60" y="386" width="392" height="6" fill="#c4441a" />
+  
+  <line x1="100" y1="360" x2="100" y2="350" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="412" y1="360" x2="412" y2="350" stroke="#1a1a1a" stroke-width="3" />
+</svg>

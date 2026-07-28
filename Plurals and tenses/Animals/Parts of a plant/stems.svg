@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <path d="M150,400 L362,400 L342,490 Q340,500 330,500 L182,500 Q172,500 170,490 Z" fill="#D97706" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <rect x="140" y="380" width="232" height="30" fill="#B45309" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <ellipse cx="256" cy="395" rx="100" ry="14" fill="#5B3A1E" stroke="#1a1a1a" stroke-width="6" />
+  
+  <rect x="238" y="120" width="36" height="270" fill="#6FB04A" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <line x1="252" y1="140" x2="252" y2="380" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  
+  <path d="M254,240 Q190,210 156,250 Q186,272 230,266 Q244,260 254,250 Z" fill="#7CC267" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" />
+  <line x1="170" y1="252" x2="240" y2="256" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M258,200 Q322,170 356,210 Q326,232 282,226 Q268,220 258,210 Z" fill="#7CC267" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" />
+  <line x1="342" y1="212" x2="272" y2="216" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="256" cy="116" r="38" fill="#E63946" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="256" cy="116" r="14" fill="#FFD60A" stroke="#1a1a1a" stroke-width="6" />
+  
+  <path d="M400,260 L300,260" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <polygon points="300,260 320,250 320,270" fill="#1D4ED8" stroke="#1a1a1a" stroke-width="5" />
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl269" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl269)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

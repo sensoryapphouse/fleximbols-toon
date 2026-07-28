@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="0" y="440" width="512" height="72" fill="#7aa05a" />
+  
+  
+  <path d="M226 446 L226 320 Q226 300 220 280 L230 270 Q236 290 256 290 Q276 290 282 270 L292 280 Q286 300 286 320 L286 446 Z" fill="#7a5028" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M236 430 Q240 400 234 360 Q238 320 236 290" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M256 440 Q258 400 254 360 Q258 320 256 290" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M276 430 Q272 400 278 360 Q274 320 276 290" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  
+  <path d="M256 280 L210 240 L180 220" stroke="#1a1a1a" stroke-width="8" fill="none" stroke-linecap="round" />
+  <path d="M256 280 L300 240 L334 218" stroke="#1a1a1a" stroke-width="8" fill="none" stroke-linecap="round" />
+  <path d="M256 280 L256 200" stroke="#1a1a1a" stroke-width="8" fill="none" stroke-linecap="round" />
+  
+  <g stroke="#1a1a1a" stroke-width="5.0000">
+    <ellipse cx="256" cy="200" rx="160" ry="120" fill="#3a7a3a" />
+    <ellipse cx="178" cy="210" rx="60" ry="60" fill="#3a7a3a" />
+    <ellipse cx="334" cy="210" rx="60" ry="60" fill="#3a7a3a" />
+    <ellipse cx="220" cy="140" rx="55" ry="50" fill="#4a8a4a" />
+    <ellipse cx="296" cy="140" rx="55" ry="50" fill="#4a8a4a" />
+    <ellipse cx="256" cy="110" rx="50" ry="40" fill="#5a9a5a" />
+  </g>
+  
+  <g stroke="#1a1a1a" stroke-width="3" fill="#4a8a4a">
+    
+    <g transform="translate(150 200) rotate(-20)">
+      <path d="M0 0 Q-6 -10 -2 -16 Q-12 -18 -8 -28 Q-16 -30 -10 -40 Q-18 -42 -12 -50 Q-6 -52 0 -48 Q6 -52 12 -50 Q18 -42 10 -40 Q16 -30 8 -28 Q12 -18 2 -16 Q6 -10 0 0 Z" />
+    </g>
+    
+    <g transform="translate(360 220) rotate(15)">
+      <path d="M0 0 Q-6 -10 -2 -16 Q-12 -18 -8 -28 Q-16 -30 -10 -40 Q-18 -42 -12 -50 Q-6 -52 0 -48 Q6 -52 12 -50 Q18 -42 10 -40 Q16 -30 8 -28 Q12 -18 2 -16 Q6 -10 0 0 Z" fill="#5aaa5a" />
+    </g>
+    
+    <g transform="translate(256 100) rotate(0)">
+      <path d="M0 0 Q-6 -10 -2 -16 Q-12 -18 -8 -28 Q-16 -30 -10 -40 Q-18 -42 -12 -50 Q-6 -52 0 -48 Q6 -52 12 -50 Q18 -42 10 -40 Q16 -30 8 -28 Q12 -18 2 -16 Q6 -10 0 0 Z" fill="#5aaa5a" />
+    </g>
+    
+    <g transform="translate(200 280) rotate(-40)">
+      <path d="M0 0 Q-6 -10 -2 -16 Q-12 -18 -8 -28 Q-16 -30 -10 -40 Q-18 -42 -12 -50 Q-6 -52 0 -48 Q6 -52 12 -50 Q18 -42 10 -40 Q16 -30 8 -28 Q12 -18 2 -16 Q6 -10 0 0 Z" />
+    </g>
+    
+    <g transform="translate(310 280) rotate(40)">
+      <path d="M0 0 Q-6 -10 -2 -16 Q-12 -18 -8 -28 Q-16 -30 -10 -40 Q-18 -42 -12 -50 Q-6 -52 0 -48 Q6 -52 12 -50 Q18 -42 10 -40 Q16 -30 8 -28 Q12 -18 2 -16 Q6 -10 0 0 Z" />
+    </g>
+  </g>
+  
+  <g stroke="#1a1a1a" stroke-width="3">
+    
+    <g transform="translate(195 245)">
+      <ellipse cx="0" cy="6" rx="9" ry="13" fill="#c08040" />
+      <path d="M-10 -2 Q-10 -10 0 -10 Q10 -10 10 -2 Q10 4 0 4 Q-10 4 -10 -2 Z" fill="#6a4218" />
+      
+      <path d="M-7 -6 L7 -6 M-7 -2 L7 -2 M-5 2 L5 2" stroke="#1a1a1a" stroke-width="1.5" fill="none" />
+      
+      <path d="M0 -10 L0 -16" stroke="#1a1a1a" stroke-width="2" />
+    </g>
+    
+    <g transform="translate(320 230)">
+      <ellipse cx="0" cy="6" rx="9" ry="13" fill="#c08040" />
+      <path d="M-10 -2 Q-10 -10 0 -10 Q10 -10 10 -2 Q10 4 0 4 Q-10 4 -10 -2 Z" fill="#6a4218" />
+      <path d="M-7 -6 L7 -6 M-7 -2 L7 -2 M-5 2 L5 2" stroke="#1a1a1a" stroke-width="1.5" fill="none" />
+      <path d="M0 -10 L0 -16" stroke="#1a1a1a" stroke-width="2" />
+    </g>
+    
+    <g transform="translate(256 268)">
+      <ellipse cx="0" cy="6" rx="8" ry="12" fill="#c08040" />
+      <path d="M-9 -2 Q-9 -9 0 -9 Q9 -9 9 -2 Q9 4 0 4 Q-9 4 -9 -2 Z" fill="#6a4218" />
+      <path d="M-6 -5 L6 -5 M-6 -1 L6 -1" stroke="#1a1a1a" stroke-width="1.5" fill="none" />
+      <path d="M0 -9 L0 -14" stroke="#1a1a1a" stroke-width="2" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7fcfe8" />
+      <stop offset="1" stop-color="#3c8fb8" />
+    </linearGradient>
+    <linearGradient id="wood" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8c98a" />
+      <stop offset="1" stop-color="#a8782e" />
+    </linearGradient>
+    <linearGradient id="sail" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" />
+      <stop offset="1" stop-color="#e6e0d2" />
+    </linearGradient>
+  </defs>
+  <rect x="0" y="340" width="512" height="172" fill="url(#sea)" />
+  <path d="M0 380 Q120 366 240 380 T480 376 T512 380" fill="none" stroke="#1a1a1a" stroke-width="3" opacity="0.6" />
+  
+  <line x1="256" y1="60" x2="256" y2="340" stroke="#1a1a1a" stroke-width="6" />
+  
+  <path d="M260 70 L360 330 L260 330 Z" fill="url(#sail)" stroke="#1a1a1a" stroke-width="6" />
+  
+  <line x1="262" y1="130" x2="312" y2="330" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="262" y1="200" x2="338" y2="330" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M252 90 L186 320 L252 320 Z" fill="#f6efdc" stroke="#1a1a1a" stroke-width="5" />
+  
+  <path d="M70 330 L442 330 L412 400 Q256 422 100 400 Z" fill="url(#wood)" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M86 348 Q256 360 426 348" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M94 366 Q256 380 418 366" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M104 384 Q256 398 408 384" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M70 330 L442 330" stroke="#1a1a1a" stroke-width="6" />
+  
+  <rect x="180" y="324" width="152" height="10" fill="#7a4f1a" stroke="#1a1a1a" stroke-width="4" />
+  
+  <line x1="442" y1="330" x2="412" y2="400" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="70" y1="330" x2="100" y2="400" stroke="#1a1a1a" stroke-width="5" />
+  
+  <line x1="256" y1="328" x2="362" y2="328" stroke="#1a1a1a" stroke-width="5" />
+</svg>

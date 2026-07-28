@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<g stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round">
+  
+  <path d="M76 156 Q256 134 436 156 L436 420 Q256 398 76 420 Z" fill="#234e6e" />
+  
+  <path d="M90 168 Q256 148 422 168 L422 408 Q256 388 90 408 Z" fill="#fff4e0" />
+  
+  <path d="M252 156 Q256 138 260 156 L260 420 Q256 402 252 420 Z" fill="#1a3a52" stroke="none" />
+  <path d="M252 156 Q256 138 260 156 L260 420 Q256 402 252 420 Z" fill="none" />
+  
+  <rect x="100" y="180" width="142" height="28" rx="3" fill="#234e6e" />
+  <text x="171" y="200" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="16" font-weight="900" fill="#fff4e0" stroke="none">DICTIONARY</text>
+  
+  <text x="108" y="246" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="900" fill="#1a1a1a" stroke="none">word</text>
+  
+  <text x="180" y="246" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="16" font-style="italic" fill="#7a4a3a" stroke="none">/wərd/</text>
+  
+  <text x="108" y="270" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" font-style="italic" fill="#3a3a3a" stroke="none">n.</text>
+  
+  <line x1="108" y1="284" x2="240" y2="284" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="108" y1="298" x2="236" y2="298" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="108" y1="312" x2="244" y2="312" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="108" y1="326" x2="220" y2="326" stroke="#1a1a1a" stroke-width="3" />
+  
+  <text x="108" y="358" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="900" fill="#1a1a1a" stroke="none">work</text>
+  <line x1="108" y1="376" x2="240" y2="376" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="108" y1="390" x2="232" y2="390" stroke="#1a1a1a" stroke-width="3" />
+  
+  
+  <path d="M414 200 L432 200 L432 232 L414 232 Q406 216 414 200 Z" fill="#e94560" />
+  <text x="423" y="222" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" font-weight="900" fill="#fff4e0" stroke="none">D</text>
+  
+  <text x="280" y="246" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="900" fill="#1a1a1a" stroke="none">write</text>
+  <text x="346" y="246" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" font-style="italic" fill="#7a4a3a" stroke="none">/rīt/</text>
+  <line x1="280" y1="266" x2="402" y2="266" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="280" y1="280" x2="398" y2="280" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="280" y1="294" x2="402" y2="294" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="280" y1="308" x2="386" y2="308" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="280" y1="322" x2="400" y2="322" stroke="#1a1a1a" stroke-width="3" />
+  <text x="280" y="358" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="900" fill="#1a1a1a" stroke="none">written</text>
+  <line x1="280" y1="376" x2="400" y2="376" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="280" y1="390" x2="392" y2="390" stroke="#1a1a1a" stroke-width="3" />
+</g>
+</svg>

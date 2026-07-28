@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-61.647 -17.824) scale(1.1765)">
+<defs>
+<linearGradient id="chili" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ff5544" />
+<stop offset="0.5" stop-color="#d92020" />
+<stop offset="1" stop-color="#8a1010" />
+</linearGradient>
+<linearGradient id="stem" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#7cc25a" />
+<stop offset="1" stop-color="#3e7a2a" />
+</linearGradient>
+<radialGradient id="flame" cx="0.5" cy="0.8" r="0.7">
+<stop offset="0" stop-color="#fff066" />
+<stop offset="0.5" stop-color="#ff9020" />
+<stop offset="1" stop-color="#d93010" />
+</radialGradient>
+</defs>
+<g fill="url(#flame)" stroke="#1a1a1a" stroke-width="4.675" stroke-linejoin="round">
+<path d="M110 220 Q95 200 105 175 Q100 200 120 195 Q115 175 130 165 Q128 195 145 210 Q150 230 130 245 Q115 245 110 220 Z" />
+<path d="M402 220 Q387 200 397 175 Q392 200 412 195 Q407 175 422 165 Q420 195 437 210 Q442 230 422 245 Q407 245 402 220 Z" />
+<path d="M180 110 Q165 90 175 65 Q170 90 190 85 Q185 65 200 55 Q198 85 215 100 Q220 120 200 135 Q185 135 180 110 Z" />
+<path d="M332 110 Q317 90 327 65 Q322 90 342 85 Q337 65 352 55 Q350 85 367 100 Q372 120 352 135 Q337 135 332 110 Z" />
+<path d="M130 360 Q115 340 125 315 Q120 340 140 335 Q135 315 150 305 Q148 335 165 350 Q170 370 150 385 Q135 385 130 360 Z" />
+<path d="M382 360 Q367 340 377 315 Q372 340 392 335 Q387 315 402 305 Q400 335 417 350 Q422 370 402 385 Q387 385 382 360 Z" />
+</g>
+<path d="M270 145 Q280 130 295 130 Q310 130 308 150 Q300 165 285 168" fill="url(#stem)" stroke="#1a1a1a" stroke-width="5.454" stroke-linejoin="round" />
+<path d="M285 168 Q220 175 200 230 Q185 290 225 350 Q260 400 290 395 Q320 380 320 320 Q325 250 305 200 Q295 175 285 168 Z" fill="url(#chili)" stroke="#1a1a1a" stroke-width="3.311" stroke-linejoin="round" />
+<path d="M240 200 Q220 260 235 320" stroke="#1a1a1a" stroke-width="4.675" fill="none" opacity="0.5" stroke-linecap="round" />
+</g>
+  </svg>

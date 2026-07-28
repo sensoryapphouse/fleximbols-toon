@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-60.564 9.681) scale(1.2378)">
+  
+  <rect x="230" y="40" width="52" height="20" rx="6" ry="6" fill="#555555" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="244" y="55" width="24" height="40" rx="4" ry="4" fill="#666666" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="238" y="56" width="12" height="30" rx="3" ry="3" fill="#888888" />
+  <rect x="262" y="56" width="12" height="30" rx="3" ry="3" fill="#888888" />
+  
+  <path d="M256 94 Q256 110 256 120" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  
+  <path d="M140 240 Q140 120 256 120 Q372 120 372 240 Z" fill="#aaaaaa" stroke="#1a1a1a" stroke-width="4.0394" />
+  
+  <path d="M152 240 Q152 132 256 132 Q360 132 360 240 Z" fill="#cccccc" />
+  
+  <path d="M200 240 Q200 162 256 162 Q312 162 312 240 Z" fill="#eeeeee" opacity="0.5" />
+  
+  <rect x="228" y="232" width="56" height="32" rx="8" ry="8" fill="#888888" stroke="#1a1a1a" stroke-width="5" />
+  
+  <ellipse cx="256" cy="290" rx="44" ry="58" fill="#e8f8ff" stroke="#1a1a1a" stroke-width="6" />
+  
+  <ellipse cx="256" cy="286" rx="32" ry="44" fill="#c0eeff" />
+  <ellipse cx="256" cy="282" rx="20" ry="30" fill="#e0f8ff" />
+  
+  <path d="M248 278 Q252 268 256 278 Q260 288 264 278 Q268 268 272 278" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M248 290 Q252 280 256 290 Q260 300 264 290 Q268 280 272 290" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="238" y="340" width="36" height="12" rx="3" ry="3" fill="#aaaaaa" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="240" y="350" width="32" height="10" rx="2" ry="2" fill="#999999" stroke="#1a1a1a" stroke-width="2" />
+  
+  <line x1="178" y1="260" x2="148" y2="248" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.8" />
+  <line x1="170" y1="290" x2="136" y2="290" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.8" />
+  <line x1="178" y1="316" x2="150" y2="330" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.7" />
+  <line x1="334" y1="260" x2="364" y2="248" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.8" />
+  <line x1="342" y1="290" x2="376" y2="290" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.8" />
+  <line x1="334" y1="316" x2="362" y2="330" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.7" />
+  <line x1="256" y1="355" x2="256" y2="385" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.7" />
+  
+  <line x1="140" y1="240" x2="372" y2="240" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+</g>
+  </svg>

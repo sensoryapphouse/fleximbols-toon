@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <path d="M50 460 C140 380 200 320 256 280 C320 240 400 200 470 100" stroke="#1a1a1a" stroke-width="6" fill="none" stroke-linecap="round" />
+  
+  <path d="M150 388 C130 372 116 384 122 404 C140 402 150 396 150 388 Z" fill="#3e8a3e" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M210 326 C190 312 178 322 184 342 C202 340 212 334 210 326 Z" fill="#3e8a3e" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M300 256 C320 242 332 252 326 272 C308 270 298 264 300 256 Z" fill="#3e8a3e" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M380 196 C400 182 412 192 406 212 C388 210 378 204 380 196 Z" fill="#3e8a3e" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M430 140 C448 126 460 134 454 152 C438 152 428 148 430 140 Z" fill="#3e8a3e" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  
+  <g transform="translate(170,360)" stroke="#1a1a1a" stroke-width="2">
+    <g transform="translate(0,0)"><polygon fill="#ffffff" points="0,-18 5,-5 18,-5 8,3 12,16 0,8 -12,16 -8,3 -18,-5 -5,-5" /><circle r="3" fill="#ffd633" /></g>
+    <g transform="translate(22,16)"><polygon fill="#ffffff" points="0,-14 4,-4 14,-4 6,2 10,12 0,6 -10,12 -6,2 -14,-4 -4,-4" /><circle r="2" fill="#ffd633" /></g>
+    <g transform="translate(-20,16)"><polygon fill="#ffffff" points="0,-14 4,-4 14,-4 6,2 10,12 0,6 -10,12 -6,2 -14,-4 -4,-4" /><circle r="2" fill="#ffd633" /></g>
+    <g transform="translate(-4,32)"><polygon fill="#ffffff" points="0,-10 3,-3 10,-3 4,1 7,9 0,4 -7,9 -4,1 -10,-3 -3,-3" /><circle r="1.5" fill="#ffd633" /></g>
+  </g>
+  
+  <g transform="translate(270,238)" stroke="#1a1a1a" stroke-width="2">
+    <g transform="translate(0,0)"><polygon fill="#ffffff" points="0,-18 5,-5 18,-5 8,3 12,16 0,8 -12,16 -8,3 -18,-5 -5,-5" /><circle r="3" fill="#ffd633" /></g>
+    <g transform="translate(22,16)"><polygon fill="#ffffff" points="0,-14 4,-4 14,-4 6,2 10,12 0,6 -10,12 -6,2 -14,-4 -4,-4" /><circle r="2" fill="#ffd633" /></g>
+    <g transform="translate(-20,16)"><polygon fill="#ffffff" points="0,-14 4,-4 14,-4 6,2 10,12 0,6 -10,12 -6,2 -14,-4 -4,-4" /><circle r="2" fill="#ffd633" /></g>
+    <g transform="translate(8,-22)"><polygon fill="#ffffff" points="0,-12 4,-3 12,-3 5,2 8,10 0,5 -8,10 -5,2 -12,-3 -4,-3" /><circle r="2" fill="#ffd633" /></g>
+  </g>
+  
+  <g transform="translate(400,170)" stroke="#1a1a1a" stroke-width="2">
+    <g transform="translate(0,0)"><polygon fill="#ffffff" points="0,-18 5,-5 18,-5 8,3 12,16 0,8 -12,16 -8,3 -18,-5 -5,-5" /><circle r="3" fill="#ffd633" /></g>
+    <g transform="translate(22,12)"><polygon fill="#ffffff" points="0,-14 4,-4 14,-4 6,2 10,12 0,6 -10,12 -6,2 -14,-4 -4,-4" /><circle r="2" fill="#ffd633" /></g>
+    <g transform="translate(-22,14)"><polygon fill="#ffffff" points="0,-14 4,-4 14,-4 6,2 10,12 0,6 -10,12 -6,2 -14,-4 -4,-4" /><circle r="2" fill="#ffd633" /></g>
+  </g>
+</svg>

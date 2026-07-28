@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-45.929 -51.526) scale(1.1193)">
+  
+  <path d="M150 180 L150 140 Q150 124 166 124 L214 124 Q230 124 230 140 L230 180 Q252 200 252 230 L252 430 Q252 450 232 450 L148 450 Q128 450 128 430 L128 230 Q128 200 150 180 Z" fill="#e6233b" stroke="#1a1a1a" stroke-width="4.4671" stroke-linejoin="round" />
+  
+  <rect x="158" y="100" width="64" height="32" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4671" />
+  
+  <rect x="138" y="260" width="104" height="120" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <text x="190" y="312" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="900" text-anchor="middle" fill="#e6233b">KET</text>
+  <text x="190" y="352" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="900" text-anchor="middle" fill="#e6233b">CHUP</text>
+  
+  <path d="M310 180 L310 140 Q310 124 326 124 L374 124 Q390 124 390 140 L390 180 Q412 200 412 230 L412 430 Q412 450 392 450 L308 450 Q288 450 288 430 L288 230 Q288 200 310 180 Z" fill="#f7c800" stroke="#1a1a1a" stroke-width="4.4671" stroke-linejoin="round" />
+  
+  <rect x="318" y="100" width="64" height="32" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.4671" />
+  
+  <rect x="298" y="260" width="104" height="120" rx="6" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <text x="350" y="312" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="900" text-anchor="middle" fill="#c89200">MUS</text>
+  <text x="350" y="352" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="32" font-weight="900" text-anchor="middle" fill="#c89200">TARD</text>
+</g>
+  </svg>

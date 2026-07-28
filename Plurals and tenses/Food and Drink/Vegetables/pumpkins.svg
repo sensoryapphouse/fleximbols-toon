@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -16.000)">
+<title>pumpkin</title>
+
+<ellipse cx="256" cy="300" rx="170" ry="140" fill="#F39C12" stroke="#1a1a1a" stroke-width="5.0000" />
+<ellipse cx="170" cy="300" rx="80" ry="135" fill="#F39C12" stroke="#1a1a1a" stroke-width="4" />
+<ellipse cx="342" cy="300" rx="80" ry="135" fill="#F39C12" stroke="#1a1a1a" stroke-width="4" />
+<ellipse cx="256" cy="300" rx="78" ry="138" fill="none" stroke="#1a1a1a" stroke-width="4" />
+
+<path d="M256 165 Q 240 300 256 435" fill="none" stroke="#1a1a1a" stroke-width="4" opacity="0.6" />
+<path d="M195 175 Q 175 300 200 425" fill="none" stroke="#1a1a1a" stroke-width="4" opacity="0.6" />
+<path d="M317 175 Q 337 300 312 425" fill="none" stroke="#1a1a1a" stroke-width="4" opacity="0.6" />
+
+<path d="M236 165 L240 110 Q 256 95 272 110 L276 165 Z" fill="#27AE60" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+
+<path d="M276 130 Q 320 110 330 80 Q 340 65 320 70" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+
+<path d="M236 130 Q 200 100 170 110 Q 195 130 205 145 Q 220 138 236 130 Z" fill="#27AE60" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+
+<polygon points="200,260 240,260 220,295" fill="#1A1A1A" />
+<polygon points="272,260 312,260 292,295" fill="#1A1A1A" />
+
+<path d="M180 340 Q 256 410 332 340 L320 355 L300 340 L280 355 L256 340 L232 355 L212 340 L192 355 Z" fill="#1A1A1A" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+<text x="256" y="495" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="36" font-weight="900" fill="#1A1A1A" text-anchor="middle">PUMPKIN</text>
+</g>
+  <g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1561" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1561)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

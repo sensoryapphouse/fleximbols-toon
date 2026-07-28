@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<rect x="120" y="70" width="272" height="372" fill="#5a6168" stroke="#1a1a1a" stroke-width="5.0000" />
+<g stroke="#1a1a1a" stroke-width="3">
+<rect x="132" y="82" width="56" height="348" fill="#f4f4ef" />
+<rect x="216" y="82" width="56" height="348" fill="#f4f4ef" />
+<rect x="300" y="82" width="56" height="348" fill="#f4f4ef" />
+</g>
+<g>
+<rect x="60" y="120" width="20" height="300" rx="6" fill="#f4f4ef" stroke="#1a1a1a" stroke-width="6" />
+<g fill="#2b2622"><rect x="60" y="150" width="20" height="22" /><rect x="60" y="194" width="20" height="22" /><rect x="60" y="238" width="20" height="22" /><rect x="60" y="282" width="20" height="22" /><rect x="60" y="326" width="20" height="22" /><rect x="60" y="370" width="20" height="22" /></g>
+<circle cx="70" cy="104" r="30" fill="#f59324" stroke="#1a1a1a" stroke-width="7" />
+<circle cx="60" cy="94" r="8" fill="#ffd9a8" />
+</g>
+<g>
+<rect x="432" y="120" width="20" height="300" rx="6" fill="#f4f4ef" stroke="#1a1a1a" stroke-width="6" />
+<g fill="#2b2622"><rect x="432" y="150" width="20" height="22" /><rect x="432" y="194" width="20" height="22" /><rect x="432" y="238" width="20" height="22" /><rect x="432" y="282" width="20" height="22" /><rect x="432" y="326" width="20" height="22" /><rect x="432" y="370" width="20" height="22" /></g>
+<circle cx="442" cy="104" r="30" fill="#f59324" stroke="#1a1a1a" stroke-width="7" />
+<circle cx="432" cy="94" r="8" fill="#ffd9a8" />
+</g>
+</svg>

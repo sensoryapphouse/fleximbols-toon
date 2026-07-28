@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+<path d="M110 130 L110 320 Q110 420 256 420 Q402 420 402 320 L402 130 L322 130 L322 320 Q322 350 256 350 Q190 350 190 320 L190 130 Z" fill="#e85a4f" stroke="#1a1a1a" stroke-width="5.0000" />
+
+<rect x="105" y="120" width="90" height="60" fill="#cccccc" stroke="#1a1a1a" stroke-width="4" />
+<rect x="317" y="120" width="90" height="60" fill="#cccccc" stroke="#1a1a1a" stroke-width="4" />
+
+<text x="362" y="167" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="42" font-weight="900" text-anchor="middle" fill="#1a1a1a">N</text>
+<text x="150" y="167" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="42" font-weight="900" text-anchor="middle" fill="#1a1a1a">S</text>
+
+<path d="M110 100 Q256 50 402 100" stroke="#1a1a1a" stroke-width="4" fill="none" stroke-dasharray="8,8" />
+<path d="M110 80 Q256 20 402 80" stroke="#1a1a1a" stroke-width="3" fill="none" stroke-dasharray="6,6" />
+
+<g stroke="#1a1a1a" stroke-width="5.0000" fill="#ffd23b" stroke-linejoin="round">
+<polygon points="60,150 70,155 65,165 75,170 65,175 70,185 60,180 50,185 55,175 45,170 55,165 50,155" />
+<polygon points="450,150 460,155 455,165 465,170 455,175 460,185 450,180 440,185 445,175 435,170 445,165 440,155" />
+</g>
+
+<rect x="125" y="200" width="14" height="100" fill="#ffffff" opacity="0.5" />
+<rect x="337" y="200" width="14" height="100" fill="#ffffff" opacity="0.5" />
+</svg>

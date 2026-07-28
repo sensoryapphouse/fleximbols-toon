@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs>
+<linearGradient id="towerBody" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#5d7ea6" />
+<stop offset="0.5" stop-color="#8aa9ce" />
+<stop offset="1" stop-color="#3e5a82" />
+</linearGradient>
+<linearGradient id="winLit" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffe680" />
+<stop offset="1" stop-color="#ffb84d" />
+</linearGradient>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#fcd9a3" />
+<stop offset="1" stop-color="#f59f6b" />
+</linearGradient>
+</defs>
+<g stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round">
+<rect x="260" y="60" width="170" height="370" fill="url(#towerBody)" />
+<path d="M280 60 L300 30 L390 30 L410 60 Z" fill="#3e5a82" />
+<rect x="338" y="0" width="14" height="40" fill="#2b2622" stroke="none" />
+<circle cx="345" cy="0" r="6" fill="#e63946" />
+<g fill="url(#winLit)" stroke-width="3">
+<rect x="278" y="80" width="22" height="22" /><rect x="310" y="80" width="22" height="22" /><rect x="342" y="80" width="22" height="22" /><rect x="374" y="80" width="22" height="22" /><rect x="406" y="80" width="14" height="22" />
+<rect x="278" y="115" width="22" height="22" /><rect x="310" y="115" width="22" height="22" /><rect x="342" y="115" width="22" height="22" /><rect x="374" y="115" width="22" height="22" /><rect x="406" y="115" width="14" height="22" />
+<rect x="278" y="150" width="22" height="22" /><rect x="310" y="150" width="22" height="22" /><rect x="342" y="150" width="22" height="22" /><rect x="374" y="150" width="22" height="22" /><rect x="406" y="150" width="14" height="22" />
+<rect x="278" y="185" width="22" height="22" /><rect x="310" y="185" width="22" height="22" /><rect x="342" y="185" width="22" height="22" /><rect x="374" y="185" width="22" height="22" /><rect x="406" y="185" width="14" height="22" />
+<rect x="278" y="220" width="22" height="22" /><rect x="310" y="220" width="22" height="22" /><rect x="342" y="220" width="22" height="22" /><rect x="374" y="220" width="22" height="22" /><rect x="406" y="220" width="14" height="22" />
+<rect x="278" y="255" width="22" height="22" /><rect x="310" y="255" width="22" height="22" /><rect x="342" y="255" width="22" height="22" /><rect x="374" y="255" width="22" height="22" /><rect x="406" y="255" width="14" height="22" />
+<rect x="278" y="290" width="22" height="22" /><rect x="310" y="290" width="22" height="22" /><rect x="342" y="290" width="22" height="22" /><rect x="374" y="290" width="22" height="22" /><rect x="406" y="290" width="14" height="22" />
+<rect x="278" y="325" width="22" height="22" /><rect x="310" y="325" width="22" height="22" /><rect x="342" y="325" width="22" height="22" /><rect x="374" y="325" width="22" height="22" /><rect x="406" y="325" width="14" height="22" />
+<rect x="278" y="360" width="22" height="22" /><rect x="310" y="360" width="22" height="22" /><rect x="342" y="360" width="22" height="22" /><rect x="374" y="360" width="22" height="22" /><rect x="406" y="360" width="14" height="22" />
+<rect x="278" y="395" width="22" height="22" /><rect x="310" y="395" width="22" height="22" /><rect x="342" y="395" width="22" height="22" /><rect x="374" y="395" width="22" height="22" /><rect x="406" y="395" width="14" height="22" />
+</g>
+<rect x="0" y="430" width="512" height="40" fill="#5a5a5a" />
+<circle cx="100" cy="395" r="20" fill="#ffd1b3" />
+<rect x="80" y="408" width="40" height="55" fill="#2a7f54" />
+<rect x="80" y="455" width="40" height="22" fill="#2b3856" />
+<rect x="86" y="388" width="28" height="6" fill="#2b2622" />
+</g>
+</svg>

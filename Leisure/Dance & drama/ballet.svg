@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-7.750 -31.000)">
+  <defs>
+    <linearGradient id="tu" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#ffd0e0" /><stop offset="100%" stop-color="#f49ab8" /></linearGradient>
+    <linearGradient id="lo" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f8b0c8" /><stop offset="100%" stop-color="#e2497e" /></linearGradient>
+    <linearGradient id="sk" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f6cba3" /><stop offset="100%" stop-color="#d99a6a" /></linearGradient>
+  </defs>
+  <path d="M236,172 C236,142 254,124 274,124 C300,124 318,148 318,176 C318,204 300,224 276,224 C252,224 236,202 236,172 Z" fill="url(#sk)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <path d="M250,116 C260,84 308,82 326,108 C338,124 332,148 318,156 C314,140 304,134 290,134 C272,136 260,148 256,158 C246,156 240,138 250,116 Z" fill="#5a3322" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  <circle cx="298" cy="118" r="14" fill="#5a3322" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M276,226 L260,288 L320,288 L312,226 Z" fill="#f3c19a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <path d="M214,232 C232,222 274,224 288,238 C282,260 268,272 260,284 L246,300 C236,304 222,300 216,290 C208,276 202,242 214,232 Z" fill="url(#lo)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <path d="M340,236 C328,228 312,230 302,242 C310,256 326,272 338,288 C348,294 360,288 362,278 C364,266 354,244 340,236 Z" fill="url(#lo)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <path d="M298,236 C268,236 244,250 240,272 C238,292 246,302 256,304 C264,302 274,290 286,278 L288,304 C302,302 314,294 316,278 L324,304 C336,300 344,288 342,272 C340,248 322,238 298,236 Z" fill="url(#lo)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <path d="M134,300 C176,266 208,266 254,290 C310,318 360,318 392,300 C402,346 388,372 348,372 L182,372 C146,372 128,346 134,300 Z" fill="url(#tu)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M150,318 C190,308 220,316 264,330 C320,344 360,344 384,330" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M170,348 C212,338 240,344 280,358 C336,370 360,366 380,354" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M236,372 L228,448 C228,460 244,464 246,452 L256,388 L266,452 C268,464 284,460 284,448 L276,372 Z" fill="#f3c19a" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <path d="M218,448 C210,452 200,462 198,476 C198,484 208,486 220,484 L252,476 C256,470 252,460 246,456 Z" fill="#ff9bb8" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  <path d="M294,448 C302,452 312,462 314,476 C314,484 304,486 292,484 L260,476 C256,470 260,460 266,456 Z" fill="#ff9bb8" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  <path d="M218,470 L228,468" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M294,470 L284,468" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <circle cx="270" cy="170" r="3" fill="#2b2622" />
+  <circle cx="292" cy="172" r="3" fill="#2b2622" />
+  <path d="M270,194 C278,202 290,202 296,196" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <circle cx="262" cy="118" r="6" fill="#ff7d9c" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M286,148 C272,152 264,170 260,184" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.4" />
+</g>
+  </svg>

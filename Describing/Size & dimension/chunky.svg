@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+  <!-- Chunk 1: large back-left brown cube -->
+  <polygon points="60,340 60,180 180,150 180,310" fill="#7a4e2d" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="60,180 180,150 300,175 180,205" fill="#a0662e" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="180,150 300,175 300,335 180,310" fill="#8b5a27" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Chunk 2: large back-right grey cube -->
+  <polygon points="255,370 255,200 385,170 385,340" fill="#6e6e6e" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="255,200 385,170 460,195 330,225" fill="#909090" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="385,170 460,195 460,365 385,340" fill="#7a7a7a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Chunk 3: mid-left brown irregular block -->
+  <polygon points="40,440 50,300 165,275 155,415" fill="#8b5a27" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="50,300 165,275 185,295 70,320" fill="#b07638" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="165,275 185,295 175,415 155,415" fill="#9a6530" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Chunk 4: centre grey irregular cube -->
+  <polygon points="160,455 165,315 300,295 295,435" fill="#787878" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="165,315 300,295 330,315 195,335" fill="#9e9e9e" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="300,295 330,315 325,455 295,435" fill="#888888" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Chunk 5: right brown chunk -->
+  <polygon points="310,450 315,310 445,290 440,430" fill="#7a4e2d" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="315,310 445,290 475,310 345,330" fill="#a36435" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="445,290 475,310 470,450 440,430" fill="#8e5828" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(2.250 -48.750)">
+  
+  
+  <path d="M70 160 Q140 130 220 160 Q300 190 380 160 Q420 145 450 165 Q430 200 440 240 Q445 285 420 305 Q400 290 360 305 Q320 320 270 305 Q220 290 175 305 Q140 315 100 305 Q80 295 75 250 Q70 215 70 160 Z" fill="#f5a39a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M80 180 Q160 158 240 188 Q320 215 400 188 Q425 178 442 195 Q436 215 442 232" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" />
+  <path d="M85 260 Q160 245 240 270 Q320 290 400 270 Q425 262 442 272" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" />
+  
+  <path d="M80 220 Q160 200 240 225 Q320 250 400 225" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  
+  <path d="M50 340 Q130 310 220 340 Q300 365 380 340 Q420 325 460 350 Q450 380 460 410 Q455 445 425 460 Q400 450 360 460 Q320 470 270 460 Q220 450 180 460 Q140 470 100 460 Q70 450 55 415 Q48 380 50 340 Z" fill="#f5a39a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M60 365 Q140 345 230 370 Q310 392 395 370 Q425 360 450 375" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" />
+  <path d="M60 420 Q140 405 230 425 Q310 445 395 425 Q425 418 450 428" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" />
+  
+  <path d="M58 395 Q140 378 230 400 Q310 420 395 400" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+</g>
+  </svg>

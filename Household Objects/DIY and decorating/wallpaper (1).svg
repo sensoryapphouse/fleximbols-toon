@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#5ab0f0" /><stop offset="100%" stop-color="#a8d8f8" /></linearGradient>
+    <linearGradient id="mtn1" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#6f757e" /><stop offset="100%" stop-color="#aeb4bd" /></linearGradient>
+    <linearGradient id="mtn2" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#5a6068" /><stop offset="100%" stop-color="#8a9098" /></linearGradient>
+    <linearGradient id="grass" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#5bb24a" /><stop offset="100%" stop-color="#3a7f2c" /></linearGradient>
+    <clipPath id="pic"><rect x="96" y="88" width="320" height="250" rx="8" /></clipPath>
+  </defs>
+  <rect x="68" y="60" width="376" height="392" rx="18" fill="#9c6b3f" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <rect x="88" y="80" width="336" height="312" rx="10" fill="#6e4423" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <rect x="96" y="88" width="320" height="250" rx="8" fill="url(#sky)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <circle cx="340" cy="138" r="42" fill="#f8c531" stroke="#1a1a1a" stroke-width="6" clip-path="url(#pic)" />
+  <circle cx="340" cy="138" r="34" fill="#f8c531" clip-path="url(#pic)" />
+  
+  <polygon points="96,290 160,200 220,260 280,170 340,230 416,150 416,338 96,338" fill="url(#mtn2)" clip-path="url(#pic)" />
+  <polygon points="96,310 170,220 240,280 310,195 380,250 416,210 416,338 96,338" fill="url(#mtn1)" clip-path="url(#pic)" />
+  <polygon points="96,338 180,270 250,305 310,255 380,285 416,260 416,338" fill="url(#grass)" clip-path="url(#pic)" />
+  <path d="M160,200 L168,218 L152,218 Z" fill="#ffffff" opacity="0.7" clip-path="url(#pic)" />
+  <path d="M310,195 L318,213 L302,213 Z" fill="#ffffff" opacity="0.7" clip-path="url(#pic)" />
+  <rect x="88" y="355" width="336" height="37" rx="6" fill="#7a5030" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="68" y="60" width="376" height="392" rx="18" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <rect x="100" y="362" width="80" height="8" rx="4" fill="#2b2622" opacity="0.25" />
+  <rect x="90" y="82" width="100" height="20" rx="6" fill="#ffffff" opacity="0.15" />
+</svg>

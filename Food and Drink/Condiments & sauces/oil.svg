@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-47.000 -4.250)">
+  
+  
+  <path d="M222 60 H290 V92 Q290 100 282 100 H230 Q222 100 222 92 Z" fill="#3a2415" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <path d="M232 100 H280 V160 H232 Z" fill="#9bbd5a" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  <path d="M232 160 Q172 184 168 256 V410 Q168 460 220 460 H292 Q344 460 344 410 V256 Q340 184 280 160 Z" fill="#b6d870" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M192 268 Q188 256 188 250 Q190 218 222 200 H290 Q322 218 324 250 Q324 256 320 268 V410 Q320 444 290 444 H222 Q192 444 192 410 Z" fill="#d5a834" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+  
+  <path d="M196 300 H316 V380 H196 Z" fill="#fff8e8" stroke="#1a1a1a" stroke-width="5" />
+  
+  <text x="256" y="356" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-weight="900" font-size="50" fill="#3a6b1c" stroke="#1a1a1a" stroke-width="2">OIL</text>
+  
+  <ellipse cx="226" cy="316" rx="8" ry="5" fill="#3a6b1c" transform="rotate(-30 226 316)" />
+  <ellipse cx="286" cy="316" rx="8" ry="5" fill="#3a6b1c" transform="rotate(30 286 316)" />
+  
+  <path d="M196 200 Q190 280 198 380" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" opacity="0.5" />
+  
+  <path d="M408 376 Q424 348 440 376 Q444 400 424 400 Q404 400 408 376 Z" fill="#d5a834" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+</g>
+  </svg>

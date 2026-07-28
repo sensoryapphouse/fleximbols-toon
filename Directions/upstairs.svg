@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="40" y="60" width="432" height="340" fill="none" />
+  
+  <rect x="60" y="350" width="80" height="50" fill="#c69870" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="60" y="330" width="80" height="20" fill="#e0b88a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="140" y="300" width="80" height="100" fill="#c69870" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="140" y="280" width="80" height="20" fill="#e0b88a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="220" y="250" width="80" height="150" fill="#c69870" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="220" y="230" width="80" height="20" fill="#e0b88a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="300" y="200" width="80" height="200" fill="#c69870" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="300" y="180" width="80" height="20" fill="#e0b88a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <rect x="380" y="150" width="80" height="250" fill="#c69870" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="380" y="130" width="80" height="20" fill="#e0b88a" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M420 110 L 420 60 L 400 60 L 420 30 L 440 60 L 420 60" fill="#e02020" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M420 110 L 420 60" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <path d="M408 60 L 432 60 L 432 110 L 408 110 Z" fill="#e02020" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M380 70 L 420 25 L 460 70 Z" fill="#e02020" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <text x="256" y="470" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="52" font-weight="900" text-anchor="middle" fill="#000000">UPSTAIRS</text>
+</svg>

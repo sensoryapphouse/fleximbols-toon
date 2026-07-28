@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-1.000 -19.000)">
+  
+  
+  <line x1="40" y1="280" x2="472" y2="280" stroke="#1a1a1a" stroke-width="3" />
+  <polygon points="472,280 460,274 460,286" fill="#1a1a1a" />
+  
+  <path d="M50,280 C80,280 100,100 150,100 C200,100 220,280 260,280 C300,280 320,460 370,460 C420,460 440,280 470,280" stroke="#1a1a1a" stroke-width="8" fill="none" stroke-linecap="round" />
+  
+  <line x1="150" y1="50" x2="150" y2="470" stroke="#1a1a1a" stroke-width="2" stroke-dasharray="6,4" />
+  
+  <line x1="190" y1="280" x2="190" y2="100" stroke="#1a1a1a" stroke-width="5.0000" />
+  <polygon points="190,100 184,115 196,115" fill="#cc0000" />
+  
+  <line x1="180" y1="280" x2="200" y2="280" stroke="#1a1a1a" stroke-width="4" />
+  
+  <text x="216" y="195" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="36" font-weight="bold" fill="#cc0000">A</text>
+  
+  <line x1="210" y1="100" x2="226" y2="100" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="210" y1="280" x2="226" y2="280" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="150" cy="100" r="9" fill="#cc0000" />
+  
+  <text x="156" y="88" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" fill="#cc0000">peak</text>
+  
+  <text x="380" y="90" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="60" font-weight="bold" fill="#cc0000">A</text>
+  
+  <text x="256" y="498" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="19" fill="#333333">vertical height</text>
+</g>
+  </svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -54.000)">
+  <defs>
+    <linearGradient id="gtop" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#e89030" />
+      <stop offset="55%" stop-color="#c86818" />
+      <stop offset="100%" stop-color="#8a3e0c" />
+    </linearGradient>
+    <linearGradient id="gbot" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#d8780a" />
+      <stop offset="100%" stop-color="#8a3e0c" />
+    </linearGradient>
+    <linearGradient id="gpaste" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#5a2410" />
+      <stop offset="100%" stop-color="#2e1006" />
+    </linearGradient>
+  </defs>
+  <ellipse cx="256" cy="430" rx="206" ry="20" fill="#e0d2bc" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M80 360 Q100 408 256 408 Q412 408 432 360 Q432 320 256 312 Q80 320 80 360 Z" fill="url(#gbot)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round" />
+  <ellipse cx="256" cy="320" rx="176" ry="20" fill="#d8780a" stroke="#1a1a1a" stroke-width="6" />
+  <circle cx="160" cy="335" r="5" fill="#5a2810" opacity="0.7" />
+  <circle cx="220" cy="350" r="4" fill="#5a2810" opacity="0.7" />
+  <circle cx="290" cy="345" r="5" fill="#5a2810" opacity="0.7" />
+  <circle cx="350" cy="338" r="4" fill="#5a2810" opacity="0.7" />
+  <path d="M80 320 Q90 290 130 280 Q200 268 256 268 Q312 268 382 280 Q422 290 432 320 Q432 350 256 350 Q80 350 80 320 Z" fill="url(#gpaste)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  <path d="M90 332 Q120 348 160 340" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+  <path d="M380 326 Q410 344 420 350 Q400 358 380 348" fill="#3a1408" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  
+  
+  
+  <path d="M80 270 Q90 200 180 175 Q256 168 332 175 Q422 200 432 270 Q432 280 256 280 Q80 280 80 270 Z" fill="url(#gtop)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M90 230 Q140 210 256 208 Q372 210 422 230" fill="none" stroke="#1a1a1a" stroke-width="14" stroke-linecap="round" opacity="0.5" />
+  
+  
+  <circle cx="200" cy="245" r="4" fill="#5a2810" opacity="0.6" />
+  <circle cx="270" cy="248" r="5" fill="#5a2810" opacity="0.6" />
+  <circle cx="340" cy="245" r="4" fill="#5a2810" opacity="0.6" />
+  <circle cx="148" cy="248" r="3" fill="#5a2810" opacity="0.6" />
+  <circle cx="380" cy="252" r="4" fill="#5a2810" opacity="0.6" />
+</g>
+  </svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>stroller</title>
+
+  <g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- Push handle bar -->
+    <path d="M60 120 Q60 80 110 80 L200 80" />
+    <line x1="60" y1="120" x2="60" y2="200" />
+  </g>
+
+  <!-- Canopy / hood (curved over seat) -->
+  <path d="M140 280 Q140 100 270 100 Q340 100 340 200 L340 280 Z" fill="#3aa6e8" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  <!-- Canopy ribs -->
+  <path d="M160 280 Q180 160 270 130" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M210 280 Q230 200 310 190" fill="none" stroke="#1a1a1a" stroke-width="3" />
+
+  <!-- Baby head peeking through canopy opening -->
+  <circle cx="240" cy="246" r="28" fill="#f5cfa5" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="232" cy="246" r="3" fill="#1a1a1a" />
+  <circle cx="248" cy="246" r="3" fill="#1a1a1a" />
+  <path d="M232 258 Q240 264 248 258" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+
+  <!-- Seat / footwell -->
+  <path d="M140 280 L340 280 L320 360 L160 360 Z" fill="#5a3a22" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
+  <path d="M140 280 L340 280 L325 312 L155 312 Z" fill="#7a4a2e" stroke="#1a1a1a" stroke-width="3" />
+
+  <!-- Frame -->
+  <line x1="160" y1="360" x2="120" y2="430" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <line x1="320" y1="360" x2="380" y2="430" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <line x1="60" y1="200" x2="320" y2="360" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+
+  <!-- Wheels -->
+  <circle cx="116" cy="440" r="34" fill="#2a2a2a" stroke="#1a1a1a" stroke-width="6" />
+  <circle cx="116" cy="440" r="14" fill="#888888" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="384" cy="440" r="34" fill="#2a2a2a" stroke="#1a1a1a" stroke-width="6" />
+  <circle cx="384" cy="440" r="14" fill="#888888" stroke="#1a1a1a" stroke-width="3" />
+</svg>

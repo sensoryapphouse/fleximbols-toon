@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-31.105 -69.273) scale(1.1226)">
+<title>lasagna</title>
+
+<path d="M 80 200 L 432 200 L 412 380 L 100 380 Z" fill="#d9d9d9" stroke="#1a1a1a" stroke-width="4.4539" stroke-linejoin="round" />
+<rect x="100" y="220" width="312" height="32" fill="#e76f51" stroke="#1a1a1a" stroke-width="4" />
+<rect x="100" y="252" width="312" height="22" fill="#fff3b0" stroke="#1a1a1a" stroke-width="4" />
+<rect x="102" y="274" width="308" height="28" fill="#e76f51" stroke="#1a1a1a" stroke-width="4" />
+<rect x="104" y="302" width="304" height="22" fill="#fff3b0" stroke="#1a1a1a" stroke-width="4" />
+<rect x="106" y="324" width="300" height="30" fill="#e76f51" stroke="#1a1a1a" stroke-width="4" />
+<path d="M 130 220 Q 160 200 200 220 Q 240 200 280 220 Q 320 200 360 220 Q 390 200 410 220" fill="#fff3b0" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
+<circle cx="170" cy="210" r="6" fill="#52b788" />
+<circle cx="260" cy="208" r="6" fill="#52b788" />
+<circle cx="340" cy="212" r="6" fill="#52b788" />
+</g>
+  </svg>

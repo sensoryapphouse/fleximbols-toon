@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="220" y="446" width="72" height="22" rx="4" fill="#444444" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="244" y="380" width="24" height="80" fill="#444444" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="152" y="60" width="208" height="22" rx="6" fill="#1f1f1f" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="164" y="80" width="184" height="320" rx="20" fill="#2d2d2d" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="152" y="386" width="208" height="22" rx="6" fill="#1f1f1f" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="256" cy="146" r="50" fill="#e63946" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="240" cy="130" r="14" fill="#ff8c8c" />
+  
+  <circle cx="256" cy="242" r="50" fill="#ffd166" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="240" cy="226" r="14" fill="#fff0b8" />
+  
+  <circle cx="256" cy="338" r="50" fill="#69d152" stroke="#1a1a1a" stroke-width="4" />
+  <circle cx="240" cy="322" r="14" fill="#b8f0a8" />
+  
+  <path d="M196 110 Q256 78 316 110 L316 124 Q256 96 196 124 Z" fill="#1f1f1f" stroke="#1a1a1a" stroke-width="4" />
+  
+  <line x1="330" y1="338" x2="356" y2="338" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="320" y1="312" x2="340" y2="294" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="320" y1="364" x2="340" y2="382" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+</svg>

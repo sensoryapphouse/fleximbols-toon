@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 10.000)">
+  
+  
+  <path d="M256 480 L 256 230" stroke="#1a1a1a" stroke-width="12" fill="none" stroke-linecap="round" />
+  
+  
+  <path d="M190 380 C 140 376 110 340 130 305 C 150 280 180 280 200 295 C 215 280 240 285 248 310 C 256 340 232 376 190 380 Z" fill="#5cb368" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M140 308 Q 150 320 162 312" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M168 290 Q 178 300 188 292" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M198 296 Q 208 308 220 300" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M140 348 Q 152 358 168 352" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M180 360 Q 196 368 215 360" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  
+  <ellipse cx="190" cy="335" rx="28" ry="18" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M322 380 C 372 376 402 340 382 305 C 362 280 332 280 312 295 C 297 280 272 285 264 310 C 256 340 280 376 322 380 Z" fill="#5cb368" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M372 308 Q 362 320 350 312" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M344 290 Q 334 300 324 292" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M314 296 Q 304 308 292 300" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M372 348 Q 360 358 344 352" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M332 360 Q 316 368 297 360" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <ellipse cx="322" cy="335" rx="28" ry="18" fill="none" stroke="#1a1a1a" stroke-width="4" />
+  
+  
+  <circle cx="256" cy="170" r="100" fill="none" stroke="none" />
+  
+  
+  <g>
+    
+    <g transform="translate(256,90)">
+      <circle cx="0" cy="-14" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="13" cy="-4" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="8" cy="11" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-8" cy="11" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-13" cy="-4" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="0" cy="0" r="5" fill="#f6d24a" stroke="#1a1a1a" stroke-width="2" />
+    </g>
+    <g transform="translate(196,120)">
+      <circle cx="0" cy="-14" r="11" fill="#ff5a72" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="13" cy="-4" r="11" fill="#ff5a72" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="8" cy="11" r="11" fill="#ff5a72" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-8" cy="11" r="11" fill="#ff5a72" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-13" cy="-4" r="11" fill="#ff5a72" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="0" cy="0" r="5" fill="#f6d24a" stroke="#1a1a1a" stroke-width="2" />
+    </g>
+    <g transform="translate(316,120)">
+      <circle cx="0" cy="-14" r="11" fill="#ff5a72" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="13" cy="-4" r="11" fill="#ff5a72" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="8" cy="11" r="11" fill="#ff5a72" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-8" cy="11" r="11" fill="#ff5a72" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-13" cy="-4" r="11" fill="#ff5a72" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="0" cy="0" r="5" fill="#f6d24a" stroke="#1a1a1a" stroke-width="2" />
+    </g>
+    <g transform="translate(168,180)">
+      <circle cx="0" cy="-14" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="13" cy="-4" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="8" cy="11" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-8" cy="11" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-13" cy="-4" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="0" cy="0" r="5" fill="#f6d24a" stroke="#1a1a1a" stroke-width="2" />
+    </g>
+    <g transform="translate(344,180)">
+      <circle cx="0" cy="-14" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="13" cy="-4" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="8" cy="11" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-8" cy="11" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-13" cy="-4" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="0" cy="0" r="5" fill="#f6d24a" stroke="#1a1a1a" stroke-width="2" />
+    </g>
+    <g transform="translate(256,210)">
+      <circle cx="0" cy="-14" r="11" fill="#ff5a72" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="13" cy="-4" r="11" fill="#ff5a72" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="8" cy="11" r="11" fill="#ff5a72" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-8" cy="11" r="11" fill="#ff5a72" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-13" cy="-4" r="11" fill="#ff5a72" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="0" cy="0" r="5" fill="#f6d24a" stroke="#1a1a1a" stroke-width="2" />
+    </g>
+    <g transform="translate(228,160)">
+      <circle cx="0" cy="-14" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="13" cy="-4" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="8" cy="11" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-8" cy="11" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-13" cy="-4" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="0" cy="0" r="5" fill="#f6d24a" stroke="#1a1a1a" stroke-width="2" />
+    </g>
+    <g transform="translate(284,160)">
+      <circle cx="0" cy="-14" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="13" cy="-4" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="8" cy="11" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-8" cy="11" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="-13" cy="-4" r="11" fill="#e8344a" stroke="#1a1a1a" stroke-width="3" />
+      <circle cx="0" cy="0" r="5" fill="#f6d24a" stroke="#1a1a1a" stroke-width="2" />
+    </g>
+  </g>
+</g>
+  </svg>

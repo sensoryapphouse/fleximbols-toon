@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-45.349 -45.349) scale(1.1783)">
+  
+  
+  <ellipse cx="256" cy="140" rx="36" ry="52" fill="#e83050" stroke="#1a1a1a" stroke-width="4.2434" />
+  <ellipse cx="372" cy="256" rx="52" ry="36" fill="#e83050" stroke="#1a1a1a" stroke-width="4.2434" />
+  <ellipse cx="256" cy="372" rx="36" ry="52" fill="#e83050" stroke="#1a1a1a" stroke-width="4.2434" />
+  <ellipse cx="140" cy="256" rx="52" ry="36" fill="#e83050" stroke="#1a1a1a" stroke-width="4.2434" />
+  
+  <ellipse cx="330" cy="182" rx="36" ry="52" fill="#e83050" stroke="#1a1a1a" stroke-width="4.2434" transform="rotate(45 330 182)" />
+  <ellipse cx="330" cy="330" rx="36" ry="52" fill="#e83050" stroke="#1a1a1a" stroke-width="4.2434" transform="rotate(-45 330 330)" />
+  <ellipse cx="182" cy="330" rx="36" ry="52" fill="#e83050" stroke="#1a1a1a" stroke-width="4.2434" transform="rotate(45 182 330)" />
+  <ellipse cx="182" cy="182" rx="36" ry="52" fill="#e83050" stroke="#1a1a1a" stroke-width="4.2434" transform="rotate(-45 182 182)" />
+  
+  <circle cx="256" cy="256" r="90" fill="#ffffff" stroke="#1a1a1a" stroke-width="4.2434" />
+  
+  <path d="M256 310 C220 280 200 255 220 235 C230 225 244 225 256 238 C268 225 282 225 292 235 C312 255 292 280 256 310 Z" fill="#e83050" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="238" y="185" width="36" height="142" rx="5" fill="#000000" />
+  <rect x="192" y="228" width="128" height="36" rx="5" fill="#000000" />
+  
+  <circle cx="256" cy="256" r="90" fill="none" stroke="#1a1a1a" stroke-width="8" />
+</g>
+  </svg>

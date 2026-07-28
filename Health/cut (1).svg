@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="blade-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d8e8f8"/>
+      <stop offset="100%" stop-color="#7aabd4"/>
+    </linearGradient>
+    <linearGradient id="handle-red" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f05050"/>
+      <stop offset="100%" stop-color="#b81a1a"/>
+    </linearGradient>
+    <linearGradient id="handle-blue" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4fa3e8"/>
+      <stop offset="100%" stop-color="#1a5fa8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ── UPPER BLADE ── -->
+  <!-- Blade body: pivot → tip, spreading upward -->
+  <path d="M256,256 L430,92 Q448,74 462,88 Q476,104 458,120 L270,256 Z"
+        fill="url(#blade-grad)" stroke="#1a1a1a" stroke-width="5"
+        stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- Cutting edge highlight -->
+  <line x1="256" y1="256" x2="460" y2="104"
+        stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+  <!-- Edge bevel line -->
+  <line x1="265" y1="250" x2="455" y2="115"
+        stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+
+  <!-- ── LOWER BLADE ── -->
+  <path d="M256,256 L430,420 Q448,438 462,424 Q476,408 458,392 L270,256 Z"
+        fill="url(#blade-grad)" stroke="#1a1a1a" stroke-width="5"
+        stroke-linejoin="round" stroke-linecap="round"/>
+  <line x1="256" y1="256" x2="460" y2="408"
+        stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+  <line x1="265" y1="262" x2="455" y2="397"
+        stroke="#1a1a1a" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+
+  <!-- ── PIVOT SCREW ── -->
+  <circle cx="256" cy="256" r="20" fill="#f8c531" stroke="#1a1a1a" stroke-width="5"/>
+  <circle cx="256" cy="256" r="8"  fill="#2b2622"/>
+
+  <!-- ── UPPER HANDLE (red) ── -->
+  <!-- Shank connecting pivot to ring -->
+  <path d="M248,250 C210,230 170,195 138,170"
+        fill="none" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round"/>
+  <path d="M248,250 C210,230 170,195 138,170"
+        fill="none" stroke="#e03030" stroke-width="12" stroke-linecap="round"/>
+  <!-- Ring -->
+  <ellipse cx="112" cy="148" rx="54" ry="44"
+           fill="url(#handle-red)" stroke="#1a1a1a" stroke-width="5"
+           transform="rotate(-38,112,148)"/>
+  <ellipse cx="112" cy="148" rx="34" ry="24"
+           fill="none" stroke="#1a1a1a" stroke-width="4"
+           transform="rotate(-38,112,148)"/>
+
+  <!-- ── LOWER HANDLE (blue) ── -->
+  <path d="M248,262 C210,282 170,317 138,342"
+        fill="none" stroke="#1a1a1a" stroke-width="18" stroke-linecap="round"/>
+  <path d="M248,262 C210,282 170,317 138,342"
+        fill="none" stroke="#2a7fd4" stroke-width="12" stroke-linecap="round"/>
+  <ellipse cx="112" cy="364" rx="54" ry="44"
+           fill="url(#handle-blue)" stroke="#1a1a1a" stroke-width="5"
+           transform="rotate(38,112,364)"/>
+  <ellipse cx="112" cy="364" rx="34" ry="24"
+           fill="none" stroke="#1a1a1a" stroke-width="4"
+           transform="rotate(38,112,364)"/>
+</svg>

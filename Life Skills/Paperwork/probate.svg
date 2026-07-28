@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-20.250 7.750)">
+  
+  
+  <rect x="80" y="30" width="280" height="360" rx="6" fill="#fefef0" stroke="#1a1a1a" stroke-width="6" />
+  
+  <polygon points="300,30 360,30 360,80 300,30" fill="#e8e8d0" stroke="#1a1a1a" stroke-width="4" />
+  <polygon points="300,30 360,80 300,80" fill="#d8d8c0" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  <text x="220" y="72" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1a1a2a">IN THE MATTER OF</text>
+  <text x="220" y="95" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#1a1a2a">THE ESTATE OF</text>
+  <line x1="96" y1="105" x2="344" y2="105" stroke="#1a1a1a" stroke-width="2.5" />
+  
+  <text x="100" y="130" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="13" fill="#2b2622">PROBATE PETITION filed in</text>
+  <text x="100" y="148" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="13" fill="#2b2622">the Superior Court, pursuant</text>
+  <text x="100" y="166" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="13" fill="#2b2622">to applicable statutes for</text>
+  <text x="100" y="184" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="13" fill="#2b2622">administration of decedent.</text>
+  <line x1="96" y1="200" x2="344" y2="200" stroke="#1a1a1a" stroke-width="1.5" />
+  <line x1="96" y1="216" x2="344" y2="216" stroke="#1a1a1a" stroke-width="1.5" />
+  <line x1="96" y1="232" x2="344" y2="232" stroke="#1a1a1a" stroke-width="1.5" />
+  <line x1="96" y1="248" x2="344" y2="248" stroke="#1a1a1a" stroke-width="1.5" />
+  <line x1="96" y1="264" x2="344" y2="264" stroke="#1a1a1a" stroke-width="1.5" />
+  <line x1="96" y1="280" x2="344" y2="280" stroke="#1a1a1a" stroke-width="1.5" />
+  
+  <line x1="96" y1="348" x2="260" y2="348" stroke="#1a1a1a" stroke-width="2" />
+  <text x="96" y="362" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" fill="#555555">Judge's Signature</text>
+  
+  
+  <ellipse cx="310" cy="320" rx="60" ry="50" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <text x="310" y="306" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="13" font-weight="bold" text-anchor="middle" fill="#cc0000">PROBATE</text>
+  <text x="310" y="322" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="11" text-anchor="middle" fill="#cc0000">COURT</text>
+  <text x="310" y="338" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="11" text-anchor="middle" fill="#cc0000">APPROVED</text>
+  
+  <rect x="358" y="130" width="110" height="36" rx="8" fill="#8b4513" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="354" y="118" width="28" height="60" rx="5" fill="#6b3410" stroke="#1a1a1a" stroke-width="5" />
+  
+  <line x1="400" y1="165" x2="450" y2="248" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="400" y1="165" x2="450" y2="248" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" />
+  
+  <rect x="374" y="255" width="100" height="22" rx="4" fill="#8b4513" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="420" cy="420" r="48" fill="#1a3a7a" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="420" cy="420" r="38" fill="#1a3a7a" stroke="#1a1a1a" stroke-width="2" />
+  
+  <line x1="420" y1="374" x2="420" y2="386" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="420" y1="454" x2="420" y2="466" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="374" y1="420" x2="386" y2="420" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="454" y1="420" x2="466" y2="420" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="387" y1="387" x2="395" y2="395" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="445" y1="445" x2="453" y2="453" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="453" y1="387" x2="445" y2="395" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="395" y1="445" x2="387" y2="453" stroke="#1a1a1a" stroke-width="3" />
+  <text x="420" y="416" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffdd44">COURT</text>
+  <text x="420" y="432" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffdd44">SEAL</text>
+</g>
+  </svg>

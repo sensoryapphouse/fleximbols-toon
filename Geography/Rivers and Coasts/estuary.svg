@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="0" y="0" width="512" height="160" fill="#88bbdd" />
+  
+  <polygon points="0,160 0,512 160,512 140,420 120,340 100,260 80,180 60,160" fill="#778855" />
+  
+  <polygon points="60,160 80,180 100,260 120,340 140,420 160,512 180,512 165,420 148,335 132,252 115,172 95,160" fill="#889966" />
+  
+  <polygon points="512,160 512,512 352,512 372,420 392,340 412,260 432,180 452,160" fill="#778855" />
+  
+  <polygon points="452,160 432,180 412,260 392,340 372,420 352,512 332,512 347,420 364,335 380,252 397,172 417,160" fill="#889966" />
+  
+  
+  <polygon points="95,160 115,172 132,252 148,335 165,420 180,512 332,512 347,420 364,335 380,252 397,172 417,160 256,145" fill="#2277bb" />
+  
+  <polygon points="140,300 160,400 180,512 332,512 352,400 372,300 256,280" fill="#1e88b0" />
+  
+  <path d="M 256,145 Q 258,100 256,60 Q 255,40 256,30" stroke="#1a1a1a" stroke-width="50" fill="none" />
+  <path d="M 256,145 Q 258,100 256,60 Q 255,40 256,30" stroke="#1a1a1a" stroke-width="35" fill="none" />
+  
+  
+  
+  
+  
+  
+  <path d="M 150,380 Q 200,372 256,375 Q 312,378 365,372" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M 160,430 Q 210,422 256,425 Q 302,428 352,422" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <path d="M 170,470 Q 213,462 256,465 Q 299,468 342,462" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  
+  <line x1="115" y1="300" x2="108" y2="270" stroke="#1a1a1a" stroke-width="5.0000" />
+  <line x1="125" y1="310" x2="120" y2="280" stroke="#1a1a1a" stroke-width="5.0000" />
+  <line x1="395" y1="300" x2="402" y2="270" stroke="#1a1a1a" stroke-width="5.0000" />
+  <line x1="385" y1="310" x2="392" y2="280" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M 60,160 L 80,180 L 100,260 L 120,340 L 140,420 L 160,512" fill="none" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M 452,160 L 432,180 L 412,260 L 392,340 L 372,420 L 352,512" fill="none" stroke="#1a1a1a" stroke-width="6" />
+</svg>

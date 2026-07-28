@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="bldgrad" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#8a9098" /><stop offset="60%" stop-color="#c0c5cc" /><stop offset="100%" stop-color="#6f757e" /></linearGradient>
+    <linearGradient id="chimneygrad" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#6f757e" /><stop offset="50%" stop-color="#aeb4bd" /><stop offset="100%" stop-color="#555a65" /></linearGradient>
+    <linearGradient id="flamegrad" x1="0%" y1="100%" x2="0%" y2="0%"><stop offset="0%" stop-color="#e23b34" /><stop offset="50%" stop-color="#f6892a" /><stop offset="100%" stop-color="#f8c531" /></linearGradient>
+  </defs>
+  <rect x="130" y="290" width="252" height="170" rx="8" fill="url(#bldgrad)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <rect x="155" y="315" width="60" height="50" rx="4" fill="#3a4550" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="235" y="315" width="60" height="50" rx="4" fill="#3a4550" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="315" y="315" width="50" height="145" rx="4" fill="#3a4550" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="185" y="380" width="80" height="80" rx="4" fill="#2b2622" stroke="#1a1a1a" stroke-width="5" />
+  <rect x="130" y="455" width="252" height="8" rx="2" fill="#555a65" />
+  <rect x="200" y="130" width="60" height="168" rx="12" fill="url(#chimneygrad)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <rect x="188" y="118" width="84" height="24" rx="8" fill="url(#chimneygrad)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  <path d="M218,118 Q212,96 222,76 Q228,58 216,42 Q230,54 232,72 Q238,56 248,44 Q244,64 252,78 Q260,60 270,50 Q262,68 264,88 Q268,104 260,118" fill="url(#flamegrad)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  <path d="M224,118 Q220,102 228,88 Q234,76 226,64" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.6" />
+  <path d="M290,100 Q282,75 296,55 Q286,72 300,85" fill="url(#flamegrad)" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" opacity="0.7" />
+  <path d="M200,80 Q260,50 310,90 Q330,60 350,80" fill="none" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" opacity="0.55" />
+  <path d="M210,65 Q265,35 315,70" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" opacity="0.4" />
+  <path d="M215,50 Q260,28 308,55" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" opacity="0.3" />
+  <rect x="315" y="340" width="50" height="80" rx="0" fill="#e23b34" opacity="0.15" />
+  <path d="M138,300 Q148,292 162,296" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.4" />
+  <path d="M207,138 Q210,130 215,135" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.3" />
+</svg>

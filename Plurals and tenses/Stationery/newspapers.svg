@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,89.958) scale(0.8243)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-28.720 -30.681) scale(1.1209)">
+  <title>newspaper</title>
+  <path d="M 78 110 L 420 90 L 430 410 L 92 422 Z" fill="#9098a3" stroke="#1a1a1a" stroke-width="4.4607" stroke-linejoin="round" />
+  <path d="M 90 120 L 410 102 L 418 412 L 100 420 Z" fill="#f5f0d8" stroke="#1a1a1a" stroke-width="4.4607" stroke-linejoin="round" />
+  <text x="256" y="170" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="42" font-weight="900" text-anchor="middle" fill="#1a1a1a">DAILY NEWS</text>
+  <path d="M 110 190 L 400 184" stroke="#1a1a1a" stroke-width="3" />
+  <rect x="110" y="210" width="140" height="100" fill="#c0c5cc" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="150" cy="245" r="14" fill="#f4b400" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M 130 290 L 180 250 L 230 290 L 230 308 L 130 308 Z" fill="#5a8b3a" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
+  <path d="M 270 210 L 400 208 M 270 230 L 400 228 M 270 250 L 400 248 M 270 270 L 400 268 M 270 290 L 400 288" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M 110 330 L 400 326 M 110 350 L 400 346 M 110 370 L 400 366 M 110 390 L 400 386" stroke="#1a1a1a" stroke-width="3" />
+</g>
+  </g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2969" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2969)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

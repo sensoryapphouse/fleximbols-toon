@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  
+  <polygon points="200,140 312,140 350,400 162,400" fill="#b87830" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <polygon points="240,150 272,150 285,395 227,395" fill="#d89850" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="210" y="115" width="92" height="32" rx="3" fill="#9a5818" stroke="#1a1a1a" stroke-width="6" />
+  
+  <rect x="240" y="80" width="32" height="40" fill="#5a5a5a" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="256" cy="85" r="6" fill="#3a3a3a" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="170" y="395" width="180" height="15" rx="3" fill="#3a3a3a" stroke="#1a1a1a" stroke-width="5" />
+  
+  <polygon points="312,140 332,150 370,395 350,400" fill="#8a5818" stroke="#1a1a1a" stroke-width="6" />
+  <polygon points="312,140 332,150 339,180 312,170" fill="#7a4810" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M215 160 L222 380" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M295 160 L308 380" stroke="#1a1a1a" stroke-width="3" />
+  
+  <g transform="rotate(60 410 280)">
+    <rect x="350" y="270" width="120" height="14" rx="5" fill="#d4b890" stroke="#1a1a1a" stroke-width="5" />
+    <ellipse cx="470" cy="277" rx="11" ry="9" fill="#b8966a" stroke="#1a1a1a" stroke-width="5" />
+  </g>
+  
+  <path d="M115 200 Q90 220 95 250" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M80 270 Q60 285 65 310" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M130 320 Q105 335 110 365" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <polygon points="370,260 380,272 396,272 384,283 390,300 370,290 350,300 356,283 344,272 360,272" fill="#ffd84a" stroke="#1a1a1a" stroke-width="4" />
+<g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl2387" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl2387)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

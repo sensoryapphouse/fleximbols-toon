@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>cage</title>
+  
+  <path d="M256 30 Q200 30 200 80 L200 100" fill="none" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M256 30 Q312 30 312 80 L312 100" fill="none" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M120 140 Q256 60 392 140 L392 160 L120 160 Z" fill="#d4a548" stroke="#1a1a1a" stroke-width="4" />
+  
+  <g stroke="#1a1a1a" stroke-width="4" fill="none">
+    <path d="M160 152 Q180 90 200 140" />
+    <path d="M210 152 Q220 76 230 140" />
+    <path d="M260 140 Q256 70 256 140" />
+    <path d="M282 140 Q292 76 302 152" />
+    <path d="M312 140 Q332 90 352 152" />
+  </g>
+  
+  <rect x="100" y="160" width="312" height="280" rx="8" fill="#f7d77a" stroke="#1a1a1a" stroke-width="4" />
+  
+  <g stroke="#1a1a1a" stroke-width="5.0000">
+    <line x1="140" y1="160" x2="140" y2="440" />
+    <line x1="180" y1="160" x2="180" y2="440" />
+    <line x1="220" y1="160" x2="220" y2="440" />
+    <line x1="260" y1="160" x2="260" y2="440" />
+    <line x1="300" y1="160" x2="300" y2="440" />
+    <line x1="340" y1="160" x2="340" y2="440" />
+    <line x1="380" y1="160" x2="380" y2="440" />
+  </g>
+  
+  <line x1="100" y1="200" x2="412" y2="200" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="100" y1="400" x2="412" y2="400" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="80" y="440" width="352" height="40" rx="8" fill="#c08a30" stroke="#1a1a1a" stroke-width="4" />
+  
+  <line x1="120" y1="300" x2="392" y2="300" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <circle cx="256" cy="320" r="10" fill="#a86c20" stroke="#1a1a1a" stroke-width="3" />
+</svg>

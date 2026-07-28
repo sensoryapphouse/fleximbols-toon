@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-21.750 -15.750)">
+  <defs>
+    <linearGradient id="bodyF" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#bcd8e8" />
+      <stop offset="1" stop-color="#8fb8cf" />
+    </linearGradient>
+  </defs>
+  <g stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" stroke-linejoin="round">
+    
+    <circle cx="256" cy="92" r="46" fill="url(#bodyF)" />
+    
+    <path d="M256 138 q-44 0 -52 46 l-12 70 q-22 30 -40 78 q-8 22 12 30 q18 6 28 -16 l24 -54 8 80 -22 96 q-6 24 16 30 q22 4 30 -20 l30 -100 30 100 q8 24 30 20 q22 -6 16 -30 l-22 -96 8 -80 24 54 q10 22 28 16 q20 -8 12 -30 q-18 -48 -40 -78 l-12 -70 q-8 -46 -52 -46 Z" fill="url(#bodyF)" />
+    
+    <path d="M236 84 q8 -10 18 0 M276 84 q8 -10 18 0" fill="none" stroke="#1a1a1a" stroke-width="6" />
+    <circle cx="245" cy="92" r="5" fill="#2b2622" />
+    <circle cx="285" cy="92" r="5" fill="#2b2622" />
+    <path d="M242 116 q24 -12 46 0" fill="none" stroke="#1a1a1a" stroke-width="6" />
+    
+    <g fill="#e23b2e">
+      <circle cx="212" cy="184" r="13" />
+      <circle cx="300" cy="184" r="13" />
+      <circle cx="256" cy="226" r="13" />
+      <circle cx="196" cy="290" r="13" />
+      <circle cx="316" cy="290" r="13" />
+      <circle cx="232" cy="350" r="13" />
+      <circle cx="280" cy="350" r="13" />
+      <circle cx="214" cy="430" r="13" />
+      <circle cx="298" cy="430" r="13" />
+      <circle cx="168" cy="246" r="11" />
+      <circle cx="344" cy="246" r="11" />
+    </g>
+    <g stroke="#1a1a1a" stroke-width="6" fill="none" opacity="0.6">
+      <circle cx="212" cy="184" r="24" />
+      <circle cx="300" cy="184" r="24" />
+      <circle cx="196" cy="290" r="24" />
+      <circle cx="316" cy="290" r="24" />
+      <circle cx="214" cy="430" r="22" />
+      <circle cx="298" cy="430" r="22" />
+    </g>
+  </g>
+</g>
+  </svg>

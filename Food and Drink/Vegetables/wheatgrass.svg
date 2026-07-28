@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -65.750)">
+  <defs>
+    <linearGradient id="pot" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#e8c87a" /><stop offset="100%" stop-color="#c9a040" /></linearGradient>
+    <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#c8eaf8" /><stop offset="100%" stop-color="#8fc9e8" /></linearGradient>
+  </defs>
+  <path d="M170 400 Q160 460 200 470 L312 470 Q352 460 342 400Z" fill="url(#glass)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round" />
+  <path d="M155 400 L357 400 L342 400 Q352 460 312 470 L200 470 Q160 460 170 400Z" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <rect x="150" y="385" width="212" height="22" rx="10" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M185 385 Q178 340 162 270 Q150 210 168 160" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M185 385 Q192 340 188 270 Q184 210 198 155" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M216 385 Q206 330 200 255 Q196 190 210 135" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M216 385 Q226 340 230 270 Q234 210 224 145" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M248 385 Q242 330 240 260 Q238 195 252 140" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M248 385 Q258 340 264 265 Q270 200 260 142" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M280 385 Q272 330 268 258 Q264 192 278 138" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M280 385 Q290 345 298 272 Q304 205 294 150" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M312 385 Q306 340 304 268 Q302 202 316 148" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M312 385 Q322 348 332 278 Q340 215 328 158" fill="none" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  <path d="M168 160 Q158 148 155 135" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round" />
+  <path d="M198 155 Q200 140 196 125" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round" />
+  <path d="M210 135 Q204 118 206 104" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round" />
+  <path d="M224 145 Q228 128 224 114" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round" />
+  <path d="M252 140 Q248 122 250 108" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round" />
+  <path d="M260 142 Q266 126 264 112" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round" />
+  <path d="M278 138 Q272 120 274 106" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round" />
+  <path d="M294 150 Q302 134 300 118" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round" />
+  <path d="M316 148 Q312 130 314 116" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round" />
+  <path d="M328 158 Q338 144 336 128" stroke="#1a1a1a" stroke-width="7" fill="none" stroke-linecap="round" />
+  <path d="M175 395 Q180 435 195 460" stroke="#1a1a1a" stroke-width="4" fill="none" stroke-linecap="round" opacity="0.3" />
+  <path d="M185 390 L185 460" stroke="#1a1a1a" stroke-width="3" fill="none" opacity="0.25" stroke-linecap="round" />
+</g>
+  </svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<g stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round">
+  
+  <rect x="92" y="64" width="320" height="388" rx="8" fill="#3a8a4a" />
+  
+  <rect x="92" y="64" width="36" height="388" rx="6" fill="#286a36" />
+  
+  <rect x="146" y="82" width="252" height="352" rx="6" fill="#48a05a" />
+  
+  <rect x="160" y="96" width="224" height="324" fill="none" stroke="#1a1a1a" stroke-width="4" rx="4" />
+  
+  <rect x="172" y="110" width="200" height="44" rx="4" fill="#ffd23f" />
+  <text x="272" y="142" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="26" font-weight="900" fill="#1a4a22" stroke="none">THESAURUS</text>
+  
+  <ellipse cx="272" cy="240" rx="58" ry="32" fill="#fff4e0" />
+  <text x="272" y="248" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="900" fill="#1a4a22" stroke="none">HAPPY</text>
+  
+  
+  <ellipse cx="186" cy="208" rx="40" ry="20" fill="#fff4e0" />
+  <text x="186" y="214" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" font-weight="700" fill="#1a4a22" stroke="none">JOYFUL</text>
+  <line x1="220" y1="218" x2="244" y2="230" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M244 230 L236 222 L240 234 Z" fill="#1a4a22" stroke="none" />
+  
+  <ellipse cx="358" cy="208" rx="40" ry="20" fill="#fff4e0" />
+  <text x="358" y="214" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" font-weight="700" fill="#1a4a22" stroke="none">GLAD</text>
+  <line x1="324" y1="218" x2="302" y2="230" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M302 230 L310 222 L306 234 Z" fill="#1a4a22" stroke="none" />
+  
+  <ellipse cx="186" cy="316" rx="40" ry="20" fill="#fff4e0" />
+  <text x="186" y="322" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" font-weight="700" fill="#1a4a22" stroke="none">MERRY</text>
+  <line x1="220" y1="306" x2="244" y2="280" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M244 280 L240 290 L234 280 Z" fill="#1a4a22" stroke="none" />
+  
+  <ellipse cx="358" cy="316" rx="40" ry="20" fill="#fff4e0" />
+  <text x="358" y="322" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="14" font-weight="700" fill="#1a4a22" stroke="none">CHEERY</text>
+  <line x1="324" y1="306" x2="302" y2="280" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M302 280 L308 290 L314 282 Z" fill="#1a4a22" stroke="none" />
+  
+  <rect x="200" y="358" width="144" height="44" rx="6" fill="#1a4a22" />
+  <text x="272" y="388" text-anchor="middle" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="900" fill="#ffd23f" stroke="none">THES.</text>
+  
+  <rect x="146" y="82" width="14" height="352" fill="#5cb86c" stroke="none" opacity="0.6" />
+</g>
+</svg>

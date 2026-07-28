@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<g transform="translate(40.00 61.94) scale(0.844)">
+  
+  <rect x="0" y="0" width="512" height="120" fill="#6a4a2a" />
+  <rect x="40" y="140" width="200" height="320" fill="#f0c878" stroke="#1a1a1a" stroke-width="5.9242" />
+  <rect x="40" y="140" width="200" height="320" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-dasharray="0" />
+  <line x1="40" y1="200" x2="240" y2="200" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="40" y1="260" x2="240" y2="260" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="40" y1="320" x2="240" y2="320" stroke="#1a1a1a" stroke-width="2" />
+  <rect x="270" y="140" width="200" height="320" fill="#f0c878" stroke="#1a1a1a" stroke-width="5.9242" />
+  <line x1="270" y1="200" x2="470" y2="200" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="270" y1="260" x2="470" y2="260" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="270" y1="320" x2="470" y2="320" stroke="#1a1a1a" stroke-width="2" />
+  <g stroke="#1a1a1a" stroke-width="3">
+    <path d="M120 170 Q115 175 117 185 L113 215 Q113 220 120 220 Q127 220 127 215 L123 185 Q125 175 120 170 Z" fill="#ffffff" />
+    <line x1="115" y1="190" x2="125" y2="190" stroke="#1a1a1a" stroke-width="3" />
+    <line x1="115" y1="198" x2="125" y2="198" stroke="#1a1a1a" stroke-width="3" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="3">
+    <path d="M100 175 Q95 180 97 190 L93 220 Q93 225 100 225 Q107 225 107 220 L103 190 Q105 180 100 175 Z" fill="#ffffff" />
+    <line x1="95" y1="195" x2="105" y2="195" stroke="#1a1a1a" stroke-width="3" />
+    <line x1="95" y1="203" x2="105" y2="203" stroke="#1a1a1a" stroke-width="3" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="3">
+    <path d="M140 175 Q135 180 137 190 L133 220 Q133 225 140 225 Q147 225 147 220 L143 190 Q145 180 140 175 Z" fill="#ffffff" />
+    <line x1="135" y1="195" x2="145" y2="195" stroke="#1a1a1a" stroke-width="3" />
+    <line x1="135" y1="203" x2="145" y2="203" stroke="#1a1a1a" stroke-width="3" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="3">
+    <path d="M80 180 Q75 185 77 195 L73 225 Q73 230 80 230 Q87 230 87 225 L83 195 Q85 185 80 180 Z" fill="#ffffff" />
+    <line x1="75" y1="200" x2="85" y2="200" stroke="#1a1a1a" stroke-width="3" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="3">
+    <path d="M160 180 Q155 185 157 195 L153 225 Q153 230 160 230 Q167 230 167 225 L163 195 Q165 185 160 180 Z" fill="#ffffff" />
+    <line x1="155" y1="200" x2="165" y2="200" stroke="#1a1a1a" stroke-width="3" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="3">
+    <path d="M350 170 Q345 175 347 185 L343 215 Q343 220 350 220 Q357 220 357 215 L353 185 Q355 175 350 170 Z" fill="#ffffff" />
+    <line x1="345" y1="190" x2="355" y2="190" stroke="#1a1a1a" stroke-width="3" />
+    <line x1="345" y1="198" x2="355" y2="198" stroke="#1a1a1a" stroke-width="3" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="3">
+    <path d="M330 175 Q325 180 327 190 L323 220 Q323 225 330 225 Q337 225 337 220 L333 190 Q335 180 330 175 Z" fill="#ffffff" />
+    <line x1="325" y1="195" x2="335" y2="195" stroke="#1a1a1a" stroke-width="3" />
+  </g>
+  <g stroke="#1a1a1a" stroke-width="3">
+    <path d="M370 175 Q365 180 367 190 L363 220 Q363 225 370 225 Q377 225 377 220 L373 190 Q375 180 370 175 Z" fill="#ffffff" />
+    <line x1="365" y1="195" x2="375" y2="195" stroke="#1a1a1a" stroke-width="3" />
+  </g>
+  <circle cx="140" cy="400" r="35" fill="#3a7ac9" stroke="#1a1a1a" stroke-width="5.9242" />
+  <circle cx="128" cy="386" r="4" fill="#2b2622" />
+  <circle cx="143" cy="382" r="4" fill="#2b2622" />
+  <circle cx="135" cy="400" r="4" fill="#2b2622" />
+  <circle cx="370" cy="400" r="35" fill="#d9534f" stroke="#1a1a1a" stroke-width="5.9242" />
+  <circle cx="358" cy="386" r="4" fill="#2b2622" />
+  <circle cx="373" cy="382" r="4" fill="#2b2622" />
+  <circle cx="365" cy="400" r="4" fill="#2b2622" />
+</g>
+</svg>

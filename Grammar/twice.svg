@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(64 64) scale(0.7500)">
+<svg version="1.1" id="e0_Layer_1" x="0px" y="0px" viewBox="0 0 128 128" xml:space="preserve" width="512" height="512" preserveAspectRatio="xMidYMid meet">
+<g>
+	<g>
+		<path fill="#3D788B" d="M116,4H12c-4.4,0-8,3.6-8,8v104c0,4.4,3.6,8,8,8h104c4.4,0,8-3.6,8-8V12C124,7.6,120.4,4,116,4z" stroke="#1a1a1a" stroke-width="6.6667" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+	</g>
+	<g>
+		<g>
+			<path fill="#88B0C2" d="M109.7,4H11.5C7.4,4,4,7.4,4,11.5v97.9c0,4.2,3.4,7.5,7.5,7.5h98.1c4.2,0,7.5-3.4,7.5-7.5V11.5     C117.3,7.4,113.8,4,109.7,4z" stroke="#1a1a1a" stroke-width="6.6667" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+		</g>
+	</g>
+</g>
+<path fill="#FAFAFA" d="M80.6,37l24,24c1.8,1.6,1.8,4.4,0,6l-24,24C78,93.3,74,91.4,74,88V74c0-1.1-0.9-2-2-2H26  c-2.2,0-4-1.8-4-4v-8c0-2.2,1.8-4,4-4h46c1.1,0,2-0.9,2-2V40C74,36.6,78.1,34.7,80.6,37z" stroke="#1a1a1a" stroke-width="6.6667" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+<g>
+	<path opacity="0.5" fill="#B0E2F0" d="M39.7,12.9c0-2.3-1.6-3-10.8-2.7c-7.7,0.3-11.5,1.2-13.8,4   s-2.9,8.5-3,15.3c0,4.8,0,9.3,2.5,9.3c3.4,0,3.4-7.9,6.2-12.3C26.2,17.8,39.7,15.9,39.7,12.9z" stroke="#1a1a1a" stroke-width="6.6667" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+</g>
+</svg></g>
+  <g transform="translate(64 256) scale(0.2500)">
+<svg viewBox="0 0 290 240" width="512" height="512" preserveAspectRatio="xMidYMid meet">
+<circle cx="145" cy="120" r="98" fill="#B1E3FF" stroke="#1a1a1a" stroke-width="4" />
+<path d="M145 218 Q65 200 60 130 Q65 200 145 205 Q225 200 230 130 Q225 200 145 218 Z" fill="#65B1F4" opacity="0.5" />
+<g transform="translate(145.000 120.000) scale(0.160000 -0.160000) translate(-278.000 -357.000)"><path d="M37 431H173Q173 459 178.5 487.5Q184 516 197.0 539.5Q210 563 231.5 577.5Q253 592 284 592Q330 592 359.5 563.5Q389 535 389 484Q389 452 374.5 427.0Q360 402 338.5 382.0Q317 362 291.0 345.5Q265 329 242 313Q197 282 156.5 252.0Q116 222 86.0 186.5Q56 151 38.5 106.0Q21 61 21 0H535V122H204Q230 158 264.0 185.0Q298 212 334.0 235.5Q370 259 405.5 283.0Q441 307 469.0 336.5Q497 366 514.0 404.0Q531 442 531 495Q531 546 511.5 587.0Q492 628 459.0 656.0Q426 684 382.5 699.0Q339 714 291 714Q228 714 179.5 692.5Q131 671 99.0 632.5Q67 594 51.0 542.5Q35 491 37 431Z" fill="#1A1A1A" /></g>
+</svg></g>
+</svg>

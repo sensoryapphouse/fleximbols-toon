@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>burrito</title>
+  
+  <path d="M 60 200 Q 256 130 452 200 L 452 320 Q 256 390 60 320 Z" fill="#e9c46a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M 120 215 Q 120 265 130 315" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M 220 195 Q 220 260 220 325" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M 310 195 Q 310 260 310 325" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  <path d="M 390 215 Q 390 265 380 315" stroke="#1a1a1a" stroke-width="3" fill="none" />
+  
+  <path d="M 60 200 L 30 180 L 50 230 L 30 270 L 50 300 L 30 340 L 60 320 Z" fill="#e9c46a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M 452 200 L 482 180 L 462 230 L 482 270 L 462 300 L 482 340 L 452 320 Z" fill="#e9c46a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M 180 175 Q 256 145 332 175 L 320 200 Q 256 175 192 200 Z" fill="#fb5607" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <circle cx="220" cy="180" r="9" fill="#52b788" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="256" cy="170" r="9" fill="#52b788" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="290" cy="180" r="9" fill="#52b788" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="240" cy="190" r="5" fill="#ffd23f" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="270" cy="195" r="5" fill="#ffd23f" stroke="#1a1a1a" stroke-width="2" />
+  
+  <line x1="80" y1="338" x2="432" y2="338" stroke="#1a1a1a" stroke-width="3" />
+</svg>

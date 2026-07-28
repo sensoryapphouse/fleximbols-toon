@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="heartG" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f05050"/>
+      <stop offset="100%" stop-color="#e23b34"/>
+    </linearGradient>
+    <linearGradient id="coinG" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fce06a"/>
+      <stop offset="100%" stop-color="#f8c531"/>
+    </linearGradient>
+  </defs>
+
+  <!-- ===== LEFT HAND (offering a heart) — palm facing up, cupped ===== -->
+  <g id="left-hand">
+    <!-- Palm -->
+    <path d="M60,350 C55,320 58,300 68,290 C75,283 87,283 95,290
+             C95,290 98,270 102,258 C106,246 120,244 126,256
+             C128,246 142,242 148,256
+             C150,245 165,243 170,257
+             L175,235 C178,222 194,220 198,235
+             L205,295
+             C215,286 228,290 230,305
+             L232,348
+             C232,372 215,392 192,396
+             L142,400
+             C110,402 72,385 60,350 Z"
+          fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+    <!-- Finger division lines on palm — index finger -->
+    <line x1="102" y1="258" x2="104" y2="295" stroke="#c8956a" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- middle finger -->
+    <line x1="126" y1="254" x2="128" y2="294" stroke="#c8956a" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- ring finger -->
+    <line x1="150" y1="256" x2="152" y2="295" stroke="#c8956a" stroke-width="2.5" stroke-linecap="round"/>
+    <!-- pinky knuckle crease -->
+    <line x1="172" y1="260" x2="173" y2="292" stroke="#c8956a" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- Finger tips — rounded caps for each finger -->
+    <!-- Little finger -->
+    <ellipse cx="180" cy="234" rx="7" ry="10" fill="#f3c89c" stroke="#1a1a1a" stroke-width="4.5"/>
+    <!-- Ring finger -->
+    <ellipse cx="163" cy="224" rx="8" ry="11" fill="#f3c89c" stroke="#1a1a1a" stroke-width="4.5"/>
+    <!-- Middle finger -->
+    <ellipse cx="143" cy="218" rx="8.5" ry="12" fill="#f3c89c" stroke="#1a1a1a" stroke-width="4.5"/>
+    <!-- Index finger -->
+    <ellipse cx="120" cy="220" rx="8" ry="11" fill="#f3c89c" stroke="#1a1a1a" stroke-width="4.5"/>
+    <!-- Thumb -->
+    <ellipse cx="91" cy="257" rx="9" ry="10" transform="rotate(-35,91,257)" fill="#f3c89c" stroke="#1a1a1a" stroke-width="4.5"/>
+
+    <!-- Wrist crease -->
+    <path d="M65,380 C85,395 130,398 185,388" fill="none" stroke="#c8956a" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- ===== HEART (resting in left palm) ===== -->
+  <g id="heart" transform="translate(108,290)">
+    <path d="M50,16 C50,3 38,-5 28,4 C22,10 20,18 20,18
+             C20,18 18,10 12,4 C2,-5 -10,3 -10,16
+             C-10,28 20,52 20,52
+             C20,52 50,28 50,16 Z"
+          fill="url(#heartG)" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+    <!-- highlight -->
+    <path d="M4,10 C6,5 12,3 16,7" fill="none" stroke="#ff9090" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
+  </g>
+
+  <!-- ===== RIGHT HAND (offering coins) — open palm facing up ===== -->
+  <g id="right-hand">
+    <!-- Palm -->
+    <path d="M285,350 C280,320 283,300 293,290 C300,283 312,283 320,290
+             C320,290 323,270 327,258 C331,246 345,244 351,256
+             C353,246 367,242 373,256
+             C375,245 390,243 395,257
+             L400,235 C403,222 419,220 423,235
+             L430,295
+             C440,286 453,290 455,305
+             L457,348
+             C457,372 440,392 417,396
+             L367,400
+             C335,402 297,385 285,350 Z"
+          fill="#f3c89c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+
+    <!-- Finger division lines -->
+    <line x1="327" y1="258" x2="329" y2="295" stroke="#c8956a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="351" y1="254" x2="353" y2="294" stroke="#c8956a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="375" y1="256" x2="377" y2="295" stroke="#c8956a" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="397" y1="260" x2="398" y2="292" stroke="#c8956a" stroke-width="2" stroke-linecap="round"/>
+
+    <!-- Finger tips -->
+    <!-- Little finger -->
+    <ellipse cx="405" cy="234" rx="7" ry="10" fill="#f3c89c" stroke="#1a1a1a" stroke-width="4.5"/>
+    <!-- Ring finger -->
+    <ellipse cx="388" cy="224" rx="8" ry="11" fill="#f3c89c" stroke="#1a1a1a" stroke-width="4.5"/>
+    <!-- Middle finger -->
+    <ellipse cx="368" cy="218" rx="8.5" ry="12" fill="#f3c89c" stroke="#1a1a1a" stroke-width="4.5"/>
+    <!-- Index finger -->
+    <ellipse cx="345" cy="220" rx="8" ry="11" fill="#f3c89c" stroke="#1a1a1a" stroke-width="4.5"/>
+    <!-- Thumb -->
+    <ellipse cx="316" cy="257" rx="9" ry="10" transform="rotate(-35,316,257)" fill="#f3c89c" stroke="#1a1a1a" stroke-width="4.5"/>
+
+    <!-- Wrist crease -->
+    <path d="M290,380 C310,395 355,398 410,388" fill="none" stroke="#c8956a" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- ===== COINS (resting in right palm) ===== -->
+  <!-- Large coin -->
+  <ellipse cx="360" cy="297" rx="22" ry="22" fill="url(#coinG)" stroke="#1a1a1a" stroke-width="5"/>
+  <ellipse cx="360" cy="297" rx="13" ry="13" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+  <!-- Medium coin -->
+  <ellipse cx="398" cy="285" rx="17" ry="17" fill="url(#coinG)" stroke="#1a1a1a" stroke-width="5"/>
+  <ellipse cx="398" cy="285" rx="10" ry="10" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+  <!-- Small coin -->
+  <ellipse cx="330" cy="285" rx="14" ry="14" fill="url(#coinG)" stroke="#1a1a1a" stroke-width="4.5"/>
+  <ellipse cx="330" cy="285" rx="8" ry="8" fill="none" stroke="#1a1a1a" stroke-width="2.5"/>
+
+</svg>

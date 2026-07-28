@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 6.250)">
+  
+  
+  <line x1="40" y1="120" x2="472" y2="120" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="40" y1="180" x2="472" y2="180" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="40" y1="240" x2="472" y2="240" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="120" y1="100" x2="120" y2="260" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="240" y1="100" x2="240" y2="260" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="360" y1="100" x2="360" y2="260" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="244" y="80" width="24" height="40" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="4" />
+  
+  <rect x="268" y="92" width="40" height="18" rx="6" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M160 130 Q 160 120 180 120 L 332 120 Q 352 120 352 130 L 352 280 Q 352 360 256 380 Q 160 360 160 280 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M188 150 Q 188 144 200 144 L 312 144 Q 324 144 324 150 L 324 270 Q 324 340 256 358 Q 188 340 188 270 Z" fill="#e8f4ff" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M210 320 Q 256 340 302 320 Q 290 350 256 354 Q 222 350 210 320 Z" fill="#5cb1ff" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="256" cy="338" rx="20" ry="6" fill="#404040" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M230 155 L 226 200" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M256 155 L 256 210" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  <path d="M282 155 L 286 200" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <rect x="240" y="380" width="32" height="40" fill="#9aa0a6" stroke="#1a1a1a" stroke-width="4" />
+  
+  <text x="256" y="470" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="54" font-weight="900" text-anchor="middle" fill="#000000">URINAL</text>
+</g>
+  </svg>

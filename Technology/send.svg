@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Paper airplane body — main triangle -->
+  <polygon points="60,420 460,256 60,92" fill="#e8f0fe" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Fold crease — lower fold triangle -->
+  <polygon points="60,420 260,310 180,210" fill="#c2d4f8" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Center spine crease line -->
+  <line x1="60" y1="256" x2="460" y2="256" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <!-- Fold line from nose to belly crease -->
+  <line x1="180" y1="210" x2="260" y2="310" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round"/>
+  <!-- Upper wing highlight -->
+  <polygon points="180,218 420,256 280,245" fill="#ffffff" opacity="0.45"/>
+  <!-- Tail flap (small folded bit at the back) -->
+  <polygon points="60,420 130,370 100,440" fill="#a8c4f0" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Motion lines (speed streaks) -->
+  <line x1="380" y1="196" x2="460" y2="196" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <line x1="400" y1="218" x2="468" y2="218" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+  <line x1="408" y1="240" x2="478" y2="240" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round"/>
+</svg>

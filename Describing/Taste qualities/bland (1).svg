@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -63.250)">
+<defs>
+<radialGradient id="plateOuter" cx="0.5" cy="0.4" r="0.6">
+<stop offset="0" stop-color="#ffffff" />
+<stop offset="0.9" stop-color="#e0e0e0" />
+<stop offset="1" stop-color="#b0b0b0" />
+</radialGradient>
+<radialGradient id="plateInner" cx="0.5" cy="0.5" r="0.5">
+<stop offset="0" stop-color="#fafafa" />
+<stop offset="1" stop-color="#cccccc" />
+</radialGradient>
+<radialGradient id="rice" cx="0.5" cy="0.4" r="0.6">
+<stop offset="0" stop-color="#ffffff" />
+<stop offset="1" stop-color="#e8e0d0" />
+</radialGradient>
+</defs>
+<ellipse cx="256" cy="320" rx="200" ry="60" fill="url(#plateOuter)" stroke="#1a1a1a" stroke-width="5.0000" />
+<ellipse cx="256" cy="315" rx="160" ry="42" fill="url(#plateInner)" stroke="#1a1a1a" stroke-width="6" />
+<ellipse cx="256" cy="290" rx="135" ry="32" fill="url(#rice)" stroke="#1a1a1a" stroke-width="7" />
+<g fill="#ffffff" stroke="#1a1a1a" stroke-width="2.5">
+<ellipse cx="170" cy="285" rx="9" ry="4" transform="rotate(25 170 285)" />
+<ellipse cx="195" cy="278" rx="9" ry="4" transform="rotate(-15 195 278)" />
+<ellipse cx="220" cy="285" rx="9" ry="4" transform="rotate(40 220 285)" />
+<ellipse cx="245" cy="276" rx="9" ry="4" transform="rotate(-25 245 276)" />
+<ellipse cx="270" cy="285" rx="9" ry="4" transform="rotate(15 270 285)" />
+<ellipse cx="295" cy="278" rx="9" ry="4" transform="rotate(-40 295 278)" />
+<ellipse cx="320" cy="285" rx="9" ry="4" transform="rotate(20 320 285)" />
+<ellipse cx="345" cy="280" rx="9" ry="4" transform="rotate(-10 345 280)" />
+<ellipse cx="183" cy="298" rx="9" ry="4" transform="rotate(-20 183 298)" />
+<ellipse cx="208" cy="295" rx="9" ry="4" transform="rotate(30 208 295)" />
+<ellipse cx="233" cy="298" rx="9" ry="4" transform="rotate(-15 233 298)" />
+<ellipse cx="258" cy="296" rx="9" ry="4" transform="rotate(35 258 296)" />
+<ellipse cx="283" cy="298" rx="9" ry="4" transform="rotate(-30 283 298)" />
+<ellipse cx="308" cy="296" rx="9" ry="4" transform="rotate(10 308 296)" />
+<ellipse cx="333" cy="298" rx="9" ry="4" transform="rotate(-25 333 298)" />
+<ellipse cx="210" cy="268" rx="8" ry="4" transform="rotate(15 210 268)" />
+<ellipse cx="240" cy="265" rx="8" ry="4" transform="rotate(-30 240 265)" />
+<ellipse cx="270" cy="266" rx="8" ry="4" transform="rotate(20 270 266)" />
+<ellipse cx="300" cy="265" rx="8" ry="4" transform="rotate(-15 300 265)" />
+</g>
+</g>
+  </svg>

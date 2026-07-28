@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+
+<g stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round">
+<path d="M80 380 Q80 360 110 360 L162 360 Q170 380 200 380 Q230 380 238 360 L290 360 Q320 360 320 380 L320 460 L80 460 Z" fill="#FFD6E0" />
+<path d="M80 400 L320 400" stroke-width="3" fill="none" />
+<circle cx="120" cy="430" r="8" fill="#FF99AC" stroke="none" />
+<circle cx="200" cy="430" r="8" fill="#FF99AC" stroke="none" />
+<circle cx="280" cy="430" r="8" fill="#FF99AC" stroke="none" />
+</g>
+<g stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round">
+<path d="M180 260 Q180 240 210 240 L262 240 Q270 260 300 260 Q330 260 338 240 L390 240 Q420 240 420 260 L420 340 L180 340 Z" fill="#B5E2FA" />
+<path d="M180 280 L420 280" stroke-width="3" fill="none" />
+<g fill="#3B7EA1" stroke="none">
+<rect x="210" y="305" width="20" height="14" rx="3" />
+<rect x="280" y="305" width="20" height="14" rx="3" />
+<rect x="350" y="305" width="20" height="14" rx="3" />
+</g>
+</g>
+<g stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round">
+<path d="M120 140 Q120 120 150 120 L202 120 Q210 140 240 140 Q270 140 278 120 L330 120 Q360 120 360 140 L360 220 L120 220 Z" fill="#FFFACD" />
+<path d="M120 160 L360 160" stroke-width="3" fill="none" />
+<g fill="#F4A12B" stroke="none">
+<path d="M150 190 L160 180 L170 190 L160 200 Z" />
+<path d="M230 190 L240 180 L250 190 L240 200 Z" />
+<path d="M310 190 L320 180 L330 190 L320 200 Z" />
+</g>
+</g>
+<g fill="#FF006E" stroke="#1a1a1a" stroke-width="3">
+<polygon points="440,100 446,114 460,116 450,126 452,140 440,134 428,140 430,126 420,116 434,114" />
+<polygon points="60,100 66,114 80,116 70,126 72,140 60,134 48,140 50,126 40,116 54,114" />
+</g>
+</svg>

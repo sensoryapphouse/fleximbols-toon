@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <ellipse cx="256" cy="430" rx="220" ry="22" fill="#c8c0b0" stroke="#1a1a1a" stroke-width="6" />
+  <path d="M70 280 Q70 410 256 420 Q442 410 442 280 Z" fill="#e8e0d0" stroke="#1a1a1a" stroke-width="5.0000" />
+  <ellipse cx="256" cy="280" rx="186" ry="38" fill="#f8f4e8" stroke="#1a1a1a" stroke-width="6" />
+  <ellipse cx="256" cy="280" rx="174" ry="30" fill="#fdfaf0" />
+  <ellipse cx="256" cy="278" rx="170" ry="26" fill="#ffffff" stroke="#1a1a1a" stroke-width="2" />
+  <ellipse cx="256" cy="278" rx="160" ry="20" fill="#ffffff" />
+  <ellipse cx="200" cy="278" rx="6" ry="3" fill="#88c860" />
+  <ellipse cx="230" cy="270" rx="6" ry="3" fill="#88c860" />
+  <ellipse cx="265" cy="280" rx="6" ry="3" fill="#88c860" />
+  <ellipse cx="295" cy="272" rx="6" ry="3" fill="#88c860" />
+  <ellipse cx="320" cy="282" rx="6" ry="3" fill="#88c860" />
+  <ellipse cx="180" cy="285" rx="5" ry="3" fill="#a8d878" />
+  <ellipse cx="215" cy="285" rx="5" ry="3" fill="#a8d878" />
+  <ellipse cx="250" cy="270" rx="5" ry="3" fill="#a8d878" />
+  <ellipse cx="280" cy="290" rx="5" ry="3" fill="#a8d878" />
+  <ellipse cx="310" cy="270" rx="5" ry="3" fill="#a8d878" />
+  <ellipse cx="340" cy="280" rx="5" ry="3" fill="#a8d878" />
+  <ellipse cx="155" cy="278" rx="4" ry="2.5" fill="#88c860" />
+  <ellipse cx="350" cy="270" rx="4" ry="2.5" fill="#88c860" />
+  <path d="M240 250 L250 240 L260 250 M250 240 L250 232 M245 245 L240 240 M255 245 L260 240" stroke="#1a1a1a" stroke-width="2.5" fill="none" />
+  <path d="M285 248 L292 240 L300 248 M292 240 L292 234 M288 245 L284 240 M296 245 L300 240" stroke="#1a1a1a" stroke-width="2.5" fill="none" />
+  
+  
+  <path d="M256 90 Q256 80 246 80 Q236 80 246 90" fill="none" stroke="#1a1a1a" stroke-width="3" />
+</svg>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-4.750 -44.250)">
+  
+  
+  <path d="M70,260 L150,200 L220,180 L260,210 L240,290 L180,330 L100,320 L60,290 Z" fill="#a05818" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M150,200 L180,260 L100,320" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M220,180 L200,250 L240,290" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M110,225 L170,210" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.85" />
+  <path d="M200,205 L240,220" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.85" />
+  
+  <path d="M280,170 L380,160 L450,210 L460,280 L420,340 L340,330 L290,290 L270,230 Z" fill="#8a4810" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M380,160 L370,240 L420,340" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M280,170 L330,250 L460,280" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M310,195 L390,185" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" opacity="0.85" />
+  <path d="M410,220 L450,240" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.85" />
+  <path d="M340,280 L410,310" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.85" />
+  
+  <path d="M180,360 L290,355 L340,390 L300,440 L210,440 L160,400 Z" fill="#9a5018" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M250,360 L240,400 L210,440" fill="none" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M200,380 L280,370" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.85" />
+  <path d="M220,415 L300,410" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.85" />
+  
+  <polygon points="120,400 145,395 140,420" fill="#7a3808" stroke="#1a1a1a" stroke-width="3" />
+  <polygon points="360,395 390,400 380,430" fill="#7a3808" stroke="#1a1a1a" stroke-width="3" />
+  <polygon points="430,360 450,375 430,390" fill="#7a3808" stroke="#1a1a1a" stroke-width="3" />
+</g>
+  </svg>

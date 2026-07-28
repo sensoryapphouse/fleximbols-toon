@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2.91 36.19 506.18 506.18"><metadata id="sah">{"v":1,"fig":[["h1","mc"],["h2","mc"]]}</metadata>
+<rect x="223" y="286" width="66" height="104" rx="0" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<path d="M 88 512 Q 104 360 200 352 L 312 352 Q 408 360 424 512 Z" fill="#00BFA5" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round"/>
+<rect x="223" y="286" width="66" height="40" rx="0" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="0"/>
+<circle id="h1" data-fig="mc" cx="140" cy="224" r="22" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<circle id="h2" data-fig="mc" cx="372" cy="224" r="22" fill="#f1c9a5" stroke="#1a1a1a" stroke-width="5"/>
+<g data-fig="m" data-part="face"><g transform="translate(-205.82 57.71) scale(7.273 5.714)"><g transform="matrix(1.0207,0,0,1.0207,-1.32509,-2.64997)"><g transform="matrix(1,0,0,1,28.02,0)"><path stroke="#1a1a1a" stroke-width="0.77" stroke-linejoin="round" d="M51.89,29.71C51.89,29.71 54.81,30.22 54.81,33.36C54.81,36.13 52.68,37.23 50.55,37.23L50.55,29.72L51.89,29.72L51.89,29.71ZM20.07,29.71C20.07,29.71 17.15,30.22 17.15,33.36C17.15,36.13 19.28,37.23 21.41,37.23L21.41,29.72L20.07,29.72L20.07,29.71Z" fill="#c98a52" fill-rule="nonzero" /></g></g><g transform="matrix(1.0207,0,0,1.0207,-1.32509,-2.64997)"><g transform="matrix(1,0,0,1,28.02,0)"><path stroke="#1a1a1a" stroke-width="0.77" stroke-linejoin="round" d="M35.98,9.13C23.41,9.13 20.12,18.88 20.12,32.57C20.12,46.77 29.25,50.44 35.98,50.44C42.62,50.44 51.84,46.87 51.84,32.57C51.85,18.88 48.56,9.13 35.98,9.13Z" fill="#f5d6b0" fill-rule="nonzero" /></g></g></g></g>
+<path d="M 138 192 Q 156 74 256 70 Q 356 74 374 192 Q 342 126 256 114 Q 170 126 138 192 Z" fill="#6b4a2b" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 194 166 Q 212 152 230 162" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 282 162 Q 300 152 318 166" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 192 194 L 214 206 L 192 216" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 320 194 L 298 206 L 320 216" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 256 218 q -8 26 -2 34 q 6 4 14 0" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round"/>
+<path d="M 236 274 Q 256 286 276 274" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+<line x1="364" y1="230" x2="364" y2="320" stroke="#1a1a1a" stroke-width="13.0" stroke-linecap="round"/><line x1="364" y1="230" x2="364" y2="320" stroke="#3fae5a" stroke-width="7.5" stroke-linecap="round"/>
+<path d="M 364 274 q 26 -6 30 16" fill="none" stroke="#3fae5a" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="386" cy="230" r="14" fill="#e06aa0" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="375" cy="249" r="14" fill="#e06aa0" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="353" cy="249" r="14" fill="#e06aa0" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="342" cy="230" r="14" fill="#e06aa0" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="353" cy="211" r="14" fill="#e06aa0" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="375" cy="211" r="14" fill="#e06aa0" stroke="#1a1a1a" stroke-width="3"/>
+<circle cx="364" cy="230" r="14" fill="#f7d83a" stroke="#1a1a1a" stroke-width="3"/>
+<path d="M 346 220 q -22 -10 -34 -26 q -10 -14 -6 -26" fill="none" stroke="#8a8f98" stroke-width="5" stroke-linejoin="round"/>
+<path d="M 338 228 q -16 -8 -24 -22" fill="none" stroke="#8a8f98" stroke-width="5" stroke-linejoin="round"/>
+</svg>

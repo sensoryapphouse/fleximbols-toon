@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.000 -53.500)">
+<defs>
+<linearGradient id="mtnRock" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#7a8aa3" />
+<stop offset="1" stop-color="#3f4a60" />
+</linearGradient>
+<linearGradient id="mtnRock2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#94a4bc" />
+<stop offset="1" stop-color="#566578" />
+</linearGradient>
+<linearGradient id="snowFill" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#ffffff" />
+<stop offset="1" stop-color="#dfeaf5" />
+</linearGradient>
+<linearGradient id="grnd" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#8fc66a" />
+<stop offset="1" stop-color="#5a9846" />
+</linearGradient>
+</defs>
+<g stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" stroke-linecap="round">
+<path d="M20 440 L130 200 L210 320 L300 130 L420 290 L492 440 Z" fill="url(#mtnRock)" />
+<path d="M260 220 L300 130 L340 200 L320 220 L300 200 Z" fill="url(#snowFill)" />
+<path d="M100 260 L130 200 L165 270 L150 270 L130 250 Z" fill="url(#snowFill)" />
+<path d="M180 330 L210 320 L260 410 L195 410 Z" fill="url(#mtnRock2)" opacity="0.85" />
+<path d="M20 440 L492 440 L492 480 L20 480 Z" fill="url(#grnd)" />
+<circle cx="115" cy="395" r="18" fill="#ffd1b3" />
+<path d="M97 405 Q115 400 133 405 Q135 420 130 430 Q115 422 100 430 Q95 420 97 405 Z" fill="#3a86c4" />
+<rect x="100" y="427" width="30" height="22" fill="#264a73" />
+<rect x="100" y="395" width="30" height="6" fill="#2b2622" />
+</g>
+</g>
+  </svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Shield / guard: rounded rectangle with a concave bite at the top -->
+  <path d="
+    M 140 200
+    C 140 170, 165 148, 195 148
+    L 317 148
+    C 347 148, 372 170, 372 200
+    L 372 298
+    C 372 328, 347 350, 317 350
+    L 195 350
+    C 165 350, 140 328, 140 298
+    Z
+  " fill="#e91e8c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+
+  <!-- Inner shield outline / inset panel -->
+  <path d="
+    M 162 210
+    C 162 186, 180 168, 204 168
+    L 308 168
+    C 332 168, 350 186, 350 210
+    L 350 288
+    C 350 312, 332 330, 308 330
+    L 204 330
+    C 180 330, 162 312, 162 288
+    Z
+  " fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" opacity="0.35"/>
+
+  <!-- Ventilation holes: two small circles on the shield -->
+  <circle cx="216" cy="248" r="14" fill="#c1185a" stroke="#1a1a1a" stroke-width="4"/>
+  <circle cx="296" cy="248" r="14" fill="#c1185a" stroke="#1a1a1a" stroke-width="4"/>
+
+  <!-- Nipple stem: connects shield to teat -->
+  <rect x="236" y="350" width="40" height="32" rx="8"
+    fill="#ffb74d" stroke="#1a1a1a" stroke-width="5"/>
+
+  <!-- Nipple / teat: rounded bulge at the bottom -->
+  <ellipse cx="256" cy="408" rx="28" ry="36"
+    fill="#ffb74d" stroke="#1a1a1a" stroke-width="5"/>
+
+  <!-- Handle ring: open ring below the shield -->
+  <circle cx="256" cy="148" r="44"
+    fill="none" stroke="#e91e8c" stroke-width="14"/>
+  <!-- Cover the bottom arc of ring where it overlaps the shield -->
+  <path d="M 212 148 A 44 44 0 0 1 300 148"
+    fill="none" stroke="#1a1a1a" stroke-width="14"/>
+
+  <!-- Ring inner gap to keep it clearly a ring -->
+  <circle cx="256" cy="148" r="26"
+    fill="white" stroke="none"/>
+  <!-- Re-draw ring borders cleanly -->
+  <circle cx="256" cy="148" r="44"
+    fill="none" stroke="#1a1a1a" stroke-width="5"/>
+  <circle cx="256" cy="148" r="26"
+    fill="none" stroke="#1a1a1a" stroke-width="5"/>
+</svg>

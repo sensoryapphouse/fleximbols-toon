@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<rect x="36" y="44" width="440" height="420" rx="20" fill="#ff8a3d" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="52" y="60" width="408" height="64" fill="#ffd95c" stroke="#1a1a1a" stroke-width="7" />
+<g stroke="#1a1a1a" stroke-width="6">
+<rect x="60" y="140" width="100" height="40" fill="#ffd95c" />
+<rect x="160" y="140" width="98" height="40" fill="#ffd95c" />
+<rect x="258" y="140" width="98" height="40" fill="#ffd95c" />
+<rect x="356" y="140" width="98" height="40" fill="#ffd95c" />
+</g>
+<g font-family="Arial,sans-serif" font-size="16" font-weight="900" fill="#2b2622">
+</g>
+<g stroke="#1a1a1a" stroke-width="5" fill="#ffffff">
+<rect x="60" y="180" width="100" height="56" />
+<rect x="160" y="180" width="98" height="56" />
+<rect x="258" y="180" width="98" height="56" />
+<rect x="356" y="180" width="98" height="56" />
+<rect x="60" y="236" width="100" height="56" />
+<rect x="160" y="236" width="98" height="56" />
+<rect x="258" y="236" width="98" height="56" />
+<rect x="356" y="236" width="98" height="56" />
+<rect x="60" y="292" width="100" height="56" />
+<rect x="160" y="292" width="98" height="56" />
+<rect x="258" y="292" width="98" height="56" />
+<rect x="356" y="292" width="98" height="56" />
+<rect x="60" y="348" width="100" height="56" fill="#fce6c2" />
+<rect x="160" y="348" width="98" height="56" fill="#fce6c2" />
+<rect x="258" y="348" width="98" height="56" fill="#fce6c2" />
+<rect x="356" y="348" width="98" height="56" fill="#fce6c2" />
+</g>
+<g font-family="Arial,sans-serif" font-size="18" font-weight="900" fill="#2b2622">
+</g>
+<g stroke="#1a1a1a" stroke-width="4" fill="#ffd24a">
+<polygon points="209,194 215,208 230,208 218,217 222,232 209,223 196,232 200,217 188,208 203,208" />
+<polygon points="307,194 313,208 328,208 316,217 320,232 307,223 294,232 298,217 286,208 301,208" />
+<polygon points="405,194 411,208 426,208 414,217 418,232 405,223 392,232 396,217 384,208 399,208" />
+<polygon points="209,250 215,264 230,264 218,273 222,288 209,279 196,288 200,273 188,264 203,264" />
+<polygon points="405,250 411,264 426,264 414,273 418,288 405,279 392,288 396,273 384,264 399,264" />
+<polygon points="307,306 313,320 328,320 316,329 320,344 307,335 294,344 298,329 286,320 301,320" />
+<polygon points="209,362 215,376 230,376 218,385 222,400 209,391 196,400 200,385 188,376 203,376" />
+<polygon points="307,362 313,376 328,376 316,385 320,400 307,391 294,400 298,385 286,376 301,376" />
+<polygon points="405,362 411,376 426,376 414,385 418,400 405,391 392,400 396,385 384,376 399,376" />
+</g>
+</svg>

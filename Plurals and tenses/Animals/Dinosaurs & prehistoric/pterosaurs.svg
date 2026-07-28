@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,34.509) scale(0.9326)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  
+  <polygon points="256,235 70,130 48,160 68,195 88,180 238,262" fill="#6a8858" stroke="#1a1a1a" stroke-width="5" />
+  
+  <line x1="256" y1="235" x2="85" y2="148" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="256" y1="235" x2="100" y2="165" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="256" y1="235" x2="118" y2="178" stroke="#1a1a1a" stroke-width="2" />
+  
+  <polygon points="256,235 442,130 464,160 444,195 424,180 274,262" fill="#6a8858" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="256" y1="235" x2="427" y2="148" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="256" y1="235" x2="412" y2="165" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="256" y1="235" x2="394" y2="178" stroke="#1a1a1a" stroke-width="2" />
+  
+  <polygon points="48,160 42,152 46,168 52,155" fill="#1a1a1a" />
+  <polygon points="464,160 470,152 466,168 460,155" fill="#1a1a1a" />
+  
+  <line x1="148" y1="168" x2="155" y2="150" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="165" y1="160" x2="172" y2="142" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="352" y1="168" x2="345" y2="150" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="348" y1="160" x2="340" y2="142" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="256" cy="272" rx="52" ry="38" fill="#7a9868" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <polygon points="238,250 274,250 272,208 236,208" fill="#7a9868" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
+  
+  <ellipse cx="255" cy="188" rx="40" ry="26" fill="#7a9868" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <ellipse cx="262" cy="172" rx="14" ry="8" fill="#8aa878" stroke="#1a1a1a" stroke-width="3" />
+  
+  <polygon points="228,186 268,180 302,188 298,200 226,200" fill="#8aa878" stroke="#1a1a1a" stroke-width="5" />
+  <polygon points="230,200 296,200 294,212 232,212" fill="#8aa878" stroke="#1a1a1a" stroke-width="5" />
+  
+  <polygon points="242,200 246,193 250,200" fill="#ffffff" />
+  <polygon points="268,200 272,193 276,200" fill="#ffffff" />
+  
+  <circle cx="242" cy="182" r="7" fill="#884400" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="242" cy="182" r="3" fill="#1a1a1a" />
+  <circle cx="240" cy="180" r="1" fill="#ffffff" />
+  
+  <line x1="248" y1="300" x2="236" y2="335" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="236" y1="335" x2="225" y2="354" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="225" y1="354" x2="214" y2="366" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="225" y1="354" x2="225" y2="368" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="225" y1="354" x2="236" y2="366" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="264" y1="300" x2="276" y2="335" stroke="#1a1a1a" stroke-width="5" />
+  <line x1="276" y1="335" x2="287" y2="354" stroke="#1a1a1a" stroke-width="4" />
+  <line x1="287" y1="354" x2="276" y2="366" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="287" y1="354" x2="287" y2="368" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="287" y1="354" x2="298" y2="366" stroke="#1a1a1a" stroke-width="3" />
+  
+  <polygon points="248,302 264,302 270,335 256,342 242,335" fill="#7a9868" stroke="#1a1a1a" stroke-width="4" />
+  
+  <circle cx="248" cy="268" r="5" fill="none" stroke="#1a1a1a" stroke-width="2" />
+  <circle cx="268" cy="275" r="5" fill="none" stroke="#1a1a1a" stroke-width="2" />
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl105" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl105)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

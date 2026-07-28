@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <title>bumbleball</title>
+  
+  <circle cx="256" cy="266" r="170" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <circle cx="256" cy="86" r="28" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="370" cy="120" r="26" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="420" cy="200" r="28" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="436" cy="296" r="26" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="396" cy="386" r="28" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="300" cy="436" r="26" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="200" cy="436" r="28" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="110" cy="380" r="26" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="74" cy="290" r="28" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="90" cy="190" r="26" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5.0000" />
+  <circle cx="150" cy="115" r="28" fill="#ffd23f" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <circle cx="180" cy="200" r="22" fill="#fb8500" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="280" cy="160" r="22" fill="#fb8500" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="340" cy="240" r="22" fill="#fb8500" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="220" cy="290" r="22" fill="#fb8500" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="310" cy="340" r="22" fill="#fb8500" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="170" cy="360" r="22" fill="#fb8500" stroke="#1a1a1a" stroke-width="3" />
+  
+  <ellipse cx="190" cy="165" rx="24" ry="14" fill="#ffffff" />
+</svg>

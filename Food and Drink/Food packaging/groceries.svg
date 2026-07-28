@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-60.049 -114.423) scale(1.2358)">
+<path d="M140 200 L160 460 L352 460 L372 200 Z" fill="#C28A4A" stroke="#1a1a1a" stroke-width="4.0460" />
+<path d="M180 200 L180 150 Q180 130 200 130 L240 130 Q260 130 260 150 L260 200" fill="none" stroke="#1a1a1a" stroke-width="4.0460" />
+<path d="M252 200 L252 150 Q252 130 272 130 L312 130 Q332 130 332 150 L332 200" fill="none" stroke="#1a1a1a" stroke-width="4.0460" />
+<rect x="180" y="140" width="60" height="80" fill="#FFE34D" stroke="#1a1a1a" stroke-width="4.0460" />
+<line x1="195" y1="140" x2="195" y2="220" stroke="#1a1a1a" stroke-width="3" />
+<line x1="210" y1="140" x2="210" y2="220" stroke="#1a1a1a" stroke-width="3" />
+<line x1="225" y1="140" x2="225" y2="220" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="290" cy="180" r="32" fill="#E8453A" stroke="#1a1a1a" stroke-width="4.0460" />
+<path d="M290 150 Q298 140 308 145" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+<ellipse cx="220" cy="280" rx="30" ry="36" fill="#FFA34A" stroke="#1a1a1a" stroke-width="4.0460" />
+<path d="M220 250 Q224 240 232 240" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+<rect x="270" y="260" width="80" height="60" rx="6" fill="#FFFFFF" stroke="#1a1a1a" stroke-width="4.0460" />
+<rect x="270" y="260" width="80" height="20" fill="#3A86C8" stroke="#1a1a1a" stroke-width="4.0460" />
+<text x="310" y="305" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="20" font-weight="900" text-anchor="middle" fill="#1F1F1F">MILK</text>
+<ellipse cx="200" cy="370" rx="34" ry="22" fill="#F4A0B8" stroke="#1a1a1a" stroke-width="4.0460" />
+<ellipse cx="300" cy="380" rx="28" ry="20" fill="#7A4A2A" stroke="#1a1a1a" stroke-width="4.0460" />
+<path d="M270 380 Q300 360 330 380" fill="none" stroke="#1a1a1a" stroke-width="3" />
+</g>
+  </svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g stroke="#1a1a1a" stroke-linecap="round" stroke-linejoin="round">
+
+    <!-- Shadow/base -->
+    <ellipse cx="256" cy="420" rx="165" ry="22" fill="#d8cfc0" stroke="none"/>
+
+    <!-- Main feta chunk — irregular crumbly block shape -->
+    <!-- Back face (top) -->
+    <path d="M130 200 Q138 188 200 178 Q268 168 340 180 Q378 186 390 200 L370 230 Q310 218 248 226 Q186 234 150 230 Z"
+          fill="#f2efea" stroke="#1a1a1a" stroke-width="5"/>
+
+    <!-- Left face -->
+    <path d="M130 200 L150 230 L145 380 L120 350 Z"
+          fill="#e8e4dc" stroke="#1a1a1a" stroke-width="5"/>
+
+    <!-- Right face -->
+    <path d="M390 200 L370 230 L378 382 L406 352 Z"
+          fill="#dedad2" stroke="#1a1a1a" stroke-width="5"/>
+
+    <!-- Front face (main visible face) -->
+    <path d="M150 230 Q186 234 248 226 Q310 218 370 230 L378 382 Q314 394 248 400 Q182 406 145 380 Z"
+          fill="#fdfaf4" stroke="#1a1a1a" stroke-width="5"/>
+
+    <!-- Bottom face (slightly visible) -->
+    <path d="M145 380 Q182 406 248 400 Q314 394 378 382 L370 410 Q310 422 248 426 Q184 430 138 414 Z"
+          fill="#edeae2" stroke="#1a1a1a" stroke-width="4"/>
+
+    <!-- Crumbly surface texture — holes/pores on front face -->
+    <ellipse cx="190" cy="290" rx="11" ry="7" fill="#e0dcd2" stroke="#1a1a1a" stroke-width="3"/>
+    <ellipse cx="240" cy="320" rx="9" ry="6" fill="#e0dcd2" stroke="#1a1a1a" stroke-width="3"/>
+    <ellipse cx="300" cy="275" rx="12" ry="8" fill="#e0dcd2" stroke="#1a1a1a" stroke-width="3"/>
+    <ellipse cx="340" cy="340" rx="8" ry="5" fill="#e0dcd2" stroke="#1a1a1a" stroke-width="3"/>
+    <ellipse cx="170" cy="350" rx="10" ry="6" fill="#e0dcd2" stroke="#1a1a1a" stroke-width="3"/>
+    <ellipse cx="265" cy="360" rx="7" ry="5" fill="#e0dcd2" stroke="#1a1a1a" stroke-width="3"/>
+    <ellipse cx="210" cy="255" rx="8" ry="5" fill="#e0dcd2" stroke="#1a1a1a" stroke-width="3"/>
+    <ellipse cx="320" cy="305" rx="9" ry="6" fill="#e0dcd2" stroke="#1a1a1a" stroke-width="3"/>
+
+    <!-- Crumble break lines on front face — crumbly texture -->
+    <path d="M155 260 Q180 256 195 268" fill="none" stroke="#c8c4bc" stroke-width="3"/>
+    <path d="M270 238 Q290 244 285 260" fill="none" stroke="#c8c4bc" stroke-width="3"/>
+    <path d="M350 250 Q365 260 360 275" fill="none" stroke="#c8c4bc" stroke-width="3"/>
+    <path d="M160 310 Q172 318 168 332" fill="none" stroke="#c8c4bc" stroke-width="3"/>
+    <path d="M355 360 Q368 368 364 382" fill="none" stroke="#c8c4bc" stroke-width="3"/>
+
+    <!-- Crumbled chunks broken off at base-front -->
+    <!-- Chunk 1 -->
+    <path d="M148 390 Q160 382 174 386 Q178 396 166 404 Q152 400 148 390 Z"
+          fill="#fdfaf4" stroke="#1a1a1a" stroke-width="4"/>
+    <!-- Chunk 2 -->
+    <path d="M355 392 Q368 386 382 392 Q384 402 372 408 Q358 404 355 392 Z"
+          fill="#fdfaf4" stroke="#1a1a1a" stroke-width="4"/>
+    <!-- Chunk 3 (small loose crumble) -->
+    <path d="M240 406 Q250 400 258 405 Q260 413 250 416 Q240 414 240 406 Z"
+          fill="#fdfaf4" stroke="#1a1a1a" stroke-width="3"/>
+
+    <!-- Top face surface detail — slight crumble lines -->
+    <path d="M175 192 Q210 200 240 196" fill="none" stroke="#c8c4bc" stroke-width="3"/>
+    <path d="M275 190 Q305 196 335 192" fill="none" stroke="#c8c4bc" stroke-width="3"/>
+
+  </g>
+</svg>

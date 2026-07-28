@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-86.804 -183.647) scale(1.3404)">
+  <defs>
+    <linearGradient id="gLatke" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f8c531" />
+      <stop offset="100%" stop-color="#c87820" />
+    </linearGradient>
+    <linearGradient id="gCream" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#e8e0d0" />
+    </linearGradient>
+  </defs>
+  
+  <ellipse cx="256" cy="390" rx="148" ry="42" fill="url(#gLatke)" stroke="#1a1a1a" stroke-width="3.7302" stroke-linejoin="round" />
+  
+  
+  <path d="M116,384 Q130,372 150,380 Q170,388 190,376 Q210,364 230,374 Q250,384 270,374 Q290,364 310,376 Q330,388 350,380 Q370,372 396,382" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <ellipse cx="256" cy="340" rx="140" ry="40" fill="url(#gLatke)" stroke="#1a1a1a" stroke-width="3.7302" stroke-linejoin="round" />
+  
+  <path d="M122,334 Q140,322 160,330 Q180,338 200,326 Q220,314 240,324 Q260,334 280,324 Q300,314 320,326 Q340,338 360,330 Q380,322 390,332" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  <ellipse cx="256" cy="292" rx="132" ry="38" fill="url(#gLatke)" stroke="#1a1a1a" stroke-width="3.7302" stroke-linejoin="round" />
+  
+  <path d="M130,286 Q148,274 168,282 Q188,290 208,278 Q228,266 248,276 Q268,286 288,276 Q308,266 328,278 Q348,290 368,282 Q382,274 382,284" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+  
+  
+  
+  <ellipse cx="260" cy="258" rx="62" ry="34" fill="url(#gCream)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  
+  
+  
+  
+  
+  <path d="M240,262 Q255,252 272,260 Q285,266 278,274" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
+</g>
+  <g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1599" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1599)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

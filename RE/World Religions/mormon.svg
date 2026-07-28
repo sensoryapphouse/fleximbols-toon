@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <rect x="120" y="310" width="272" height="170" rx="4" fill="#f0ece0" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <polygon points="256,80 232,310 280,310" fill="#f0ece0" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <polygon points="192,145 176,310 208,310" fill="#f0ece0" stroke="#1a1a1a" stroke-width="5" />
+  <polygon points="320,145 312,310 328,310" fill="#f0ece0" stroke="#1a1a1a" stroke-width="5" />
+  
+  <polygon points="152,200 140,310 164,310" fill="#f0ece0" stroke="#1a1a1a" stroke-width="4" />
+  <polygon points="360,200 348,310 372,310" fill="#f0ece0" stroke="#1a1a1a" stroke-width="4" />
+  
+  
+  <ellipse cx="256" cy="64" rx="10" ry="14" fill="#e0b030" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="256" cy="44" r="9" fill="#e0b030" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M266 58 L295 50 L300 54 L270 64 Z" fill="#e0b030" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="298" cy="52" rx="6" ry="4" fill="#e0b030" stroke="#1a1a1a" stroke-width="2" />
+  
+  <path d="M246 62 L226 54 L230 66 Z" fill="#e0b030" stroke="#1a1a1a" stroke-width="2" />
+  
+  <rect x="152" y="350" width="28" height="40" rx="4" fill="#d0e8f8" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="198" y="350" width="28" height="40" rx="4" fill="#d0e8f8" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="244" y="350" width="24" height="40" rx="4" fill="#d0e8f8" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="286" y="350" width="28" height="40" rx="4" fill="#d0e8f8" stroke="#1a1a1a" stroke-width="4" />
+  <rect x="332" y="350" width="28" height="40" rx="4" fill="#d0e8f8" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M220 480 L220 420 Q256 400 292 420 L292 480" fill="#e8e0d0" stroke="#1a1a1a" stroke-width="5" />
+</svg>

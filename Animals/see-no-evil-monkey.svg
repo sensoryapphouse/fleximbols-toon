@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <!-- Monkey head -->
+  <circle cx="256" cy="255" r="150" fill="#8b5e3c" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Face disc (lighter inner face) -->
+  <ellipse cx="256" cy="270" rx="105" ry="110" fill="#c4906a" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- Ears -->
+  <circle cx="108" cy="240" r="38" fill="#8b5e3c" stroke="#1a1a1a" stroke-width="5"/>
+  <circle cx="108" cy="240" r="22" fill="#c4906a" stroke="none"/>
+  <circle cx="404" cy="240" r="38" fill="#8b5e3c" stroke="#1a1a1a" stroke-width="5"/>
+  <circle cx="404" cy="240" r="22" fill="#c4906a" stroke="none"/>
+  <!-- Top tuft of fur -->
+  <path d="M180 118 Q256 90 332 118 Q310 105 256 108 Q202 105 180 118 Z" fill="#5c3a1e" stroke="#1a1a1a" stroke-width="1" stroke-linejoin="round"/>
+  <!-- Snout / muzzle -->
+  <ellipse cx="256" cy="318" rx="58" ry="42" fill="#e8b88a" stroke="#1a1a1a" stroke-width="1"/>
+  <!-- Nostrils -->
+  <ellipse cx="242" cy="318" rx="8" ry="10" fill="#5c3a1e" stroke="none"/>
+  <ellipse cx="270" cy="318" rx="8" ry="10" fill="#5c3a1e" stroke="none"/>
+  <!-- Mouth (smile) -->
+  <path d="M220 344 Q256 362 292 344" fill="none" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Left hand covering left eye -->
+  <!-- Left arm coming from left side -->
+  <path d="M100 280 Q80 310 86 360 Q115 390 156 370 Q162 340 158 300 Z" fill="#8b5e3c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Left palm -->
+  <ellipse cx="148" cy="245" rx="68" ry="52" fill="#8b5e3c" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Left palm lighter inner -->
+  <ellipse cx="148" cy="248" rx="52" ry="38" fill="#c4906a" stroke="none"/>
+  <!-- Left hand fingers (4 fingers across top of eye) -->
+  <path d="M96 222 Q100 196 116 190" stroke="#8b5e3c" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <path d="M118 210 Q122 183 138 178" stroke="#8b5e3c" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <path d="M140 204 Q146 178 160 175" stroke="#8b5e3c" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <path d="M162 205 Q170 180 184 178" stroke="#8b5e3c" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <!-- Finger outlines -->
+  <path d="M96 222 Q100 196 116 190" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" fill="none"/>
+  <path d="M118 210 Q122 183 138 178" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" fill="none"/>
+  <path d="M140 204 Q146 178 160 175" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" fill="none"/>
+  <path d="M162 205 Q170 180 184 178" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" fill="none"/>
+
+  <!-- Right hand covering right eye -->
+  <path d="M412 280 Q432 310 426 360 Q397 390 356 370 Q350 340 354 300 Z" fill="#8b5e3c" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Right palm -->
+  <ellipse cx="364" cy="245" rx="68" ry="52" fill="#8b5e3c" stroke="#1a1a1a" stroke-width="5"/>
+  <!-- Right palm lighter inner -->
+  <ellipse cx="364" cy="248" rx="52" ry="38" fill="#c4906a" stroke="none"/>
+  <!-- Right hand fingers -->
+  <path d="M416 222 Q412 196 396 190" stroke="#8b5e3c" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <path d="M394 210 Q390 183 374 178" stroke="#8b5e3c" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <path d="M372 204 Q366 178 352 175" stroke="#8b5e3c" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <path d="M350 205 Q342 180 328 178" stroke="#8b5e3c" stroke-width="18" stroke-linecap="round" fill="none"/>
+  <!-- Finger outlines right -->
+  <path d="M416 222 Q412 196 396 190" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" fill="none"/>
+  <path d="M394 210 Q390 183 374 178" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" fill="none"/>
+  <path d="M372 204 Q366 178 352 175" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" fill="none"/>
+  <path d="M350 205 Q342 180 328 178" stroke="#1a1a1a" stroke-width="1" stroke-linecap="round" fill="none"/>
+</svg>

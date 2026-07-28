@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  <rect x="0" y="320" width="512" height="192" fill="#c8a96e" rx="0" />
+  
+  <rect x="60" y="290" width="392" height="50" fill="#8b5c2a" rx="6" />
+  <rect x="60" y="280" width="392" height="18" fill="#a06830" rx="4" />
+  
+  <rect x="196" y="170" width="120" height="130" fill="#2c2c2c" rx="10" />
+  
+  <polygon points="220,170 256,220 292,170" fill="#f0f0f0" />
+  
+  <ellipse cx="256" cy="148" rx="46" ry="50" fill="#f5c89a" />
+  
+  <ellipse cx="256" cy="118" rx="52" ry="28" fill="#f0f0e0" />
+  <rect x="204" y="108" width="104" height="22" fill="#f0f0e0" rx="4" />
+  <ellipse cx="212" cy="148" rx="12" ry="30" fill="#f0f0e0" />
+  <ellipse cx="300" cy="148" rx="12" ry="30" fill="#f0f0e0" />
+  
+  <ellipse cx="242" cy="148" rx="7" ry="7" fill="#2b2622" />
+  <ellipse cx="270" cy="148" rx="7" ry="7" fill="#2b2622" />
+  
+  <rect x="148" y="195" width="56" height="16" fill="#2c2c2c" rx="8" transform="rotate(-20,176,203)" />
+  <rect x="308" y="195" width="56" height="16" fill="#2c2c2c" rx="8" transform="rotate(20,336,203)" />
+  
+  <rect x="300" y="240" width="80" height="14" fill="#8b5c2a" rx="7" transform="rotate(-35,340,247)" />
+  
+  <rect x="318" y="198" width="40" height="26" fill="#6b3e18" rx="5" transform="rotate(-35,338,211)" />
+  
+  <rect x="100" y="140" width="110" height="140" fill="#fffde7" rx="6" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="108" y="152" width="94" height="10" fill="#c8a000" rx="2" />
+  <text x="155" y="218" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="22" font-weight="bold" fill="#cc2200" text-anchor="middle">5 YEARS</text>
+  <line x1="115" y1="236" x2="196" y2="236" stroke="#1a1a1a" stroke-width="2" />
+  <line x1="115" y1="250" x2="196" y2="250" stroke="#1a1a1a" stroke-width="2" />
+  
+  <ellipse cx="256" cy="148" rx="46" ry="50" fill="none" stroke="#1a1a1a" stroke-width="6" />
+  <rect x="196" y="170" width="120" height="130" fill="none" stroke="#1a1a1a" stroke-width="6" rx="10" />
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<defs />
+<rect x="80" y="56" width="352" height="400" rx="34" fill="#3a3a44" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="104" y="100" width="304" height="312" rx="8" fill="#5fa8d4" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="220" y="68" width="72" height="14" rx="7" fill="#2b2622" />
+<circle cx="256" cy="432" r="14" fill="#1a1a1f" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="124" y="124" width="264" height="80" rx="6" fill="#3a7fbf" opacity="0.6" />
+<rect x="124" y="218" width="264" height="80" rx="6" fill="#3a7fbf" opacity="0.4" />
+<rect x="124" y="312" width="264" height="80" rx="6" fill="#3a7fbf" opacity="0.3" />
+<path d="M148 256 L152 256" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" opacity="0.8" />
+<line x1="148" y1="256" x2="368" y2="256" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+<polygon points="368,256 332,232 332,280" fill="#ffffff" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+<line x1="120" y1="246" x2="138" y2="246" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" opacity="0.65" />
+<line x1="100" y1="256" x2="130" y2="256" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" opacity="0.45" />
+<line x1="120" y1="266" x2="138" y2="266" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" opacity="0.65" />
+<path d="M148 348 Q144 322 156 296 Q170 280 196 290 L200 252 Q198 240 210 240 Q224 240 224 254 L226 290 Q236 286 244 292 L240 322 Q236 348 232 372 L160 380 Z" fill="#f4c79a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+<path d="M148 348 L132 392 Q148 412 178 408 L232 388" fill="#f4c79a" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+<line x1="200" y1="252" x2="200" y2="290" stroke="#1a1a1a" stroke-width="5.0000" opacity="0.4" />
+</svg>

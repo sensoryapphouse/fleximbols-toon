@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<rect x="62" y="92" width="388" height="328" rx="20" fill="#ffffff" />
+<rect x="62" y="92" width="388" height="74" rx="20" fill="#4ea1e0" />
+<path d="M62 166 H450 M62 240 H450 M62 314 H450 M191 166 V420 M320 166 V420" stroke="#1a1a1a" stroke-width="5" />
+<rect x="62" y="240" width="388" height="74" fill="#dceaf5" />
+<rect x="62" y="92" width="388" height="328" rx="20" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" />
+<line x1="62" y1="166" x2="450" y2="166" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="92" y="120" width="70" height="18" rx="9" fill="#ffffff" />
+<rect x="222" y="120" width="68" height="18" rx="9" fill="#ffffff" />
+<rect x="350" y="120" width="70" height="18" rx="9" fill="#ffffff" />
+<rect x="92" y="194" width="70" height="16" rx="8" fill="#c9d4dd" />
+<rect x="222" y="194" width="68" height="16" rx="8" fill="#c9d4dd" />
+<rect x="350" y="194" width="70" height="16" rx="8" fill="#c9d4dd" />
+<rect x="92" y="268" width="70" height="16" rx="8" fill="#c9d4dd" />
+<rect x="222" y="268" width="68" height="16" rx="8" fill="#c9d4dd" />
+<rect x="350" y="268" width="70" height="16" rx="8" fill="#c9d4dd" />
+<rect x="92" y="342" width="70" height="16" rx="8" fill="#c9d4dd" />
+<rect x="222" y="342" width="68" height="16" rx="8" fill="#c9d4dd" />
+<rect x="350" y="342" width="70" height="16" rx="8" fill="#c9d4dd" />
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(-3.000 -35.500)">
+  
+  
+  <rect x="60" y="380" width="160" height="80" rx="20" fill="#F2C9A0" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M170 360 Q170 280 250 280 L380 280 Q420 280 420 320 Q420 360 380 360 Z" fill="#F2C9A0" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <rect x="240" y="220" width="34" height="80" rx="14" fill="#F2C9A0" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="282" y="208" width="34" height="92" rx="14" fill="#F2C9A0" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="324" y="220" width="34" height="80" rx="14" fill="#F2C9A0" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="366" y="232" width="34" height="68" rx="14" fill="#F2C9A0" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M170 320 Q140 300 138 270 Q138 250 158 246 Q186 250 196 290 Z" fill="#F2C9A0" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <rect x="244" y="160" width="120" height="80" rx="6" fill="#E64545" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="294" y="160" width="20" height="80" fill="#FFD23F" stroke="#1a1a1a" stroke-width="5.0000" />
+  <rect x="244" y="194" width="120" height="14" fill="#FFD23F" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M304 160 Q288 140 296 124 Q310 116 318 132 Q320 148 304 160 Z" fill="#FFD23F" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <path d="M304 160 Q320 140 312 124 Q298 116 290 132 Q288 148 304 160 Z" fill="#FFD23F" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <path d="M430 200 L470 240 L450 240 L450 280 L410 280 L410 240 L390 240 Z" fill="#48C774" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" transform="rotate(45 430 240)" />
+</g>
+  </svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,98.714) scale(0.8072)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(9.000 -19.000)">
+  
+  <line x1="430" y1="90" x2="290" y2="245" stroke="#1a1a1a" stroke-width="9" stroke-linecap="round" />
+  
+  <line x1="395" y1="90" x2="455" y2="90" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <line x1="395" y1="90" x2="455" y2="90" stroke="#1a1a1a" stroke-width="10" stroke-linecap="round" />
+  
+  <rect x="115" y="245" width="240" height="70" rx="6" fill="#dd8822" stroke="#1a1a1a" stroke-width="7" />
+  
+  <rect x="180" y="195" width="110" height="55" rx="6" fill="#444444" stroke="#1a1a1a" stroke-width="7" />
+  <line x1="195" y1="210" x2="275" y2="210" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="195" y1="225" x2="275" y2="225" stroke="#1a1a1a" stroke-width="3" />
+  <line x1="195" y1="240" x2="275" y2="240" stroke="#1a1a1a" stroke-width="3" />
+  
+  <circle cx="100" cy="335" r="22" fill="#222222" stroke="#1a1a1a" stroke-width="6" />
+  <circle cx="100" cy="335" r="9" fill="#aaaaaa" stroke="#1a1a1a" stroke-width="3" />
+  <circle cx="370" cy="335" r="22" fill="#222222" stroke="#1a1a1a" stroke-width="6" />
+  <circle cx="370" cy="335" r="9" fill="#aaaaaa" stroke="#1a1a1a" stroke-width="3" />
+  
+  <rect x="125" y="315" width="220" height="36" rx="10" fill="#888888" stroke="#1a1a1a" stroke-width="6" />
+  
+  <path d="M135 348 Q132 380 130 410" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M150 350 Q148 382 146 412" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M165 351 Q164 384 163 414" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M180 351 Q180 385 180 415" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M195 351 Q196 385 197 415" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M210 351 Q212 386 214 415" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M225 351 Q228 386 231 415" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M240 351 Q244 386 248 415" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M255 351 Q260 385 265 414" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M270 351 Q276 384 282 413" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M285 351 Q292 383 299 412" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M300 350 Q308 381 316 410" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M315 349 Q324 379 333 408" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  <path d="M330 348 Q340 378 350 408" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
+  
+  <path d="M70 440 Q75 425 82 442 Q88 422 95 442 Q102 425 108 444 Z" fill="#996633" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M380 440 Q385 425 392 442 Q398 422 405 442 Q412 425 418 444 Z" fill="#996633" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M40 458 Q45 445 52 460 Q58 442 65 460 Z" fill="#aa7744" stroke="#1a1a1a" stroke-width="3" />
+  <path d="M430 458 Q435 445 442 460 Q448 442 455 460 Z" fill="#aa7744" stroke="#1a1a1a" stroke-width="3" />
+  
+  <path d="M30 480 L40 470 M150 478 L150 466 M200 480 L200 466 M250 480 L252 466 M300 480 L300 466 M460 480 L460 466" stroke="#1a1a1a" stroke-width="4" />
+  <path d="M20 485 L500 485" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" />
+</g>
+  </g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl1867" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl1867)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

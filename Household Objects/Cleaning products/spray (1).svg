@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(256,256) scale(1.1687) translate(-312,-234)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(1.500 -43.750)">
+<rect x="160" y="240" width="180" height="220" rx="20" fill="#5db4ff" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="180" y="290" width="140" height="80" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+<text x="250" y="345" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#1a1a1a">H2O</text>
+<rect x="200" y="180" width="100" height="60" rx="8" fill="#3a8ecf" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="280" y="140" width="60" height="50" rx="6" fill="#3a8ecf" stroke="#1a1a1a" stroke-width="5.0000" />
+<rect x="320" y="155" width="30" height="20" fill="#3a8ecf" stroke="#1a1a1a" stroke-width="5" />
+<circle cx="380" cy="130" r="8" fill="#7ec8ff" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="410" cy="110" r="6" fill="#7ec8ff" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="430" cy="140" r="7" fill="#7ec8ff" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="395" cy="160" r="5" fill="#7ec8ff" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="440" cy="100" r="5" fill="#7ec8ff" stroke="#1a1a1a" stroke-width="3" />
+<circle cx="460" cy="125" r="4" fill="#7ec8ff" stroke="#1a1a1a" stroke-width="3" />
+</g>
+  </g></svg>

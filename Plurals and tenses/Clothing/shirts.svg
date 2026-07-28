@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,10.957) scale(0.9786)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  
+  
+  <path d="M120 160            L196 110            L210 150            Q256 178 302 150            L316 110            L392 160            L432 240            L370 264            L370 440            L142 440            L142 264            L80 240 Z" fill="#22C55E" stroke="#1a1a1a" stroke-width="6" />
+  
+  <path d="M210 150 Q256 188 302 150 Q286 168 256 168 Q226 168 210 150 Z" fill="#0F172A" />
+  
+  <path d="M142 264 L172 248" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  <path d="M370 264 L340 248" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
+  
+  <rect x="290" y="220" width="60" height="64" fill="#16A34A" stroke="#1a1a1a" stroke-width="5" />
+  <path d="M290 240 L350 240" stroke="#1a1a1a" stroke-width="4" />
+  
+  <path d="M150 360 L362 360" stroke="#1a1a1a" stroke-width="5.0000" />
+  <path d="M150 360 L362 360" stroke="#1a1a1a" stroke-width="4" />
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl757" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl757)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

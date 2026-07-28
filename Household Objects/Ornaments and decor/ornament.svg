@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <g transform="translate(0.250 -38.000)">
+  <defs>
+    <linearGradient id="gBauble" x1="20%" y1="0%" x2="80%" y2="100%">
+      <stop offset="0%" stop-color="#ef5a5a" />
+      <stop offset="100%" stop-color="#a01818" />
+    </linearGradient>
+    <linearGradient id="gCap" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f8e87a" />
+      <stop offset="100%" stop-color="#b08010" />
+    </linearGradient>
+    <radialGradient id="gGloss" cx="35%" cy="30%" r="45%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  
+  <path d="M256,108 Q256,72 280,60 Q304,48 308,72" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <rect x="232" y="100" width="48" height="32" rx="10" fill="url(#gCap)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  <rect x="238" y="104" width="20" height="24" rx="5" fill="#e0a417" opacity="0.4" />
+  
+  <circle cx="256" cy="310" r="182" fill="url(#gBauble)" stroke="#1a1a1a" stroke-width="5.0000" />
+  
+  <path d="M380,200 Q440,280 420,390 Q400,460 310,490 Q390,470 410,370 Q430,270 370,185 Z" fill="#700000" opacity="0.28" />
+  
+  <path d="M100,260 Q256,220 412,260" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  <path d="M100,260 Q256,220 412,260" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" opacity="0.0" />
+  <path d="M104,272 Q256,232 408,272" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
+  
+  <ellipse cx="196" cy="210" rx="72" ry="52" fill="url(#gGloss)" />
+  
+  <circle cx="340" cy="370" r="8" fill="#f8c531" opacity="0.7" />
+  <circle cx="310" cy="420" r="6" fill="#f8c531" opacity="0.5" />
+  <circle cx="170" cy="350" r="5" fill="#ffffff" opacity="0.4" />
+</g>
+  </svg>

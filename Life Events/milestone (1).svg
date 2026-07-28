@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+  <defs>
+    <linearGradient id="gTrack" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#aeb4bd" /><stop offset="100%" stop-color="#6f757e" /></linearGradient>
+    <linearGradient id="gFlag" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f8c531" /><stop offset="100%" stop-color="#d96a12" /></linearGradient>
+    <linearGradient id="gDiamond" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#f8c531" /><stop offset="100%" stop-color="#e0a417" /></linearGradient>
+  </defs>
+
+  
+  <rect x="52" y="318" width="408" height="28" rx="14" fill="url(#gTrack)" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" />
+  
+  <rect x="52" y="318" width="248" height="28" rx="14" fill="#3f8fd6" stroke="#1a1a1a" stroke-width="8" stroke-linejoin="round" />
+  <path d="M52 318 Q120 306 300 318 L300 330 Q180 342 52 346Z" fill="#ffffff" opacity="0.18" />
+
+  
+  
+
+  
+  <circle cx="132" cy="332" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+  <circle cx="210" cy="332" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="5" />
+
+  
+  <polygon points="300,268 344,332 300,396 256,332" fill="url(#gDiamond)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
+  
+  <polygon points="300,332 344,332 300,396 256,332" fill="#b87a00" opacity="0.35" />
+  
+  <polygon points="272,300 300,268 328,300 300,288" fill="#ffffff" opacity="0.38" />
+  
+  <line x1="300" y1="296" x2="300" y2="368" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.3" />
+  <line x1="268" y1="332" x2="332" y2="332" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" opacity="0.3" />
+
+  
+  <line x1="300" y1="140" x2="300" y2="272" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" />
+
+  
+  <path d="M300,140 L420,160 L300,198Z" fill="url(#gFlag)" stroke="#1a1a1a" stroke-width="7" stroke-linejoin="round" />
+  
+  <path d="M300,170 L420,160 L300,198Z" fill="#b87a00" opacity="0.35" />
+  
+  <path d="M310,145 Q360,152 390,162 Q360,155 310,158Z" fill="#ffffff" opacity="0.35" />
+
+  
+  <rect x="218" y="402" width="164" height="38" rx="10" fill="#2b2622" />
+  <rect x="222" y="406" width="156" height="30" rx="8" fill="#f8c531" />
+  <rect x="234" y="413" width="82" height="10" rx="5" fill="#2b2622" opacity="0.5" />
+  <rect x="244" y="427" width="62" height="8" rx="4" fill="#2b2622" opacity="0.3" />
+
+  
+  <path d="M126 330 L131 336 L140 323" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M204 330 L209 336 L218 323" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+
+  
+  <circle cx="388" cy="332" r="10" fill="#aeb4bd" stroke="#1a1a1a" stroke-width="5" />
+</svg>

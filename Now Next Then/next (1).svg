@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <title>next</title>
-  <rect x="60" y="160" width="392" height="192" rx="30" fill="#1d9bf0" stroke="#1a1a1a" stroke-width="5.0000" />
-  <path d="M 100 220 L 220 220 L 220 190 L 290 256 L 220 322 L 220 292 L 100 292 Z" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
-  <text x="370" y="278" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="56" font-weight="900" text-anchor="middle" fill="#ffffff">NEXT</text>
-  <text x="370" y="278" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="56" font-weight="900" text-anchor="middle" fill="none" stroke="#1a1a1a" stroke-width="3">NEXT</text>
-  <path d="M 80 100 L 90 110 M 430 100 L 420 110 M 440 410 L 430 400 M 90 410 L 80 400" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
-</svg>

@@ -1,48 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <g transform="translate(0.250 -3.750)">
-  
-  
-  <g stroke="#1a1a1a" stroke-width="4">
-    <path d="M256 280 L96 140 A180 180 0 0 1 156 96 Z" fill="#d97706" />
-    <path d="M256 280 L156 96 A180 180 0 0 1 226 72 Z" fill="#f59e0b" />
-    <path d="M256 280 L226 72 A180 180 0 0 1 286 72 Z" fill="#dc2626" />
-    <path d="M256 280 L286 72 A180 180 0 0 1 356 96 Z" fill="#b91c1c" />
-    <path d="M256 280 L356 96 A180 180 0 0 1 416 140 Z" fill="#a16207" />
-  </g>
-  
-  <g fill="#fde68a" stroke="#1a1a1a" stroke-width="3">
-    <circle cx="120" cy="120" r="14" />
-    <circle cx="184" cy="92" r="14" />
-    <circle cx="256" cy="82" r="14" />
-    <circle cx="328" cy="92" r="14" />
-    <circle cx="392" cy="120" r="14" />
-  </g>
-  
-  <ellipse cx="256" cy="340" rx="120" ry="110" fill="#7c2d12" stroke="#1a1a1a" stroke-width="5" />
-  
-  <ellipse cx="256" cy="380" rx="78" ry="64" fill="#a16207" stroke="#1a1a1a" stroke-width="4" />
-  
-  <circle cx="256" cy="240" r="58" fill="#92400e" stroke="#1a1a1a" stroke-width="5" />
-  
-  <circle cx="238" cy="232" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
-  <circle cx="274" cy="232" r="10" fill="#ffffff" stroke="#1a1a1a" stroke-width="3" />
-  <circle cx="238" cy="234" r="5" fill="#1f1f1f" />
-  <circle cx="274" cy="234" r="5" fill="#1f1f1f" />
-  
-  <path d="M242 252 L270 252 L256 274 Z" fill="#fbbf24" stroke="#1a1a1a" stroke-width="4" />
-  
-  <path d="M256 254 q-10 24 -22 26" fill="none" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
-  
-  <path d="M242 282 q14 22 28 0" fill="#dc2626" stroke="#1a1a1a" stroke-width="4" />
-  
-  <path d="M180 320 q40 -36 90 -8 q-20 60 -80 50 Z" fill="#92400e" stroke="#1a1a1a" stroke-width="4" />
-  
-  <line x1="226" y1="442" x2="226" y2="478" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
-  <line x1="286" y1="442" x2="286" y2="478" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
-  
-  <g stroke="#1a1a1a" stroke-width="4" fill="#fbbf24">
-    <path d="M210 478 L242 478 L226 488 Z" />
-    <path d="M270 478 L302 478 L286 488 Z" />
-  </g>
-</g>
-  </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none"><!-- Icon: Microsoft Fluent Emoji, MIT Licence. Rescaled + outline-adjusted for AAC use. --><g transform="translate(40,40) scale(13.5)"><path d="M11.79 29L12.3906 24.6875H14.0313L13.3844 29H15.7743L16.375 24.6875H18.0156L17.3688 29H18.9063C19.2945 29 19.8513 29.2183 19.9856 29.7446C20.0198 29.8784 19.9037 29.9922 19.7656 29.9922H8.26564C8.12757 29.9922 8.01228 29.8792 8.03715 29.7434C8.11282 29.33 8.39806 29 9.04689 29H11.79Z" fill="#9b9b9b" stroke="#000000" stroke-width="0.70" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+<path d="M27.7031 2H28.2969C29.2375 2 30 2.76252 30 3.70312C30 4.44804 29.5218 5.08126 28.8556 5.3125C29.5218 5.54374 30 6.17696 30 6.92188C30 7.86248 29.2375 8.625 28.2969 8.625C29.2375 8.625 30 9.38752 30 10.3281C30 11.0345 29.5699 11.6405 28.9574 11.8984C29.5699 12.1564 30 12.7624 30 13.4688C30 14.2721 29.4437 14.9456 28.6954 15.125C29.4437 15.3044 30 15.9779 30 16.7812C30 17.5347 29.5107 18.1739 28.8325 18.3984C29.5107 18.6229 30 19.2621 30 20.0156C30 20.9562 29.2375 21.7188 28.2969 21.7188H28.3594C29.2655 21.7188 30 22.4533 30 23.3594C30 24.2655 29.2655 25 28.3594 25H24.2188V21.7188H27.2812V5.21875H27.7031V2Z" fill="#e8ad6c" stroke="#000000" stroke-width="0.70" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+<path d="M2.03125 14.5938V18.5H5.29688L8.23438 9.21875C8.75 7.82812 9.29688 5.01562 6.625 5.01562C4.34375 5.01562 4.84896 7.83333 5.39062 9.21875C5.84375 10.375 5.875 11.8594 4.625 12.0156C2.51641 12.2792 2.04167 13.7292 2.03125 14.5938Z" fill="#e51c8b" stroke="#000000" stroke-width="0.70" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+<path d="M2.88013 7.14459L4.49999 5.95312V8.76562L2.878 7.54578C2.74413 7.4451 2.7452 7.24384 2.88013 7.14459Z" fill="#ebbc4a" stroke="#000000" stroke-width="0.70" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+<path d="M4.29688 6.07812C4.29688 5.80198 4.52073 5.57812 4.79688 5.57812C5.07302 5.57812 5.29688 5.80198 5.29688 6.07812V9.5C5.29688 9.77614 5.07302 10 4.79688 10C4.52073 10 4.29688 9.77614 4.29688 9.5V6.07812Z" fill="#f478c4" stroke="#000000" stroke-width="0.70" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+<path d="M7.03125 6.52344C7.03125 6.79958 6.80739 7.02344 6.53125 7.02344C6.25511 7.02344 6.03125 6.79958 6.03125 6.52344C6.03125 6.2473 6.25511 6.02344 6.53125 6.02344C6.80739 6.02344 7.03125 6.2473 7.03125 6.52344Z" fill="#1c1c1c" stroke="#000000" stroke-width="0.70" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+<path d="M8.09114 25C6.03983 24.8535 2 23.5714 2 18.0769C2 15.0036 4.35482 13.3359 6.66255 12.1429C7.35567 11.7845 7.53038 11.578 7.68297 11.1538C8.54371 8.76104 11.6705 5 17.0395 5C18.125 5 19.1374 5.18643 20.0732 5.5175C20.4056 4.28614 21.7863 3.34433 22.4579 2.90872C23.5947 2.17145 25.6075 1.99995 28 2V18.0722C28 18.0786 28 18.085 28 18.0914V19.2657C28 20.0876 27.9206 21.0359 27.7085 21.9218C27.4072 23.3389 26.7988 24.5201 25.5754 24.8841C25.3406 24.9594 25.0848 25 24.8063 25L8.09114 25Z" fill="#694738" stroke="#000000" stroke-width="0.70" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+<path d="M21.8524 16.5635C23.5789 18.143 25.4061 19.8658 26.5054 20.9238C27.7112 22.1278 27.378 23.2936 27.0728 23.7724C26.5211 24.6381 25.5596 25 25.1183 25H16.1966C15.9542 25 15.7069 24.9956 15.4564 24.9854L21.8524 16.5635Z" fill="#c88849" stroke="#000000" stroke-width="0.70" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" />
+<path d="M21.8525 16.5634C20.831 15.6289 19.8447 14.7444 19.0654 14.0775C17.0615 12.3625 15.0144 12 14.0844 12C9.41864 12 8 16.3753 8 17.9491C8 23.6256 12.0251 24.8456 15.4564 24.9854C19.1097 24.7502 22 21.7126 22 18C22 17.5076 21.9492 17.0271 21.8525 16.5634Z" fill="#9f6c59" stroke="#000000" stroke-width="0.70" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill" /></g></svg>

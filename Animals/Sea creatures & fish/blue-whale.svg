@@ -1,24 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(256,256) scale(1) translate(-267,-325)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <defs>
-    <linearGradient id="blw" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#7d99b4" /><stop offset="55%" stop-color="#5a7892" /><stop offset="100%" stop-color="#445e74" /></linearGradient>
-  </defs>
-  
-  <path d="M418 286 Q470 252 506 244 Q510 256 504 268 Q484 282 462 292 Q484 302 504 318 Q510 330 504 342 Q470 332 418 304 Z" fill="url(#blw)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
-  
-  <path d="M30 300 Q26 276 56 264 Q92 252 150 254 Q240 256 330 268 Q400 278 436 296 Q444 300 436 308 Q400 326 330 334 Q240 344 150 344 Q92 344 56 334 Q28 324 30 300 Z" fill="url(#blw)" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
-  
-  <g fill="#3f5870" opacity="0.5"><ellipse cx="110" cy="282" rx="14" ry="7" /><ellipse cx="170" cy="276" rx="16" ry="8" /><ellipse cx="232" cy="278" rx="16" ry="8" /><ellipse cx="294" cy="284" rx="15" ry="7" /><ellipse cx="150" cy="306" rx="13" ry="6" /><ellipse cx="214" cy="308" rx="14" ry="6" /><ellipse cx="278" cy="308" rx="13" ry="6" /><ellipse cx="338" cy="298" rx="12" ry="6" /></g>
-  
-  <path d="M44 280 Q70 270 104 272" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
-  
-  <path d="M362 268 Q372 244 388 240 Q394 252 390 268 Q378 266 362 268 Z" fill="url(#blw)" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
-  
-  <path d="M150 332 Q150 380 178 408 Q192 418 202 404 Q196 372 176 340 Z" fill="#4d6880" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
-  
-  <path d="M56 318 Q120 338 210 338 M58 328 Q122 346 210 346" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" opacity="0.6" />
-  
-  <path d="M34 308 Q70 320 120 320" fill="none" stroke="#1a1a1a" stroke-width="4" stroke-linecap="round" />
-  <ellipse cx="86" cy="292" rx="7" ry="7" fill="#1a1f24" stroke="#1a1a1a" stroke-width="3" />
-  <circle cx="83.5" cy="289.5" r="2.2" fill="#ffffff" />
-  
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 44.00) scale(3.3125)"><g transform="scale(0.888889)">
+<path d="M138 126C138 129.318 135.318 132 132 132H108C104.682 132 102 129.318 102 126C102 118.188 107.034 111.588 114 109.104V108C114 98.076 105.924 90 96 90C86.916 90 78.21 90 78 90C70.518 90 62.22 89.85 54 88.578V108C45.048 108 36.624 98.124 36.102 83.442C19.812 75.954 6.918 59.952 6.198 25.782C6.174 24.774 6 21.582 6 21C6 16.032 10.032 12 15 12C16.56 12 18.012 12.432 19.29 13.134C19.752 13.386 111.384 74.382 111.384 74.382C126.138 83.418 126.642 93.342 126.246 109.182C133.092 111.738 138 118.278 138 126Z" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path opacity="0.4" d="M94.128 90C85.044 90 78.21 90 78 90C70.518 90 62.22 89.85 54 88.578C54 88.578 43.122 86.622 36.102 83.442C19.914 76.002 7.044 60.696 6.198 25.782L94.128 90Z" fill="white" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+<path opacity="0.3" d="M36.102 83.442C43.128 86.628 54 88.578 54 88.578V108C45.048 108 36.624 98.124 36.102 83.442ZM7.86 15.576C6.708 17.088 6 18.954 6 21C6 21.582 6.066 22.146 6.174 22.698C6.174 22.704 6.168 22.71 6.168 22.716C6.168 23.73 6.18 24.798 6.198 25.782L32.838 45.126L38.172 37.878L7.86 15.576ZM138 126C138 129.318 135.318 132 132 132H108C104.682 132 102 129.318 102 126C102 118.188 107.034 111.588 114 109.104L126.252 109.182C133.092 111.738 138 118.278 138 126Z" fill="#000000" stroke="#1a1a1a" stroke-width="1.96" stroke-linejoin="round" stroke-linecap="round" paint-order="stroke fill"/>
+</g></g></svg>

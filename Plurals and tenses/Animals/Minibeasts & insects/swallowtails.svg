@@ -1,27 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,65.843) scale(0.8714)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <g transform="translate(-49.133 -75.978) scale(1.1931)">
-  <defs>
-    <linearGradient id="swt" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#f6d23e" /><stop offset="100%" stop-color="#e8b21c" /></linearGradient>
-  </defs>
-  <path d="M256 196 Q302 144 376 144 Q418 150 420 196 Q416 240 340 256 Q286 254 256 232 Z" fill="url(#swt)" stroke="#1a1a1a" stroke-width="4.1908" stroke-linejoin="round" />
-  <path d="M256 196 Q210 144 136 144 Q94 150 92 196 Q96 240 172 256 Q226 254 256 232 Z" fill="url(#swt)" stroke="#1a1a1a" stroke-width="4.1908" stroke-linejoin="round" />
-  <path d="M256 244 Q322 252 360 292 Q374 318 360 342 L388 408 Q376 420 360 410 L346 350 Q320 380 296 378 Q266 364 256 316 Z" fill="url(#swt)" stroke="#1a1a1a" stroke-width="4.1908" stroke-linejoin="round" />
-  <path d="M256 244 Q190 252 152 292 Q138 318 152 342 L124 408 Q136 420 152 410 L166 350 Q192 380 216 378 Q246 364 256 316 Z" fill="url(#swt)" stroke="#1a1a1a" stroke-width="4.1908" stroke-linejoin="round" />
-  <g fill="#2b2622">
-    <path d="M300 160 Q296 210 304 250 L322 248 Q314 206 320 158 Z" />
-    <path d="M344 158 Q342 206 352 246 L368 240 Q360 200 364 160 Z" />
-    <path d="M384 168 Q386 200 394 226 L404 214 Q398 192 400 176 Z" />
-    <path d="M212 160 Q216 210 208 250 L190 248 Q198 206 192 158 Z" />
-    <path d="M168 158 Q170 206 160 246 L144 240 Q152 200 148 160 Z" />
-    <path d="M128 168 Q126 200 118 226 L108 214 Q114 192 112 176 Z" />
-  </g>
-  <path d="M300 260 Q306 300 332 330 L350 322 Q326 292 322 258 Z M212 260 Q206 300 180 330 L162 322 Q186 292 190 258 Z" fill="#2b2622" />
-  <g><circle cx="300" cy="352" r="11" fill="#d8392a" stroke="#1a1a1a" stroke-width="4" /><circle cx="212" cy="352" r="11" fill="#d8392a" stroke="#1a1a1a" stroke-width="4" /></g>
-  <g fill="#3a6fb0"><ellipse cx="330" cy="338" rx="9" ry="7" /><ellipse cx="356" cy="330" rx="8" ry="6" /><ellipse cx="182" cy="338" rx="9" ry="7" /><ellipse cx="156" cy="330" rx="8" ry="6" /></g>
-  <ellipse cx="256" cy="286" rx="15" ry="88" fill="#2b2622" />
-  <circle cx="256" cy="184" r="18" fill="#2b2622" />
-  <path d="M250 170 Q240 124 216 108 M262 170 Q272 124 296 108" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
-  <circle cx="214" cy="106" r="7" fill="#2b2622" />
-  <circle cx="298" cy="106" r="7" fill="#2b2622" />
-</g>
-  </g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl255" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl255)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,16.538) scale(0.9677)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- swallowtail butterfly: large wings, hind-wing tails, bold black/yellow pattern -->
+  <!-- Left hindwing (back layer) with tail -->
+  <path d="M145 130 Q95 145 55 175 Q35 195 45 215 Q55 225 75 210 Q100 190 120 175 Q138 160 145 148" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left hindwing tail extension -->
+  <path d="M75 210 Q68 225 62 232 Q58 238 65 236 Q72 234 78 222 Q82 214 75 210" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right hindwing with tail -->
+  <path d="M145 130 Q195 145 235 175 Q255 195 245 215 Q235 225 215 210 Q190 190 170 175 Q152 160 145 148" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right hindwing tail -->
+  <path d="M215 210 Q222 225 228 232 Q232 238 225 236 Q218 234 212 222 Q208 214 215 210" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Left forewing -->
+  <path d="M145 125 Q120 80 85 55 Q60 38 40 50 Q28 62 38 85 Q52 112 90 128 Q118 138 145 132" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right forewing -->
+  <path d="M145 125 Q170 80 205 55 Q230 38 250 50 Q262 62 252 85 Q238 112 200 128 Q172 138 145 132" fill="#f2e40d" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Bold black forewing markings - left -->
+  <path d="M40 50 Q60 40 85 55 Q100 64 112 80" fill="none" stroke="#1a1a1a" stroke-width="17.77" stroke-linecap="round"/>
+  <path d="M38 85 Q52 112 90 128" fill="none" stroke="#1a1a1a" stroke-width="14.81" stroke-linecap="round"/>
+  <!-- Black band along leading edge left forewing -->
+  <path d="M40 52 Q65 38 88 56 Q102 66 118 84 Q130 100 138 120" fill="#000000" stroke="none"/>
+  <path d="M40 52 Q65 38 88 56 Q102 66 118 84 Q130 100 138 120 Q128 108 112 90 Q96 72 76 58 Q58 46 40 52" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Black band along leading edge right forewing -->
+  <path d="M250 52 Q225 38 202 56 Q188 66 172 84 Q160 100 152 120 Q162 108 178 90 Q194 72 214 58 Q232 46 250 52" fill="#000000" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Yellow spots in black band left -->
+  <circle cx="72" cy="50" r="6" fill="#f2e40d"/>
+  <circle cx="88" cy="44" r="5" fill="#f2e40d"/>
+  <circle cx="104" cy="52" r="6" fill="#f2e40d"/>
+  <!-- Yellow spots in black band right -->
+  <circle cx="218" cy="50" r="6" fill="#f2e40d"/>
+  <circle cx="202" cy="44" r="5" fill="#f2e40d"/>
+  <circle cx="186" cy="52" r="6" fill="#f2e40d"/>
+  <!-- Hindwing blue spots row left -->
+  <ellipse cx="72" cy="188" rx="9" ry="7" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="92" cy="198" rx="8" ry="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="112" cy="200" rx="7" ry="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Hindwing blue spots row right -->
+  <ellipse cx="218" cy="188" rx="9" ry="7" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="198" cy="198" rx="8" ry="6" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <ellipse cx="178" cy="200" rx="7" ry="5" fill="#2a4ec0" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Red eyespot on hindwing tails -->
+  <circle cx="68" cy="218" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <circle cx="222" cy="218" r="7" fill="#f8130d" stroke="#1a1a1a" stroke-width="4.45"/>
+  <!-- Body -->
+  <ellipse cx="145" cy="130" rx="7" ry="55" fill="#000000" stroke="#1a1a1a" stroke-width="5.93" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Head -->
+  <circle cx="145" cy="72" r="8" fill="#000000" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Antennae -->
+  <path d="M145 64 Q132 45 124 30" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="124" cy="30" r="5" fill="#000000"/>
+  <path d="M145 64 Q158 45 166 30" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
+  <circle cx="166" cy="30" r="5" fill="#000000"/>
+</g></g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg501" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg501)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

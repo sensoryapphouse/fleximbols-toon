@@ -23,4 +23,4 @@
   <ellipse cx="156" cy="163" rx="6" ry="5" fill="#7d5e23"/>
   <!-- Smile -->
   <path d="M120 180 Q145 196 170 180" fill="none" stroke="#1a1a1a" stroke-width="4.45" stroke-linecap="round"/>
-</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl311" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl311)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg170" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg170)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>

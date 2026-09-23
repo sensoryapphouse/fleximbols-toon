@@ -1,26 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <defs>
-    <linearGradient id="lby" x1="0%" y1="0%" x2="0%" y2="100%"><stop offset="0%" stop-color="#e8473a" /><stop offset="100%" stop-color="#c52a20" /></linearGradient>
-  </defs>
-  <g stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" fill="none">
-    <path d="M124 256 Q92 246 70 226 M118 300 Q84 300 60 308 M124 350 Q94 366 74 392 M388 256 Q420 246 442 226 M394 300 Q428 300 452 308 M388 350 Q418 366 438 392" />
-  </g>
-  <ellipse cx="256" cy="288" rx="156" ry="160" fill="url(#lby)" stroke="#1a1a1a" stroke-width="5.0000" />
-  <path d="M256 150 Q256 300 256 444" stroke="#1a1a1a" stroke-width="7" fill="none" />
-  <path d="M150 168 Q256 138 362 168 Q360 200 340 214 Q256 196 172 214 Q152 200 150 168 Z" fill="#1c1814" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
-  <path d="M210 142 Q256 116 302 142 Q300 168 278 178 Q256 172 234 178 Q212 168 210 142 Z" fill="#1c1814" stroke="#1a1a1a" stroke-width="6" stroke-linejoin="round" />
-  <circle cx="238" cy="150" r="7" fill="#f4f4f0" />
-  <circle cx="274" cy="150" r="7" fill="#f4f4f0" />
-  <path d="M228 124 Q214 104 196 96 M284 124 Q298 104 316 96" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
-  <circle cx="194" cy="94" r="6" fill="#1c1814" />
-  <circle cx="318" cy="94" r="6" fill="#1c1814" />
-  <g fill="#1c1814">
-    <circle cx="256" cy="232" r="17" />
-    <circle cx="198" cy="280" r="20" />
-    <circle cx="314" cy="280" r="20" />
-    <circle cx="206" cy="368" r="18" />
-    <circle cx="306" cy="368" r="18" />
-    <circle cx="256" cy="408" r="15" />
-  </g>
-  
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><g data-fit="1" transform="translate(256 256) scale(1.4169) translate(-248.00 -283.00)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
+<g transform="translate(96,40) scale(0.95)"><g stroke="#1a1a1a" stroke-width="6" stroke-linecap="round" fill="none"><path d="M70 200 L20 170"/><path d="M64 260 L10 260"/><path d="M70 320 L20 350"/><path d="M250 200 L300 170"/><path d="M256 260 L310 260"/><path d="M250 320 L300 350"/></g><ellipse cx="160" cy="150" rx="48" ry="36" fill="#2f2f2f" stroke="#1a1a1a" stroke-width="6"/><circle cx="142" cy="138" r="8" fill="#fff"/><circle cx="178" cy="138" r="8" fill="#fff"/><path d="M132 122 Q118 96 100 92" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/><path d="M188 122 Q202 96 220 92" fill="none" stroke="#1a1a1a" stroke-width="6" stroke-linecap="round"/><ellipse cx="160" cy="300" rx="110" ry="120" fill="#e53935" stroke="#1a1a1a" stroke-width="6"/><path d="M160 185 L160 420" stroke="#1a1a1a" stroke-width="6"/><circle cx="110" cy="250" r="20" fill="#1a1a1a"/><circle cx="210" cy="250" r="20" fill="#1a1a1a"/><circle cx="100" cy="330" r="18" fill="#1a1a1a"/><circle cx="220" cy="330" r="18" fill="#1a1a1a"/><circle cx="135" cy="385" r="15" fill="#1a1a1a"/><circle cx="185" cy="385" r="15" fill="#1a1a1a"/></g>
+</g></svg>

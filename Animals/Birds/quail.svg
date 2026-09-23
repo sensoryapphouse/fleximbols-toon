@@ -1,46 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <g transform="translate(-15.500 -28.000)">
-<title>quail</title>
-
-<line x1="40" y1="420" x2="472" y2="420" stroke="#1a1a1a" stroke-width="5" />
-<path d="M40 420 Q 100 430 160 420 Q 220 430 280 420 Q 340 430 400 420 Q 440 430 472 420" fill="none" stroke="#1a1a1a" stroke-width="4" />
-
-<ellipse cx="260" cy="290" rx="160" ry="120" fill="#B07A52" stroke="#1a1a1a" stroke-width="5" />
-
-<path d="M150 280 Q 190 370 290 380 Q 300 320 270 270 Z" fill="#D7A974" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
-
-<path d="M270 230 Q 360 220 400 290 Q 360 360 280 340 Z" fill="#8B5A3C" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
-
-<path d="M290 250 Q 320 270 320 320" fill="none" stroke="#1a1a1a" stroke-width="3" />
-<path d="M320 240 Q 350 270 350 320" fill="none" stroke="#1a1a1a" stroke-width="3" />
-<path d="M350 250 Q 375 280 370 320" fill="none" stroke="#1a1a1a" stroke-width="3" />
-
-<circle cx="200" cy="320" r="6" fill="#5D4037" />
-<circle cx="225" cy="350" r="5" fill="#5D4037" />
-<circle cx="170" cy="340" r="5" fill="#5D4037" />
-<circle cx="250" cy="335" r="6" fill="#5D4037" />
-
-<circle cx="140" cy="220" r="62" fill="#B07A52" stroke="#1a1a1a" stroke-width="5" />
-
-<path d="M100 215 Q 130 230 175 215" fill="none" stroke="#1a1a1a" stroke-width="8" stroke-linecap="round" />
-<path d="M100 215 Q 130 230 175 215" fill="none" stroke="#1a1a1a" stroke-width="3" stroke-linecap="round" />
-
-<circle cx="120" cy="200" r="9" fill="#1A1A1A" />
-<circle cx="123" cy="197" r="3" fill="#FFFFFF" />
-
-<polygon points="78,220 100,210 100,232" fill="#F39C12" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round" />
-
-<path d="M140 158 Q 130 110 100 90 Q 115 130 120 160 M 140 158 Q 152 115 175 95" fill="none" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
-<circle cx="100" cy="90" r="8" fill="#1A1A1A" />
-
-<path d="M410 290 L470 260 L460 310 L470 340 L410 320 Z" fill="#8B5A3C" stroke="#1a1a1a" stroke-width="4" stroke-linejoin="round" />
-
-<line x1="220" y1="395" x2="220" y2="430" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
-<line x1="280" y1="395" x2="280" y2="430" stroke="#1a1a1a" stroke-width="5.0000" stroke-linecap="round" />
-<line x1="220" y1="430" x2="210" y2="438" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
-<line x1="220" y1="430" x2="230" y2="438" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
-<line x1="280" y1="430" x2="270" y2="438" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
-<line x1="280" y1="430" x2="290" y2="438" stroke="#1a1a1a" stroke-width="5" stroke-linecap="round" />
-<text x="256" y="490" font-family="'Comic Sans MS', 'Chalkboard SE', 'Marker Felt', 'Century Gothic', Verdana, sans-serif" font-size="42" font-weight="900" fill="#1A1A1A" text-anchor="middle">QUAIL</text>
-</g>
-  </svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(0.7310)">
+  <metadata>
+    <mdcr:info xmlns:mdcr="http://sensory.com/mdcr">
+      <mdcr:source format="WMF" generator="wmf2svg.html"/>
+      <mdcr:bounds left="0" top="0" right="2900" bottom="2400" inch="1440"/>
+      <mdcr:records count="3">
+        <mdcr:record tag="MDCR-{"/>
+        <mdcr:record tag="MDCR-Vh" value="(c) Sensory Software Ltd and Claro Software Ltd"/>
+        <mdcr:record tag="MDCR-}"/>
+      </mdcr:records>
+    </mdcr:info>
+  </metadata>
+  <g data-mdcr="group" class="mdcr-region" data-mdcr-tag="MDCR-Vh" data-mdcr-value="(c) Sensory Software Ltd and Claro Software Ltd">
+    <polygon points="124,261 19,287 19,306 36,326 130,299 130,299 145,301 179,307 199,311 219,315 236,320 249,325 262,335 267,361 281,356 287,337 287,337 317,328 343,322 354,320 364,318 364,318 376,317 388,313 404,308 412,305 420,300 428,295 436,290 444,283 451,275 458,266 463,256 463,256 469,247 474,236 479,222 484,206 485,196 486,187 486,177 485,167 483,157 479,146 479,146 477,138 475,128 475,117 475,110 476,104 477,97 480,91 483,84 488,78 494,72 501,66 526,64 526,64 520,52 512,39 502,26 502,26 498,22 492,18 484,14 475,11 463,9 457,8 450,8 443,9 435,11 435,11 421,11 406,13 388,17 379,19 369,23 359,27 349,32 340,37 331,44 323,52 316,61 316,61 324,54 333,47 346,39 354,35 363,31 372,28 382,25 393,23 405,22 418,22 431,23 431,23 423,31 415,39 407,49 398,60 392,71 390,77 388,82 388,86 390,90 390,90 389,94 387,99 384,104 379,110 373,116 364,121 353,126 353,126 317,144 280,163 238,186 196,210 159,232 145,241 133,250 126,257 124,259 124,261 124,261" fill="#6b6c6f" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
+    <polyline points="187,265 187,265 194,268 202,270 213,272 226,273 240,272 248,271 256,269 264,266 272,263 250,284 250,284 257,285 265,284 274,284 285,282 295,279 305,274 310,271 314,268 300,294 300,294 312,291 324,286 339,279 347,275 354,269 361,263 368,256 374,249 379,240 382,230 384,220" fill="none" stroke="#1a1a1a" stroke-width="8.89"/>
+    <polygon points="462,42 462,42 463,40 464,39 466,37 470,36 474,35 480,37 487,40 487,40 485,42 479,46 475,47 471,47 466,46 462,42 462,42" fill="none" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
+    <polygon points="267,361 272,436 260,443 262,449 314,469 298,445 334,462 305,440 329,443 296,430 281,356 267,361" fill="#e4c09f" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
+    <polygon points="287,337 316,410 301,420 316,421 374,448 350,429 386,427 353,417 377,413 333,412 310,334 287,337" fill="#e4c09f" stroke="#1a1a1a" stroke-width="8.89" fill-rule="evenodd"/>
+  </g>
+</g></svg>

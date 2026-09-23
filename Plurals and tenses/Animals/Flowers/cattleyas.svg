@@ -1,33 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" data-copyright="© 2026 Sensory App House"><g transform="translate(0.000,39.373) scale(0.9231)"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata>
-  <g transform="translate(0.250 -38.250)">
-  
-  
-  <path d="M 256 490 Q 254 420 256 340" fill="none" stroke="#1a1a1a" stroke-width="7" stroke-linecap="round" />
-  
-  <g transform="translate(256 240)">
-    
-    <path d="M 0 -130 Q -50 -150 -75 -120 Q -90 -90 -70 -55 Q -90 -45 -75 -20 Q -45 -10 -10 -40 Q 0 -85 0 -130 Z M 0 -130 Q 50 -150 75 -120 Q 90 -90 70 -55 Q 90 -45 75 -20 Q 45 -10 10 -40 Q 0 -85 0 -130 Z" fill="#c374d8" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
-    
-    <path d="M -140 -20 Q -160 -55 -135 -85 Q -100 -100 -70 -70 Q -50 -50 -55 -25 Q -40 -5 -60 25 Q -100 35 -130 15 Q -155 0 -140 -20 Z" fill="#bf64d2" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
-    <path d="M 140 -20 Q 160 -55 135 -85 Q 100 -100 70 -70 Q 50 -50 55 -25 Q 40 -5 60 25 Q 100 35 130 15 Q 155 0 140 -20 Z" fill="#bf64d2" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
-    
-    <path d="M -90 60 Q -125 70 -120 105 Q -90 130 -55 115 Q -25 95 -30 70 Q -55 50 -90 60 Z" fill="#c374d8" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
-    <path d="M 90 60 Q 125 70 120 105 Q 90 130 55 115 Q 25 95 30 70 Q 55 50 90 60 Z" fill="#c374d8" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
-    
-    <path d="M -55 -10 Q -85 30 -75 70 Q -70 100 -50 115 Q -30 130 -10 125 Q -20 105 -10 80 Q 0 90 10 80 Q 20 105 10 125 Q 30 130 50 115 Q 70 100 75 70 Q 85 30 55 -10 Q 30 -35 0 -30 Q -30 -35 -55 -10 Z" fill="#7a1a82" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
-    
-    <path d="M -65 30 Q -55 22 -45 30 Q -35 22 -25 30 Q -15 22 -5 30 Q 5 22 15 30 Q 25 22 35 30 Q 45 22 55 30 Q 65 22 70 30" fill="none" stroke="#1a1a1a" stroke-width="4" />
-    
-    <path d="M -22 -10 Q -30 25 -15 45 Q 0 55 15 45 Q 30 25 22 -10 Q 0 -22 -22 -10 Z" fill="#fde08a" stroke="#1a1a1a" stroke-width="5" stroke-linejoin="round" />
-    <path d="M -10 5 Q 0 18 10 5" fill="none" stroke="#1a1a1a" stroke-width="3" />
-    <path d="M -8 25 Q 0 32 8 25" fill="none" stroke="#1a1a1a" stroke-width="3" />
-    
-    <ellipse cx="0" cy="-12" rx="9" ry="14" fill="#ffffff" stroke="#1a1a1a" stroke-width="4" />
-  </g>
-  
-  <path d="M 256 490 Q 195 460 175 400 Q 220 410 256 450 Z" fill="#2a8a3d" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
-  <path d="M 256 490 Q 317 460 337 400 Q 292 410 256 450 Z" fill="#2a8a3d" stroke="#1a1a1a" stroke-width="5.0000" stroke-linejoin="round" />
-  <ellipse cx="240" cy="430" rx="14" ry="22" fill="#5fa050" stroke="#1a1a1a" stroke-width="5" />
-  <ellipse cx="272" cy="435" rx="14" ry="22" fill="#5fa050" stroke="#1a1a1a" stroke-width="5" />
-</g>
-  </g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="pl132" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#pl132)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-copyright="© 2026 Sensory App House"><!--SAH-COPYRIGHT © 2026 Sensory App House. All rights reserved.--><metadata id="sah-copyright"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"><cc:Work rdf:about=""><dc:rights><cc:Agent><dc:title>© 2026 Sensory App House. All rights reserved.</dc:title></cc:Agent></dc:rights><dc:creator><cc:Agent><dc:title>Sensory App House (PiCom)</dc:title></cc:Agent></dc:creator><dc:date>2026</dc:date></cc:Work></rdf:RDF></metadata><g data-fit="1" transform="translate(44.00 80.55) scale(1.4621)">
+  <!-- Stem -->
+  <line x1="145" y1="218" x2="145" y2="165" stroke="#1a1a1a" stroke-width="7.40" stroke-linecap="round"/>
+  <!-- Pseudobulb -->
+  <ellipse cx="145" cy="175" rx="12" ry="18" fill="#529929" stroke="#1a1a1a" stroke-width="5.93"/>
+  <!-- Leaf -->
+  <path d="M145 162 Q118 155 105 140 Q108 128 122 132 Q136 140 145 158Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M145 162 Q172 155 185 140 Q182 128 168 132 Q154 140 145 158Z" fill="#529929" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Large showy ruffled petals (magenta/purple) - 3 petals wide/ruffled -->
+  <!-- Top petal - ruffled edges -->
+  <path d="M145 125 Q148 108 158 92 Q164 80 162 68 Q155 62 148 68 Q145 75 145 80 Q145 75 142 68 Q135 62 128 68 Q126 80 132 92 Q142 108 145 125Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Ruffled edge top petal -->
+  <path d="M158 92 Q165 88 168 80 Q163 78 158 85" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M132 92 Q125 88 122 80 Q127 78 132 85" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Left petal ruffled -->
+  <path d="M145 125 Q122 118 105 108 Q90 98 85 85 Q88 75 98 78 Q108 83 120 98 Q134 112 145 125Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M90 85 Q82 82 80 74 Q87 73 92 80" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M105 108 Q100 118 94 122 Q90 116 95 110" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Right petal ruffled -->
+  <path d="M145 125 Q168 118 185 108 Q200 98 205 85 Q202 75 192 78 Q182 83 170 98 Q156 112 145 125Z" fill="#7c3fac" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <path d="M200 85 Q208 82 210 74 Q203 73 198 80" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M185 108 Q190 118 196 122 Q200 116 195 110" fill="#7c3fac" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- 2 narrow sepals -->
+  <path d="M145 125 Q130 112 118 98 Q112 88 118 80 Q125 76 132 85 Q140 100 145 125Z" fill="#392170" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <path d="M145 125 Q160 112 172 98 Q178 88 172 80 Q165 76 158 85 Q150 100 145 125Z" fill="#392170" stroke="#1a1a1a" stroke-width="5.93" stroke-linejoin="round"/>
+  <!-- Big trumpet-frilled lip (magenta, prominent) -->
+  <path d="M145 125 Q132 130 124 142 Q120 155 125 165 Q132 172 145 170 Q158 172 165 165 Q170 155 166 142 Q158 130 145 125Z" fill="#f266aa" stroke="#1a1a1a" stroke-width="7.40" stroke-linejoin="round"/>
+  <!-- Lip frills -->
+  <path d="M124 142 Q118 138 115 130 Q120 127 126 135" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M166 142 Q172 138 175 130 Q170 127 164 135" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M125 165 Q118 168 116 176 Q122 178 128 170" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <path d="M165 165 Q172 168 174 176 Q168 178 162 170" fill="#f266aa" stroke="#1a1a1a" stroke-width="4.45" stroke-linejoin="round"/>
+  <!-- Lip center markings -->
+  <path d="M145 132 Q142 145 142 158" fill="none" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+  <path d="M145 132 Q148 145 148 158" fill="none" stroke="#7c3fac" stroke-width="4.45" stroke-linecap="round"/>
+  <!-- Column -->
+  <ellipse cx="145" cy="128" rx="9" ry="7" fill="#f7de58" stroke="#1a1a1a" stroke-width="4.45"/>
+</g><g transform="translate(360 8) scale(0.2812)"><defs><radialGradient id="plg89" cx="40%" cy="35%" r="65%"><stop offset="0%" stop-color="#7ed957"/><stop offset="100%" stop-color="#3aa324"/></radialGradient></defs><path d="M 256.0,56.0 L 281.0,212.7 L 429.2,156.0 L 306.0,256.0 L 429.2,356.0 L 281.0,299.3 L 256.0,456.0 L 231.0,299.3 L 82.8,356.0 L 206.0,256.0 L 82.8,156.0 L 231.0,212.7 Z" fill="url(#plg89)" stroke="#1a1a1a" stroke-width="14" stroke-linejoin="round"/></g></svg>
